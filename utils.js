@@ -33,10 +33,8 @@ const flattenBlock = (block, nodes) => {
     if (node.type === 'text') {
       const newBlock = {
         type: block.type,
-        content: {
-          text: `${block.content.text}${node.data}`,
-          spans: block.content.spans
-        }
+        text: `${block.text}${node.data}`,
+        spans: block.spans
       }
 
       return newBlock
@@ -51,20 +49,18 @@ const flattenBlock = (block, nodes) => {
 
       const fullText = reduceNodeChildrenToText(node.children)
       const span = {
-        start: block.content.text.length,
+        start: block.text.length,
         // This feels like it could live in this reduce function,
         // just not sure how
-        end: block.content.text.length + fullText.length,
+        end: block.text.length + fullText.length,
         type: prismicSpansMap[node.name],
         data: data
       }
 
       const newBlock = {
         type: block.type,
-        content: {
-          text: block.content.text,
-          spans: block.content.spans.concat([span])
-        }
+        text: block.text,
+        spans: block.spans.concat([span])
       }
 
       return flattenBlock(newBlock, node.children)
@@ -114,10 +110,8 @@ function convertElements(elements) {
 
           return flattenBlock({
             type,
-            content: {
-              spans: [],
-              text: ''
-            }
+            spans: [],
+            text: ''
           }, listItemNode.children)
         }).filter(Boolean)
 
@@ -126,10 +120,8 @@ function convertElements(elements) {
 
       const block = {
         type,
-        content: {
-          spans: [],
-          text: ''
-        }
+        spans: [],
+        text: ''
       }
       const flattenedBlock = flattenBlock(block, node.children)
       return [flattenedBlock];
@@ -145,10 +137,8 @@ function convertElements(elements) {
       } else {
         const block = {
           type: 'paragraph',
-          content: {
-            spans: [],
-            text: node.data.trim()
-          }
+          spans: [],
+          text: node.data.trim()
         }
         return [block];
       }

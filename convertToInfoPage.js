@@ -1,3 +1,4 @@
+import {RichText} from 'prismic-dom'
 import Papa from 'papaparse'
 import fs from 'fs'
 import path from 'path'
@@ -16,7 +17,11 @@ export function convertToInfoPage(result) {
       nid,
       id: path,
       title: title,
-      body: convertHtmlStringToPrismicStructure(body),
+      body: [{
+        type: 'text',
+        weight: 'default',
+        value: RichText.asHtml(convertHtmlStringToPrismicStructure(body))
+      }],
       promo: {
         image: convertImgHtmlToImage(image),
         caption: promoText
