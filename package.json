@@ -2,7 +2,7 @@
   "name": "@weco/prispal",
   "license": "MIT",
   "scripts": {
-    "run": "babel-node app.js",
+    "start": "babel-node app.js",
     "test": "jest"
   },
   "dependencies": {

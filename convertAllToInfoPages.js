@@ -1,13 +1,7 @@
 import {convertToInfoPage, readCsv} from './convertToInfoPage'
 
-async function go() {
-  try {
-    const csv = await readCsv()
-    const infoPages = csv.map(convertToInfoPage)
-
-  } catch(err) {
-    throw err
-  }
+export async function get(id) {
+  const csv = await readCsv()
+  const infoPages = csv.map(convertToInfoPage)
+  return infoPages.find(infoPages.id === id)
 }
-
-go()
