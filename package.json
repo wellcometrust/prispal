@@ -1,0 +1,13 @@
+{
+  "name": "@weco/prispal",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "htmlparser2": "^3.9.2",
+    "htmltidy": "^0.0.6",
+    "jest": "^22.4.3",
+    "papaparse": "^4.4.0"
+  }
+}
