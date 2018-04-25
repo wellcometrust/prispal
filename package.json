@@ -2,12 +2,16 @@
   "name": "@weco/prispal",
   "license": "MIT",
   "scripts": {
+    "run": "babel-node app.js",
     "test": "jest"
   },
-  "devDependencies": {
+  "dependencies": {
+    "babel": "^6.23.0",
     "htmlparser2": "^3.9.2",
     "htmltidy": "^0.0.6",
     "jest": "^22.4.3",
+    "koa": "^2.5.0",
+    "koa-router": "^7.4.0",
     "papaparse": "^4.4.0"
   }
 }
