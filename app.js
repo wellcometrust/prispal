@@ -6,7 +6,7 @@ import {get} from './convertAllToInfoPages'
 var router = new Router();
 
 router.get('/info-pages/:id', (ctx, next) => {
-  ctx.body = get(id)
+  ctx.body = get(ctx.params.id)
 });
 
 app
