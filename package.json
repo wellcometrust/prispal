@@ -14,6 +14,7 @@
     "jest": "^22.4.3",
     "koa": "^2.5.0",
     "koa-router": "^7.4.0",
-    "papaparse": "^4.4.0"
+    "papaparse": "^4.4.0",
+    "sanitize-html": "^1.18.2"
   }
 }

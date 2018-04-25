@@ -3,5 +3,8 @@ import {convertToInfoPage, readCsv} from './convertToInfoPage'
 export async function get(id) {
   const csv = await readCsv()
   const infoPages = csv.map(convertToInfoPage)
-  return infoPages.find(infoPages.id === id)
+  console.info(`> searching for ${id}`)
+
+
+  return infoPages.find(infoPage => infoPage.id === id)
 }

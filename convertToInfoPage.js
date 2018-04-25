@@ -6,7 +6,7 @@ import sanitizeHtml from 'sanitize-html'
 import {
   convertHtmlStringToPrismicStructure,
   convertImgHtmlToImage
-} from '../utils'
+} from './utils'
 
 export function convertToInfoPage(result) {
   const [nid, path, title, body, image, promoText] = result
