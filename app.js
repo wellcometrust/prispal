@@ -7,7 +7,7 @@ var router = new Router();
 
 router.get('/info-pages', async (ctx, next) => {
   const id = '/' + ctx.params.id
-  ctx.body = await get(id)
+  ctx.body = await get()
 });
 
 router.get('/info-pages/:id*', async (ctx, next) => {
