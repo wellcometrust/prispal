@@ -6,5 +6,5 @@ export async function get(id) {
   console.info(`> searching for ${id}`)
 
 
-  return infoPages.find(infoPage => infoPage.id === id)
+  return id ? infoPages.find(infoPage => infoPage.id === id) : { results: infoPages }
 }
