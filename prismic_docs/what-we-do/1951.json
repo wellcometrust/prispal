@@ -1,0 +1,178 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "What's changing",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stirling Prize-winning architects Wilkinson Eyre are transforming Wellcome Collection into a bigger and bolder venue.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The development will open up 30 per cent more gallery space and double our capacity for public events. We'll also be opening a new restaurant - in addition to our current cafe - which will be managed by Benugo.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The expansion is a response to the overwhelming demand that Wellcome Collection has experienced during its first five years. The venue was originally designed to accommodate 100,000 yearly visits; in 2012 we welcomed 490,000 people to our events and exhibitions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are due to finish development in spring 2015 but we'll be revealling spaces as we go.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "On level 1",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A new gallery showcasing year-long thematic projects, with changing displays and events.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A new studio to provide a different space for our live programme, in particular activities co-produced with 14-to-19-year-olds.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "On level 2",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The transformation of our iconic Reading Room into a new kind of participatory space - a room full of extraordinary and intriguing things to see, do and discuss.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A new restaurant, perfect for relaxing and recharging with friends and colleagues.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "On levels 2 and 3",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "An expanded Rare Materials Room and new study spaces in the Wellcome Library, continuing to offer an outstanding environment for researchers.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Building work began in August 2013 and major works are due to finish in spring 2015.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We will remain open as (un)usual throughout the development, with an intriguing array of events and temporary exhibitions. See what will be open for your visit.",
+                "spans": [
+                  {
+                    "start": 123,
+                    "end": 160,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/calendar"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/image/WCDP_cross-section_letterbox.jpg"
+  },
+  "drupalNid": "1951",
+  "drupalPath": "/wellcome-collection-is-growing/whats-changing",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stirling Prize-winning architects Wilkinson Eyre are transforming Wellcome Collection into a bigger and bolder venue.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

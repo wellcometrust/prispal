@@ -1,0 +1,56 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Our collections online",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore our digitised collections online.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/library-collections-online-main_0.jpg"
+  },
+  "drupalNid": "2018",
+  "drupalPath": "/works",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore our digitised collections online.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

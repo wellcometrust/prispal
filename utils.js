@@ -33,8 +33,10 @@ const flattenBlock = (block, nodes) => {
     if (node.type === 'text') {
       const newBlock = {
         type: block.type,
-        text: `${block.text}${node.data}`,
-        spans: block.spans
+        content: {
+          text: `${block.content.text}${node.data}`,
+          spans: block.content.spans
+        }
       }
 
       return newBlock
@@ -44,23 +46,25 @@ const flattenBlock = (block, nodes) => {
       // Create other converters
       const data = node.name === 'a' ? {
         link_type: 'Web',
-        url: node.attribs.href
+        url: node.attribs.href.startsWith('http') ? node.attribs.href : `https://wellcomecollection.org${node.attribs.href}`
       } : {}
 
       const fullText = reduceNodeChildrenToText(node.children)
       const span = {
-        start: block.text.length,
+        start: block.content.text.length,
         // This feels like it could live in this reduce function,
         // just not sure how
-        end: block.text.length + fullText.length,
+        end: block.content.text.length + fullText.length,
         type: prismicSpansMap[node.name],
         data: data
       }
 
       const newBlock = {
         type: block.type,
-        text: block.text,
-        spans: block.spans.concat([span])
+        content: {
+          text: block.content.text,
+          spans: block.content.spans.concat([span])
+        }
       }
 
       return flattenBlock(newBlock, node.children)
@@ -110,8 +114,10 @@ function convertElements(elements) {
 
           return flattenBlock({
             type,
-            spans: [],
-            text: ''
+            content: {
+              spans: [],
+              text: ''
+            }
           }, listItemNode.children)
         }).filter(Boolean)
 
@@ -120,8 +126,10 @@ function convertElements(elements) {
 
       const block = {
         type,
-        spans: [],
-        text: ''
+        content : {
+          spans: [],
+          text: ''
+        }
       }
       const flattenedBlock = flattenBlock(block, node.children)
       return [flattenedBlock];
@@ -137,8 +145,10 @@ function convertElements(elements) {
       } else {
         const block = {
           type: 'paragraph',
-          spans: [],
-          text: node.data.trim()
+          content: {
+            spans: [],
+            text: node.data.trim()
+          }
         }
         return [block];
       }

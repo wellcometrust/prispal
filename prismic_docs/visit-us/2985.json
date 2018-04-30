@@ -1,0 +1,206 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Programme: What is Potential? ",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Nature, according to Aristotle, is an inner principle of change and being at rest. If nature has the ability for transform itself, how do we make the most of this potentiality? The events of the day investigate potential and risk both in art and medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Timed events",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "14.00: Theodore Zeldin and Per Hüttner in conversation",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Taking Zeldin’s recent book The Hidden Pleasures of Life as a starting-point, the discussion centres on the potential of art to enrich our lives at work and in private and the role it could play tomorrow.",
+                "spans": [
+                  {
+                    "start": 28,
+                    "end": 56,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "15.00: Loss of Breath/Lost for Words – Kihlberg & Henry",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A reading about breath: the forgotten, unheard breaths behind all the talk, where breath does the reading, and the reading becomes breath.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "16.00: Ménage à Trois – Sara Giannini",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This lecture invites the audience to be a part of a collective investigation into potentiality and risk of the threesome. Starting with the metamorphic figure of Salomé, moving on to Henry Wellcome and a Scandinavian voyage/exhibition entitled ‘Ö’, the reading will follow other triangulations in order to delve into the engine of desire: the negation of its promise.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Ongoing throughout the afternoon ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Metamorphosis I: Primordial paste – Vilma Luostarinen with Alison Taylor and Louise Waite",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Metamorphoses is a series of poetic and material explorations where the boundaries of what is human and innate becomes blurred. In this first experiment, an unknown black substance is explored through the act of kneading.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "The Soft – Natasha Rosling",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Rosling uses sounds to explore the interface between the material and immaterial. She will attempt to build a ‘sonic prosthesis’ that charts physical forms based on anatomical illustrations and fantasies about the human body.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Psychotron Mind/Body Split – Samon Takahashi",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The artist invites the audience to participate in a small ritual that blurs the borders between mental and physical experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Nunc Stans: Drifters – Valentina Miorandi and Sandrine Nicoletta",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A lamp that allow us to discover the true colour of our universe.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "I am the Future – Per Huttner",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Three living sculptures that invite the audience to reflect on the future of healthcare and medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of What is Potential?",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 26,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/what-potential-exploring-aristotle-art-and-medicine"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/What-is-potential.png"
+  },
+  "drupalNid": "2985",
+  "drupalPath": "/visit-us/programme-what-potential",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the events of the day investigating potential and risk both in art and medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

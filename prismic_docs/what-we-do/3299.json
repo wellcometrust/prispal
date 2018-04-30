@@ -1,0 +1,139 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Support for voice hearing",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Youth Programme at Wellcome Collection worked in partnership with Voice Collective on this co-production project. Voice Collective, part of Mind in Camden, recruited and liaised with the young people involved in every workshop and also gave excellent voice hearing training to help Wellcome staff prepare for the workshops. Particular thanks are due to Tamsin Curno and Rachel Waddingham for their support and advice throughout the project.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Voice Collective is a London-wide project set up to support children and young people who hear voices, see visions or have other unusual sensory experiences. The team work in partnership with young people and youth organisations to improve the quality of information, advice and support available out there. To find out more, visit the Voice Collective website, email info@voicecollective.co.uk or call 020 7911 0822 during office hours.",
+                "spans": [
+                  {
+                    "start": 326,
+                    "end": 360,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.voicecollective.co.uk/"
+                    }
+                  },
+                  {
+                    "start": 368,
+                    "end": 394,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@voicecollective.co.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Voice Collective is funded by BBC Children in Need and John Lyon’s Charity, among others.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection’s Youth Programme worked initially with Professor Charles Fernyhough, a psychologist who leads Hearing the Voice - a large interdisciplinary research study of voice hearing based at Durham University and funded by the Wellcome Trust. Charles advised on other voice hearing content in the ‘This is a Voice’ exhibition, helped plan the development of our artist-led co-production project, and also put us in touch with Voice Collective in Camden.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Voice hearing experiences are fairly common and are not in themselves necessarily a cause for concern. If you find that these experiences continue to cause significant distress or interfere with your relationships or daily activities, you should seek the advice of your GP or family doctor and seek other sources of sympathetic support. Find out more about hearing voices, including sources of support.",
+                "spans": [
+                  {
+                    "start": 337,
+                    "end": 401,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hearingthevoice.org/frequently-asked-questions"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Support-for-voice-hearing-main.png"
+  },
+  "drupalNid": "3299",
+  "drupalPath": "/visit-us/support-voice-hearing",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Further information about voice hearing, including contacts for support organisations.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

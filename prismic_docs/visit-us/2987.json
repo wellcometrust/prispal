@@ -1,0 +1,110 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Bobby Baker at Kunsthall Stavanger",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Bobby Baker: Diary Drawings",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "26 Oct-9 Nov 2015 at Kunsthall Stavanger",
+                "spans": [
+                  {
+                    "start": 18,
+                    "end": 40,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 21,
+                    "end": 40,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://kunsthallstavanger.no/en/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bobby Baker is one of the most widely acclaimed and popular performance artists working today. She began her diary drawings in 1997 when she became a patient at a day centre. Originally private, they gradually became a way for her to communicate complex thoughts and emotions that are difficult to articulate to her family, friends and professionals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The drawings cover Bobby's experiences of day hospitals, acute psychiatric wards, 'crisis' teams and a variety of treatments. They chart the ups and downs of her recovery, family life, work as an artist, breast cancer and just how funny all this harrowing stuff can be.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Listen to Bobby talking about some of the drawings in the exhibition (Guardian, 18 March 2009)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 94,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.guardian.co.uk/society/interactive/2009/mar/18/bobby-baker-wellcome-collection"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Bobby-Baker.png"
+  },
+  "drupalNid": "2987",
+  "drupalPath": "/visit-us/bobby-baker-kunsthall-stavanger",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bobby Baker is began her diary drawings when she became a patient at a day centre. Kunsthall Stavanger, 26 Oct-9 Nov.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

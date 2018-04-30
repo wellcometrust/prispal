@@ -1,0 +1,70 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Youth consultation",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A group of young people recently joined us for two days of exploration and discussion to help us develop our ideas for a new exhibition exploring sex. On the first day we discussed where we get ideas about sex from - consciously and unconsciously, the language we use, and the underlying attitudes we have that influence the way we think, even if we' re not aware of them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The second day was more focussed on some of the specifics of the exhibition, and we began by completing a giant +2000 year timeline as a way of visualising and exploring changes in behaviour, knowledge, culture and social attitudes towards sex. Curators working on the exhibition told the group about their research, and showed us some of the objects they' re hoping to include. Then it was then the turn of the young people to discuss and develop their ideas for exhibits, public events and youth projects - which they did with considerable thought and enthusiasm.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Armed with these suggestions, we are carrying out more consultation sessions to further refine the ideas, and will then compile a long-list of potential activity to take forward before the exhibition opens in October 2014, and during the exhibition run until autumn 2015.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Youth_consultation_letterbox_0.jpg"
+  },
+  "drupalNid": "207",
+  "drupalPath": "/what-we-do/youth-consultation",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A group of young people recently joined us for two days of exploration and discussion.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

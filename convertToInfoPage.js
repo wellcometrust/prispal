@@ -33,8 +33,9 @@ export function convertToInfoPage(result) {
   }
 }
 
-export async function readCsv() {
-  const file = fs.createReadStream(__dirname + '/what-we-do.csv')
+export async function readCsv(name = '/what-we-do.csv') {
+  const file = fs.createReadStream(__dirname + name)
+  const excludesStream = fs.createReadStream(__dirname + '/excludes.csv')
   const fileContent = await new Promise((resolve, reject) => {
     Papa.parse(file, {
       error: function(err) {
@@ -45,6 +46,29 @@ export async function readCsv() {
       }
     })
   })
-  fileContent.shift()
-  return fileContent
+  const excludesArr = await new Promise((resolve, reject) => {
+    Papa.parse(excludesStream, {
+      error: function(err) {
+        reject(err);
+      },
+      complete: function(results) {
+        resolve(results.data);
+      }
+    })
+  })
+
+  const excludes = [].concat(...excludesArr)
+
+  const withoutExcludes = fileContent.map(result => {
+    const [nid, path, title, body, image, promoText] = result
+    if (excludes.includes(`wellcomecollection.org${path}`)) {
+      return
+
+    }
+
+    return result
+  }).filter(Boolean)
+
+  withoutExcludes.shift()
+  return withoutExcludes
 }

@@ -1,0 +1,135 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sharing Nature terms & conditions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "list-item",
+              "content": {
+                "text": "By submitting images and/or narrative (“Content”) to the Sharing Nature project (“Project”), you are responsible and confirm that the Content you have submitted is your wholly-owned creation, is not defamatory, does not infringe the rights of any third party (including intellectual property rights) and that you have all the necessary rights and permissions to submit any such Content to the Project for use as part of the Project on our websites and social media channels and any other uses set out in these terms and conditions. Further that you have the necessary permissions from any persons featured in such Content for use in the Project.",
+                "spans": [
+                  {
+                    "start": 57,
+                    "end": 79,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sharingnature"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "In providing the Content to the Project you licence your Content under the following Creative Commons licence: Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) and you agree to the following attribution [“Submitted as part of the Wellcome Collection Sharing Nature Project 2017”]",
+                "spans": [
+                  {
+                    "start": 111,
+                    "end": 186,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "By taking part in this Project, you consent to the use of your personal data by Wellcome for the purposes of the administration of this Project (including, but not limited to, where relevant sharing your social media handle and or name where the Content has been used online and or on Wellcome websites and or online or any social media channels and/or blogs in relation to the Project).",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "This Project is in no way sponsored, endorsed or administered by, or in association with, any social media channels to which we are posting and you agree that those social media channels shall not be liable to you in any way in respect of this Project.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "These terms and conditions shall apply to all online submissions of Content unless otherwise stated. Wellcome reserves the right to make changes to these terms and conditions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "These terms and conditions shall be governed by English law, and the parties submit to the non-exclusive jurisdiction of the courts of England and Wales.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "By submitting an item, you are agreeing to be bound by these terms and conditions. Our privacy statement will apply to the Project.",
+                "spans": [
+                  {
+                    "start": 83,
+                    "end": 104,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/about-us/terms-use"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust. The Wellcome Trust is a charity registered in England, no. 210183. Its sole trustee is The Wellcome Trust Limited, a company registered in England, no. 2711000, whose registered office is Gibbs Building, 215 Euston Road, London NW1 2BE, UK and is referred to in these terms and conditions as “Wellcome” or “Wellcome Trust”.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sharing-nature-submit_0.png"
+  },
+  "drupalNid": "3913",
+  "drupalPath": "/visit-us/sharing-nature-terms-conditions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The terms & conditions of taking part in our Sharing Nature Project.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds Presents: Reimagining the Man Cave ",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Grab a pair of silent disco headphones and take part in an interactive experience exploring the future of masculinity. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Has the definition of masculinity changed throughout history? Will it continue to change in the future? If so, what do we want to keep and what do we want to throw away? Come and reimagine what masculinity means to you, drawing on leading scientific research, and help shape what it could mean to the next generation.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This interactive experience has been created by a group of young people from RawMinds, Wellcome Collection’s creative programme for 14-to-19-year-olds, in collaboration with acclaimed interactive theatre producers non zero one.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The group were inspired by the work of Dr Luke Sullivan, a clinical psychologist who runs Men’s Minds Matter, by Dr Alison Haggett’s exploration of the history of masculinity, and by artist James Leadbitter’s Madlove workshop on mental health and reimagining the asylum.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "RawMinds Contributors: Bella, Cherelle, Clara, Dan, Gift, Jessye, Joseph, Maccabi, Yaseen",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 23,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Friday Late Spectacular: Macho?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 39,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 8,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/macho"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Macho-lead-image-16x9.png"
+  },
+  "drupalNid": "3831",
+  "drupalPath": "/visit-us/rawminds-presents-reimagining-man-cave",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

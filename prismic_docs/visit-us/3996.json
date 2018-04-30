@@ -1,0 +1,80 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Reimagining Human Relations in Our Time: Tavistock Institute Festival",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Tuesday 17 - Friday 20 Oct",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Celebrate 70 years of the Tavistock Institute, and delve into their rich and fascinating archives held at the Wellcome Library.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The festival will run for four days across a number of sites. Check festival.tavinstitute.org/programme for full details.",
+                "spans": [
+                  {
+                    "start": 68,
+                    "end": 103,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://festival.tavinstitute.org/programme/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/WOSB%20graphs_0.jpg"
+  },
+  "drupalNid": "3996",
+  "drupalPath": "/visit-us/reimagining-human-relations-our-time-tavistock-institute-festival",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Celebrate 70 years of the Tavistock Institute with a range of events and archival insights.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

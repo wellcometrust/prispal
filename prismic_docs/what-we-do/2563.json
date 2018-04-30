@@ -1,0 +1,80 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Brighton Sounds",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Hub from Brighton was formed of a collaboration between Rhythmix, The University of Sussex, Safety Net, Brighton Dome and Brighton Youth Centre.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The performers were all young women from Brighton who created original music using research into young people’s sexual values and experiences. Their work can be heard below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Sounds of Sexology",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 26,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats/sounds-sexology"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Brighton-sounds-sexology.jpg"
+  },
+  "drupalNid": "2563",
+  "drupalPath": "/what-we-do/brighton-sounds",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Young women from Brighton created original music using research into young people’s sexual values and experiences.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

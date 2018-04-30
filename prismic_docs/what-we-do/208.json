@@ -1,0 +1,63 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Film making with Camden Summer University",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Local young people recently took part in a week-long Camden Summer University film and animation course supported by Wellcome Collection. Inspired by a visit to the museum store where Henry Wellcome's 100,000 objects are kept, they created this short film exploring the history of medicine through three of their favourite objects.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/CamdenSummerUniversity2013_posterframe.jpg"
+  },
+  "drupalNid": "208",
+  "drupalPath": "/visit-us/schools-and-youth-groups/young-people-respond/film-making-with-csu",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A week-long Camden Summer University film and animation course.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

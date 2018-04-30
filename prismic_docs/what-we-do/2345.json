@@ -1,0 +1,100 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Institute of Sexology resources for schools",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We have created a learning resource for teachers and others working with young people, to support greater engagement with the Institute of Sexology exhibition. The resource will be available to download in the New Year.",
+                "spans": [
+                  {
+                    "start": 18,
+                    "end": 35,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sexologyresource"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We have also developed a study day, Sexology, Science and Us, which is now open for booking.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 60,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/sexology-science-and-us"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of The Institute of Sexology",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/institute-sexology"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sexology_1600%5B2%5D.jpg"
+  },
+  "drupalNid": "2345",
+  "drupalPath": "/what-we-do/institute-sexology-resources-schools",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A new learning resource and study day to support students' engagement with the Institute of Sexology exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

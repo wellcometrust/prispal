@@ -1,0 +1,79 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds project film: The Roots",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A short film (3 mins 34 secs) exploring the beauty of nature. This film has been created by young people aged 14-19 from London who took part in our RawMinds summer filmmaking project, inspired by our exhibition ‘A museum of modern nature’. Find out more about the project here.",
+                "spans": [
+                  {
+                    "start": 273,
+                    "end": 277,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomecollection.org/what-we-do/rawminds-summer-filmmaking-project-2017"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/The%20roots%20film%20screenshot.png"
+  },
+  "drupalNid": "4004",
+  "drupalPath": "/what-we-do/rawminds-project-film-roots",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A short film focusing on the beauty of nature. Part of the RawMinds summer 2017 project.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

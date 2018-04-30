@@ -1,0 +1,216 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "visit-us"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "More Voices",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are many more recordings from the Our Voices project than would fit on the exhibition audio companion. We've grouped these by theme.",
+                "spans": [
+                  {
+                    "start": 40,
+                    "end": 50,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/ourvoices"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Choose from the playlists below to listen to them over on SoundCloud.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is mental illness?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/what-is-mental-illness-1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Ending up on the ward – sectioning and admissions",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/ending-up-on-the-ward"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Life on the ward",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/life-on-the-ward"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Treatment",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/treatment"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Ideal asylum",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/ideal-asylum"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Definitions, attitudes and stigma",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/definitions-attitudes-and"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Core Arts and creativity",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 24,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://soundcloud.com/wellcomecollection/sets/core-arts-and-creativity"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bedlam: the asylum and beyond",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Our-Voices-audio-files.png"
+  },
+  "drupalNid": "3553",
+  "drupalPath": "/visit-us/more-voices",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the rest of the audio created as part of Our voices.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

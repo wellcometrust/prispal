@@ -1,0 +1,80 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Healers of Dharavi",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In India you see colourful signboards everywhere. Watch Chaitanya Modak’s film about what happened when some signboard painters tried their hand at the classic art genre of sitting portraits. The film followed an exhibition, Healers of Dharavi, held in Mumbai in February, 2015. Dharavi is variously said to be the largest slum in India, Asia or even the world. The exhibition featured portraits of local healers who offer an astounding range of formal and informal treatments. You don’t need to have seen the exhibition to appreciate this heartwarming film. It offers a unique insight into how people live, work and struggle to stay well in the most challenging circumstances.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Healers of Dharavi was part of Wellcome Collection’s Medicine Corner programme in India.",
+                "spans": [
+                  {
+                    "start": 53,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/medicinecorner"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/healers-of-dharavi.jpg"
+  },
+  "drupalNid": "3005",
+  "drupalPath": "/what-we-do/healers-dharavi",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Chaitanya Modak’s film about what happened when some signboard painters tried their hand at sitting portraits.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

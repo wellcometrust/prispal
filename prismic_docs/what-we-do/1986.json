@@ -1,0 +1,63 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Where we're going",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, The Thackray Medical Museum, Leeds, UK. Dates: 1 February to 1 August 2016",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 63,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/idoc%20%281%29.jpeg"
+  },
+  "drupalNid": "1986",
+  "drupalPath": "/what-we-do/where-were-going",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A look at some of the future touring exhibitions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

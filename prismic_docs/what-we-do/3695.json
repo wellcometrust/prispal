@@ -1,0 +1,103 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "what-we-do"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Somers Light",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "2015 was the UN International Year of Light. Wellcome Collection worked with partners Origin Housing and the Francis Crick Institute to develop and deliver a community engagement project on Sidney Estate, Somers Town, inspired by the theme of light and architectural features around the estate.",
+                "spans": [
+                  {
+                    "start": 86,
+                    "end": 100,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.originhousing.org.uk/"
+                    }
+                  },
+                  {
+                    "start": 109,
+                    "end": 132,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.crick.ac.uk/engagement/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A programme of summer holiday workshops and several larger scale events were held on the Estate for local residents.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘When I started door knocking on the estate at the beginning of the year to talk to residents about the regeneration, two of their main complaints were that people from different backgrounds and generations just don't get on with one another. It was great to see both of these issues being addressed, as people of different backgrounds and ages were getting on with one another and participating in activities as equals.’",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 421,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sahil Khan, then Head of Community Development, Origin Housing",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/somers%20light%20letterbox.jpg"
+  },
+  "drupalNid": "3695",
+  "drupalPath": "/what-we-do/somers-light",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Somers Light took place on the Sidney Estate, Somers Town in 2015, celebrating the UN International Year of Light.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
