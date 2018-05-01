@@ -1,0 +1,84 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sheep Pig Goat: Contextual conversations",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the inner lives of animals, and the complex relationships that bind them and us together in this series of conversations with leading scientists, researchers and artists hosted by dramaturg Ruth Little. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "These events are FREE. Tickets are available via each listing below. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "These events will take place at a venue in Peckham, a 5 minute walk from Peckham Rye station. Ticket holders will be emailed with the full address and directions shortly before the events take place. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ruth Little is a theatre and dance dramaturg, a teacher and writer. Her research and teaching in ecologies of performance is informed by two decades' experience of commissioning, developing and curating new work in partnership with community groups, academics, and artists across all forms. She has led workshops and art-science expeditions nationally and internationally. She lectured in English literature at the University of Sydney, and was literary manager at Out of Joint, Soho Theatre and the Royal Court, and artistic associate at the Young Vic. Ruth is dramaturg for Akram Khan Company, associate director of Cape Farewell London, and associate artist at Perth International Arts Festival.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/pig-main.jpg"
+  },
+  "drupalNid": "3783",
+  "drupalPath": "/sheep-pig-goat-contextual-conversations2",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the stories we tell ourselves about animals, and our place in an animal world in this series of lively debates.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

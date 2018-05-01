@@ -1,0 +1,115 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Super Thinking",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection's Youth Programme has been working with artist Andy Merritt and young people from New Horizon Youth Centre to create an installation called 'Super Thinking' .",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Linking scientific and technological advances to human experience, the installation will explore ideas in Wellcome Collection' s forthcoming exhibition, 'Superhuman' (19 July-16 October).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Seven research and art workshops, led by Andy, engaged young people in the creative processes of making mood boards and mind maps around the theme of human enhancement. The workshops mainly took place at New Horizon Youth Centre in Chalton Street, but also involved an introduction to Wellcome Collection for the young people, so they could gather research and inspiration about human enhancement from the exhibits already on show in our permanent collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Their second visit here, at the end of the project, will be for them to review their work as Andy assembles it for the final installation on the glass wall in the atrium. It will be a three-dimensional representation of a mind map. Using vinyl, plastic tubing and suckers, the young artists will create word shapes and then colour the tubes with acrylic paint. The whole process will enable them to reflect on key exhibition themes while constructing an art installation that is both eye-catching and thought provoking.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection's Youth Programme aims to engage young people between the ages of 14 and 19 in participatory projects, involving schools and the local community, that build knowledge, inspire creativity and promote confidence.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "New Horizon Youth Centre is a day centre that sees up to 3000 young people a year and is open seven days a week. By working with disadvantaged young people, it aims to help them gain skills and knowledge to improve their life chances and to help them move from adolescence into adulthood.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 24,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.nhyouthcentre.org.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Andy Merritt is an established artist working in socially driven installations and sculptures. He works either solo or through Something & Son, a practice he co-founded in 2010. His artworks present social and environmental issues through installations or sculptures that use everyday objects and scenarios with surreal outcomes, often by exploring new technologies and techniques. He also has extensive experience of working on collaborative art projects with young people.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Superthinking_letterbox.jpg"
+  },
+  "drupalNid": "44",
+  "drupalPath": "/exhibitions/super-thinking",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A youth co-produced art installation on the glass wall that divides the atrium from the temporary exhibition space.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

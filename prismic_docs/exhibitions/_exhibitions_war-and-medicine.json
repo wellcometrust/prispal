@@ -1,0 +1,84 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "War and Medicine",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As humankind has developed increasingly sophisticated weaponry with which to harm its enemies, medicine has had to adapt to cope with the volume and the changing nature of resulting casualties.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Concentrating on the modern era, 'War and Medicine' considered the constantly evolving relationship between warfare and medicine, beginning with the disasters of the Crimean War and continuing through to today's conflicts in Afghanistan and Iraq.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition highlighted the personal experiences of surgeons, soldiers, civilians, nurses, writers and artists and looked at the impact of war on the 'home front' as well as on front-line medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'War and Medicine' was the second of a two-part collaboration between Wellcome Collection and The Museum of Man (Deutsches Hygiene-Museum, Dresden).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Image: David Cotterrell",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/warmedicine_650x256.jpg"
+  },
+  "drupalNid": "17",
+  "drupalPath": "/exhibitions/war-and-medicine",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'War and Medicine' considered the constantly evolving relationship between warfare and medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

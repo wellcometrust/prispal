@@ -1,0 +1,175 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Burroughs Room",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Burroughs Room is a wonderfully quiet meeting room with a semi-private terrazzo lobby that is ideal for registration, networking and catering. This sleek, contemporary room is beautifully suited to training and networking events.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Capacities ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Features",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Complimentary WiFi",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Semi-private terrazzo lobby",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "AV",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Data projection",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Projector screen",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Laptop",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Floorplan",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Burroughs_landing_650x340.jpg"
+  },
+  "drupalNid": "192",
+  "drupalPath": "/event-spaces/rooms/burroughs-room",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Burroughs Room is a wonderfully quiet meeting room with a semi-private terrazzo lobby.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

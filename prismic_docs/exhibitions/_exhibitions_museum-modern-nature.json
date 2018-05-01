@@ -1,0 +1,124 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "A museum of modern nature",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Many of us think of nature as something separate to ourselves – something elsewhere, somewhere to visit and not part of our daily lives. Yet in reality nature is all around us. Whether we live in densely packed cities or rural countryside, we are part of a complex ecosystem with the plants, animals, land, air and water that surround us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our summer exhibition shines a light on how each of us connects with nature. We are displaying objects borrowed from members of the public that tell a story about their relationship with nature. Together they create a collective snapshot of how we think about nature in the 21st century and explore how the health of our planet is intricately bound up with the behaviours and values of the people who inhabit it.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To represent the many and varied voices of our public a small team of people who work with nature in their daily lives have chosen the objects that go on display in the exhibition. These include a park manager, a shaman, a dairy farmer and a plant scientist. You can find out more about them and their own chosen objects below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The environmental challenges we face are global but the solutions to them start with the personal and the local. Help us create a different kind of museum of nature – one which celebrates our everyday relationship with the world around us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please see our advice for visiting during busy times.",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/busytimes"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exhibition text and captions (172 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/wellcomecollection_exhibition_text_and_captions.pdf"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Museum-of-modern-nature-main.png"
+  },
+  "drupalNid": "3781",
+  "drupalPath": "/exhibitions/museum-modern-nature",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Help us create a different kind of museum of nature – one that celebrates our everyday relationship with the world around us.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

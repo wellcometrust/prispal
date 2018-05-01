@@ -1,0 +1,143 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Library",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Explore science, life, medicine and the arts",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "The free library for the incurably curious",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Located on level 2 of Wellcome Collection, the Library is free to use and open to anyone with an interest in our collections. We’re one of the world’s major resources for the study of the social and cultural contexts of health and medicine: our collections span life, death and everything in between.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Come in and explore over 2 million items from an ancient Egyptian prescription to the papers of Francis Crick, from Red or Dead’s HIV/Aids awareness sandals to our new and growing zine collection. Our bright and spacious library has designated quiet and not-so-quiet spaces, bookable study rooms and WiFi is available throughout the Library.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our collections cover more than just books, journals, archives and manuscripts: we also have a fantastic collection of artworks, audio and film collections. In addition, we have manuscripts and printed items from Asia and North Africa, written in over forty separate languages and many different scripts.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you want to use the Library for the day or for personal study, you can sign in as a Day Visitor at the Library Admissions Desk. As a Day Visitor you’ll have access to the Library WiFi and the open shelf collections. We have a huge range of books and journals in the Medical Collection and the History of Medicine collections on the open shelves, but older books and journals and items from our special collections are held in our stores and available on request.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you’d like to consult items from our closed stores or access our e-resources you can join as a member. You can become a member by applying for a five-year Library Card. Details of how to join can be found on our website.",
+                "spans": [
+                  {
+                    "start": 211,
+                    "end": 222,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Library’s opening hours are slightly different from the main Wellcome Collection opening times, so check the Library website for our opening hours and details of forthcoming closures. ",
+                "spans": [
+                  {
+                    "start": 113,
+                    "end": 128,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more from the Library website.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Library%20shoot%20laptop_crop.jpg"
+  },
+  "drupalNid": "166",
+  "drupalPath": "/visit-us/wellcome-library",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the rich and fascinating story of medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

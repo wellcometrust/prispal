@@ -1,0 +1,78 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tools of the Trade",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tools of the Trade, by Stuart Haygarth, is a series of six light installations created from a selection of plastic and glass laboratory equipment commonly used in scientific research and experiments.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The items in this series were chosen for their aesthetic quality, the form taking prominence over their purpose. Using glassware for its sensuality and plastic items for their impact when used en masse to form molecular-like structures, the work proposes new perspectives on these functional, scientific objects.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Elevating the commonplace or discarded object is a central tenet of Haygarth’s work. His exquisite designs and installations employ the flotsam and jetsam of quotidian life. “My work revolves around everyday objects, collected in large quantities, categorised and presented in such a way that they are given new meaning,” said Haygarth. “It is about banal and overlooked objects gaining new significance.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Come and see Tools of the Trade, on display in the windows of the Wellcome Trust, just next door to Wellcome Collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/tools-of-the-trade-main.png"
+  },
+  "drupalNid": "3009",
+  "drupalPath": "/what-we-do/tools-trade",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This series of light installations involves banal and overlooked objects gaining new significance.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Skin",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Critics' choice - Time Out \"a revelation\" - Daily Telegraph \"fascinating\" - Guardian",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 27,
+                    "end": 41,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 60,
+                    "end": 73,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The 'Skin' exhibition invites you to re-evaluate the largest and probably most overlooked human organ. We consider the changing importance of skin, from anatomical thought in the 16th century through to contemporary artistic exploration.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Covering four themes (Objects, Marks, Impressions and Afterlives), 'Skin' takes a philosophical approach. It begins by looking at the skin as a frontier between the inside and the outside of the body. Early anatomists saw it as having little value and sought to flay it to reveal the workings of the body beneath.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition then moves to look at the skin as a living document: with tattoos, scars, wrinkles or various pathologies, our skin tells a story of our life so far. Finally, the skin is considered as a sensory organ of touch and as a delicate threshold between life and death.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Skin Lab, which features artistic responses to cutting-edge research and technological developments in skin science from the mid-20th century onwards, will complement the exhibition.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/articles/skin-lab"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/skin-promo_gall.jpg"
+  },
+  "drupalNid": "30",
+  "drupalPath": "/exhibitions/skin",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The 'Skin' exhibition invites you to re-evaluate the largest and probably most overlooked human organ.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

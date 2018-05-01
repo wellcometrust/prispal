@@ -1,0 +1,216 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Now on - Skeletons: Our Buried Bones",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Skeletons: Our Buried Bones’ is a collaboration between Wellcome Collection and the Museum of London, touring to Glasgow, Bristol and Leeds over 2016-2018.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Touring to",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Hunterian, Glasgow 19 August 2016-8 January 2017",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 22,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.gla.ac.uk/hunterian/visit/exhibitions/exhibitionprogramme/skeletonsourburiedbones/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "M Shed, Bristol 8 April 2017-3 September 2017",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.bristolmuseums.org.uk/m-shed/whats-on/skeletons-buried-bones/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Leeds City Museum 22 September 2017-7 January 2018",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 18,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.leeds.gov.uk/skeletons"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As we go about our busy lives, little do we imagine that we are walking over the bones of generations of our predecessors. Urban burials are disturbed by the development of the city above them, yielding up their dead so the city can live. Meanwhile, archaeologists balance ethical concerns with the goal of seeking knowledge and understanding of the communities that have gone before us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drawn in part from the Museum of London's astonishing collection of over 20,000 skeletons spanning 16 centuries, this touring exhibition examines the bones of some of those who lived, died and were buried across the UK.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Showing skeletons from London along with skeletons from the local area of each hosting venue, the exhibition reflects our rich past and varied social geography; from the pauper’s graves of urban London to the solitary burial of a high status individual on a Scottish island beach.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Through careful scientific analysis by the team at the Museum of London, each skeleton reveals its own story, allowing us fascinating insights into the times in which they lived and the health hazards of the day - from syphilis to rickets, broken bones to tooth decay.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Contextualised by contemporary photographs of the locations in which they were discovered, these few individuals remind us that the dead are all around us. They offer us a rare glimpse into the lives of a small number of the many millions who have gone before us and who form part of the layers of our human history.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This touring exhibition is based on 'Skeletons: London’s Buried Bones', originally shown at Wellcome Collection in 2008.",
+                "spans": [
+                  {
+                    "start": 37,
+                    "end": 69,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/skeletons-london%E2%80%99s-buried-bones"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "\"Compelling... The show probes the most intimate recesses of human experience.\" The Times",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 79,
+                    "data": {}
+                  },
+                  {
+                    "start": 79,
+                    "end": 89,
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/skeletons-touring-main.png"
+  },
+  "drupalNid": "3399",
+  "drupalPath": "/visit-us/skeletons-our-buried-bones",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A collaboration between Wellcome Collection and Museum of London, touring to Glasgow, Bristol and Leeds.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

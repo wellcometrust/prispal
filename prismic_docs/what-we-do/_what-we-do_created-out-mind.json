@@ -1,0 +1,183 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Created Out of Mind",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Created Out of Mind are in residence from October 2016 until July 2018. They are an interdisciplinary team of scientists, visual artists, musicians, broadcasters, clinicians and carers, and aim to explore, challenge and shape perceptions and understanding of dementias through science and the creative arts. The team will explore what dementia means to us all, challenge traditional definitions and common misconceptions, and unlock what we can learn about art, consciousness and the brain from the experiences of people with dementia.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Key outputs to date include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A short film about our vision to explore, challenge and shape perceptions of dementias through science and the creative arts.",
+                "spans": [
+                  {
+                    "start": 2,
+                    "end": 12,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.createdoutofmind.org/stories-and-reflections/created-out-of-mind-launch-short-film"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A report reflecting on our research so far, and the different ways it has been created, inspired and shaped by the diverse experiences of people living with dementias.",
+                "spans": [
+                  {
+                    "start": 2,
+                    "end": 8,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.createdoutofmind.org/stories-and-reflections/shaping-perceptions-of-dementias-one-year-in"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The BBC Radio 3 residency ‘Why Music? The Key to Memory’, held at Wellcome Collection, 13–15 October 2017.",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 55,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/press/why-music-key-memory-bbc-radio-3-wellcome-collection"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A pre-planning framework paper on the project, published on Wellcome Open Research.",
+                "spans": [
+                  {
+                    "start": 2,
+                    "end": 30,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomeopenresearch.org/articles/2-108/v1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Regular Rare Dementia Support groups held in The Hub.",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 29,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.raredementiasupport.org/ftd/meetings/london/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Created Out of Mind director, Sebastian Crutch, being appointed to the Commission on Music and Dementia.",
+                "spans": [
+                  {
+                    "start": 75,
+                    "end": 107,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.createdoutofmind.org/stories-and-reflections/harnessing-the-power-of-music-for-dementia-care"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visit the Created Out of Mind website for more information.",
+                "spans": [
+                  {
+                    "start": 10,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.createdoutofmind.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20web%20resize%20.jpg"
+  },
+  "drupalNid": "4052",
+  "drupalPath": "/what-we-do/created-out-mind",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our current group, in residence 2016–18.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

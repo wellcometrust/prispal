@@ -1,0 +1,269 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Henry Wellcome Auditorium",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Henry Wellcome Auditorium is a spacious, tiered auditorium for up to 154 delegates. The auditorium has two aisles, making it easy to move around during question-and-answer sessions, and is a perfect balance of traditional wood panelling, stunning original art deco features and state-of-the-art AV equipment.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The auditorium comes with the Williams Lounge, which is perfect for registering, networking, and catering and drinks receptions for a large group. These carefully considered spaces are fantastic for all types of events, from AGMs to film screenings.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Look around Wellcome Collection's conference centre using Google's \"See inside\" function",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 88,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.google.co.uk/maps/@51.525764,-0.1339485,3a,75y,286.93h,79.47t/data=!3m5!1e1!3m3!1sbDr7CfQ2GagAAAQY8CspBw!2e0!3e2!6m1!1e1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Capacities",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Features",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Flexible top table for up to nine speakers",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "All chairs have armrest tables to allow a comfortable, classroom-style event",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Complimentary WiFi",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Audiovisual technician included",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Data projection",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Projector screen 4.40 (w) x 2.44 (h) m",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "PA system with microphones:",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "one lectern microphone",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "two radio microphones",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "three tie-clip microphones",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "four top table microphones",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "DVD/TV inputs available",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Lectern with comfort monitor",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Remote mouse",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Laptop",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Audio recording",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Floorplan",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "​",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 1,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Auditorium_landing_650x340.jpg"
+  },
+  "drupalNid": "188",
+  "drupalPath": "/what-we-do/henry-wellcome-auditorium",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Henry Wellcome Auditorium is a spacious, tiered auditorium for up to 154 delegates. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

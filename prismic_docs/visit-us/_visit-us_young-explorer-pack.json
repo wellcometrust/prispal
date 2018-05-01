@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Young Explorer's Pack",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For visitors aged 5-10, we have a free Young Explorer's Pack. The activity booklet will take you on a journey around our permanent galleries Medicine Now, Medicine Man and our Reading Room.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ask a member of staff when you arrive for a free booklet and pack, and don't forget to ask them any questions inspired by your exploring!",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Packs are most suitable for children ages 5-10 and adult supervision is necessary.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Collection is primarily aimed at an audience of aged 14 and above and parents should be aware that some of our exhibitions contain human remains.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please call +44 (0)20 7611 2222 or email info@wellcomecollection.org if you would like further information on our exhibition content.",
+                "spans": [
+                  {
+                    "start": 41,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/YEP-6.jpg"
+  },
+  "drupalNid": "159",
+  "drupalPath": "/visit-us/young-explorer-pack",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For visitors aged 5-10, we have a free Young Explorer Pack. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

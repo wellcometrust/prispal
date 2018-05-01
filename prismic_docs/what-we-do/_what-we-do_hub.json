@@ -1,0 +1,74 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "What is The Hub?",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Located at the top of Wellcome Collection, The Hub is a dynamic transdisciplinary research space where people from different backgrounds and with a range of expertise collaborate on projects exploring medicine, life and art. The central residents are the recipients of The Hub Award, a grant of £1 million spread over two years that brings together a team for cross-disciplinary work around a theme linked to Wellcome’s mission of improving health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Hub is also a focal point of research into transdisciplinary practice, exploring how new knowledge is formed and how different perspectives can produce new insights into what it is to be human. This is achieved through bringing together practitioners, holding workshops, developing collaborative projects, and engaging with people through Ideas Hub, a week-long programme of activities and workshops.",
+                "spans": [
+                  {
+                    "start": 343,
+                    "end": 352,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/ideas-hub"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20web%20resize.jpg"
+  },
+  "drupalNid": "4",
+  "drupalPath": "/what-we-do/hub",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dynamic transdisciplinary space where creative minds collaborate on projects exploring medicine, life and art.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Introducing Henry Wellcome",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "The man behind Wellcome Collection ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 35,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Sir Henry Solomon Wellcome (1853-1936): Pharmacist, entrepreneur, philanthropist and collector.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Henry Wellcome had an early interest in medicine and marketing. The first product he advertised was 'invisible ink' (just lemon juice, in fact). In 1880, he joined his college friend Silas Burroughs in setting up a pharmaceutical company, Burroughs Wellcome & Co. They were one of the first to introduce medicine in tablet form under the 1884 trademark 'Tabloid' previously medicines had been sold as powders or liquids.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When Burroughs died in 1895, the company flourished under Sir Henry's leadership. He went on to establish world-class medical research laboratories and amassed the world' s most impressive collections relating to medicine and health through the ages.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is now housed in the original Wellcome Building (built to Sir Henry's specifications in 1932), which is next door to the headquarters of the Wellcome Trust, his philanthropic legacy. His vision was to create a space to house his collections, where professionals could come to learn more about the development of medicine and medical science.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Learn more about the life of our extraordinary founder",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 54,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/About-us/History/index.htm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/henrywellcome.jpg"
+  },
+  "drupalNid": "164",
+  "drupalPath": "/what-we-do/introducing-henry-wellcome",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The man behind Wellcome Collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

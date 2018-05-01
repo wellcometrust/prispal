@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Medicine Corner",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Medicine Corner is a programme of activity exploring India's rich plurality of cultures of medicine, healing and well-being, culminating in a major exhibition that opens in Mumbai in January 2016. Through music, displays, video and live events across the country, incurably curious audiences in India will encounter an aesthetically seductive, intellectually rich mix of art, science and the extraordinary in everyday life. The project will present medicine in India across time, regions and knowledge systems.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Medicine Corner will take in health practices with ancient roots and widespread, modern application, such as Ayurveda and Unani, and will also highlight India’s role as an engine of cutting-edge medicine and research today and in the past. The programme will explore medicine as an integral, pervasive feature of Indian life.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Medicine Corner is being developed by partners and communities in India and the outcomes of the project will inspire a future exhibition at Wellcome Collection in London. For a taste of what's been happening in India and what to look forward to in London, watch this short video filmed in Dharavi, Mumbai's largest informal settlement. It shows the extraordinary results of signboard painters trying their hand at sitting portraits.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visit the Medicine Corner website.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://medicinecorner.in/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/medicine-corner.png"
+  },
+  "drupalNid": "2381",
+  "drupalPath": "/medicinecorner",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A programme of activity exploring India's rich plurality of cultures of medicine, healing and well-being.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

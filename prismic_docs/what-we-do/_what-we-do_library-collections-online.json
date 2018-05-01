@@ -1,0 +1,126 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Library collections online",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library is one of the world's major resources for the study of medical history. They are developing a world-class online resource for the history of medicine by digitising a substantial proportion of its holdings and making the content freely available on the web.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the library's collections online.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Library’s digital collections are growing to include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "cover-to-cover books",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "video and audio",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "entire archive collections and manuscripts",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "paintings, prints, drawings, photographs, ephemera and more.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visit the Wellcome Library website to find out more about their digitisation programme.",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 86,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/about-us/projects/digitisation/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/library-collections-online-main.jpg"
+  },
+  "drupalNid": "2017",
+  "drupalPath": "/what-we-do/library-collections-online",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library is one of the world's major resources for the study of medical history.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

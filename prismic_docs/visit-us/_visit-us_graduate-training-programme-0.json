@@ -1,0 +1,91 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Graduate Training Programme",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Trust's two-year graduate development programme is your opportunity, as a recent graduate (or Master's graduate), to help shape the future of science-related research, education and arts, while gaining specialist experience in wide range of areas including funding, policy, finance, investing, engagement, communications or operations.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the programme on the Wellcome Trust website.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 63,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/about-us/jobs/graduate-development-programme/index.htm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "See all current vacancies at the Wellcome Trust.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 47,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/jobs"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/grads.jpg"
+  },
+  "drupalNid": "3337",
+  "drupalPath": "/visit-us/graduate-training-programme-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our two-year programme is your opportunity to help shape the future of science-related research, education and arts.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

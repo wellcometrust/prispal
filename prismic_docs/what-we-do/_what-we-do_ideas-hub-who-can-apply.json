@@ -1,0 +1,186 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Who can apply to Ideas Hub?",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You can apply to Ideas Hub if:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you can attend Wellcome Collection in central London for the week of 3–7 September 2018",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you will be over the age of 18 by 3 September 2018 (there’s no upper age limit)",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you have a minimum of 2 years’ work or professional experience – this could be through full-time or part-time jobs, apprenticeships, internships, freelance work or anything equivalent",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We can't consider your application if you:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "have been employed in a non-freelance capacity by Wellcome in the last 12 months",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "have taken part in Wellcome’s graduate development programme, or have applied for the 2018 graduate programme intake",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "will be a Wellcome grant holder in September 2018",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Who Ideas Hub is for",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ideas Hub is for you if:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you are fascinated by the links between science, medicine, life and art",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you can work constructively and respectfully in a team with diverse backgrounds and opinions",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you feel that Ideas Hub will be beneficial to you at this point in your career. You might be at an early stage in your career or at a point where you’re thinking about change – maybe you’re looking to move into a different line of work, maybe you’re not sure what you’d like to do or maybe you just want a chance to develop your skills and discover new possibilities",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you have an interest in exploring different ideas, viewpoints and ways of working",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you’re excited about trying new activities and keen to step outside your comfort zone and learn from new experiences",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "you feel that you would be able to use your skills and experience to actively participate in Ideas Hub and contribute your own views and perspectives",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome is committed to diversity and inclusion, and we recently made this one of our priority areas. We encourage and welcome applications from people of all backgrounds.",
+                "spans": [
+                  {
+                    "start": 87,
+                    "end": 101,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/what-we-do/our-work/diversity-and-inclusion"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You don’t need to have any particular background, expertise or level of education. We want a really mixed group, and it doesn’t matter if you don’t know anything about science or medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20image%203%20resize%20%20.jpg"
+  },
+  "drupalNid": "4063",
+  "drupalPath": "/what-we-do/ideas-hub-who-can-apply",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about who Ideas Hub is for and whether it's right for you.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

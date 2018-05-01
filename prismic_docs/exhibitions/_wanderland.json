@@ -1,0 +1,111 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds Wanderland",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "An activity-based adventure for daydreamers and doers",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Meander your way through Wanderland to explore mind-wandering, day-dreaming and doodling.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When does your mind wander, and where does it go? Despite their negative reputation, might boredom, mind-wandering and doodling benefit us? Using creative cues to spark your imagination, let your mind roam in Wanderland while you explore, draw, make and do.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This installation has been created and curated by a group of young people from RawMinds, Wellcome Collection’s creative programme for 14-to-19-year-olds, working with artist Joceline Howe.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The group were inspired by the work of Hubbub, a Wellcome-funded interdisciplinary group of researchers, scientists and artists who have spent two years investigating the theme of rest and its opposites.",
+                "spans": [
+                  {
+                    "start": 39,
+                    "end": 45,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you would like to explore this theme further, you can visit hubbub’s free exhibition, ‘Rest and its discontents’, at The Mile End Pavilion, 30 September-30 October.",
+                "spans": [
+                  {
+                    "start": 63,
+                    "end": 115,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/event/rest-discontents/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/wanderlandtemp.png"
+  },
+  "drupalNid": "3457",
+  "drupalPath": "/wanderland",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Meander your way around Wanderland, responding to creative cues to explore how our minds wander.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Festive Opening Hours",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Please also note that there will be no First Friday late opening on Friday 5 January 2018",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Making-Nature-main_0.png"
+  },
+  "drupalNid": "3567",
+  "drupalPath": "/visit-us/festive-opening-hours",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "See our 2016 festive opening hours.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

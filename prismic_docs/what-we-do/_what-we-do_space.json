@@ -1,0 +1,71 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The space",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Located on the 5th floor of Wellcome Collection, The Hub is a dedicated space in which residents can think creatively, collaborate openly and exchange ideas freely.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Though closed to the public, The Hub demonstrates Wellcome’s commitment to supporting interdisciplinary research, and brings this right to the heart of its dynamic museum, library and public space.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Keep your eyes peeled for upcoming events in Wellcome Collection led by the Hub residents as well as interventions and experiments in the Reading Room.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/The-Hub-Hubbub.png"
+  },
+  "drupalNid": "200",
+  "drupalPath": "/what-we-do/space",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Discover more about the dynamic and flexible space. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

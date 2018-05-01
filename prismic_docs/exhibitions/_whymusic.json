@@ -1,0 +1,157 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Why Music? The Key to Memory",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Join BBC Radio 3 and Wellcome Collection to explore music and memory with a special weekend of live broadcasts, concerts and events.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the help of acclaimed musicians, scientists and experts, ‘Why Music? The Key to Memory’ explores the implications of music’s unique capacity to be remembered, and keep us in the moment, through wide-ranging discussions and live performances.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One-off programmes, world premieres and live music from the weekend will be broadcast on BBC Radio 3, and will also be available on BBC iPlayer for 30 days afterwards.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "All tickets are FREE. Tickets will become available from 11:00 on Friday 29 September.Find out about extended opening hours and plan your visit. ",
+                "spans": [
+                  {
+                    "start": 86,
+                    "end": 86,
+                    "data": {}
+                  },
+                  {
+                    "start": 86,
+                    "end": 145,
+                    "data": {}
+                  },
+                  {
+                    "start": 86,
+                    "end": 145,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/planning-your-visit-during-why-music-key-memory"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Why Music? The Key to Memory’ is a partnership between BBC Radio 3 and Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For blind and partially sighted visitors",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Throughout the weekend, there will be Visitor Experience Assistants available who are trained in audio description. If you would like Audio Description support or have any access-related queries, please email us at access@wellcomecollection.org or call 020 7611 2222. You can also speak to a member of staff in person at the information desk on the ground floor.",
+                "spans": [
+                  {
+                    "start": 215,
+                    "end": 244,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:access@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about accessibility at Wellcome Collection.",
+                "spans": [
+                  {
+                    "start": 20,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/accessibility"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/web%20graphic.jpg"
+  },
+  "drupalNid": "3946",
+  "drupalPath": "/whymusic",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "BBC Radio 3 and Wellcome Collection explored music and memory with a special weekend of live broadcasts, concerts and events.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

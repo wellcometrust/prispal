@@ -1,0 +1,407 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "About Empathy Deck",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is Empathy Deck?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck is an art commission for Wellcome Collection by Erica Scourti, part of our exhibition ‘Bedlam: the asylum and beyond’.",
+                "spans": [
+                  {
+                    "start": 100,
+                    "end": 129,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It is a Twitter bot which generates responses to tweets by its followers. It makes new ‘cards’ from an imaginary, infinite deck of possible responses, composed of images and text generated from Erica’s personal diary and various self help and therapeutic texts. Cards are a gift for the recipient at that moment in time. Empathy Deck also occasionally makes cards for itself.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck is not intended to provide genuine therapy or advice. If you, or somebody you know, would like mental health advice or support you can contact the following resources:",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 65,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Samaritans 116 123 jo@samaritans.org",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://Samaritans.org"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 19,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:jo@samaritans.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mind 0300 123 3393 info@mind.org.uk",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://mind.org.uk"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 4,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 19,
+                    "end": 35,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@mind.org.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Camden and Islington NHS Foundation Trust Crisis Team 020 3317 6777 ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 53,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.candi.nhs.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How do I get a reply from Empathy Deck?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You must be following @empathydeck on Twitter; it will follow you back a short while after you follow it. Then, if you say anything that it feels it can empathise with, it might make you a card. It doesn’t respond to all tweets, and it responds infrequently; it’s looking for those particular tweets that might be suitable for an empathetic response.",
+                "spans": [
+                  {
+                    "start": 22,
+                    "end": 45,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/empathydeck"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are no guarantees of a response. The Empathy Deck will not reply to retweets, and it won’t get involved in conversations you’re already having. If you tweet regularly, you’ll probably receive something every few days from it at most.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "I want to see what Empathy Deck is doing but I do not want it to reply to me. Is that possible?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you follow it, it will probably follow you back - that’s how it works. You can always visit its Twitter page to view the latest output and responses without having to follow it.",
+                "spans": [
+                  {
+                    "start": 89,
+                    "end": 111,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/empathydeck"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How do I stop getting replies from Empathy Deck?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Simply unfollow Empathy Deck on Twitter, and within an hour or so it will unfollow you back.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "I have a problem with or question about something Empathy Deck has done.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have a problem with or question about Empathy Deck, please contact empathydeck@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 74,
+                    "end": 100,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:empathydeck@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Empathy Deck has sent me something that doesn’t quite make sense.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our bot is doing its best, and the card that it offers is always in good faith. It doesn’t always get it right, but then few of us do.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How does Empathy Deck work?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The technology behind Empathy Deck was built by Tom Armitage. The Deck creates responses by observing the users who follow it on Twitter. When a user says something that it can respond to, it creates a brand new card, just for them, as a gift.",
+                "spans": [
+                  {
+                    "start": 48,
+                    "end": 60,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://tomarmitage.com/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It responds to straightforward tweets, rather than replies to other users or retweets. It’s more likely to respond to tweets which contain descriptions of feelings or situations that also appear in Erica’s personal diary. It doesn’t just look for matching words; it also looks for similar usage and context.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The text on cards comes from a combination of texts including Erica Scourti’s diary and self-help texts. The text is stitched together using computational logic, but it is almost never artificially ‘generated’ - you’ll almost always be receiving words that Erica has written. There is a single style of card that does generate text; this style will try to make new fragments of Erica’s diary.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The cards are drawn in one of four styles designed by Erica. Once the Deck has chosen a style of card and some text, it tries to add an image sticker to the card that it feels is relevant to the text. Then it sends the card to that user as a Twitter reply.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Empathy Deck tries to be a good citizen on Twitter. It doesn’t instantly follow users back; it won’t follow back suspect or spammy accounts; it won’t repeatedly bombard you with responses; it won’t respond to things it feels may be problematic; it also filters its own output to avoid causing offense.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bedlam: the asylum and beyond.",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/empathy-deck_1.jpg"
+  },
+  "drupalNid": "3541",
+  "drupalPath": "/visit-us/about-empathy-deck",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is Empathy Deck, and how does it work?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

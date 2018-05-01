@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Art in Global Health",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Art in Global Health' has set up six artist residencies in six Wellcome Trust-funded research centres as a way of teasing out some of the more personal, philosophical, cultural and political dimensions of health research.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/art%20in%20global%20health.jpg"
+  },
+  "drupalNid": "1981",
+  "drupalPath": "/what-we-do/art-global-health",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Art in Global Health' has set up six artist residencies in six Wellcome Trust-funded research centres.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Accessibility",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is wheelchair accessible, and offers a range of services for visitors with disabilities. These services can be explored below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For more information about access at Wellcome Collection, or to discuss in detail how we might best cater to your specific needs, please contact us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Telephone: +44 (0)20 7611 2222",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Email: access@wellcomecollection.org",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 7,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:access@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/STT-secret-temple-tour-main.jpg"
+  },
+  "drupalNid": "160",
+  "drupalPath": "/visit-us/accessibility",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is wheelchair-accessible and offers a range of services for visitors with disabilities.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

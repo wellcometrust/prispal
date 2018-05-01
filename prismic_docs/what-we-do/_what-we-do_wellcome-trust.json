@@ -1,0 +1,150 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Trust",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 49,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Trust is a global charitable foundation dedicated to improving health. We support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our investment portfolio gives us the independence to support such transformative work as the sequencing and understanding of the human genome, research that established front-line drugs for malaria, and Wellcome Collection, our free venue for the incurably curious that explores medicine, life and art.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our broadly defined mission allows us to respond flexibly to medical needs and scientific opportunities. As well as tackling immediate priorities, our independence and long-term perspective enable us to support research that will benefit future generations.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the Wellcome Trust",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/About-us/index.htm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Several major successes have been achieved through Wellcome Trust funding: see the Wellcome Trust website for more information.",
+                "spans": [
+                  {
+                    "start": 83,
+                    "end": 105,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/Achievements-and-Impact/index.htm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Keep up to date with Trust news",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 31,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To keep up to date with the latest news from the Wellcome Trust, you can visit the Wellcome Trust news page and subscribe to our weekly email or news feeds.",
+                "spans": [
+                  {
+                    "start": 83,
+                    "end": 107,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/News/News-feeds/index.htm"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/WTD027468.jpg"
+  },
+  "drupalNid": "165",
+  "drupalPath": "/what-we-do/wellcome-trust",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

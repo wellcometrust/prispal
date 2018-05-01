@@ -1,0 +1,316 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Kitchen",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Something for everyone",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Join us for morning coffee from 11.00, delicious lunches, lighter plates, traditional afternoon tea daily from 15.00, and dinner on Thursday evenings. Located opposite the stunning Reading Room on level 2 and seconds away from an original Picasso drawing from 1950, Wellcome Kitchen the perfect space to relax and unwind. ",
+                "spans": [
+                  {
+                    "start": 181,
+                    "end": 193,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/readingroom"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All dishes are freshly prepared on-site using locally-sourced ingredients and Wellcome Kitchen is fully licensed.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Jasmine Hemsley's East By West menu",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This special menu (pictured) has been created by Jasmine Hemsley to celebrate our Ayurvedic Man exhibition. Recipes have been taken from Jasmine’s new cookbook East by West: Simple Recipes for Ultimate Mind-Body Balance (£25), available to buy in Wellcome Shop.",
+                "spans": [
+                  {
+                    "start": 82,
+                    "end": 95,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/WduTricAAN7Mt8yY"
+                    }
+                  },
+                  {
+                    "start": 160,
+                    "end": 219,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Choose from:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Moroccan carrot soup, sourdough and butter (v) £6.50 Jasmine says: \"This favourite is infused with Ayurvedic spices cumin and allspice, with Aleppo pepper for extra warmth.\"",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 42,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 52,
+                    "end": 52,
+                    "data": {}
+                  },
+                  {
+                    "start": 52,
+                    "end": 173,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Coconut, squash, lentil and leek curry with seasonal greens (v) £12.50 Jasmine says: \"Ask your waiter if you want this spiced up with some chilli - or keep it mild if you prefer!\"",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 59,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 70,
+                    "end": 70,
+                    "data": {}
+                  },
+                  {
+                    "start": 70,
+                    "end": 179,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ginger anise chew £2.00 Jasmine says: \"These Ayurvedic sticky treats contain ginger and fennel seed, said to aid digestion, and go wonderfully with herbal tea.\"",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 23,
+                    "end": 23,
+                    "data": {}
+                  },
+                  {
+                    "start": 23,
+                    "end": 160,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Menus",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 5,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All Day Dining Menu (156 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 28,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome_Hemsley_food_March2018_A5_4pp.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Afternoon Tea Menu (665 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome_Afternoon_Tea_Mar2018_A5web.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drinks Menu (75 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome_Drinks_March2018_A5_2pp.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Get in touch",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "T 0207 611 2066",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 1,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "E wellcomekitchen@benugo.com",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 1,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 2,
+                    "end": 28,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:wellcomekitchen@benugo.com"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Jsamine%201600x900%20smaller.jpg"
+  },
+  "drupalNid": "2008",
+  "drupalPath": "/visit-us/wellcome-kitchen",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Hungry for more? Join us for delicious lunches, drinks and afternoon tea on level 2.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

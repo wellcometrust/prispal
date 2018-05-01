@@ -1,0 +1,74 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Location",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Just a short distance from Euston, King's Cross and surrounding underground stations, Wellcome Collection has an impressive location and easy accessibility from Euston Road.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection Conference Centre is easily accessible by train, tube and bus. Check our \"Getting here\" page for more information. ",
+                "spans": [
+                  {
+                    "start": 94,
+                    "end": 106,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/getting-here"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Location.gif"
+  },
+  "drupalNid": "185",
+  "drupalPath": "/event-spaces/location",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

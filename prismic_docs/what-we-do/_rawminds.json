@@ -1,0 +1,132 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is RawMinds?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are a group of teenagers (age 14 to 19) who meet at Wellcome Collection during school holidays and at weekends to experiment with ideas, get creative, learn new skills and meet new people.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "So far we’ve curated an exhibition (The Human Emporium), produced the trailer above and a set of podcasts called Raw Emotion, and designed new merchandise for the Wellcome Shop.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 54,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/human-emporium"
+                    }
+                  },
+                  {
+                    "start": 113,
+                    "end": 124,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawemotion"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By experimenting with art through science and science through art, who knows what we’ll create next?",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How can I get involved?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All RawMinds activities are free to join and we have access to amazing facilities, including a state-of-the-art Youth Studio.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This summer, young people will be developing design concepts, drawings, scale models and prototypes for products using CNC technology (flat-pack/cut-out components).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A selection of the work generated during the project will go on display, alongside the ‘flat-pack’ medical clinic we’ll be using for inspiration.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Applications will open in early June, and workshops will take place in late July and August.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/RawMinds-main-2017.png"
+  },
+  "drupalNid": "2619",
+  "drupalPath": "/rawminds",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A youth engagement initiative for teenagers 14-19 to experiment with art and science, get creative and learn new skills.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

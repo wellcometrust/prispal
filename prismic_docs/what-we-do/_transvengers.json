@@ -1,0 +1,139 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Transvengers",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Transvengers comic was created by a group of young trans* people aged 13-19 from Gendered Intelligence.",
+                "spans": [
+                  {
+                    "start": 85,
+                    "end": 106,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://genderedintelligence.co.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It’s the group’s response to some of the themes and personalities in the 'Institute of Sexology' exhibition, informed by their own experiences as young trans people. The aim was to create a lighted hearted response to some really complicated ideas, in a way that everyone can understand and enjoy.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The group worked with artist Jason Barker to create the artwork and interviewed Dr Jana Funke as part of their research. Each person designed their own Transvengers character who travels back in time to challenge key sexologists and their ideas – many of which continue to shape society’s thinking about sex and gender today.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The comic was on display in the Institute of Sexology exhibition. You can view it online below.",
+                "spans": [
+                  {
+                    "start": 32,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/institute-sexology"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Transvengers is a Wellcome Collection Youth Programme project.",
+                "spans": [
+                  {
+                    "start": 18,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/youth-and-schools"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "* Someone who (at least partially) disagrees with the gender they were assigned at birth.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of The Institute of Sexology",
+                "spans": [
+                  {
+                    "start": 9,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/institute-sexology"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/transvenger.jpg"
+  },
+  "drupalNid": "2278",
+  "drupalPath": "/transvengers",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Transvengers webcomic was created by a group of young trans people aged 13-19 from Gendered Intelligence.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Williams Lounge",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a spacious breakout area sold alongside the Henry Wellcome Auditorium or available alone for evening events. The Williams Lounge is ideal for delegate registration, sponsor stands, and serving food and drink. Within the space there are two smaller glass offices, which can be used as an organisers' office, a speakers' room or cloakroom space.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are three personal computer terminals and a printer available for use, allowing delegates and speakers to access the internet or make last-minute amendments to their presentations. The area has completely flexible seating, allowing for a café-style set-up perfect for daytime conferences or the use of cocktail tables for a post-event reception.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Look around Wellcome Collection's conference centre using Google's \"See inside\" function",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 88,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.google.co.uk/maps/@51.5259696,-0.1340397,3a,75y,256.82h,83.08t/data=!3m5!1e1!3m3!1s3t-KTdinZ84AAAQY8CnQpQ!2e0!3e2!6m1!1e1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Capacities",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Features",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Two lockable office spaces",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Complimentary WiFi",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "AV",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Three PCs",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Printer",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Floorplan",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Williams_landing_650x340.jpg"
+  },
+  "drupalNid": "189",
+  "drupalPath": "/what-we-do/williams-lounge",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a spacious breakout area sold alongside the Henry Wellcome Auditorium or available alone for evening events. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

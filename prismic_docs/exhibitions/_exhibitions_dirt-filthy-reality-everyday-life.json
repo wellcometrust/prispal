@@ -1,0 +1,125 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dirt: The filthy reality of everyday life",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Dirt' reveals the fascinating world of filth that remains one of the very last taboos.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our major new exhibition takes a closer look at something that surrounds us but that we are often reluctant to confront. 'Dirt' travels across centuries and continents to explore our ambivalent relationship with dirt.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bringing together around 200 artefacts spanning visual art, documentary photography, cultural ephemera, scientific artefacts, film and literature, the exhibition uncovers a rich history of disgust and delight in the grimy truths and dirty secrets of our past, and points to the uncertain future of filth, which poses a significant risk to our health but is also vital to our existence.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Following anthropologist Mary Douglas's observation that dirt is 'matter out of place', the exhibition introduces six very different places as a starting point for exploring attitudes towards dirt and cleanliness: a home in 17th-century Delft in Holland, a street in Victorian London, a hospital in Glasgow in the 1860s, a museum in Dresden in the early 20th century, a community in present day New Delhi and a New York landfill site in 2030.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Highlights include paintings by Pieter de Hooch, the earliest sketches of bacteria, John Snow's 'ghost map' of cholera, beautifully crafted delftware, Joseph Lister's scientific paraphernalia and a wide range of contemporary art, from Igor Eskinja's dust carpet, Susan Collis's bejewelled broom and James Croak's dirt window, to video pieces by Bruce Nauman and Mierle Ukeles and a specially commissioned work by Serena Korda.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Part of the Dirt Season from the Wellcome Trust.",
+                "spans": [
+                  {
+                    "start": 12,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/node/1192"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition is free. See opening hours",
+                "spans": [
+                  {
+                    "start": 29,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/opening-hours"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Photography is not permitted in this exhibition",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/dirt_letterbox.jpg"
+  },
+  "drupalNid": "33",
+  "drupalPath": "/exhibitions/dirt-filthy-reality-everyday-life",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Dirt' reveals the fascinating world of filth that remains one of the very last taboos.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

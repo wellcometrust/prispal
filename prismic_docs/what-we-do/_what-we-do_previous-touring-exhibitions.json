@@ -1,0 +1,260 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Previous touring exhibitions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Infinitas Gracias - Infinite Thanks, Lyth Arts Centre, Lyth, UK.",
+                "spans": [
+                  {
+                    "start": 37,
+                    "end": 53,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Bobby Baker: Diary Drawings, Ovartaci Museum, Aarhus, Denmark.",
+                "spans": [
+                  {
+                    "start": 29,
+                    "end": 44,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, Royal United Hospital, Bath, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 57,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Felicity Powel: Charmed Life, Winchester Discovery Centre, Winchester, UK.",
+                "spans": [
+                  {
+                    "start": 30,
+                    "end": 57,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Skeletons: London's Buried Bones, Willis Museum, Basingstoke, UK.",
+                "spans": [
+                  {
+                    "start": 34,
+                    "end": 47,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Sigune Hamann: Wave, Manchester Museum of Science & Industry, Manchester, UK.",
+                "spans": [
+                  {
+                    "start": 21,
+                    "end": 60,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, Jersey Arts Centre, St Helier, Jersey.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 54,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Brains: the Mind as Matter, Manchester Museum of Science & Industry, Manchester, UK.",
+                "spans": [
+                  {
+                    "start": 28,
+                    "end": 67,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, The Point, Doncaster, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 45,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, Thackray Medical Museum, Leeds, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 59,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Chris Dorley-Brown: 15 Seconds part 3, firstsite, Colchester, UK.",
+                "spans": [
+                  {
+                    "start": 39,
+                    "end": 48,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Bobby Baker: Diary Drawings, Kunsthalle, Stavanger, Norway, UK.",
+                "spans": [
+                  {
+                    "start": 29,
+                    "end": 39,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, Yeovil District Hospital, Yeovil, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 60,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, The Courtyard, Hereford, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 49,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Georgie Meadows: Stitched Drawings, Beady House of Knowledge, Canterbury, UK.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 60,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/idoc2.jpeg"
+  },
+  "drupalNid": "1985",
+  "drupalPath": "/what-we-do/previous-touring-exhibitions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A look at some of the past touring exhibitions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

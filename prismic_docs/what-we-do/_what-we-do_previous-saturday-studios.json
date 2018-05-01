@@ -1,0 +1,49 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Previous Saturday Studios",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": []
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Saturday-Studio.png"
+  },
+  "drupalNid": "3357",
+  "drupalPath": "/what-we-do/previous-saturday-studios",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Browse our previous Saturday Studio events to get a flavour of the programme.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

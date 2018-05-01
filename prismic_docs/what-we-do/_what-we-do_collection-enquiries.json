@@ -1,0 +1,307 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Collection enquiries",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Guidance for researchers about Henry Wellcome' s collection of over one million curios, spanning centuries and civilisations",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Donations and acquisitions",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We understand the enthusiasm of our visitors, who often have interesting or unusual objects they feel would make a perfect addition to our exhibitions. Unfortunately, however, the Wellcome Trust is no longer actively adding to its collections, with the exception of the Wellcome Library.",
+                "spans": [
+                  {
+                    "start": 270,
+                    "end": 286,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have a book, manuscript, print, painting, photograph or film that you think would complement the Library's collection, please  contact the Library by email or letter, providing details of the item you wish to donate. The Library may also be able to advise on where best to donate any materials that fall outside its remit.",
+                "spans": [
+                  {
+                    "start": 133,
+                    "end": 153,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/using-the-library/services-and-facilities/contact-us/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "See full details of the Library's donation policy.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/about-us/developing-and-caring-for-our-collections/donating-material/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Objects on current public display at Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 56,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If your enquiry is about an object currently on public display in the Wellcome Collection galleries, please email info@wellcomecollection.org and we will be happy to provide you with as much information as we can about the object in question.",
+                "spans": [
+                  {
+                    "start": 114,
+                    "end": 141,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Library materials",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If your enquiry is about a print, book, manuscript or painting currently stored in the Wellcome Library, please email our Library team at library@wellcome.ac.uk or  fill out the Library' s enquiry form.",
+                "spans": [
+                  {
+                    "start": 138,
+                    "end": 160,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:library@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 164,
+                    "end": 201,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/using-the-library/services-and-facilities/contact-us/contact-form"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Objects collected by Henry Wellcome or the Wellcome Foundation",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 62,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Unfortunately, we are unable to answer questions about the following sets of objects:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "objects previously on display in the Wellcome Building (183 Euston Road) before 2007",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "objects that were on public display at the former Wellcome Historical Medical Museum (WHMM) or Wellcome Museum of Medical Science (WMMS), now dissolved",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "objects forming part of Sir Henry Wellcome' s wider historical collection that are not on public display at Wellcome Collection, or that are in storage or on display in other institutions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For objects that fall into one of these categories, we would initially advise you to contact the  Science Museum, where many of these objects were transferred. The Science Museum remains the permanent custodian of the vast majority of Henry Wellcome' s collection, estimated to consist of between 1 and 2 million objects.",
+                "spans": [
+                  {
+                    "start": 97,
+                    "end": 112,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.sciencemuseum.org.uk/about_us/about_the_museum/collections/enquiries.aspx"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library holds accession and transfer records from the former Wellcome Historical Medical Museum (WHHM), now dissolved. These have been catalogued and can be viewed in person in the Wellcome Library, although researchers should be aware that because of the sheer scale of Henry Wellcome' s collection it has not been possible to catalogue it to the object level.",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 20,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please note that we are unable to undertake research on behalf of researchers or Museum Studies students; they should visit the Wellcome Library in person to carry out research in our archives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Objects in your possession",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you would like advice about a medical object in your possession, it is possible to email the London Museums of Health and Medicine, which is a network consortium of over 20 separate London medical museums (including Wellcome Collection and the Science Museum), at enquiries@medicalmuseums.org. They may be able to pool together advice from across several specialist sites.",
+                "spans": [
+                  {
+                    "start": 267,
+                    "end": 295,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:enquiries@medicalmuseums.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/collection-enquiries-main.jpg"
+  },
+  "drupalNid": "168",
+  "drupalPath": "/what-we-do/collection-enquiries",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Guidance for researchers about Henry Wellcome's collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

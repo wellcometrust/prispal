@@ -1,0 +1,105 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Chorus online by Matthew Herbert",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore Chorus online",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://chorus.wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Prolific and accomplished British electronic musician Matthew Herbert is renowned for manipulating everyday sounds and bodily experiences to produce electronic music. Chorus asks visitors to sing a single note within a professional recording booth following a set of instructions. The visitors’ voices are then automatically added to a chorus of voices, including performers and staff from the Royal Opera House, forming an ever-expanding sound installation that plays in the exhibition space and at the Royal Opera House’s Stage Door in Covent Garden.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore Chorus online using the interactive tools to adjust the voices and add your own.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://chorus.wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Installation photograph: Michael Bowles",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/chorus-installation.jpg"
+  },
+  "drupalNid": "3301",
+  "drupalPath": "/chorus",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An ever-expanding sound installation featuring visitors’ voices. Explore the chorus and adjust the voices.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

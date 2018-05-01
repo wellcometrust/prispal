@@ -1,0 +1,182 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Group visits",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Thinking of bringing a group to Wellcome Collection?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 52,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We ask all groups of more than 10 people to inform us of their visit - please email groups@wellcomecollection.org or call 0207 611 2222 to let us know your plans.",
+                "spans": [
+                  {
+                    "start": 84,
+                    "end": 113,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:groups@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Please note we have groups booked in at 11.30-12.00 and 14.30-15.00, so to get the most out of your visit, please avoid these times where possible. We offer free guided tours for groups of 8-20 at these times, however these sessions tend to be popular and book out quickly. We require at least three weeks notice in order to arrange staff for these tours. Please allow a week for us to respond to your enquiry in case we are particularly busy in the galleries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " For BSL interpreted, speech-to-text-transcribed, or audio described events and tours, or for any other accessibility related enquiries, please email access@wellcomecollection.org or call 020 7611 2222.",
+                "spans": [
+                  {
+                    "start": 150,
+                    "end": 179,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:access@wellcomecollection.org?subject=Access%20Tours"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Breakout and teaching spaces",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 28,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Unfortunately we are unable to provide a dedicated space for groups to use for teaching purposes or picnics as part of a visit to Wellcome Collection. Groups are welcome to enjoy the café or restaurant, but only food from the venue can be consumed in these areas. The cafe is first come, first seated, however you can book a table in Wellcome Kitchen, our restaurant on level 2. Several  nearby parks may provide a scenic alternative for picnics in summer. Alternatively, the Plaza outside Euston Station has picnic tables available for public use.",
+                "spans": [
+                  {
+                    "start": 334,
+                    "end": 350,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/wellcome-kitchen"
+                    }
+                  },
+                  {
+                    "start": 387,
+                    "end": 400,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.google.com/maps?f=q& source=s_q& hl=en& geocode=& q=London+NW1+2BE,+United+Kingdom& aq=0& vps=1& sll=37.0625,-95.677068& sspn=30.875284,56.337891& ie=UTF8& hq=& hnear=London+NW1+2BE,+United+Kingdom"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please note: our galleries are closed on Mondays and all group visits are subject to the availability of exhibitions. We consider our gallery content to be most suitable for visitors aged 14+. If you are planning on bringing a group under the age of 14, please call 020 7611 2222 or email info@wellcomecollection.org to discuss the content of our exhibitions. All visitors should be aware that our permanent exhibitions and many of our special exhibitions contain human remains, objects with sexual content and images of graphic surgical procedures.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 289,
+                    "end": 316,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/tours-nelly-main.jpg"
+  },
+  "drupalNid": "5",
+  "drupalPath": "/visit-us/group-visits",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about group visits and tours.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Curiosities from the Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Have you ever wondered about the history, significance or meaning of an object from Wellcome Collection? Our knowledgeable staff explain more in this selection of curious videos.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From a set of over a hundred books (each a thousand pages long) listing the 3.4 billion units of DNA code to a resuscitation method involving tobacco smoke applied via the rectum, there is always something new to learn. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Watch the videos below or subscribe to our YouTube channel to receive the latest video update.",
+                "spans": [
+                  {
+                    "start": 43,
+                    "end": 58,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.youtube.com/user/WellcomeCollection"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Genome.png"
+  },
+  "drupalNid": "3227",
+  "drupalPath": "/visit-us/curiosities-month",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of videos exploring our fascinating collections.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

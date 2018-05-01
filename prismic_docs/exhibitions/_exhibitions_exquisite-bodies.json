@@ -1,0 +1,70 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Exquisite Bodies",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In the 19th century, despite the best efforts of body snatchers, the demand from medical schools for fresh cadavers far outstripped the supply. One solution to this gruesome problem came in the form of lifelike wax models. These models often took the form of alluring female figures that could be stripped and split into different sections. Other models were more macabre, showing the body ravaged by 'social diseases' such as venereal disease, tuberculosis and alcohol and drug addiction.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With their capacity to titillate as well as educate, anatomical models became sought-after curiosities, displayed not only in dissecting rooms but also in sideshows and the curiosity cabinets of wealthy Victorian gentlemen. For a small admission fee, visitors seeking an unusual afternoon's entertainment could visit displays of these strange dolls in London, Paris, Brussels and Barcelona.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition explores the forgotten history of the anatomical model, which with its unique combination of serious science and fairground horror provides a rare insight into 19th-century beliefs about the body.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/exquisitebodies_650x245.jpg"
+  },
+  "drupalNid": "15",
+  "drupalPath": "/exhibitions/exquisite-bodies",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition explores the forgotten history of the anatomical model.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

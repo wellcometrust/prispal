@@ -1,0 +1,119 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Medicine Now Gallery",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One of three engaging public exhibition gallery spaces open to the general public, 'Medicine Now' also lends itself to private and completely unique evening reception events where curious minds are fed with fascinating objects at every turn. ' Medicine Now' takes an intriguing look at modern scientific issues around the world, as seen through the eyes of artists, scientists and patients, and provides a thought-provoking backdrop and talking point for the most lively of networking sessions. Among other exhibits in ' Medicine Now' , you can see a 4ft jelly baby, a printout of the entire human genome sequence and a gastrointestinal camera the size of a baked bean.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Capacities",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If required, we can also open 'Medicine Man' in conjunction with 'Medicine Now' .",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Medicine Man' is a treasure trove of around 500 fascinating exhibits from the more than a million objects Henry Wellcome collected during his lifetime including rare items such as Charles Darwin' s walking stick, a Chinese dragon chair and Florence Nightingale' s moccasins.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " Floorplan",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Medicine_Now_Gallery_landing_650.jpg"
+  },
+  "drupalNid": "193",
+  "drupalPath": "/event-spaces/rooms/medicine-now-gallery",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Medicine Now' also lends itself to private and completely unique evening reception events.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

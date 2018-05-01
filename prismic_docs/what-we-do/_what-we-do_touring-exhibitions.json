@@ -1,0 +1,102 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Touring exhibitions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Every year Wellcome Collection curates a diverse and vibrant temporary exhibitions programme and we are now offering a selection of these exhibitions to tour.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For more information get in touch with our Touring Exhibitions team.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Rachel Sturgis",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Touring Exhibitions Manager",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 7376",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "r.sturgis@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 24,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:r.sturgis@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/image/Touring_Maine_Letterbox.jpg"
+  },
+  "drupalNid": "1984",
+  "drupalPath": "/what-we-do/touring-exhibitions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A selection of the diverse and vibrant temporary exhibitions programme Wellcome Collection offers to tour.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

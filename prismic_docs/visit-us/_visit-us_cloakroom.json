@@ -1,0 +1,106 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Cloakroom",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The visitor cloakroom is currently situated on level 0 behind the information point.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Library users are not permitted to take coats or bags in the library and are asked to leave them in the cloakroom or lockers. We also ask that visitors to the exhibitions leave large luggage and umbrellas in the cloakroom.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A free cloakroom facility for all visitors to the Wellcome Collection and Library is in operation. No deposit is required: users will be issued with a returnable token in exchange for their possessions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A small number of lockers are also available for Library users and are situated in the Library foyer. These lockers require a £1 coin to operate them, which is returned after use. A change machine is available inside the Library and provides £1 coins. Any item remaining in the lockers at the end of the day will be removed by security and treated in the same way as lost property.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you require any information about the cloakroom facilities, please ask a member of the visitor service team.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " From Tuesday 7 May 2018 we are limiting the size of bags we are able to accept in the cloakroom.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We will be restricting the size of luggage and large bags you can store at Wellcome Collection to a standard ‘carry-on’ size. Any bags larger than 56cm x 45cm x 25cm cannot be stored in the cloakroom and will not be permitted into the gallery spaces for safety and security reasons. Luggage storage facilities are available nearby at Euston Station and King’s Cross Station.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exceptions: baby buggies and over-size bags containing necessary medical equipment, or for use in nursing and baby care, will be permitted, subject to the owners’ agreeing that these items may be searched on entry.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/cloakroom.png"
+  },
+  "drupalNid": "1936",
+  "drupalPath": "/visit-us/cloakroom",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The visitor cloakroom is currently situated on level 0 behind the information point.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

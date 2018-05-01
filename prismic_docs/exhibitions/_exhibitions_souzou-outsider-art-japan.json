@@ -1,0 +1,94 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Souzou: Outsider Art from Japan",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our spring exhibition brings together more than 300 works for the first major display of Japanese Outsider Art in the UK. The 46 artists represented in the show are residents and day attendees at social welfare institutions across Japan. The wonderfully diverse collection comprises ceramics, textiles, paintings, sculpture and drawings.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Souzou' has no direct translation in English but a dual meaning in Japanese: written one way, it means creation, and in another it means imagination. Both meanings allude to a force by which new ideas are born and take shape in the world.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition has been organised in association with Het Dolhuys, the Museum of Psychiatry in Haarlem (the Netherlands) and the Social Welfare Organisation Aiseikai (Tokyo). It reflects the growing acclaim for Outsider Art - often defined as works made by self-taught artists perceived to be at the margins of society - while questioning assumptions about the category itself.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Eschewing a purely biographical approach, the show will be object-led, with a startling array of works offering singular and affecting explorations of culture, memory and creativity. A series of documentary films featuring a selection of the exhibiting artists will play at the end of the exhibition.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This will be our last major exhibition before our exciting development project kicks off in summer 2013.",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 78,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/wellcome-collection-growing"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/suzou_trailer.jpg"
+  },
+  "drupalNid": "47",
+  "drupalPath": "/exhibitions/souzou-outsider-art-japan",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition features more than 300 works of Japanese Outsider Art.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

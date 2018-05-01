@@ -1,0 +1,63 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Humans and Animals",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The BBC World Service joins forces with Wellcome Collection to explore some of the biggest challenges facing our world today in a new programme of events and radio programmes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This event, which will take place with a live audience at Wellcome Collection, will be recorded and broadcasted on BBC World Service in March 2017.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Humans-and-animals-series.png"
+  },
+  "drupalNid": "3621",
+  "drupalPath": "/humans-animals",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of events in partnership with the BBC World Service looking at the relationship between humans and animals.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

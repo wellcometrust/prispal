@@ -1,0 +1,148 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hubbub",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Hubbub were the first group to complete their residency in The Hub, which ran from October 2014 to July 2016. The team comprised a rich network of scientists, artists, humanists, clinicians, public health experts, broadcasters and public engagement professionals, who came together to explore states of rest and noise, tumult and stillness, and the health implications for lives increasingly lived in a hubbub of activity.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Key outputs included:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The publication ‘Rethinking Interdisciplinarity Across the Social Sciences and Neurosciences’ by F Callard and D Fitzgerald (Palgrave Macmillan, 2015), which details the challenges and opportunities of interdisciplinary methodologies",
+                "spans": [
+                  {
+                    "start": 17,
+                    "end": 92,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.palgrave.com/us/book/9781137407955"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Rest Test, the largest ever survey on rest, launched on BBC Radio 4 and filled out by over 23,000 people from across the world.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/2015/11/03/the-rest-test1/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Hubbub Friday Late Spectacular, part of Wellcome Collection’s ‘Late’ series, showcasing some of Hubbub’s work one year in.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "‘Rest and its Discontents’, a free exhibition and event series held at Mile End Art Pavilion, which was accompanied by the book ‘The Restless Compendium’, edited by F Callard et al. (Palgrave Macmillan, 2016).",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 25,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/event/rest-discontents/"
+                    }
+                  },
+                  {
+                    "start": 129,
+                    "end": 152,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://rd.springer.com/book/10.1007/978-3-319-45264-7"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visit the Hubbub website for more information.",
+                "spans": [
+                  {
+                    "start": 10,
+                    "end": 24,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hubbub%20web%20resize.jpg"
+  },
+  "drupalNid": "4051",
+  "drupalPath": "/what-we-do/hubbub",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about Hubbub, our first residents. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

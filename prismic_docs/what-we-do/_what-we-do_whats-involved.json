@@ -1,0 +1,169 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "What's involved?",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What you'll do at Ideas Hub",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You will be part of a group of 20–25 people spending the week of 3–7 September 2018 at Wellcome Collection. Together, you’ll explore the links between science, medicine, life and art. You will take part in a challenging mix of activities designed to stimulate you and help you reflect, including:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "inspiring talks and workshops with professionals from a wide range of areas",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "creative challenges to get you thinking differently",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "thought-provoking visits to other organisations whose work relates to the theme",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "a bigger group project to really stretch your skills",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What you'll get from Ideas Hub",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your week at Ideas Hub will give you new inspiration and help you rethink where you might take your career. It will be:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "a way to build connections with different people and form a network that you can keep alive long after the event",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "an opportunity to explore alternative ways of doing things and challenge the ways you currently think and work",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "an invitation to be creative and explore your own ideas in a supportive environment",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "a chance to meet creative leaders from a range of sectors",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "a way to expand your understanding of the links between science, medicine, life and art",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We ran a one-day trial of Ideas Hub earlier in 2017. Here’s what some of the participants said about it:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "“I think the mix of approaches – lecture, group work, object work, the chance to be creative […], as well as analytical – was the most useful part.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "“I felt pushed, especially in the more creative tasks, as this isn’t how I’m used to working, but I enjoyed the challenge and sampling other ways of thinking and going about the activities.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "“I think the day has encouraged me to be more critical in my own work and challenge my own assumptions when approaching issues.”",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20image%202%20resize_1.jpg"
+  },
+  "drupalNid": "4062",
+  "drupalPath": "/what-we-do/whats-involved",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about what you'll do as part of Ideas Hub and where it might take you.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

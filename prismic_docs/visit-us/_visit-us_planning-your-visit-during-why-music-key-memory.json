@@ -1,0 +1,372 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Planning your visit during 'Why Music? The Key to Memory'",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "BBC Radio 3 will be broadcasting live from Wellcome Collection from Friday 13 to Sunday 15 October 2017 as part of the event series ‘Why Music? The Key to Memory’. Tickets for events are available now.",
+                "spans": [
+                  {
+                    "start": 132,
+                    "end": 163,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whymusic"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If a ticketed event is fully booked, a waiting list will be in operation in Wellcome Collection from an hour before the event’s start time, in keeping with our regular booking policy.",
+                "spans": [
+                  {
+                    "start": 168,
+                    "end": 182,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/events-tickets"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Café",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Listen to the broadcast as it happens in Wellcome Café.",
+                "spans": [
+                  {
+                    "start": 41,
+                    "end": 54,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/wellcome-caf%C3%A9"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Opening hours",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There will be extended opening hours over the weekend. Wellcome Café will also be open until 22.00 on Friday and Saturday night, so join us for a pre-performance drink. As live broadcasts will be taking place, there will be restricted access to the Reading Room over the weekend. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " Wellcome Café opening times",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 14,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/wellcome-caf%C3%A9"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Shop opening times ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 28,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://bookshop.blackwell.co.uk/bookshop/wellcomeshop/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Kitchen (Level 2) opening times",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/wellcome-kitchen"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Don’t miss these great offers in the café and kitchen over the weekend",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Café",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Kitchen",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Extra Bars",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A special bar will be open for ticket holders 30 minutes before the following events start:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "World on 3",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/world-3"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Hear and Now",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/hear-and-now-0"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Access is via Wellcome Shop in Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Exhibitions",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All the permanent galleries will be open open for their usual hours, except on Sunday, when they will remain open until 18.45. In addition, 'Can Graphic Design Save Your Life?' will be open on Friday and Saturday until 22.00.",
+                "spans": [
+                  {
+                    "start": 41,
+                    "end": 67,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/opening-hours"
+                    }
+                  },
+                  {
+                    "start": 140,
+                    "end": 176,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/graphicdesign"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Reading Room",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As live broadcasts will be taking place there will be restricted access to the Reading Room over the weekend. It will be open as usual from 10.00 until 18.00 on Friday, from 13.00-15.00 on Saturday for Saturday Classics and 09.00-10.00 on Sunday for Music in Memoriam, but closed at all other times across the rest of the weekend (except to ticket holders for events in this space).",
+                "spans": [
+                  {
+                    "start": 79,
+                    "end": 91,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/readingroom"
+                    }
+                  },
+                  {
+                    "start": 202,
+                    "end": 219,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/saturday-classics"
+                    }
+                  },
+                  {
+                    "start": 250,
+                    "end": 267,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/music-memoriam"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Reading Room opening times",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Filming and photography will be taking place in Wellcome Collection over the weekend - see signs for details. Please speak to a member of staff if you have any concerns.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of 'Why Music? The Key to Memory'",
+                "spans": [
+                  {
+                    "start": 9,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whymusic"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Why%20Music%20-%20web%20graphic.jpg"
+  },
+  "drupalNid": "4000",
+  "drupalPath": "/visit-us/planning-your-visit-during-why-music-key-memory",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

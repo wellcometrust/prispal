@@ -1,0 +1,133 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Learning resources",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here is our current list of downloadable learning resources from past events and exhibitions, all of which contain suggestions for pre and post gallery visit activities. We hope the packs will be of use to you if you are exploring any of these topics.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please download our Visiting Guidelines to help you prepare for your self-directed visit:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "You might also find the following resources from the Wellcome Trust useful:",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 75,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Images: our picture library of biomedical and history of medicine images, which are free to search and download.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomeimages.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Big Picture: the Wellcome Trust' s science education magazine for young adults (post-16).",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://bigpictureeducation.com/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/medman_mednow_teachers.jpg"
+  },
+  "drupalNid": "176",
+  "drupalPath": "/what-we-do/learning-resources",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here is our current list of downloadable learning resources.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

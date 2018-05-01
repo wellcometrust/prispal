@@ -1,0 +1,88 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Food and drink",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mood, motivation and mental performance are all influenced by diet; with this in mind, we offer a nutritionally balanced selection of items to complement your day.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our carefully designed menus include inspired options for your refreshment breaks, a range of lunches to suit all tastes and budgets, and truly exquisite fine dining. For your drinks reception, we can offer wines from our extensive wine list and sumptuous canapés to delight your attendees.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download our menu:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Menu (454 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Event%20Spaces%20Brochure_0.pdf"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/food1.JPG"
+  },
+  "drupalNid": "2043",
+  "drupalPath": "/what-we-do/food-and-drink",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our carefully designed menus include inspired options for your refreshment breaks.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

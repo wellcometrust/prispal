@@ -1,0 +1,124 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Mindcraft",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Launch Mindcraft.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://digitalstories.wellcomecollection.org/pathways/1-mindcraft/index.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mindcraft explores a century of madness, murder and mental healing, from the arrival in Paris of Franz Anton Mesmer with his theories of 'animal magnetism' to the therapeutic power of hypnotism used by Freud.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Through an immersive scrolling interface including image galleries, video, and interactives, Mindcraft will take you on a journey that asks who really is in control of their own mind, and where does the mind's power to harm or heal end?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mindcraft is written by author and curator Mike Jay, and developed by award-winning digital agency Clearleft. Mindcraft can be explored on a desktop browser or tablet.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Launch Mindcraft.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://digitalstories.wellcomecollection.org/pathways/1-mindcraft/index.html"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/mindcraft.png"
+  },
+  "drupalNid": "2299",
+  "drupalPath": "/mindcraft",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore a century of madness, murder and mental healing in our new six-part digital story.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

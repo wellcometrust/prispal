@@ -1,0 +1,249 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds summer filmmaking project",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Interested in documentary-making? Want to go on a residential trip where you can gain wilderness survival (bushcraft) skills and experience the countryside first-hand? Apply now to work with expert filmmakers, bushcraft professionals and scientific researchers in our summer project.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This summer we’re inviting you to join the new RawMinds team and create a short film that explores your relationship with nature and wildlife. Across the project you will have the opportunity to develop your filmmaking skills in areas such as storyboarding, planning, filming and editing in workshops led by a professional filmmaker. They will work with you from start to finish, from generating initial ideas through to finalising your team’s film.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "At the centre of the project is an exciting three-day residential trip to a site outside of London. As well as filming your experience, everyone will take part in a range of bushcraft activities, from camping and fire-lighting to learning about wild food and navigation, with lots more in between. There’ll also be the opportunity to interview leading scientific researchers as part of your exploration of our relationships with nature.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Project dates",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The project will take place over 12 days between mid-July and the start of September 2017. Unless otherwise stated, each non-residential day will run from 10.30 to 16.00, with a break for lunch (provided).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A full list of project dates can be found if you download the application document below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How to get involved",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This opportunity is FREE and available to young people aged 14–19. To apply to take part in the project, you will need email us a completed application form. To download the application form please click on the link below:",
+                "spans": [
+                  {
+                    "start": 158,
+                    "end": 222,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "RawMinds Summer 2017 application form (603KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 45,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20appplication%20form%20RawMinds%20Summer%202017%20%28603KB%29.docx"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are two deadlines to submit your application by:",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Early-bird deadline: Monday 19 June",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 35,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If possible, you can apply for one of seven early-bird spaces. If you don’t get selected for one of these, your application will still be considered for the second deadline.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Final deadline: Thursday 13 July",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 32,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you need to concentrate on exams, this later deadline may be better for you. The remaining places will be allocated from applications submitted by this date plus those rolling over from the early-bird deadline.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about how we select participants in the PDF below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Selection Criteria (198 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/RawMinds%20Selection%20Criteria_Wellcome%20Collection%20%28198%20KB%29_1.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Email your applications or any questions to rawminds@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 44,
+                    "end": 67,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:rawminds@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of RawMinds ",
+                "spans": [
+                  {
+                    "start": 7,
+                    "end": 17,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/RawMinds-film-making-main.png"
+  },
+  "drupalNid": "3877",
+  "drupalPath": "/what-we-do/rawminds-summer-filmmaking-project",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Apply to take part in a residential trip and work with other young people to create a film inspired by nature. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

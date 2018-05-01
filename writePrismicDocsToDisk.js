@@ -24,7 +24,7 @@ async function writeWhatWeDo() {
     const filename = doc.drupalNid;
     fs.writeFile(`./prismic_docs/what-we-do/${filename}.json`, JSON.stringify(doc, null, 2), (err) => {
       if (err) console.error(err)
-      else console.info(`"${doc.drupalPath}", "${doc.title[0].content.text}"`)
+      else console.info(`"${doc.drupalPath}", "${doc.title[0].content.text}", "${doc.tags[0]}"`)
     })
   })
 }

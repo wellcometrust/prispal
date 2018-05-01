@@ -100,7 +100,7 @@ export function convertHtmlStringToPrismicStructure(string) {
 
 function convertElements(elements) {
   const blockArrays = elements.map(node => {
-    if (node.type === 'comment') console.info(node)
+    if (node.type === 'comment') { console.info(node); throw('asldkjakjsd') }
 
     if (prismicBlocksMap[node.name]) {
       const type = prismicBlocksMap[node.name];
@@ -138,6 +138,8 @@ function convertElements(elements) {
       if (
         node.name === 'iframe' ||
         node.name === 'table' ||
+        node.name === 'page_data' ||
+        node.type === 'comment' ||
         node.data.trim() === ''
       ) {
         // console.info('Did not convert node of type: ' + node.name)

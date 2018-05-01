@@ -1,0 +1,204 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Residents",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Our current residents, Created Out of Mind (2016-18)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Hub is now home to Created Out Of Mind, the second recipients of the Hub Award. They aim to explore what dementia means to us all and what we can learn about art, consciousness and the brain from the experiences of people with dementia. The project will engage people with dementia, artists, researchers, musicians, scientists, dancers, carers and clinicians in exploring and challenging our understanding and perceptions of dementia and the arts.",
+                "spans": [
+                  {
+                    "start": 23,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/news/exploration-dementia-announced-second-project-hub-wellcome-collection"
+                    }
+                  },
+                  {
+                    "start": 73,
+                    "end": 82,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/funding/hub-award"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The group is led by project director Sebastian Crutch from the UCL Dementia Research Centre and project manager Caroline Evans, with a core team of: Philip Ball, science writer; Paul Camic, Canterbury Christ Church University; Nick Fox, UCL Dementia Research Centre; Charlie Murphy, visual artist; Fergus Walsh, BBC medical correspondent; Julian West, Royal Academy of Music; and Gill Windle, Bangor University. They will collaborate with a group of more than 60 individuals, charities and institutions working in, supporting and developing the field of dementia and the arts.",
+                "spans": [
+                  {
+                    "start": 37,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.ucl.ac.uk/drc/drc-people/research-staff/sebastian-crutch"
+                    }
+                  },
+                  {
+                    "start": 149,
+                    "end": 160,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.philipball.co.uk/index.php/books"
+                    }
+                  },
+                  {
+                    "start": 178,
+                    "end": 188,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.canterbury.ac.uk/social-and-applied-sciences/salomons-centre-for-applied-psychology/Staff/Profile.aspx?staff=c45717239fc95a56"
+                    }
+                  },
+                  {
+                    "start": 227,
+                    "end": 235,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.ucl.ac.uk/drc/drc-people/clinical-staff/nick-fox"
+                    }
+                  },
+                  {
+                    "start": 267,
+                    "end": 281,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://en.wikipedia.org/wiki/Charlie_Murphy_(artist)"
+                    }
+                  },
+                  {
+                    "start": 298,
+                    "end": 310,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.bbc.co.uk/news/correspondents/ferguswalsh"
+                    }
+                  },
+                  {
+                    "start": 339,
+                    "end": 350,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.julianwest.co.uk/index.html"
+                    }
+                  },
+                  {
+                    "start": 380,
+                    "end": 391,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://dsdc.bangor.ac.uk/staff/g-windle.php.en"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For further information please visit their website or attend regular public events they put on in Wellcome Collection and further afield.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 50,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.createdoutofmind.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Our inaugural residents, Hubbub (2014-16)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Hubbub, are a 50-strong international collective of social scientists, artists, humanities researchers, scientists, broadcasters, public engagement professionals and mental health experts. Exploring the dynamics of rest, noise and work in our cities bodies and brains, Hubbub finished their two-year residency in July 2016.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Created-Out-Of-Mind.png"
+  },
+  "drupalNid": "203",
+  "drupalPath": "/what-we-do/residents",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out about the Hub's current and past residents.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

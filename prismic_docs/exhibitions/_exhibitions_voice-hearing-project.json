@@ -1,0 +1,125 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Voice Hearing Project",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Seven young voice hearers, aged 14-19, have collaborated with artist Hannah Hull to create a significant body of artwork that comments on a key theme in our current exhibition ‘THIS IS A VOICE’.",
+                "spans": [
+                  {
+                    "start": 177,
+                    "end": 192,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The main piece created, Everyday Objects Belonging to a Voice Hearer / Everyday Objects Belonging to a Non Voice Hearer, 2016 (pictured above) is on display in gallery 1 on level 0 of Wellcome Collection. Featuring in the ‘Unlocated Voices’ section of the exhibition, this artwork aims to evoke and challenge the viewer’s expectations of a voice hearer. It is a site-specific work which plays with how objects considered to have social significance are presented for public consumption. The work appears as a genuine exhibit of everyday objects and engages the viewer in a process of distinguishing between objects belonging to a voice hearer and those belonging to a non voice hearer.",
+                "spans": [
+                  {
+                    "start": 24,
+                    "end": 119,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In addition to the main piece, the group have created individual artwork concepts and a series of provocations on display in the Studio windows on level 1, plus a slogan for badges and T-shirts being worn around the exhibition and beyond (see below for details).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The young people came from different parts of London to attend six day-long workshops that creatively explored their thoughts, responses and experiences around voice hearing. The group was recruited by the Voice Collective, part of Mind in Camden (see below).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection’s Youth Programme appointed Hannah Hull as lead artist on this project. She created and delivered six varied workshops that explored the content of the exhibition and the experiences of the young people. The workshops provided an insight into a range of conceptual art movements - including Dada, Fluxus and Situationist International - to stimulate the creative thinking and direction of the group. Each week Hannah responded to the interests of the group when developing the next session.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our Youth Programme engages young people (in their school and leisure time) and local communities through participatory projects that build knowledge, inspire creativity and promote confidence. This project is an example of co-production, where we team up experts in their field with young people to create material that can be enjoyed by all who visit our venue.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of THIS IS A VOICE",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/C0130297.jpg"
+  },
+  "drupalNid": "3289",
+  "drupalPath": "/exhibitions/voice-hearing-project",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Voice hearing, young people and art. Explore the experiences and creativity of seven young voice hearers.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Frequently Asked Questions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "YOUNG CREATORS: FREQUENTLY ASKED QUESTIONS",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 42,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/young-creators"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is Wellcome Collection?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a venue on Euston Road that has amazing exhibitions and events that combine medical science with art. It's a unique place, unlike any other gallery or museum in London.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is this project?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You will learn about marketing, branding and how to create a fantastic film trailer. You’ll work with external media specialists and our in-house design team to create an impressive suite of marketing materials.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What information do I need to give on the application form?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It will just be essential contact details, an area for you to tell us about your interests and a small application activity. This activity asks you to select a company or organisation that you think brands itself really well. Simply attach an image of the company logo and explain why you think it’s so good! If you have any more questions then speak to a teacher, or call us at the Youth Programme for advice on 020 7611 8361.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How many sessions are there, and how long do they last?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Approximately nine days. Each day runs from 10.30 to 16.00. This will mean several Saturdays in January and February, then four days in the February half-term, finishing with a screening event to celebrate your hard work. All dates will be on the application form.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Do I have to be able to come to all the sessions?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As many as possible - please indicate your availability on the application form.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Do I need to be good at art, know a lot about medicine or have lots of technical knowledge?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No, not necessarily. We want you to be curious and enthusiastic, but if you have specific skills please tell us about them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Who else will be on the project?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Everyone else will be like you: curious, creative and friendly. Don't worry if you feel shy - everybody does at the beginning!",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How will I really benefit?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You'll get to meet, work with and learn from some great people, including professional artists, exhibition staff and curators. We aim to make the project fun and help you every step of the way.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Can I use this on my CV?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Yes, we really hope you do. We can advise you about the wording and how it might help you secure other opportunities.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Will it cost me anything?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We will cover your travel costs and supply you with lunch and snacks. We cover travel costs only if you within Greater London.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What do I do if I'm sick or running late?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We'll give you a number to call if you have any problems attending.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/FAQs_letterbox.jpg"
+  },
+  "drupalNid": "214",
+  "drupalPath": "/what-we-do/frequently-asked-questions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "FAQs about Young Creators.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

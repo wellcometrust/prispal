@@ -1,0 +1,126 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Images",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "2000 years of human culture",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Images is one of the Wellcome Library's major visual collections and also forms part of Wellcome Collection. Wellcome Images is one of the world's richest and most unique image collections, with themes ranging from medical and social history to contemporary healthcare and science. Whether you're looking for medicine or magic, the sacred or the profane, or science or satire - you'll find more than you expect.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomeimages.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This unrivalled collection contains historical images from the Wellcome Library collections, Tibetan Buddhist paintings, ancient Sanskrit manuscripts written on palm leaves, beautifully illuminated Persian books and much more.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Biomedical Collection holds more than 40 000 high-quality images from the clinical and biomedical sciences. Selected from the UK's leading teaching hospitals and research institutions, it covers disease, surgery, general healthcare, and sciences from genetics to neuroscience, including the full range of imaging techniques.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Image Awards",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Image Awards reward contributors for their outstanding work winners are chosen by a panel of experts. The 11th round of the awards fell in 2010, and the winners were exhibited in the Lightbox, on the first floor of Wellcome Collection, between 24 February and 10 July 2011. Although this exhibition has now closed, the images can still be viewed on the Wellcome Image Awards website.",
+                "spans": [
+                  {
+                    "start": 366,
+                    "end": 395,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomeimageawards.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/wellcome-images-main.jpg"
+  },
+  "drupalNid": "167",
+  "drupalPath": "/what-we-do/wellcome-images",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One of the world's richest and most unique image collections, from medicine or magic to the sacred or the profane.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds Trailer",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "February – April 2015",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In collaboration with videographer, Stephen Rudder, and marketing and communications freelancer, Josephine Finn, a vibrant group of 17 young people worked to rename Wellcome Collection’s ‘Young Creators’ programme, develop the RawMinds ‘brand’ and produce a promotional trailer.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The group prepared a creative brief and directed and produced the trailer which is now being used to encourage young people to explore Wellcome Collection and join the RawMinds project.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Over the February half term and subsequent weekends the group collected multimedia assets to give a flavour of Wellcome Collection as a venue and of their own personal experiences of exploring the collections. Using our state-of-the-art recording studio the group then edited the content to produce our fantastic new trailer.",
+                "spans": [
+                  {
+                    "start": 303,
+                    "end": 324,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.youtube.com/watch?v=w6XvC1bWeuc"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To come up with the name ‘RawMinds’ the group looked at names other museums used for their youth engagement work and agreed some key principles for our name. It had to cover the range of creative youth engagement projects as well as saying something about the age and aspirations of the group. It was agreed that ‘Raw’ signalled youth, freshness and potential and the ‘Minds’ element referenced the thought and process that goes into any collaborative work.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/RawMinds1.jpg"
+  },
+  "drupalNid": "2653",
+  "drupalPath": "/what-we-do/rawminds-trailer",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A vibrant group of 17 young people worked to develop the RawMinds ‘brand’ and produce a promotional trailer.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

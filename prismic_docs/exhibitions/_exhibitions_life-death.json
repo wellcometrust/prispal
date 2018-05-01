@@ -1,0 +1,91 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Life Before Death",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Death: A Self-portrait opens at Wellcome Collection on 15 November 2012.",
+                "spans": [
+                  {
+                    "start": 23,
+                    "end": 72,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "24 sets of photographs taken before and after death",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 51,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Watch this video on YouTube. Nothing teaches us more about life than death itself. Journalist Beate Lakotta and photographer Walter Schels asked 24 terminally ill people if they could accompany them during their last weeks and days. From these vigils came a series of insightful descriptions and photographic portraits taken before and after death.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Far from being gloomy, these intimate concerns of the dying reveal the preciousness and transience of life, and make us question what we often take for granted.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/LifeBeforeDeath.jpg"
+  },
+  "drupalNid": "21",
+  "drupalPath": "/exhibitions/life-death",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Nothing teaches us more about life than death itself. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

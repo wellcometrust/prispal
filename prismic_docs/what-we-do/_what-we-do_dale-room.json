@@ -1,0 +1,199 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dale Room",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Dale Room is a bright and airy room with plenty of natural daylight, making it a great space for workshops, training sessions or small board meetings. The room is fitted with state-of-the-art AV and is enhanced with exhibits from the Wellcome Trust collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Dale Room is also a great area for small intimate drinks receptions and dinners for up to 24 people.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Look around Wellcome Collection's conference centre using Google's \"See inside\" function",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 88,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.google.co.uk/maps/@51.5258621,-0.1343287,3a,75y,269.16h,72.13t/data=!3m5!1e1!3m3!1sG7efdxb0FkwAAAQY8CrqLA!2e0!3e2!6m1!1e1"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Capacities",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Features",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Filtered natural daylight",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Complimentary WiFi",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "AV",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Data projection",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Projector screen",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Video/DVD",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Laptop",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Floorplan",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 9,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Copy-of-Dale-room-down-boardroom1.png"
+  },
+  "drupalNid": "191",
+  "drupalPath": "/what-we-do/dale-room",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Dale Room is a bright and airy room with plenty of natural daylight.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

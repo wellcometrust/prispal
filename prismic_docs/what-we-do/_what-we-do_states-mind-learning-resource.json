@@ -1,0 +1,576 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "States of Mind learning resource",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We've created a digital resource to help teachers prepare for self-guided visits to the second part of our year-long exhibition on consciousness, 'States of Mind'. Given the abstract nature of this exhibition, as well as its links to advanced syllabi, we've developed these activities for students aged 16-18 years.",
+                "spans": [
+                  {
+                    "start": 147,
+                    "end": 161,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The complete resource includes:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "subject specific in-gallery activities that encourage students to engage with all sections of the exhibition from an interdisciplinary viewpoint",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "preparation and follow-up activities that can be completed in the classroom",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "curriculum links and clear instructions on how to use these resources",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Each resource has been split into separate PDFs so that you can download the section you need. Alternatively, you can also download all of each gallery’s resources in one PDF, which also includes a gallery plan.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please also look at our Visiting Guidelines to ensure you get the most out of your visit:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visiting guidelines ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Visiting%20guidelines%20Wellcome%20Collection%202016_0.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Teacher resources ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 18,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Introduction Read these essential guides to the resources, which include background to the exhibitions, gallery plans and instructions for use.Introduction (147 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 12,
+                    "end": 12,
+                    "data": {}
+                  },
+                  {
+                    "start": 143,
+                    "end": 143,
+                    "data": {}
+                  },
+                  {
+                    "start": 143,
+                    "end": 143,
+                    "data": {}
+                  },
+                  {
+                    "start": 143,
+                    "end": 164,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Introduction%20States%20of%20Mind%20resource%20Wellcome%20Collection%20%28147KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Curriculum links Key stage 5 syllabus links for Art and Design, English Language, English Literature, Philosophy, Psychology, Religious Studies, Science.Curriculum links (128 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "data": {}
+                  },
+                  {
+                    "start": 153,
+                    "end": 153,
+                    "data": {}
+                  },
+                  {
+                    "start": 153,
+                    "end": 153,
+                    "data": {}
+                  },
+                  {
+                    "start": 153,
+                    "end": 178,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Curriculum%20links%20States%20of%20Mind%20resource%20Wellcome%20Collection%20%28128KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'States of Mind' learning resource for students",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 47,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download the full 'States of Mind' learning resource or choose your preferred section(s) below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Full States of Mind learning resourceStates of Mind learning resource (1.8 MB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 37,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 37,
+                    "end": 37,
+                    "data": {}
+                  },
+                  {
+                    "start": 37,
+                    "end": 37,
+                    "data": {}
+                  },
+                  {
+                    "start": 37,
+                    "end": 78,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Full%20States%20of%20Mind%20learning%20resource%20Wellcome%20Collection%20%281%2C836%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Individual sections",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Preparation activities (196 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 31,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Preparation%20activities%20States%20of%20Mind%20learning%20resource%20Wellcome%20Collection%20%28196%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Follow up activities (164 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 29,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Follow%20up%20activities%20States%20of%20Mind%20resource%20Wellcome%20Collection%20%28164%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Trail - Contemplating consciousness (226 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 44,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Trail%20-%20Contemplating%20consciousness%20Wellcome%20Collection%20%28226%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Glossary (80 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Glossary%20States%20of%20Mind%20Wellcome%20Collection%20%2880%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Gallery activity cards",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 22,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We have developed subject specific cards which are designed to be photocopied double-sided and then cut to make cards; you may also like to laminate them. They are intended for students to complete in pairs or small groups and to form the basis of further discussion or work back at school.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Art and Design activity cards (539 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Art%20and%20Design%20activity%20cards%20Wellcome%20Collection%20%28539%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "English activity cards (181 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 31,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/English%20activity%20cards%20Wellcome%20Collection%20%28181%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 7,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Philosophy activity cards (293 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 34,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Philosophy%20activity%20cards%20Wellcome%20Collection%20%28293%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Psychology activity cards (367 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 34,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Psychology%20activity%20cards%20Wellcome%20Collection%20%28367%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 10,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Religious Studies activity cards (248 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 41,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Religious%20studies%20activity%20cards%20Wellcome%20Collection%20%28248%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Science activity cards (247 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 31,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Science%20activity%20cards%20Wellcome%20Collection%20%28247%20KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 7,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of States of Mind: Tracing the edges of consciousness",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 58,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/States-of-mind-main.png"
+  },
+  "drupalNid": "3285",
+  "drupalPath": "/what-we-do/states-mind-learning-resource",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A cross-curricular learning resource developed for post-16 students visiting our 'States of Mind' exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

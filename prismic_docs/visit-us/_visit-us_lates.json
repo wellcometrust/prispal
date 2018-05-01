@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Lates",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you don’t have the time to visit during the day or at the weekend, why not come along to see us out of hours?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/lates-talk-main.jpg"
+  },
+  "drupalNid": "2487",
+  "drupalPath": "/visit-us/lates",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you don’t have the time to visit during the day or at the weekend, why not come along to see us out of hours?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

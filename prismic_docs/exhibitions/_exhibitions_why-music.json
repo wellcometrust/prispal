@@ -1,0 +1,125 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Why Music? 2015",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Friday 25 September - Sunday 27 September 2015 ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Please note that this page refers to an event that took place in 2015",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What makes music a vital part of being human?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 45,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From brain scans to world classical music premieres, BBC Radio 3 broadcasted live from Wellcome Collection throughout the last weekend of September 2015. ",
+                "spans": [
+                  {
+                    "start": 53,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.bbc.co.uk/programmes/p02zjcpx"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Why Music? explored the power of music, over three days of live music, discussion and one-off programmes and events. Both Radio 3 listeners and Wellcome Collection visitors discovered how music manipulates our behaviour, shapes our brains and affects our physical and mental wellbeing, our language, literature and memory. Why Music? was broadcast on Radio 3 and was available on iPlayer.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As part of Why Music?, BBC Radio 3 and Wellcome Collection presented the all-night world broadcast premiere of SLEEP, Max Richter’s eight hour lullaby.",
+                "spans": [
+                  {
+                    "start": 111,
+                    "end": 116,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats/sleep"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Why-Music.png"
+  },
+  "drupalNid": "2819",
+  "drupalPath": "/exhibitions/why-music",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This long weekend explored how music can make our spines tingle and manipulate our minds.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

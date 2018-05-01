@@ -1,0 +1,107 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Outsider Art community workshops",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The 'Souzou: outsider art from Japan' exhibition, with its emphasis on self-expression, self-taught art techniques and simple every-day materials, gave us a wonderful opportunity to work with community groups.",
+                "spans": [
+                  {
+                    "start": 5,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/souzou-outsider-art-japan"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Artist Daniel Wallis worked with three groups: Centre 404, St Pancras Community Association and the Studio Art Group based at Becontree Psychotherapy Centre in Dagenham.",
+                "spans": [
+                  {
+                    "start": 47,
+                    "end": 57,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.centre404.org.uk/"
+                    }
+                  },
+                  {
+                    "start": 59,
+                    "end": 91,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.spca.org.uk/node/3"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Daniel went out to visit each group at their own 'venue' before and after their visit to Wellcome Collection so that their Souzou experience could be tailored to their specific interests and needs and to ensure they were meeting a familiar face when they stepped into an unfamiliar setting.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/souzou_0.jpg"
+  },
+  "drupalNid": "3697",
+  "drupalPath": "/what-we-do/outsider-art-community-workshops",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Creative projects with community groups, inspired by the 'Souzou: outsider art from Japan' exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

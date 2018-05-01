@@ -1,0 +1,126 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Erica Scourti: Empathy Deck",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck is a live Twitter bot that responds to your tweets with unique digital cards, combining image and text.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Inspired by the language of divination card systems like tarot, the bot uses five years’ worth of the artist’s personal diaries intercut with texts from a range of therapeutic and self-help literatures. The texts are accompanied by symbols drawn from the artist’s photo archive, in an echo of the contemporary pictographic language of emoticons.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Somewhere between an overly enthusiastic new friend who responds to every tweet with a ‘me-too!’ anecdote of their own and an ever-ready advice dispenser, the bot attempts an empathic response based on similar experiences. It raises questions about the automation of intangible human qualities like empathy, friendship and care, in a world in which online interactions are increasingly replacing mental health and care services.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Erica Scourti is a Gringlish artist, born in Athens and based in London, who works across different media including performance, text and video. Her work draws on personal experience to explore life, labour, love and gender in a fully mediated, networked world.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Follow @empathydeck on Twitter to receive your own unique digital card.",
+                "spans": [
+                  {
+                    "start": 7,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://twitter.com/empathydeck"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A Wellcome Collection commission.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bedlam: the asylum and beyond.",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/empathy-deck.png"
+  },
+  "drupalNid": "3465",
+  "drupalPath": "/empathydeck",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A live Twitter bot that responds to your tweets with unique digital cards, combining image and text.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

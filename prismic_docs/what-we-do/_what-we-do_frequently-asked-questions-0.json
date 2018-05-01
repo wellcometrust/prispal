@@ -1,0 +1,221 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Frequently asked questions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Do I need any specific qualifications to apply to Ideas Hub?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " No. Ideas Hub will work best with a diverse group of participants, so we are not looking for people to have a particular background or education level. We do, however, ask that you have a minimum of 2 years’ work or professional experience – this could be through full-time or part-time jobs, apprenticeships, internships, freelance work or anything equivalent.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Does it cost anything to take part in Ideas Hub?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " It is free to participate in Ideas Hub because we are keen to make it as accessible as possible. We will cover reasonable travel expenses involved in taking part and refreshments will also be provided throughout the week. If you are concerned about any costs that you might face because of taking part in Ideas Hub, let us know. We are happy to discuss ways we could help.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Do I have to participate for the full week?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Yes. It is important that all participants are able to commit to the full week of activities.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How many places do you have available?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " We are planning to recruit 20-25 people.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How many applications are you expecting to receive?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " We don’t know! This is the first time that we have run Ideas Hub.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is Wellcome? And what is Wellcome Collection?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome exists to improve health for everyone by helping great ideas to thrive. We’re a global charitable foundation, both politically and financially independent. We support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As part of this, we run Wellcome Collection, a free museum and library exploring health, life and our place in the world. Through exhibitions, collections, live programming, digital, broadcast and publishing, Wellcome Collection creates opportunities for people to think deeply about the connections between science, medicine, life and art. Wellcome Collection makes thought-provoking content that encourages everyone to reflect on what it means to be human.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome funds scientific research but I don’t know anything about science – can I still apply?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Yes. We are not specifically looking for people with a science background. We are keen to have a range of people involved in the week so that discussions can be as interesting and varied as possible.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "I’ve never been to Wellcome Collection – can I still apply?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Yes. We are not specifically looking for applications from people who are familiar with our museum or library. We are seeking a diversity of participants who are keen to explore the connections between science, medicine, life and art.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why does Wellcome Collection want to run a free programme like this?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " We work as a charity, and our aim is to challenge the way people think and feel about health by connecting science, medicine, life and art. We think Ideas Hub will a great way to do this at the same time as giving everyone involved a great experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is Wellcome Collection’s Hub space?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Located on the 5th floor of Wellcome Collection, The Hub is usually home to the recipients of The Hub Award, a grant that supports a group of researchers and other creative minds to collaborate on a project over two years which explores the cultural and social contexts of health. In this space, residents can think creatively, collaborate openly and exchange ideas freely. Ideas Hub isn’t part of this – it’s taking place between research projects – but it fits in well with the principle of getting different types of people to work together.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How can I get in touch?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " If you would like to get in touch with us to ask any more questions or discuss any accessibility requirements, please email TheHub@wellcomecollection.org",
+                "spans": [
+                  {
+                    "start": 125,
+                    "end": 154,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:TheHub@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20image%205%20resize%20_0.jpg"
+  },
+  "drupalNid": "4061",
+  "drupalPath": "/what-we-do/frequently-asked-questions-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Have any questions about Ideas Hub? Find the answer here.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

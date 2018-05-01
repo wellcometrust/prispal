@@ -35,7 +35,7 @@ export function convertToInfoPage(result) {
 
 export async function readCsv(name = '/what-we-do.csv') {
   const file = fs.createReadStream(__dirname + name)
-  const excludesStream = fs.createReadStream(__dirname + '/excludes.csv')
+  const includesStream = fs.createReadStream(__dirname + '/includes.csv')
   const fileContent = await new Promise((resolve, reject) => {
     Papa.parse(file, {
       error: function(err) {
@@ -46,8 +46,8 @@ export async function readCsv(name = '/what-we-do.csv') {
       }
     })
   })
-  const excludesArr = await new Promise((resolve, reject) => {
-    Papa.parse(excludesStream, {
+  const includesArr = await new Promise((resolve, reject) => {
+    Papa.parse(includesStream, {
       error: function(err) {
         reject(err);
       },
@@ -57,18 +57,14 @@ export async function readCsv(name = '/what-we-do.csv') {
     })
   })
 
-  const excludes = [].concat(...excludesArr)
+  const includes = [].concat(...includesArr)
 
-  const withoutExcludes = fileContent.map(result => {
+  const onlyIncludes = fileContent.map(result => {
     const [nid, path, title, body, image, promoText] = result
-    if (excludes.includes(`wellcomecollection.org${path}`)) {
-      return
-
+    if (includes.includes(`wellcomecollection.org${path}`)) {
+      return result
     }
-
-    return result
   }).filter(Boolean)
 
-  withoutExcludes.shift()
-  return withoutExcludes
+  return onlyIncludes
 }

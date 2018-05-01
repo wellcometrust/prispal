@@ -1,0 +1,101 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Identity",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What influences or determines our sense of who we are? What makes one person distinct from another? How does science inform human identity? This major exhibition explored the tension between the way we view ourselves and how others see us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the subject of genetic testing. How curious are you about the information in your DNA?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Nine individual stories introduced eight distinct rooms. One room began with the story of scientist Alec Jeffreys' invention of DNA fingerprinting 25 years ago, the diaries of Samuel Pepys introduced another, while self-portraiture was explored through the work of the Jewish artist Claude Cahun, who despite being sentenced to death for acts of resistance, survived the Nazi occupation of Jersey.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about Clive Wearing, whose diaries are featured in the Samuel Pepys room",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Other subjects tackled included twins, phrenology and brain imaging, gender and sexuality, race and prejudice, and acting and improvisation.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Identity: Eight rooms, nine lives' was part of The Identity Project.",
+                "spans": [
+                  {
+                    "start": 48,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/node/986"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/identity-exhibition.jpg"
+  },
+  "drupalNid": "27",
+  "drupalPath": "/exhibitions/identity",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "​What influences or determines our sense of who we are? What makes one person distinct from another? ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

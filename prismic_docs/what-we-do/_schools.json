@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Schools",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We offer a range of free, bookable, cross-curricular study days for students aged 14–19 as well opportunities for teachers to feed into the work we do. Find out more about this and more below.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/mindful-teachers-main.jpg"
+  },
+  "drupalNid": "3353",
+  "drupalPath": "/schools",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out about our events, opportunities and projects for teachers and schools.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Object Guidelines and FAQs",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you want to bring in an object during our Remaking Nature event, here are some guidelines and FAQs. It is important that you check these before bringing an object in. ",
+                "spans": [
+                  {
+                    "start": 45,
+                    "end": 66,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/remaking-nature"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Guidelines",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You must own the object and have the right to either loan or gift the object to the exhibition",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The object must be safe, comply with all applicable laws and not contain any prohibited or hazardous materials, including but not limited to the following:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Living animal and plant specimens",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Human remains",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Wet specimens and liquids",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Perishables",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Endangered species",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ivory",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Wild flowers",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Birds' eggs",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Mercury",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Highly flammable/explosive material",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Firearms",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Drugs/chemicals",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please note that any objects that are gifted to the exhibition rather than loaned will not become part of the permanent collection and will be disposed of at the end of their useful life.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "FAQs",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Can I bring my bird’s egg collection?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No, we can’t accept bird eggs. It’s illegal to take the eggs of most wild birds.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why can’t I bring ivory?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are laws against ivory trading, to help end illegal elephant poaching, so we can’t accept any objects containing ivory. Ivory can be found in items such as jewellery, walking sticks and sculptures.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What does perishable mean?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We mean foodstuffs, including fruit and vegetables, meat or packaged items, that could potentially leak or spill, decay, and may attract pests that can cause damage to our collections. If you wish to bring food packaging, it should be empty.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Is it OK to bring a plant?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No. We can’t accept any living plants or soil because they can harbour pests, which may pose a risk to our collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Can I bring an artwork by someone I know?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Yes, as long as they have given permission as the copyright owner (if they are alive).",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What do you mean by human remains?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Any part of a human, including teeth, hair and bones. It also includes human ashes. We would need a special licence to exhibit these.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How big can the object be?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It should be small and light enough to be portable, so that you can bring it here without difficulty.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Can I bring my fossil collection?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have picked up a loose fossil on the beach, or a pretty rock with the imprint of a mollusc along the side of the road, we would love to see it.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "But if you have something rare and spectacular, take it to a specialist scientific collection instead. We can’t accept precious and potentially fragile natural history resources.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Can I bring herbal remedies?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No, we cannot accept any herbal remedies or drugs, even if they’re legal. But we may accept empty packaging.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Remaking Nature",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/remaking-nature"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Remaking-Nature-main.png"
+  },
+  "drupalNid": "3857",
+  "drupalPath": "/visit-us/object-guidelines-and-faqs",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Important guidelines and FAQs to read before you bring in an object during our Remaking Nature event.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

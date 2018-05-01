@@ -1,0 +1,63 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Institute of Sexology events",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of events to accompany the exhibition ‘The Institute of Sexology.’ Join us for intimate discussions and performances with sexologists, artists and historians. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Institute of Sexology’ exhibition and events programme includes sexual content that some visitors may find disturbing. Those accompanying children may wish to exercise discretion.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sexology-porcelain-main_0.jpg"
+  },
+  "drupalNid": "2193",
+  "drupalPath": "/sexologyevents",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'The Institute of Sexology’ will be a place for intimate performances and small group discussions with sexologists, artists and historians.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

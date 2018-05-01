@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ordering",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The idea of a “natural order” in the living world has become embedded in our society. The “great chain of being” began with the ancient Greek philosophers. Later, religious scriptures reinforced this hierarchical structure with divine explanation. By the 18th century, the science of naming, describing and classifying organisms (taxonomy) started seeking rational explanations for the perceived differences between human and non-human animals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "One of the first attempts to record, describe and rank the animal kingdom scientifically was made by Swedish physician and botanist Carl Linnaeus, in his 1735 publication Systema Naturae. Humans were classed as animals for the first time and later named Homo sapiens (“wise man”). Linnaeus described us with the words Nosce te ipsum (“know thyself”), reasoning that our ability to recognise ourselves as human is what separates us from non-human animals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Linnaean classification system is a human construct imposed on the natural world. Still in use today, this system affects the value we place on particular animals, which has far-reaching consequences for the world’s biodiversity. Other ways of organising nature have been proposed by artists, writers and scientists. Their works challenge the fixed position of each species in the “great chain of being” and expose its arbitrary divisions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image: Wellcome Library, London)",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Back to Gallery Guide",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/gallery-guide"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Ordering-2-L0006489.png"
+  },
+  "drupalNid": "3673",
+  "drupalPath": "/visit-us/ordering",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The “great chain of being” began with the ancient Greek philosophers.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

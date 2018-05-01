@@ -1,0 +1,84 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tours and discussions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We offer a range of drop in, half hour tours and pop up discussions every day (see opening times) at 11.30, 14.30, and 15.30. Please listen for announcements and look out for signs to see what’s taking place when you visit.",
+                "spans": [
+                  {
+                    "start": 79,
+                    "end": 96,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/opening-hours"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For BSL interpreted, speech-to-text-transcribed, or audio described events and tours, or for any other accessibility related enquiries, please email access@wellcomecollection.org or call 020 7611 2222.",
+                "spans": [
+                  {
+                    "start": 143,
+                    "end": 178,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:access@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/tours-nick-main.jpg"
+  },
+  "drupalNid": "3087",
+  "drupalPath": "/tours",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about our tours and discussions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

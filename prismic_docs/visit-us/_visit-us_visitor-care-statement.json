@@ -1,0 +1,162 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Visitor Care Statement",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It is our aim to deliver a consistently high level of visitor care for all visitors to Wellcome Collection. We are committed to ensuring that visitors experience a high-quality service and listening and responding to comments and suggestions for improvements.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our aim is for every visitor to leave Wellcome Collection keen to return and eager to recommend us to others.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our commitment is to:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Give all Wellcome Collection visitors a warm, friendly and courteous welcome Treat all customers with respect",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Deliver - and strive to improve upon - a consistently high level of visitor care",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ensure that the safety of visitors is paramount at all times",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Keep all areas that are accessible to the public clean, presentable and safe",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ensure that all Wellcome Collection staff are easily identifiable and willing to answer visitor queries",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Answer all enquiries promptly and fully or pass the enquiry to someone who can help",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Display accurate and up-to-date information on the web and in promotional literature available in the Wellcome Building",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Actively seek, listen to, monitor and respond to our visitors' feedback, comments and suggestions",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All staff employed at Wellcome Collection are required to abide by this statement. To support them in this we shall:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Train all front-of-house staff in visitor care and in health and safety practices and evacuation",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Monitor staff performance and review it annually",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/visitor-care-statement-main.jpg"
+  },
+  "drupalNid": "163",
+  "drupalPath": "/visit-us/visitor-care-statement",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It is our aim to deliver a consistently high standard of customer care for all visitors to Wellcome Collection. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

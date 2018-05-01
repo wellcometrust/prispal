@@ -1,0 +1,120 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Research Network",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "At Wellcome, we want to improve health for everyone by helping great ideas to thrive. To do this, we need to be creative, collaborative and dynamic in our approach.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Hub provides the opportunity for us to bring together unique voices, expertise and methodologies and be part of an experiment where new knowledge is created as a consequence of these collisions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "While this way of working sits within the more established field of interdisciplinary research, it is still very much taking shape. We believe developing this mode of enquiry could be fundamental to encouraging new ideas and novel approaches, and ultimately to improving health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "The wider network",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As well as the learnings and insights gained from The Hub, we are also on the lookout for other models and practices, whether these are examples from museums, universities, research centres, art galleries, social enterprises or other public spaces in between. Activities we have undertaken so far that might inform how we work – and help us better understand and establish frameworks to support how we want to work in the future – include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Hub Workshop: An international workshop that provided the opportunity to explore and reflect on approaches to collaborative, experimental and publicly situated research within museums, universities and public spaces.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Hub Collaboration Workshop (in partnership with King’s College London): A gathering that investigated how to collaborate across disciplines to create engaging projects exploring health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Helen Hamlyn Research Associate (based in The Hub): This research associate will support The Hub as it looks to enhance how it engages and co-creates with neurodiverse audiences, focusing on collaboration, research and public engagement.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ideas Hub: A week-long programme of activities and workshops that provides a mixed cohort with a platform to experiment with ideas, challenge their practices and connect with a diverse group of individuals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A resource page providing links to relevant information, including reports, photos and events, will be available shortly.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20web%20resize%202.jpg"
+  },
+  "drupalNid": "4053",
+  "drupalPath": "/what-we-do/research-network",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A new way of researching.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

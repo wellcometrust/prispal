@@ -1,0 +1,183 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Trails",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Not sure where to start? Take our self-guided trails.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pick up a trail guide from Level O next to the café and explore Wellcome Collection. Choose a trail to suit your mood.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Braver Trail Be inspired by the bravery of individuals. Discover tattoos, phantom limbs and oppressed sexualities in a powerful exploration of human stories.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Deeper Trail Looking for big ideas or to delve into yourself on a molecular level? Discover chromosomes, Freud, amulets and shrines in a meditative contemplation of the galleries.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 16,
+                    "end": 16,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Spicier Trail Sample the spicier side of our collection: seek out sex, food and our hidden secrets. Discover dresses inspired by human embryos, raunchy Chinese porcelain and a host of other quirky oddities sure to enliven your imagination.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 17,
+                    "end": 17,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Bloodier Trail Do you enjoy a bit of gore and being scared out of your skin? Discover bone drills, shrivelled flesh and objects of agony in a disturbing tour of the more grotesque pieces in the galleries. Not for the squeamish.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 18,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 18,
+                    "end": 18,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Let us know what you think of your trail. Email us at info@wellcomecollection.org or tweet us.",
+                "spans": [
+                  {
+                    "start": 54,
+                    "end": 81,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org"
+                    }
+                  },
+                  {
+                    "start": 85,
+                    "end": 93,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/twitter.com/ExploreWellcome"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bigger, Bolder, Braver",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 30,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/bigger-bolder-braver"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Trail-3web.png"
+  },
+  "drupalNid": "2637",
+  "drupalPath": "/visit-us/trails",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Not sure where to start? Take our self-guided trails.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

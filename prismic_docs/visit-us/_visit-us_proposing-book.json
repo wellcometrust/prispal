@@ -1,0 +1,133 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Proposing a book",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection publishes unusual and beautifully written books that relate to medicine, life and culture. Our priority is to publish books that we believe will reach a substantial popular audience. We have established co-publishing relationships with Profile Books and Thames & Hudson and we do not publish academic books or offer grants or subventions for publishing projects. You can see our previously published books.",
+                "spans": [
+                  {
+                    "start": 395,
+                    "end": 425,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomecollection.org/books"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have a project you think could be right for us, please send us a brief description (no more than 500 words) of your proposed book project, including:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "what the is book about (in a nutshell)",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "what is unique and topical about the book",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "why the book would be a good fit for Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "why you think there would be a significant audience for the book",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "why you are the best person to write the book, and what’s special about you as an author",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please also include a short sample of your writing, aimed at a general audience. If your project is already well developed, then a short proposal, a chapter summary and one sample chapter would also be helpful.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please send proposals, by email only, to bookpublishing@wellcomecollection.org. While we will give all proposals due consideration, we cannot always acknowledge receipt or reply to every email.",
+                "spans": [
+                  {
+                    "start": 41,
+                    "end": 78,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:bookpublishing@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/wellcome-books_0.jpg"
+  },
+  "drupalNid": "3331",
+  "drupalPath": "/visit-us/proposing-book",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We publish unusual and beautifully written books that relate to medicine, life and culture.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Infinitas Gracias: Mexican miracle paintings",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mexican votives are small paintings, usually executed on tin roof tiles or small plaques, depicting the moment of personal humility when an individual asks a saint for help and is delivered from disaster and sometimes death. 'Infinitas Gracias' will feature over 100 votive paintings drawn from five collections held by museums in and around Mexico City and two sanctuaries located in mining communities in the Bají o region to the north: the city of Guanajuato and the distant mountain town of Real de Catorce. Together with images, news reports, photographs, devotional artefacts, film and interviews, the exhibition will illustrate the depth of the votive tradition in Mexico.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Usually commissioned from local artists by the petitioner, votive paintings tell immediate and intensely personal stories, from domestic dramas to revolutionary violence, through which a markedly human history of communities and their culture can be read. The votives displayed in 'Infinitas Gracias' date from the 18th century to the present day. Over this period, thousands of small paintings came to line the walls of Mexican churches as gestures of thanksgiving, replacing powerful doctrine-driven images of the saints with personal and direct pleas for help. The votives are intimate records of the tumultuous dramas of everyday life - lightning strikes, gunfights, motor accidents, ill-health and false imprisonment - in which saintly intervention was believed to have led to survival and reprieve.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Infinitas Gracias' will explore the reaction of individuals at the moment of crisis in which their strength of faith comes into play. The profound influence of these vernacular paintings, and the artists and individuals who painted them, can be seen in the work of such figures as Diego Rivera and Frida Kahlo, who were avid collectors. The contemporary legacy of the votive ritual will be present in the exhibition through a wall covered with modern-day offerings from one church in Guanajuato: a paper shower of letters, certificates, photographs, clothing and flowers, through which the tradition of votive offering continues today. The sanctuaries at Guanajuato and Real de Catorce remain centres of annual pilgrimage, attracting thousands of people to thank and celebrate their chosen saints.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/InfinitasGracias_letterbox.jpg"
+  },
+  "drupalNid": "36",
+  "drupalPath": "/whats-on/exhibitions/infinitas-gracias",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mexican votives are small paintings, usually executed on tin roof tiles or small plaques.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Observing",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A trip to the zoo offers the promise of coming face-to-face with a live animal. In their architecture and landscape design, these institutions contend with the challenges of exhibiting nature in unnatural environments. Their history reveals how concepts of nature have evolved and tells of a modern tendency to romanticise wildness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The naturalistic style of early zoo design later gave way to Modernist architecture that acknowledged the zoo as a public attraction. In the 21st century, new exhibits combine the geographies of animal life and human culture, reflecting a conservationist agenda that seeks to narrow the gap between the two.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The behaviours of the zoo’s human visitors offer insights into the bonds we form with other species. The personas we create for zoo celebrities – individual animals that appear in the media and on merchandise – confirm the importance of storytelling. They speak of the symbolic value of these mascots, onto which we project very human hopes and fears. As with the visually seductive natural history documentaries on our televisions, the danger is of looking at animals but not seeing them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image: The Elephant House designed by Architects, Casson Conder Partnership.)",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Back to Gallery Guide",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/gallery-guide"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Observing-2-The-Elephant-House-designed-by-Architects%2C-Casson-Conder-Partnership.-Exterior-with-Elephant%2C-photo-by-Henk-Snoek%2C-March-1965.png"
+  },
+  "drupalNid": "3677",
+  "drupalPath": "/visit-us/observing",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The history of zoos reveals how concepts of nature have evolved and tells of a modern tendency to romanticise wildness.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

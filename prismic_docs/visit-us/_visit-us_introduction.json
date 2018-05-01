@@ -1,0 +1,88 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Introduction",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "How we think about animals is fundamental to how we understand ourselves and our place in the world. The differences and similarities we perceive between humans and non-human animals have been the subject of enquiry since the ancient Greeks, but it was not until the 18th century that we began to seek scientific explanation. Taxonomy – the naming, describing and classifying of organisms – proposed a system for objectively ordering and ranking the animal kingdom. Today, its legacy underpins almost every aspect of our daily lives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Natural history museums, zoos and wildlife documentaries create representations of nature that frame our ideas about other animals. They arrange the natural world, whether through realistic displays of preserved specimens, the dramatic staging of living animals or the careful editing of film footage. What we see and how we encounter it has a significant effect on our behaviour towards other animals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the rapid loss of habitats and species threatening the health of our planet, the historical roots of our beliefs about other animals are coming under scrutiny. Is the separation of humans from other animals – both in our minds and in our environments – compatible with creating a sustainable world?",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Back to Gallery Guide",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/gallery-guide"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/making-nature-learnign-resource.png"
+  },
+  "drupalNid": "3669",
+  "drupalPath": "/visit-us/introduction",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "How we think about animals is fundamental to how we understand ourselves and our place in the world.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

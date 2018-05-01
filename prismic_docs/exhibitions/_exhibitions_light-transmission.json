@@ -1,0 +1,93 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Light Transmission",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A radio broadcast of music that charts the shifting relationship that the inhabitants of the British Isles have with visible light, inviting visitors to imagine beyond our capacities to see. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Light Transmission is a new work by artist Leah Lovett commissioned by Wellcome Collection as part of Bloomsbury Festival 2015. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 102,
+                    "end": 126,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/events/bloomsbury-festival-wellcome-collection"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Leah Lovett works collaboratively to make performances, videos, drawings, writings and workshops that explore the socialising fictions played out between people in cities and across mediated space. Her work borrows from other cultural forms like anthropology, human geography and most of all theatre, and engages strategies of reenactment, camouflage and ventriloquism. She is currently pursuing an AHRC-funded PhD, researching invisible theatre and spatial politics at the Slade. Leah is a founder member of art collective TRIPOD, and works as a freelance writer and an arts educator in gallery, higher education and school contexts.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Light%20transmission%20image.jpg"
+  },
+  "drupalNid": "2587",
+  "drupalPath": "/exhibitions/light-transmission",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A radio broadcast that invites visitors to imagine beyond our capacities to see.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

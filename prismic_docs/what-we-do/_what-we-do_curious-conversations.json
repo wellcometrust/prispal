@@ -1,0 +1,102 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Curious conversations",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Every fortnight we'll be asking a new question on Twitter and in the Medicine Now gallery, and illustrator Rob Bidder will be interpreting your responses. Just search for #CuriousConversations on Twitter and submit your answers or write them down in the gallery next time you pop by.",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 57,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 107,
+                    "end": 117,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://robertbidder.tumblr.com/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We'll be posting images of the resulting illustration on both our Twitter and Facebook pages - make sure you check back to see if your answer was included!",
+                "spans": [
+                  {
+                    "start": 66,
+                    "end": 73,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 78,
+                    "end": 86,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.facebook.com/wellcomecollection"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/image/curiousconvo_letterbox.jpg"
+  },
+  "drupalNid": "1953",
+  "drupalPath": "/what-we-do/curious-conversations",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Every week we'll be asking a new question on Twitter and in the Medicine Now gallery",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

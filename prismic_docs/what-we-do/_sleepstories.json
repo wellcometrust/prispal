@@ -1,0 +1,135 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sleep Stories in the Reading Room",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the digital quilt.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://ghp.wellcomecollection.org/annotation-viewer/quilt/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Running alongside our 'States of Mind' exhibition, this project was a way to record and share people’s stories of what happens when they're asleep. We collected the stories and the best ones were sewn into a quilt by our visitors. You can get a sense of the process in the gallery below. We have also kept a record of the stories for our archive.",
+                "spans": [
+                  {
+                    "start": 23,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Once completed and photographed, the quilt was donated to St Mungo's. The digital version of the quilt acts as both a legacy of this project, as well as a way for people to explore the beautiful contributions our visitors have made whilst getting a sense of the range of sleep experiences we gathered. ",
+                "spans": [
+                  {
+                    "start": 58,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.mungos.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the digital quilt.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://ghp.wellcomecollection.org/annotation-viewer/quilt/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of States of Mind",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 22,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Sleep-Stories-Main-Image-quilt.png"
+  },
+  "drupalNid": "3229",
+  "drupalPath": "/sleepstories",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your sleep stories have been sewn into a quilt that can be explored online.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Thinking with the body: Mind and movement in the work of Wayne McGregor | Random Dance",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Open 10.00-18.00 Tues-Sat, 11.00-18.00 Sun, late til 22.00 Thursdays. See our opening hours.",
+                "spans": [
+                  {
+                    "start": 78,
+                    "end": 91,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/opening-hours"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wayne McGregor is well known for his physically testing choreography and ground-breaking collaborations across dance, film, music, visual art, technology and science. In 2000, he and his company Wayne McGregor | Random Dance embarked on a series of projects investigating aspects of creativity in dance with researchers from other fields such as cognitive and social science.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition, staged during the run-up to the first performances of his new work for Wayne McGregor | Random Dance, 'Atomos' at Sadler's Wells, offers a glimpse into this interdisciplinary research process and the impact it has in the rehearsal studio. Find out more about the process of choreography and how mind, body and movement interact in each of us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From Saturday 28 September to Sunday 13 October there will be opportunities to meet dancers who have experience of working with the ideas discussed in the exhibition. The dancers will offer a unique insight into and practical demonstration of physical thinking techniques. Sessions will run on Thursdays 18.00-21.00, Saturdays and Sundays 14.00-17.00. Drop in at any time.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/ThinkingWithTheBodyTrailer_posterframe.jpg"
+  },
+  "drupalNid": "49",
+  "drupalPath": "/exhibitions/thinking-body-mind-and-movement-work-wayne-mcgregor-random-dance",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the process of choreography and how mind, body and movement interact in each of us.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

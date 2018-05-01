@@ -1,0 +1,160 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "On Light",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "19.00-23.00, Friday 1 May",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Friday Late Spectacular: On Light",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Start your weekend with a bang at the ‘On Light’ Friday Late Spectacular with performances, talks, installations and music all across the Wellcome Collection building. Food and drink will be served in Wellcome Café and Wellcome Kitchen throughout the evening.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download the full programme for Friday evening:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "On Light Friday Programme.pdf",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 29,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/On%20Light%20Friday%20Programme.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "13.00-18.00, Saturday 2, Sunday 3 and Monday 4 May",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 50,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Join us to illuminate our human relationship with light with an extended weekend of performance, discussion, activity and art. Artists and academics will come together to explore the significance of light in human life, and we invite you to discover how it feeds, fascinates and inspires us, and reflect on its influence over our health and happiness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Along with over 60 scientists, historians, artists and architects, we’ll explore the cultural and scientific importance of this ever-present illuminator.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Running until Monday afternoon, events will take place across Wellcome Collection and will also pop up on Malet Place at UCL, including UCL Museums and the Institute of Making.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "All activities are FREE. Online bookings are open for Some Like Dark, an in-the-dark audio performance. The rest of the programme is drop-in or bookable on the day in-venue. ",
+                "spans": [
+                  {
+                    "start": 54,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/somelikedark"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Pick up tickets on the day from 19.00 on Friday 1 May and at 12.00 on Saturday 2, Sunday 3 and Monday 4 May. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/On-Light.png"
+  },
+  "drupalNid": "2503",
+  "drupalPath": "/onlight",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A long weekend that illuminates our human relationship with light. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "High Society",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the illicit drug trade estimated by the UN at $320 billion (£200bn) a year and new drugs constantly appearing on the streets and the internet, it can seem as if we are in the grip of an unprecedented level of addiction. Yet the use of psychoactive drugs is nothing new, and indeed our most familiar ones - alcohol, coffee and tobacco - have all been illegal in the past.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From ancient Egyptian poppy tinctures to Victorian cocaine eye drops, Native American peyote rites to the salons of the French Romantics, mind-altering drugs have a rich history. 'High Society' will explore the paths by which these drugs were first discovered - from apothecaries' workshops to state-of-the-art laboratories - and how they came to be simultaneously fetishised and demonised in today's culture.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/HighSociety_trailer_gall.jpg"
+  },
+  "drupalNid": "31",
+  "drupalPath": "/exhibitions/high-society",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From ancient Egyptian poppy tinctures to Victorian cocaine eye drops, mind-altering drugs have a rich history.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

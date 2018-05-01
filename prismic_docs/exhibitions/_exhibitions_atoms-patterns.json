@@ -1,0 +1,77 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "From Atoms to Patterns",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition explored the intriguing creations of the Festival Pattern Group - a unique project at the 1951 Festival of Britain involving X-ray crystallographers, designers and manufacturers. At the instigation of Dr Helen Megaw, a leading Cambridge scientist, diagrams of atomic structures inspired an eclectic array of patterns on curtains, wallpapers, carpets, lace, dress fabrics, ties, plates and ashtrays.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "X-ray crystallography was one of the most exciting branches of postwar science, with far-reaching applications in chemistry, physics, biology and mineralogy. By studying X-ray diffraction photographs of crystals, scientists could calculate the arrangement of atoms within molecules. The resulting diagrams provided the inspiration for the Festival Pattern Group. 'From Atoms to Patterns' showed the diagrams next to the designs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stored away for over 50 years in the Victoria and Albert Museum, the Festival Pattern Group's creations were reunited en masse for the first time since the Festival. Highlighting the intricacy and beauty of crystal structures, these avant-garde designs stand as a testament to the optimism of the early post-war era and the vibrancy of 1950s design.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image: Max Perutz at his diffractometer, Cambridge Newspapers Ltd. Insulin wallpaper designed by Robert Sevant for John Line and Sons. Crystallographer: Dorothy Hodgkin. Courtesy of V&A Images/Victoria and Albert Museum.)",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/atomspatterns_650x245.jpg"
+  },
+  "drupalNid": "19",
+  "drupalPath": "/exhibitions/atoms-patterns",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "​Crystal structure designs from the 1951 Festival of Britain.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

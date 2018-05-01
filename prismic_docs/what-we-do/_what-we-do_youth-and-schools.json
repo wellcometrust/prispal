@@ -1,0 +1,74 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Youth and schools",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We offer study days, tours and projects for schools and youth groups.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "See also our youth and school events",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/youth-and-schools-events"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/YP2.jpg"
+  },
+  "drupalNid": "2015",
+  "drupalPath": "/what-we-do/youth-and-schools",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our Youth Programme offers study days, tours, events and projects for schools and youth groups.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "States of Mind: Tracing the edges of consciousness",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Following on from 'Ann Veronica Janssens: yellowbluepink', this changing exhibition will examine perspectives from artists, psychologists, philosophers and neuroscientists to interrogate our understanding of the conscious experience.",
+                "spans": [
+                  {
+                    "start": 19,
+                    "end": 56,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-ann-veronica-janssens"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exploring phenomena such as somnambulism, synaesthesia, and disorders of memory and consciousness, the exhibition will examine ideas around the nature of consciousness, and in particular what can happen when our typical conscious experience is interrupted, damaged or undermined.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'States of Mind: Tracing the edges of consciousness' will feature a series of changing installations. The final one is 'Time Present' by Shona Ilingsworth, from 19 July until 16 October. Find out more about this and future installations.",
+                "spans": [
+                  {
+                    "start": 133,
+                    "end": 134,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 207,
+                    "end": 236,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/states-mind-installations"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition will also feature work by artists Carla MacKinnon, Louise K Wilson, A. R. Hopwood, Mary Kelly and Aya Ben Ron.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All our exhibitions are free. Find out about entry at busy times.",
+                "spans": [
+                  {
+                    "start": 45,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/busytimes"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/States-of-mind-main.png"
+  },
+  "drupalNid": "2991",
+  "drupalPath": "/exhibitions/states-mind-tracing-edges-consciousness",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The second part of States of Mind explores our understanding of the conscious experience from different perspectives.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

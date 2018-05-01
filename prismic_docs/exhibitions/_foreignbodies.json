@@ -1,0 +1,84 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Foreign Bodies, Common Ground",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Six artists, six countries.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "B-Floor Theatre, Lêna Bùi, Elson Kambalu, Miriam Syowia Kyambi and James Muriuki, Zwelethu Mthethwa, Katie Paterson.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What happens when you set up six artist residencies in different medical research centres throughout the world? This intimate exhibition showcases a diverse body of work from the artists who worked in research centres in Kenya, Malawi, South Africa, Thailand, Vietnam and the UK.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The artists were invited to spend at least six months exploring the activity of researchers and produce new work in response to their experiences. The result is a series of moving, challenging and humorous works, richly varied in form and tone. They record journeys taken within the complex realm that lies between scientific processes and local communities, often on the frontlines of communicable diseases.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/FB_poster_640x360.jpg"
+  },
+  "drupalNid": "50",
+  "drupalPath": "/foreignbodies",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What happens when you set up six artist residencies in different medical research centres throughout the world?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

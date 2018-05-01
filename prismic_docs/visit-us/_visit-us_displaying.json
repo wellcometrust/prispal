@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Displaying",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Inside natural history museums, preserved animals can be seen in carefully arranged exhibits. The choices museums make about what animals to put on display and how – such as their posture, their appearance and the behaviours they demonstrate – have a profound influence on how we come to think about certain species.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By creating highly realistic exhibits, museums offer an “authentic” experience that reinforces our existing ideas about nature. Over the years these displays have taken different forms. They reflect scientific approaches to understanding other species but they also document wider cultural attitudes that shape, and in turn are shaped by, science. A desire to showcase an empire’s riches or a museum’s educational policy may affect display choices as much as developments in evolution or ecology.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The impact of these exhibits can be felt long after we have left the museum. Representations of certain animals in popular culture often exaggerate the qualities and behaviours expressed in museum displays. These establish themselves in modern folklore, creating animal stereotypes that linger in our collective imagination.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image: Richard Ross)",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Back to Gallery Guide",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/gallery-guide"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Displaying-2-Richard-Ross%2C-Museum-National-D%27Histoire-Naturelle%2C-Paris%2C-France-1982-2.png"
+  },
+  "drupalNid": "3675",
+  "drupalPath": "/visit-us/displaying",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Representations of animals in popular culture often exaggerate the qualities expressed in museum displays. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

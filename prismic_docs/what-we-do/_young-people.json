@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Young people",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There are many exciting opportunities for young people aged 14-19 to get involved with Wellcome Collection and our lively programme of exhibitions and events.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/rawminds3.png"
+  },
+  "drupalNid": "3355",
+  "drupalPath": "/young-people",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Aged 14-19? Find out how you can get involved in Wellcome Collection and explore some of our previous projects.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

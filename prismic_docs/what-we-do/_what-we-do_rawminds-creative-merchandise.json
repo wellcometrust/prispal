@@ -1,0 +1,119 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "RawMinds: Creative Merchandise",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The shop and youth programme at Wellcome Collection is delighted to have launched a new, exclusive range of products developed and designed by a team of young people who participated in RawMinds.",
+                "spans": [
+                  {
+                    "start": 186,
+                    "end": 194,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Made up from a talented group of young people, aged 14-19, from all across London, RawMinds takes inspiration from Wellcome Collection’s treasure trove of objects and artworks that explore health and the human condition.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For this project, RawMinds worked with a range of professionals from the worlds of retail, product design and graphic design in order to develop their ideas and skills. It culminated in a ‘Dragon’s Den’ style presentation of storyboards and prototypes to a panel made up from Wellcome Collection’s retail, youth and commercial teams, with the selected design ideas taken forward to production. The short film above shows the energy behind this inspirational collaboration.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The products range from travel-card holders to stackable cups, t-shirts and jewellery and were launched in store on 21 July. Profits from shop sales go towards supporting the wider work of Wellcome, including future youth programme projects.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Other RawMinds projects have included curating exhibitions and developing a series of podcasts called Raw Emotion.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of RawMinds",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/shop-main.jpg"
+  },
+  "drupalNid": "3057",
+  "drupalPath": "/what-we-do/rawminds-creative-merchandise",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A group of young people worked with us to design and pitch new products now on sale in Wellcome Shop.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

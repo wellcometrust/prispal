@@ -1,0 +1,88 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Stay later on Thursdays",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stay later on a Thursday evening and get a dose of culture before you head home.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Galleries will be open until 22.00 so you can stay later and explore the exhibitions with friends or colleagues, or muse in quiet contemplation. Our restaurant and café will be open and are fully licensed so you can relax and unwind, meet up for a delicious meal or have a wander around the shop once you’ve seen the exhibitions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We’re open until 22.00 every Thursday, just pop by and come in.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Lates",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 13,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/lates"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/later-thursday-main.jpg"
+  },
+  "drupalNid": "2489",
+  "drupalPath": "/visit-us/stay-later-thursdays",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Stay later on a Thursday evening and get a dose of culture before you head home.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

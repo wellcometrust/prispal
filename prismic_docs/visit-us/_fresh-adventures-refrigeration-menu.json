@@ -1,0 +1,49 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "FRESH: Adventures in Refrigeration - menu ",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": []
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/fresh-main.png"
+  },
+  "drupalNid": "3855",
+  "drupalPath": "/fresh-adventures-refrigeration-menu",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

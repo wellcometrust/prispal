@@ -1,0 +1,258 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Proposals for the live programme",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection produces highly innovative public events as well as youth and community projects that relate to medicine, life and culture. Many of our events and projects relate to exhibition themes, and we target audiences over the age of 14.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are particularly interested in events that stretch public engagement practice, and working with our audience to create content through co-production projects. Major projects are developed up to two years in advance, other activities are developed three months to one year in advance.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are currently only accepting proposals linked to the following themes:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The relationship between graphic design and health",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Migration",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Ayurvedic medicine",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Health and architecture",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Transformation",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Influenza",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have a proposal you think could be right for us, please send us a brief description (no more than 500 words) of your proposed project, including:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "What you would like to explore through the events or project",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The target audience for your proposal, who you think would come to these events, and their social circumstances and interests (for youth projects please keep in mind our projects are geared towards ages 14-19)",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "What is unique and topical about the subject matter",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Why Wellcome Collection is the ideal location for the events",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Why you think there would be a significant interest in the events",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "While we will give all proposals due consideration, we cannot always acknowledge receipt or reply to every email. Please email events@wellcomecollection.org with ‘project proposal’ in the subject header and attach the proposal as a Word document.",
+                "spans": [
+                  {
+                    "start": 127,
+                    "end": 156,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:events@wellcomecollection.org?subject=Project%20Proposal"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Open Platform",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have an idea for a small participatory activity linking to Wellcome Collection themes which could take place in the Reading Room, please see our Open Platform strand.",
+                "spans": [
+                  {
+                    "start": 152,
+                    "end": 172,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/openplatform"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Specific speaker suggestions ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We don’t regularly programme one-off lectures. We are interested in hearing from local scientists who might like to present at our Packed Lunch series of events. Please email suggestions to events@wellcomecollection.org with ‘Packed Lunch speaker’ in the header.",
+                "spans": [
+                  {
+                    "start": 190,
+                    "end": 219,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:events@wellcomecollection.org?subject=Packed%20lunch%20speaker"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Freelance facilitators, artists and educators",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We often put together briefs to send to selected individuals to work on projects with young people, the local community or our wider public audience. If you would like to be considered for such projects, please send your CV, examples of your work, and why you’d like to work with Wellcome Collection to events@wellcomecollection.org. While we will give all CVs due consideration, we cannot always acknowledge receipt or reply to every email.",
+                "spans": [
+                  {
+                    "start": 303,
+                    "end": 332,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:events@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Book-related events",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We do not host book launches for non-Wellcome Collection publications, or commercial book events, other than in exceptional circumstances.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Lates-people-.png"
+  },
+  "drupalNid": "3329",
+  "drupalPath": "/visit-us/proposing-public-event",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We produce highly innovative public events that relate to medicine, life and culture.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

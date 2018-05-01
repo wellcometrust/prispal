@@ -1,0 +1,101 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Forensics: The anatomy of crime ",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Why not visit the exhibition on a Friday evening? We’re now open until 22.00 on the first Friday of every month. Find out more.",
+                "spans": [
+                  {
+                    "start": 113,
+                    "end": 126,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/stay-later-first-fridays"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please note: At busy times, there may be queues and timed tickets may be in operation.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 86,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Forensics: the anatomy of crime’ explores the history, science and art of forensic medicine. It travels from crime scene to courtroom, across centuries and continents, exploring the specialisms of those involved in the delicate processes of collecting, analysing and presenting medical evidence. It draws out the stories of victims, suspects and investigators of violent crimes, and our enduring cultural fascination with death and detection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition contains original evidence, archival material, photographic documentation, film footage, forensic instruments and specimens, and is rich with artworks offering both unsettling and intimate responses to traumatic events. Challenging familiar views of forensic medicine shaped by fictions that came out of the sensational reporting of late Victorian murder cases and popular crime dramas, ‘Forensics’ highlights the complex entwining of law and medicine, and the scientific methods it calls upon and creates.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A wide programme of events will accompany the exhibition and a publication of the same name, by crime writer Val McDermid is available (see below).",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/forensics_1600x900%5B1%5D.jpg"
+  },
+  "drupalNid": "2291",
+  "drupalPath": "/forensics",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Forensics: the anatomy of crime’ explores the history, science and art of forensic medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

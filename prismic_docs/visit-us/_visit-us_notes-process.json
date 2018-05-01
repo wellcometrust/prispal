@@ -1,0 +1,162 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Notes on the process",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Written by the lead project artist Verity-Jane Keefe",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is nature and how is it relevant to us?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Do we have a relationship with nature? Should we?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Can nature thrive in the city?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If we were in a museum of nature as a specimen in 150 years’ time, how would we be represented?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What would our diorama be? Would it be a suitable Natural Habitat or shall we speculate?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Natural Habitat’ has been produced following an intensive workshop period. It both responds to and challenges key notions of what nature is, why we should care, where we can find it and what it looks like. These questions and attempted answers feature as part of an accompanying soundscape alongside collected audio from the local environment.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The diagram above is a map of the work. Objects are ordered and grouped in a number of linear themes, taking you from “Real, now, fact, truth” at the bottom to “Future, fantasy, speculative nature, sci-fi, computer game landscapes” at the top.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The numbered themes are:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "7) Architecture: Buildings, personal, place, our city; ordered in chronology from old to new, from left to right",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "6) Dystopia: Edges of city, periphery, Rainham Marshes, where nature becomes more unquantifiable",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "5) “Real” Nature: Flora and fauna extracted from our everyday journeys and local environment",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "4) Alternative Landscape: William Blake headstone, shells, minerals, crystals, driftwood, logs, rocks, public art, monuments, vegetables",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "3) The Bits: Chicken shop as natural environment for a young person, money as capital, global warming, big ideas, scatterology",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "2) An Evolution: From crustaceans to dinosaurs to chickens to zoo to farmyard to rubber ducks and fried chicken, a fantasy line-up of beings",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "1) The Future is Now: Hard-to-reach nature, access, phones and PlayStations as tools to access nature and other worlds. What will remain",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Natural-Habitat-Map-border.png"
+  },
+  "drupalNid": "3931",
+  "drupalPath": "/visit-us/notes-process",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Read about the thought processes and meaning behind the this new co-produced artwork.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

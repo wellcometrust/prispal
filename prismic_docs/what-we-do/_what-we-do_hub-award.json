@@ -1,0 +1,100 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Hub Award",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There is nothing quite like The Hub Award in the funding landscape. It provides an interdisciplinary group with the time, space and resources to collaborate on a project exploring health in its social and cultural contexts. Its first recipients, Hubbub, have now completed their residency; its second group, Created Out of Mind, are in residence from October 2016 until July 2018.",
+                "spans": [
+                  {
+                    "start": 246,
+                    "end": 252,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/hubbub"
+                    }
+                  },
+                  {
+                    "start": 308,
+                    "end": 327,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/created-out-mind"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Residents are encouraged to experiment with the notion of research, particularly the idea that the process and experience of collaborative working is as valuable as the outputs that are generated. We recognise that impact can mean many different things, ranging from an event, journal article or exhibition to the creation of new knowledge, methodologies or partnerships. The Hub, sitting uniquely above a museum, library and public space, is able to offer a dynamic alternative to conventional research environments, encouraging new and experimental forms of learning to emerge.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Applications for the next residency (beginning in 2018) are now closed. If you’d like more information about applying for The Hub Award in the future, please visit the Wellcome website.",
+                "spans": [
+                  {
+                    "start": 168,
+                    "end": 184,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/funding/hub-award"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub%20image%201%20resize%20.jpg"
+  },
+  "drupalNid": "4050",
+  "drupalPath": "/what-we-do/hub-award",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Funding for our residents.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Working with Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection produces innovative public events, exhibitions, books and digital projects that relate to medicine, life, culture and the human condition. We work with carefully selected partners across a range of sectors and disciplines to deliver our programme, and we receive a high number of queries about working with us. If you're interested in proposing an exhibition, event or project in collaboration with us, please use the information below to get in touch with us.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hubbub-late.jpg"
+  },
+  "drupalNid": "3333",
+  "drupalPath": "/what-we-do/working-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection produces innovative public events, exhibitions, books and digital projects.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

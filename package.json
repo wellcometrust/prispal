@@ -14,6 +14,7 @@
     "jest": "^22.4.3",
     "koa": "^2.5.0",
     "koa-router": "^7.4.0",
+    "mkdirp": "^0.5.1",
     "papaparse": "^4.4.0",
     "prismic-dom": "^2.1.0",
     "sanitize-html": "^1.18.2"

@@ -1,0 +1,101 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ars Moriendi: The art of dying",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is a good death now?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "\"The woman who lives next door to me is dying. Her bedroom shares a wall with mine and I can hear her: sometimes she watches TV, sometimes she talks to herself, sometimes she is in pain. Her dying presence has necessarily become part of my life.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "\"She is having what most people consider to be a good death: in her own home, surrounded by family, something not everybody is lucky enough to experience.\" Joanna Walsh",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Joanna is spending two weeks at Wellcome Collection, where you can watch her make a drawing based on her work with patients at Sobell House Hospice.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "See photographs of Joanna and the work in progress on Flickr.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 60,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.flickr.com/photos/wellcomecollection/sets/72157626243382062/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/ars-moriendi_letterbox.jpg"
+  },
+  "drupalNid": "74",
+  "drupalPath": "/exhibitions/ars-moriendi-art-dying",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is a good death now? Watch Joanna Walsh make a drawing based on her work with patients at Sobell House Hospice.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Institute of Sexology learning resource",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A collection of learning resources designed to assist teachers and youth workers in guiding young people towards greater engagement with the content of the exhibition, and to help support young people in reflecting on its relevance to their own experience.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " You can download the whole resource:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource (Complete) 2.4MB.pdf",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 60,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 60,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource%20%28Complete%29%202.4MB_0.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Or just download the sections you want to use:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Information for teachers (152KB).pdfIncludes pre-visit and post-visit activity suggestions, information about the in-gallery trails and activities, and curriculum links.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 76,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Information%20for%20teachers%20%28152KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 76,
+                    "end": 76,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Glossary (177KB).pdf Definitions for a selection of words which may be unfamiliar to students and teachers.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 60,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 60,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Glossary%20%28177KB%29_0.pdf"
+                    }
+                  },
+                  {
+                    "start": 60,
+                    "end": 60,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Gallery plan (258KB).pdf Map of the exibition with key objects highlighted.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 64,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Gallery%20plan%20%28258KB%29_0.pdf"
+                    }
+                  },
+                  {
+                    "start": 64,
+                    "end": 64,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Overview Trail (402KB).pdf A short trail providing an accessible overview of the exhibition, requiring students to identify and think critically about different research methods and representations of sex and sexuality today and in the past. Also includes activity cards to extend the trail.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 66,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 66,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Overview%20Trail%20%28402KB%29_0.pdf"
+                    }
+                  },
+                  {
+                    "start": 66,
+                    "end": 66,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Time Travel Trails (521KB).pdfCross-curricular trails that require students to focus on one of three exhibition themes - gender, sexuality, sex information - and think critically about social and historical change.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 70,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 70,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Time%20Travel%20Trails%20%28521KB%29_0.pdf"
+                    }
+                  },
+                  {
+                    "start": 70,
+                    "end": 70,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Institute of Sexology Learning Resource_Introductory Trail (693KB).pdf Trail aimed at engaging students with low literacy, English as an additional language (EAL) or SEN. Also includes activity cards to extend the trail.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 70,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 70,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Introductory%20Trail%20%28693KB%29.pdf"
+                    }
+                  },
+                  {
+                    "start": 70,
+                    "end": 70,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "View more learning resources",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 28,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/learning-resources"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of The Institute of Sexology",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/institute-sexology"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource.jpg"
+  },
+  "drupalNid": "2347",
+  "drupalPath": "/sexologyresource",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A collection of learning resources to accompany the Institute of Sexology exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

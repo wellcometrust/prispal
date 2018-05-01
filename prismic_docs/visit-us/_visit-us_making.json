@@ -1,0 +1,95 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Making",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In 2008, the Center for PostNatural History was founded in Pittsburgh, USA. It is the only institution in the world solely to collect and record organisms that have been intentionally altered by humans. These range from animals that have been selectively bred and domesticated, such as pigeons and dogs, to those that have been genetically engineered, including laboratory mice, photosensitive bacteria and BioSteel™ goats – all of which they term “PostNatural”.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The objects on display have been selected by the Center for PostNatural History. Unlike traditional natural history museums, the Center defines animals not by their biology but by their cultural history. Through specimens, artworks, books and music they explore some of the ways in which humans have taken control of the reproduction, habitats and DNA of certain animals and the evolutionary implications of this. In turn they acknowledge the role these altered organisms play in sustaining human culture, from the competitive breeding of dogs to the influence of birdsong on human performance.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Together these objects tell a different story of nature, one in which the past, present and future of humans are closely entwined with those of other animals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image: Richard Pell)",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Back to Gallery Guide",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/gallery-guide"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Making-2-Richard-Pell.png"
+  },
+  "drupalNid": "3679",
+  "drupalPath": "/visit-us/making",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Organisms have been substantially altered by human beings, either through domestication or genetic engineering.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "About Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library exploring health, life and our place in the world. Through exhibitions, collections, live programming, digital, broadcast and publishing, Wellcome Collection creates opportunities for people to think deeply about the connections between science, medicine, life and art. Wellcome Collection makes thought provoking content that encourages everyone to reflect on what it means to be human.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Sir Henry Wellcome",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 18,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Learn about Wellcome's founder, whose passion for medicine led him to collect more than a million objects. More about the man",
+                "spans": [
+                  {
+                    "start": 107,
+                    "end": 125,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/introducing-henry-wellcome"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Established under Sir Henry's will in 1936, Wellcome is a global charitable foundation, which aims to improve health for everyone by helping great ideas to thrive. Politically and financially independent, Wellcome supports scientists and researchers to take on big problems, fuel imaginations and spark debate. More about Wellcome",
+                "spans": [
+                  {
+                    "start": 311,
+                    "end": 330,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Library",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Part of Wellcome Collection, the Library has more than 750,000 books and journals and an extensive range of manuscripts, archives and films. Through its collections and services, the Wellcome Library provides insight and information to anyone seeking to understand medicine and its role in society, past and present. More than 30,000 readers visit each year, including historians, academics, students, health professionals and members of the general public. More about the Library",
+                "spans": [
+                  {
+                    "start": 458,
+                    "end": 480,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/wellcome-library"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Who we are and what we do",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "June 2017 marked the 10th anniversary of the opening of Wellcome Collection. The months leading up to this milestone involved a period of reflection, and of internal and external peer review. This document sets out this combined mission for Wellcome Collection, our main objectives for the next five years, and how we are now organised to achieve them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download Who we are and what we do (PDF, 390KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 47,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20Who%20we%20are%20and%20what%20we%20do.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Keep up to date with Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Register for email updates about forthcoming events and exhibitions at Wellcome Collection, subscribe to our news feeds, follow us on Twitter, or join our Facebook group. You can also subscribe to receive our monthly What's On email below.",
+                "spans": [
+                  {
+                    "start": 134,
+                    "end": 141,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 155,
+                    "end": 169,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.facebook.com/wellcomecollection"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/opening-hours-wellcome-building.png"
+  },
+  "drupalNid": "2",
+  "drupalPath": "/what-we-do/about-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are the free visitor destination for the incurably curious. Find out about our activities.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

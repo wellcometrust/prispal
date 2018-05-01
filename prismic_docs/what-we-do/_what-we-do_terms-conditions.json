@@ -1,0 +1,110 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Terms & conditions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our terms and conditions form part of our booking procedure and constitute a formal agreement to hire our venue facilities. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These terms and conditions have been designed to clarify the arrangements between our organisations. If you have any questions, please contact the Wellcome Collection Conference Centre and we will be happy to provide any further information you require.",
+                "spans": [
+                  {
+                    "start": 135,
+                    "end": 142,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/contact-us"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Download the terms and conditions:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Venue Hire Terms & Conditions (114 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20Venue%20Hire%20Terms%20%26%20Conditions%20%28114%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Medicine%20Now%20gallery%20Wellcome%20Collection.jpg"
+  },
+  "drupalNid": "187",
+  "drupalPath": "/what-we-do/terms-conditions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our terms and conditions form part of our booking procedure.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,484 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Events tickets",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All our exhibitions are free. Find out about entry at busy times.",
+                "spans": [
+                  {
+                    "start": 45,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/busytimes"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The majority of our events are also free but some require visitors to have a ticket to attend.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 3,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 4,
+                    "end": 50,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 50,
+                    "end": 93,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is so that we can manage numbers to ensure everyone has the best possible experience at our events. Please be aware that booking a ticket for a free event does not guarantee your place. Admission is on a first come, first served basis for ticket-holders. As we offer a free and popular public programme, we have to significantly overbook to allow for no-shows and to avoid having any empty seats which could otherwise be enjoyed by those who would like to attend.",
+                "spans": [
+                  {
+                    "start": 105,
+                    "end": 259,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have previously registered to order event tickets, you can log in to your account here.",
+                "spans": [
+                  {
+                    "start": 66,
+                    "end": 93,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.eventbrite.co.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Free events: ticketed",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As our events are free, bookings are limited to two per person.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Waiting list policy",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A waiting list will operate for most free ticketed events. This opens in Wellcome Collection 60 minutes before the event starts and must be registered for in person. If you register for the waiting list, you'll be given a numbered ticket to take away, so you can enjoy the café, galleries and bookshop if they are open before the event. Moments before it starts, pre-booked places that fail to show are allocated to waiting list ticket holders according to the numbers on their tickets.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you come to register for the waiting list in person, you can take away a maximum of two tickets.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Free events: drop in",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We try to programme some drop-in events every month. These include our Packed Lunch events and our late-night events, where activities happen all over the building. For these events you just have to turn up, and there is usually room for everyone.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Timed tickets",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our exhibitions are free and you can drop in at any time. However, at busy times we operate a timed ticketing system to manage safe and comfortable numbers in the galleries. Tickets are free and are issued from the Information Point on level 0.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Currently, timed tickets are routinely being used on weekends from 12.00 onwards, and on Thursday evenings from 18.00. However, we may need to use them at any time if visitor numbers are high.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please be aware that timed tickets are first come, first served and can run out early in the day, so please call us (020 7611 2222) or check our Facebook and Twitter pages for updates before travelling.",
+                "spans": [
+                  {
+                    "start": 145,
+                    "end": 153,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.facebook.com/wellcomecollection"
+                    }
+                  },
+                  {
+                    "start": 158,
+                    "end": 165,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are usually less busy during the daytime Tuesdays–Fridays, so we recommended planning your visit on those days if possible.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "In-gallery events",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Some of our ‘drop-in’ events take place in the gallery space. At busy times, we will be operating timed tickets for entry into the gallery to manage visitor numbers. If this is the case, please collect a ticket first from the Information Point on level 0. These tickets are first come, first served and please be aware that tickets can run out if we are busy.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Paid events",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Some of our events are paid, and these open for booking as soon as we publicise them. This is usually when our What's On guide comes out.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Where we offer concessionary rates, these apply for people over 60, students, people on jobseekers allowance and people registered as disabled. Assistants for people registered as disabled go free.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Making a booking",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We accept online booking for free events only. Please book online if you have internet access because our phone lines get very busy and you may have to wait to speak to someone. We ask visitors not to leave phone messages or email us to book tickets because we cannot process bookings in this way.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To book paid events, call our information line on 0207 611 2222.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Access",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 6,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is committed to providing access to our events for visitors with disabilities. For further information, please see our accessibility page.",
+                "spans": [
+                  {
+                    "start": 135,
+                    "end": 157,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/accessibility"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Feedback",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 8,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We are continually working to improve our booking process and appreciate any ideas or feedback you might have. Please email your comments to info@wellcomecollection.org",
+                "spans": [
+                  {
+                    "start": 141,
+                    "end": 168,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Collection ticket Terms and Conditions – free and paid events",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 70,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For a free event, bookings are limited to two tickets per person. Booking a ticket does not guarantee a place at a free event and you are advised to arrive 10 minutes before the start. Admission is on a first come, first served basis for ticket-holders. We reserve the right to refuse entry.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For a paid event, we regret that tickets cannot be refunded unless the event is cancelled.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please check your tickets. Mistakes cannot always be rectified.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you have any special access requirements, please let us know, as we want to make sure you enjoy your visit. Find out more about the range of services we offer for users with disabilities.",
+                "spans": [
+                  {
+                    "start": 135,
+                    "end": 161,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/accessibility"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You are welcome to enter Wellcome Collection and participate in the event but are requested to be respectful to other participants and speakers/performers and not to use defamatory, abusive, obscene, racist or discriminatory, or otherwise inflammatory remarks. Wellcome Collection reserves the right to refuse entry or to eject participants.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Your Personal Information",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Any personal information that you provide to Wellcome Collection in the course of any transaction with us (except credit card details which shall be kept confidential) will be processed in accordance with the Wellcome Collection privacy statement.",
+                "spans": [
+                  {
+                    "start": 209,
+                    "end": 246,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "be aware that any event in Wellcome Collection may be photographed, filmed or otherwise recorded (including live streaming to any Wellcome Trust or event partner website) for the purpose of furthering the Wellcome Trust’s charitable objective of promoting public engagement with science, through whatever medium worldwide (including but not limited to TV, radio and online). If you are uncomfortable with being photographed, filmed or otherwise recorded, please speak to a member of Wellcome Collection staff when you attend the event.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please note that after the event you may be contacted to take part in a survey to find out what you thought about it. Your details will not be passed on to any third parties and will only be used for the purposes of this survey.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/tickets-main.jpg"
+  },
+  "drupalNid": "7",
+  "drupalPath": "/visit-us/events-tickets",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Information about our ticketed and drop in events, making a booking and our waiting list policy.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

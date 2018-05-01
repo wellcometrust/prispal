@@ -1,0 +1,97 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Hubbub",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of events exploring rest and its opposites with Hubbub, an international team of scientists, humanists, artists and broadcasters. Hubbub are the first residents of The Hub at Wellcome Collection, a pioneering location for creative work that explores what happens when medicine and health intersect with the arts, humanities and social sciences.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Rest and its discontents",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Hubbub's upcoming exhibition and event series at Mile End Art Pavilion (30 Sept – 30 Oct 2016) explores the dynamics of rest, stress, relaxation, sound, noise, work and mindwandering in an evolving laboratory of moving image, performance, drawing, poetry, data, sound, music and debate. Find out more about 'Rest and its discontents' on Hubbub's website.",
+                "spans": [
+                  {
+                    "start": 287,
+                    "end": 353,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://hubbubresearch.org/event/rest-discontents/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of The Hub",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 15,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/hub"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Hub-main.png"
+  },
+  "drupalNid": "2183",
+  "drupalPath": "/exhibitions/hubbub",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of events exploring rest and its opposites with Hubbub, an international team of scientists, humanists, artists and broadcasters.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

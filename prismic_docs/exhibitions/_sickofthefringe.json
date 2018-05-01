@@ -1,0 +1,125 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Sick of the Fringe - London",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Since 2015 The Sick of the Fringe has existed to connect work engaging with arts and health across the Edinburgh Fringe, bringing voices from outside the mainstream into public discourse in new and exciting ways.",
+                "spans": [
+                  {
+                    "start": 11,
+                    "end": 33,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://thesickofthefringe.com"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Join us for our first extended weekend, featuring performance and discussion with artists and scientists thinking about the body’s problems and possibilities.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Sick of the Fringe will take place across London. Download the full 2017 brochure:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Sick of the Fringe brochure (3.7 MB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/The%20Sick%20of%20the%20Fringe%20-%20London%202017%20full%20brochure%20%283.7%20MB%29_0.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Tickets for performances and events at Wellcome Collection are free and will become available below from 11.00 on Friday 27 January.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Commissioned by Wellcome",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Conceived by artist and Wellcome Public Engagement Fellow Brian Lobel",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Produced and developed by In Company Collective.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sick-of-the-fringe-main.jpg"
+  },
+  "drupalNid": "3641",
+  "drupalPath": "/sickofthefringe",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An extended weekend featuring performance and discussion with artists and scientists thinking about the body’s problems and possibilities.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

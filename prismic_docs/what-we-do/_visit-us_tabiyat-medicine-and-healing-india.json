@@ -1,0 +1,98 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Tabiyat: Medicine and Healing in India",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This slideshow, narrated by exhibition curator Ratan Vaswani, explores some of the highlights of ‘Tabiyat: Medicine and Healing in India’. The exhibition examines the history and contemporary practice of sustaining human health in one of the world’s great civilisations. It features dazzling antiquities and modern vernacular art in an aesthetically seductive, intellectually rich mix of art, science, history and the ordinary made extraordinary.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition is open from 12 January to 28 March 2016 at the Chhatrapati Shivaji Maharaj Vastu Sangrahalaya (CSMVS), Mumbai.",
+                "spans": [
+                  {
+                    "start": 63,
+                    "end": 109,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://csmvs.in/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about Tabiyat on the Medicine Corner website.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 27,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://medicinecorner.in/tabiyat"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/tabiyat.jpg"
+  },
+  "drupalNid": "3187",
+  "drupalPath": "/visit-us/tabiyat-medicine-and-healing-india",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A slideshow exploring highlights of the ‘Tabiyat: Medicine and Healing' exhibition, narrated by curator Ratan Vaswani.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

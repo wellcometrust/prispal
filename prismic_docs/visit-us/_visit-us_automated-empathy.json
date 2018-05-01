@@ -1,0 +1,220 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Automated Empathy",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We like to blame new technology for old problems. Smartphones lead to anomie; our teens lack social skills because of Minecraft. If modern life is rubbish, screen-based culture only makes it more so. But it was always like this: go back far enough, beyond telephones and televisions, and even the humble novel was once held to account for warping young minds. Perhaps the one thing that hasn’t changed is our propensity to see communications technology in particular as a threat to our vulnerable psyches.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Some have tried to turn the tables. When mental health charity Samaritans launched their ‘Radar’ app in 2014, users could automatically be alerted to friends’ tweets that indicated signs of depression or crisis, and offer help. Well-meant, it fell to pieces in practice: Twitter users felt uneasy about the automation of listening-in to what were in some cases semi-private conversations. Many users with mental health issues felt exposed and unsafe. Samaritans shuttered the service and began a review.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Perhaps it should have been less surprising that the organisation which saw the immense therapeutic potential of the telephone should fail to see the hole in their thinking about the internet. The nasty side of Twitter, the campaigns of bullying and harassment, is well known. Perhaps less well understood is how Twitter functions as a support network for the vulnerable. Twitter is a place where many have found it possible to talk about struggles to cope that they cannot communicate to friends or family, a place where they find affinity with others, and the kindness of strangers. Even on a public account, a whisper of despair in the middle of the night may not be meant for everyone’s eyes: we use Twitter to talk specifically and particularly to each other as well as the world in general.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Erica Scourti’s Empathy Deck is a Twitter bot that lives in this territory, the world of ambiguous emotions and mutual support. Empathy Deck is not human, it is an automaton, but it is not an experiment in the capacity of artificial intelligence to understand the emotions of humans. Rather, it is an exploration of the network’s capacity to deal with an automated actor, but one who speaks from the heart. Using a combination of the artist’s verbal and visual archives, delivered to its followers via @-replies, it offers humorous and perplexing gifts of unique graphic ‘cards’ that reference a semi-mystical popular culture of inspirational and motivational card decks, horoscopes and more.",
+                "spans": [
+                  {
+                    "start": 16,
+                    "end": 29,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 128,
+                    "end": 140,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Methods of self-help like this are central to the final section of Wellcome Collection’s exhibition Bedlam: the asylum and beyond. The exhibition charts the rise and decline of the asylum as both confinement and refuge for those struggling with their mental health. In the asylum’s wake lies a ‘chaotic marketplace of therapies’ according to the exhibition text. There is some return here to traditions of remedy and community that pre-date the asylum, but this marketplace is also literally an economic market, where cures are commodities and healing is linked to profit. As the technological extension of the market, the internet offers information of uncertain provenance, and pharmacological bargains. Can it also offer us the older values of mutual support and healing practices?",
+                "spans": [
+                  {
+                    "start": 100,
+                    "end": 129,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck is doing its best to answer this question. Unlike most ‘art’ bots, Empathy Deck doesn’t work with language as an abstract quantity or a proof of concept. It’s limited in its generation of new texts, using instead a pre-existing corpus of text, mostly in the form of five years’ worth of Scourti’s own diaries. Object icons pasted over the text and collaged backgrounds respond directly to the content of followers’ tweets. For a bot, Empathy Deck has a lot of depth. Each moment of feeling that it offers in return for one of your own is a very real one; it’s just the sequence that is out of order, because Scourti’s feelings happened first. In this way it’s also a proxy, a substitute, for Scourti herself: she’s been here, and can help you, she just doesn’t have time, so she’s built this bot to do it for her. The idea of the proxy connection, whether digital or human, is a recurring feature in Scourti’s work. Her performance work Personal Proxies (2016) explores the displacement of the ‘authentic’ artist by automated and human agents. In Body Scan (2014), automated image search even provides proxies for Scourti’s own body: intimate phone snaps translated into cosmetic advertising and online medical dictionaries.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 80,
+                    "end": 92,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 447,
+                    "end": 459,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 950,
+                    "end": 967,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 973,
+                    "end": 974,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 1060,
+                    "end": 1070,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck is an artwork, not a therapeutic tool. But if there can be proxies for artists, can proxies for therapists be far behind? In both the chaotic marketplace and on the NHS, finding someone who cares and who is qualified to help can be difficult, expensive, or both. Cognitive behavioural therapy (CBT) is rapidly becoming the default non-pharmaceutical option for depression and anxiety as well as insomnia, phobias and other disorders. And just as degree courses can be delivered online, so can CBT: the UK government’s national clinical guidelines now advocate the use of computerised CBT for depression, generalised anxiety disorder and panic disorder. It’s hard not to see this as austerity healthcare, but it also begs the more fundamental question: if our psychic wounds are gained in contact with each other as humans, can we be patched up and put back together by computers?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "And what of the inner life of the bot? When not responding to tweets, the bot talks to itself, to Twitter, to nobody in particular. “I’m a bit lonely at the moment,” it says. “My god I am so angry right now,” reads a fragment of text on a card. Right now? Is the bot angry right now, or was Scourti once angry (why was she angry?) and is it the same thing? As the bot accrues followers and methodically puts together cards for them, Scourti’s personal diaries are progressively revealed. Will we end up with an autobiographical account we can piece together, or has the bot re-made Scourti in its own image? Perhaps the point at which bots become real for us is the point at which we care how they are feeling.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Danny Birchall Digital Content Manager, Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 14,
+                    "end": 14,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bedlam: the asylum and beyond.",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/empathy-deck-01.jpg"
+  },
+  "drupalNid": "3545",
+  "drupalPath": "/visit-us/automated-empathy",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Empathy Deck lives in an online world of ambiguous emotions and mutual support.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

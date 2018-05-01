@@ -1,0 +1,102 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Community",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection community engagement reaches out beyond our walls to groups who might not know us, those who have visited us and people who want to engage with us in a different way. We participate in large scale events such as Bloomsbury Festival, but also offer more bespoke experiences with one-off projects as well as our introductory programme, Wellcome Repackaged (see below).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We run projects which contribute to the exhibitions and events programmes at Wellcome Collection by working directly with groups of individuals with lived experience, responding creatively to our themes and sharing experiences and perspectives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Though we're keen to explore potential partnership projects, we plan things well in advance.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Repackaged",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A two-session thematic, creative mini project that introduces Wellcome Collection and the community group to each other. Session one takes place at the community venue with object handling, creative hands-on activities and lots of interesting conversations. For session two, we invite the group to visit us at Wellcome Collection to see the galleries, be creative and have more conversations over tea and biscuits. These mini-projects are free for community groups.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "If you would like to discuss taking part, please get in touch with Eleanor via community@wellcomecollection.org.",
+                "spans": [
+                  {
+                    "start": 79,
+                    "end": 111,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:community@wellcomecollection.org?subject=Enquiry%20from%20website"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Community-main.png"
+  },
+  "drupalNid": "3351",
+  "drupalPath": "/what-we-do/community",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Find out about Wellcome Collection's community projects.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

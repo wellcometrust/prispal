@@ -1,0 +1,67 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Natural Habitat project gallery",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Year 9 students from Central Foundation Boys' School worked closely with the artist Verity-Jane Keefe over five months to explore the topic of nature, and to create the final piece. Their co-produced artwork, Natural Habitat, is on display in 'A museum of modern nature'. Take a look below to see photos from the process.",
+                "spans": [
+                  {
+                    "start": 244,
+                    "end": 269,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/museum-modern-nature"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/4-Diorama-images06_0.png"
+  },
+  "drupalNid": "3923",
+  "drupalPath": "/visit-us/naturalhabitatgallery",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Take a look at images from behind the scenes of our most recent school co-production project",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

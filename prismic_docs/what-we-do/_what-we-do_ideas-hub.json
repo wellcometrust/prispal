@@ -1,0 +1,154 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ideas Hub",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Five days that could transform how you think",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Are you keen to explore new ways of working and share different perspectives? Are you thinking about trying something new, looking to pursue innovative ideas, and motivated to stretch your potential as part of a dynamic group? If so, we challenge you to join Ideas Hub at Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ideas Hub is a week-long programme of activities and workshops exploring the links between science, medicine, life and art. Here, you’ll join people from all sorts of backgrounds for creative exercises, project work, and talks with a diverse range of experts. As a team, you’ll explore not just the theme but also your own potential. Ideas Hub will give you a unique opportunity to reimagine what your future could hold.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ideas Hub is free to attend, and we will cover reasonable travel costs. It will take place at Wellcome Collection in London in September 2018. We hope you can join us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How to apply and find out more",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ideas Hub is now closed for applications. We have emailed everyone who submitted a full application to let them know if they have a place on the programme. If you haven’t heard from us then please get in touch with TheHub@WellcomeCollection.org.",
+                "spans": [
+                  {
+                    "start": 215,
+                    "end": 244,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:TheHub@WellcomeCollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Check out our FAQ page for more information.",
+                "spans": [
+                  {
+                    "start": 14,
+                    "end": 22,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/frequently-asked-questions-0"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Feedback on applications",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As we aren’t able to offer personalised feedback, here is some general feedback on the applications we received.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The strongest answers were those that directly responded to the questions we asked and that tackled all aspects of each question. For example, in question three we wanted applicants to tell us about a specific experience, what they learnt from it and why it made them a strong applicant, rather than focussing on one of these areas or responding to the question indirectly.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Longer answers generally scored higher as they were often fuller and more developed.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As the standard was high and we received a large number of applications, successful applicants typically submitted strong answers to all four questions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/PE-6878.9_The_Hub_Summer_School_Banner_1600x900_AW2_2.png"
+  },
+  "drupalNid": "4043",
+  "drupalPath": "/what-we-do/ideas-hub",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A free, week-long programme to explore the links between science, medicine, life and art.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

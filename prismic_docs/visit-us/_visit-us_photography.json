@@ -1,0 +1,186 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Photography",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You are welcome to take photographs in our permanent galleries (Medicine Man and Medicine Now) and other public areas of the building for your own personal use, including publishing on a personal website or photo-sharing service. Please don't use flash in the galleries as many of our objects are sensitive to light, and repeated exposure will cause significant deterioration. Please also refrain from using tripods.",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/Weoe4SQAAKJwjcDC"
+                    }
+                  },
+                  {
+                    "start": 81,
+                    "end": 93,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/WeobUyQAAKdwjbEO"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "You are also welcome to take photographs with the same conditions at events, including all-building spectacles, unless photography is specifically prohibited. Please look for signs or ask staff.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Unfortunately, no photography or video capture of any kind is permitted in most of our special exhibitions without prior permission.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Share your photographs",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 22,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We'd love to see your photos! Please share them with us in the Wellcome Collection Flickr pool, tag us in your Instagram pictures (we're @wellcomecollection), mention us in a tweet (we' re @ExploreWellcome) or tag us in the photo on Facebook.",
+                "spans": [
+                  {
+                    "start": 63,
+                    "end": 94,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.flickr.com/groups/wellcomecollection"
+                    }
+                  },
+                  {
+                    "start": 137,
+                    "end": 156,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://instagram.com/wellcomecollection"
+                    }
+                  },
+                  {
+                    "start": 189,
+                    "end": 205,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 210,
+                    "end": 241,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.facebook.com/wellcomecollection"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We also run the Medical London Flickr pool, for photos relating to disease, healthcare and medicine in the capital, and we' d love to see your pictures there too.",
+                "spans": [
+                  {
+                    "start": 16,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.flickr.com/groups/medicallondon"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Professional photography and filming",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 36,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Photography or filming for professional, publication or broadcast purposes is only permitted with prior arrangement with the Wellcome Trust Media Office. The Media Office will usually arrange a convenient time outside visitor hours for filming or photography to take place and will obtain all of the necessary permissions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/10670006_10152785391686660_580836099156834378_n.jpg"
+  },
+  "drupalNid": "1945",
+  "drupalPath": "/visit-us/photography",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Photography is allowed in some areas of Wellcome Collection. If you do take images, we'd love you to share them with us.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

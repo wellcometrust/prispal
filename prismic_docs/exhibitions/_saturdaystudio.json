@@ -1,0 +1,77 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Saturday Studio",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Saturday Studio’ is our new series of drop-in activities for people aged 14–19. Visit our state-of-the-art Youth Studio one Saturday afternoon a month to meet new people and try your hand at activities inspired by Wellcome Collection. The sessions will be led by experts from a variety of creative fields, and across the series you’ll have the opportunity to try skills including photography, dance, digital journalism and more.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How do I get involved?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Saturday Studio sessions are free to attend and will run through the afternoon on a drop-in basis. We have a limited number of spaces in the workshops, so places are first come, first served.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Check this page regularly to find out details about upcoming sessions or, to keep up to date with information about Saturday Studios and other youth projects, sign up for our emails below.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Saturday-Studio-main-2017.png"
+  },
+  "drupalNid": "2709",
+  "drupalPath": "/saturdaystudio",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We’re inviting young people to try out creative activities inspired by Wellcome Collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

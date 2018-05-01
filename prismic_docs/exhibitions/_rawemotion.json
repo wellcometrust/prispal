@@ -1,0 +1,113 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Raw Emotion",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visit our listening lounge on the first floor to be uplifted, moved and amused by a selection of creative audio pieces inspired by The Book of Human Emotions by Tiffany Watt-Smith. Visitors will be encouraged to spend some time relaxing, listening and sharing some of their own experiences.",
+                "spans": [
+                  {
+                    "start": 131,
+                    "end": 157,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/book-human-emotions"
+                    }
+                  },
+                  {
+                    "start": 131,
+                    "end": 157,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Created by RawMinds, our participation programme for 14-19 year olds.",
+                "spans": [
+                  {
+                    "start": 11,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Located in the Studio on Level 1, accessed through Medicine Now.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of RawMinds",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Raw-Emotions-main-page.png"
+  },
+  "drupalNid": "2869",
+  "drupalPath": "/rawemotion",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Be uplifted, moved and amused by a selection of creative audio pieces in our listening lounge.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

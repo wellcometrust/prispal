@@ -1,0 +1,165 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sheep Pig Goat: Frequently Asked Questions",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What is Sheep Pig Goat?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sheep Pig Goat is a project by Fevered Sleep, commissioned as part of Making Nature, Wellcome Collection’s year-long exploration of our relationship with the natural world. Sheep Pig Goat is a creative research studio by Fevered Sleep exploring how well humans see animals as they really are rather than how we tell ourselves they are. The project will include a series of improvised encounters between human performers and animal spectators. Unusually for a project in the early stages of research, this one is entirely open to the public.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sheeppiggoat"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "What can people expect to see?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visitors are invited to witness improvised encounters as they happen and join in a conversation with the artists, guest speakers and each other to reflect on the possibility of empathy and communication between different species.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why is Wellcome Collection doing this?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is about exploring our place in the world, and this project considers how our view of other animals is tightly bound up with our understanding of ourselves. We are uniquely placed to bring together a range of perspectives, such as philosophy, science and art, to ask how and why we look at animals and what we see when we do.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why now?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the planet changing rapidly, the stories we tell ourselves about the natural world, the hierarchies, the definitions of difference, are intrinsically linked with our actions, or inactions, towards it. This project is an opportunity to pay more attention to the existence and experience of non-human animals. And that we might perceive something important about ourselves by trying to perceive how other animals perceive us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why sheep, pigs and goats?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sheep, pigs and goats are farmed animals. We chose to work with these animals to highlight the gap between the reality of them as species and individuals, and the way in which they are used in food production and perceived in relation to this. In order to safeguard the animals comfort and welfare, sheep, pigs and goats that are used to human contact have been chosen.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Why this location?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We selected a location that, unlike a museum, closely resembles barn conditions, with natural daylight and plenty of space for the animals to exercise and move around. Working off-site ensures an environment that prioritises the animal participants and their comfort, and provides a sense of visiting their territory for the human visitors.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "How will you ensure animal welfare standards are met?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The welfare of the animal participants has been our highest priority throughout this project. Fevered Sleep have followed RSPCA guidelines, as well as working with professional animal wranglers and animal behaviour experts. The individual animals come from a farm in Wales and were carefully selected for their familiarity with human contact. Their owners have advised on and supervised all aspects of the animals’ participation in the project, and will be present on-site to look after them for the duration, in accordance with the RSPCA ‘Five Freedoms’ guidelines. There is 24 hour security on site, the appropriate licenses have been obtained, and there is access to vets if required.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The animals will not be required to ‘perform’ and will take on the role of observer completely on their terms. The encounters will take place within an area prepared for the comfort of the animals, with immediate access to a separate space should the animal become stressed. The length of their involvement in the project each day will be strictly monitored and alternated so no animal is present for longer than 40 minutes at a time. After the project they will return with their owners to their farm in Wales.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/SPG-NEW-main.jpg"
+  },
+  "drupalNid": "3809",
+  "drupalPath": "/sheep-pig-goat-frequently-asked-questions",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What is Sheep Pig Goat? What can people expect to see? Why is Wellcome Collection doing this?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

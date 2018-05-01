@@ -1,0 +1,90 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Vocal exercises",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Inspired by our book This is a Voice, explore this series of vocal exercises to help train, project and harness the power of your voice.",
+                "spans": [
+                  {
+                    "start": 21,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/voice"
+                    }
+                  },
+                  {
+                    "start": 21,
+                    "end": 36,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of THIS IS A VOICE",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Speaking-2-vocal.png"
+  },
+  "drupalNid": "3369",
+  "drupalPath": "/vocalexercises",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A series of vocal exercises to help train, project and harness the power of your voice.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

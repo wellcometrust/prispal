@@ -1,0 +1,67 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The team",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the small team of people who will be choosing the objects that go on display in 'A museum of modern nature'. They all work with nature in their daily lives and include a park manager, a shaman, a dairy farmer and a plant scientist. Read about their own chosen objects below.",
+                "spans": [
+                  {
+                    "start": 101,
+                    "end": 126,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/museum-modern-nature"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/the-team-main-image.png"
+  },
+  "drupalNid": "3873",
+  "drupalPath": "/visit-us/team",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the team of people choosing the objects to go on display in the exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

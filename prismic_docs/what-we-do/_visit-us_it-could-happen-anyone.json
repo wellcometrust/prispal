@@ -1,0 +1,104 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "It could happen to anyone",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This t-shirt and badge slogan is intended to intrigue and provoke conversations within the exhibition and beyond. The young people wanted to create something to support not just voice hearers but anyone who experiences stigma, and to create an artwork that extends beyond the confines of the exhibition and into their daily lives and those of others.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The conversations provoked can be considered as performative art interventions, in which the slogan wearer can direct their conversation according to their personal interests and agenda - or they might want to talk about the back story of the badge, which is the whole creative project. These conversations can be as playful or serious as the wearer likes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here is a description of the type of interaction that could happen, as imagined by Nikki, the young voice hearer who came up with the slogan:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“What could happen to anyone?”",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 30,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“Anything! Discrimination, homelessness, abuse, mental illness, bullying, racism… or voice hearing.”",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 100,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The young people designed the badges and T-shirts themselves, supported by artist Hannah Hull and graphic designer Robert Sollis. 500 badges and 50 T-shirts have been made and distributed by the young voice hearers, Hannah Hull, Wellcome Collection’s Youth Programme and Voice Collective.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Badges.JPG"
+  },
+  "drupalNid": "3297",
+  "drupalPath": "/visit-us/it-could-happen-anyone",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The t-shirt and badge slogan is intended to intrigue and provoke conversations within the exhibition and beyond.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

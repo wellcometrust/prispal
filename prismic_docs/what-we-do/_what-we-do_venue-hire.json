@@ -1,0 +1,143 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Venue hire",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Event Spaces at Wellcome Collection are now open and available for hire for events Monday through Sunday.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Browse the spaces in this brochure or explore them below: ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Event Spaces Brochure (812 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 30,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20Event%20Spaces_online%20brochure.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Various spaces are available, including a purpose-built conference centre with a stunning tiered auditorium for 154 delegates.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Around the auditorium are four contemporary event spaces that can accommodate anything from boardroom meetings for 12 to team away days and product launches. If you’re looking for something a little different, Wellcome Collection’s ‘Medicine Now’ gallery can be transformed into a unique setting for a drinks reception for up to 200 people.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Whatever your event requirements, the Event Spaces at Wellcome Collection can offer a flexible and inspiring backdrop. Discounts are available for events that intend to further biomedical research, the medical humanities and related public engagement activities, where the results will be made public.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The event spaces team are available to discuss your requirements Monday to Friday, 09.00-17.00. You can contact us below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection was established by the Wellcome Trust, an independent charitable foundation dedicated to achieving extraordinary improvements in human and animal health. All profits from the events held in the Event Spaces at Wellcome Collection are gift-aided back to the Wellcome Trust.",
+                "spans": [
+                  {
+                    "start": 43,
+                    "end": 57,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Look around Wellcome Collection's conference centre using Google's \"See inside\" function",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 88,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://goo.gl/maps/dfps4"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Medicine_Now_Gallery_landing_650.jpg"
+  },
+  "drupalNid": "2022",
+  "drupalPath": "/what-we-do/venue-hire",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The fascinating and thought-provoking ‘Medicine Now’ gallery can be hired for an evening drinks reception.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

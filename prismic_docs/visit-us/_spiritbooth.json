@@ -1,0 +1,145 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "S.P.I.R.I.T BOOTH",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "In the building? Try out our intriguing photo booth...",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Step into our digital photo booth and discover your 'psychic transparency'. The concept of psychic transparencies is based on seeing images of the departed (such as figures that would appear in spirit photography), but you might also see scenery, paintings, pictures, art, objects, etc. These extras appeared superimposed upon or alongside the person being photographed, and were explained as projections of psychic transparencies sent from the afterlife; reproductions of objects communicated to the camera telepathically by spirits.",
+                "spans": [
+                  {
+                    "start": 194,
+                    "end": 212,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.google.co.uk/search?q=spirit+photography&ie=utf-8&oe=utf-8&safe=active&gws_rd=cr,ssl&ei=m-z0V9fKOOeOgAaDwYGwAw"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Imagine if psychic transparencies were real…",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 44,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "That's the approach we've taken with our experimental photo booth project. Located on level 1 by the genome books in our Medicine Now gallery, you can enter the booth and have your psychic transparency revealed and captured onto the online gallery. What will your photo reveal about you?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This project is a collaboration between Wellcome Collection and Photobot.co.",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 75,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://photobot.co/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "We need you",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a pilot project and we're currently refining the user experience. Next time you visit Wellcome Collection, use the booth and let us know what you think on Twitter or via email. ",
+                "spans": [
+                  {
+                    "start": 163,
+                    "end": 170,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 178,
+                    "end": 183,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:info@wellcomecollection.org?subject=Spirit%20Booth"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/SPIRIT-BOOTH-main-small_0.png"
+  },
+  "drupalNid": "3561",
+  "drupalPath": "/spiritbooth",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about our experimental photo booth project.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

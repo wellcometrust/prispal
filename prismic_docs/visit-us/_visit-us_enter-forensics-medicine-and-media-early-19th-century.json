@@ -1,0 +1,78 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Enter Forensics: Medicine and the media in the early 19th century",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first half of the 19th century was a time of popular murder trials and public hangings. Word of particularly gruesome crimes spread quickly across the country, stirring the public consciousness and inciting thousands to travel to the courts and congregate around the gallows to witness the spectacle of justice at first hand.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Two separate developments converged at this time which helped to provoke widespread fascination with the courts: the mechanisation of the printing press made mass-produced pamphlets and broadsides cheap enough to reach the general public, and the nascent field of forensic medicine was just gaining a foothold in the legal system.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "While the history of forensic medicine can be traced back through renaissance Europe to at least the Roman Empire, medical expertise did not receive systematic legal recognition in Britain until the beginning of the 19th century. The discipline was also gaining academic acknowledgement at this time and in 1807 Edinburgh University was the first to introduce a Chair of Medical Jurisprudence, a position granted to Professor Andrew Duncan the younger.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The reports displayed here retell the stories of ten trials that took place in England and Scotland in the first half of the 19th century. The popular pamphlets, which are now viewable in the Wellcome Library player, contain incredible detail. Some include complete transcripts of the trials, drawings depicting the scene of the crime or the defendant in the dock, and even descriptions of the executions that followed. In some of these cases, the emerging field of forensic medicine has made its mark, while in others it is noticeable by its absence.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/trial-of-robert-sawle-donnall.jpg"
+  },
+  "drupalNid": "2467",
+  "drupalPath": "/visit-us/enter-forensics-medicine-and-media-early-19th-century",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The stories of ten early 19th-century trials, when mass-produced pamphlets met the nascent field of forensic medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

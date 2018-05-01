@@ -1,0 +1,70 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Forensic Identity",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From mugshots to microscopes and surveillance to stains, this installation investigates the traces we all leave behind – the evidence of interactions with our environment and each other.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Inspired by aspects of ‘Forensics: The anatomy of crime’, a group of artists from Leyton Sixth Form College worked with photographer Edmund Clark to respond to the ideas of identity raised in the exhibition and have produced a body of work using elements of the forensic process.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What will you deduce about the identity of the artists when you examine their work?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/forensic-identity-main.png"
+  },
+  "drupalNid": "2555",
+  "drupalPath": "/forensicidentity",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From mugshots to microscopes and surveillance to stains, this installation investigates the traces we all leave behind.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

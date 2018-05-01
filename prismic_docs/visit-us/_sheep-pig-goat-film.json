@@ -1,0 +1,155 @@
+{
+  "type": "info-pages",
+  "tags": [
+    null,
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sheep Pig Goat",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 0,
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "A creative research studio by Fevered Sleep.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We tell ourselves all sorts of stories about animals. Animals fly through our mythology, our unconscious, our cultural history and our literature; they run through our folk tales; they crawl through our dreams.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "But what do animals perceive when they perceive us? And what would happen if we really tried to pay attention to them?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sheep Pig Goat was a creative research studio by Fevered Sleep, commissioned by Wellcome Collection to accompany the exhibition Making Nature. It explored how well humans see animals as they really are – not as we tell ourselves they are – through a series of improvised encounters between human performers and animal spectators. Alongside these encounters, the project also included lively public debates with leading scientists and artists, exploring different aspects of relations between human and animal. These addressed subjects as diverse as non-human intelligence and emotion, animal rights and justice, and the various ways animals are woven deeply into human cultural history.",
+                "spans": [
+                  {
+                    "start": 128,
+                    "end": 141,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/MakingNature"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the planet changing rapidly, the stories we tell ourselves about the natural world, the hierarchies we construct, and our definitions of difference, are inextricably linked to our actions, or inactions, towards it. This project invited people to pay more attention to the existence and experience of non-human animals, opening up the possibility of inter-species empathy, and challenging people to assess their own position and responsibilities in a more-than-human world.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sheep Pig Goat took place in March 2017 in Peckham, London. Unusually for a project in the early stages of research, Sheep Pig Goat was entirely open to the public, and over 500 people took part in the studio visits and public debates.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“Deeply fascinating to glimpse Fevered Sleep's Sheep Pig Goat R&D process. Existential questions re human ideas of connectivity and primacy” - Audience member",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“Sheep Pig Goat offers the possibility of a new way of seeing” - The Guardian",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about the project on Fevered Sleep's website, or read answers to frequently asked questions. ",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 58,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.feveredsleep.co.uk/current/sheep-pig-goat/"
+                    }
+                  },
+                  {
+                    "start": 68,
+                    "end": 105,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sheep-pig-goat-frequently-asked-questions"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/SPG-main.jpg"
+  },
+  "drupalNid": "3979",
+  "drupalPath": "/sheep-pig-goat-film",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sheep Pig Goat was a creative research studio by Fevered Sleep.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
