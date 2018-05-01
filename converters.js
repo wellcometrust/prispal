@@ -77,7 +77,7 @@ export function convertExhibition(result) {
       type: 'exhibitions',
       tags: ['from_drupal'],
       title: convertTitle(title),
-      body: convertBody(body),
+      description: convertBody(body),
       start: start,
       end: end,
       drupalPromoImage: {
