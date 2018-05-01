@@ -72,14 +72,14 @@ export function convertExhibition(result) {
   const start = startString && (new Date(startString)).toISOString()
   const end = endString && (new Date(endString)).toISOString()
 
-  if (!start) console.info(path)
-
   try {
     const doc = {
       type: 'info-pages',
       tags: ['from_drupal'],
       title: convertTitle(title),
       body: convertBody(body),
+      start: start,
+      end: end,
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
       },
