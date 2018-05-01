@@ -12,90 +12,81 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "‘Natural Habitat’ is a new artwork that has been created by Year 9 art students from Central Foundation Boys’ School in collaboration with the artist Verity-Jane Keefe. The piece is the result of an exciting five-month co-production project in which the group have explored ideas that are central to the exhibition ‘A museum of modern nature’ - ideas of what we mean by ‘nature’ and how it relates to their lives.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The installation is on display in ‘A museum of modern nature’, in gallery 2 on level 1 of Wellcome Collection. The piece encourages visitors to step inside the groups’ alternative natural habitat and become living specimens in their modern diorama.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Wellcome Collection’s Youth Programme selected Central Foundation Boys’ School for the project following an application process in September 2016, and appointed Verity-Jane Keefe as the lead artist. Verity-Jane devised and delivered a series of afterschool and day-long workshops which enabled the students to explore the theme of nature through a variety of creative media. Taking the previous Wellcome Collection exhibition, ‘Making Nature’, as a starting point, the workshops passed the baton over to the group to enable them to occupy and explore the theme of what nature actually is to a young person living in the city today. Using sculpture, curating, collage, photography and drawing, the workshops referenced traditions of natural history but also questioned stereotypes of nature. The group also visited Rainham Marshes Nature Reserve.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The final piece explores the complex subject of what nature is and might be in the future, containing familiar architecture found on journeys surrounding the group’s daily journeys, alongside flora, fauna, fragments from the built environment, fried chicken, PlayStation controllers and much more: all things found in the landscape of the everyday. An accompanying soundtrack presents ambient sounds from these journeys alongside dialogue exploring the work and themes. ",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "This project has been organised as part of our Youth Programme, which engages young people (in their school and leisure time) and local communities through participatory projects that build knowledge, inspire creativity and promote confidence. This project is an example of co-production, where we team up experts in a field with young people to create material that can be enjoyed by all who visit our venue.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The young artists from Central Foundation Boys School are: Alex, Charlie, Emmanuel, Evan, George, Gurpreet, Irfan, Isa, Josiah, Leevon, Magnus, Malachi, Muntasar, Percival and Xavier.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "If you’d like to get in touch about our free opportunities for schools, email youthprogrammes@wellcomecollection.org.",
-                "spans": [
-                  {
-                    "start": 78,
-                    "end": 116,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "https://wellcomecollection.orgmailto:youthprogrammes@wellcomecollection.org"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "type": "heading2",
-              "content": {
-                "text": "Part of A museum of modern nature",
-                "spans": [
-                  {
-                    "start": 8,
-                    "end": 33,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "http://wellcomecollection.org/exhibitions/museum-modern-nature"
-                    }
-                  }
-                ]
-              }
+      "type": "paragraph",
+      "content": {
+        "text": "‘Natural Habitat’ is a new artwork that has been created by Year 9 art students from Central Foundation Boys’ School in collaboration with the artist Verity-Jane Keefe. The piece is the result of an exciting five-month co-production project in which the group have explored ideas that are central to the exhibition ‘A museum of modern nature’ - ideas of what we mean by ‘nature’ and how it relates to their lives.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The installation is on display in ‘A museum of modern nature’, in gallery 2 on level 1 of Wellcome Collection. The piece encourages visitors to step inside the groups’ alternative natural habitat and become living specimens in their modern diorama.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Wellcome Collection’s Youth Programme selected Central Foundation Boys’ School for the project following an application process in September 2016, and appointed Verity-Jane Keefe as the lead artist. Verity-Jane devised and delivered a series of afterschool and day-long workshops which enabled the students to explore the theme of nature through a variety of creative media. Taking the previous Wellcome Collection exhibition, ‘Making Nature’, as a starting point, the workshops passed the baton over to the group to enable them to occupy and explore the theme of what nature actually is to a young person living in the city today. Using sculpture, curating, collage, photography and drawing, the workshops referenced traditions of natural history but also questioned stereotypes of nature. The group also visited Rainham Marshes Nature Reserve.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The final piece explores the complex subject of what nature is and might be in the future, containing familiar architecture found on journeys surrounding the group’s daily journeys, alongside flora, fauna, fragments from the built environment, fried chicken, PlayStation controllers and much more: all things found in the landscape of the everyday. An accompanying soundtrack presents ambient sounds from these journeys alongside dialogue exploring the work and themes. ",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "This project has been organised as part of our Youth Programme, which engages young people (in their school and leisure time) and local communities through participatory projects that build knowledge, inspire creativity and promote confidence. This project is an example of co-production, where we team up experts in a field with young people to create material that can be enjoyed by all who visit our venue.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The young artists from Central Foundation Boys School are: Alex, Charlie, Emmanuel, Evan, George, Gurpreet, Irfan, Isa, Josiah, Leevon, Magnus, Malachi, Muntasar, Percival and Xavier.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "If you’d like to get in touch about our free opportunities for schools, email youthprogrammes@wellcomecollection.org.",
+        "spans": [
+          {
+            "start": 78,
+            "end": 116,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "https://wellcomecollection.orgmailto:youthprogrammes@wellcomecollection.org"
             }
-          ]
-        }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "content": {
+        "text": "Part of A museum of modern nature",
+        "spans": [
+          {
+            "start": 8,
+            "end": 33,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "http://wellcomecollection.org/exhibitions/museum-modern-nature"
+            }
+          }
+        ]
       }
     }
   ],

@@ -77,7 +77,7 @@ export function convertExhibition(result) {
       type: 'exhibitions',
       tags: ['from_drupal'],
       title: convertTitle(title),
-      description: convertBody(body),
+      description: convertHtmlStringToPrismicStructure(body),
       start: start,
       end: end,
       drupalPromoImage: {

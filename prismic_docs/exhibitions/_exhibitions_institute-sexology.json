@@ -12,70 +12,61 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "'The Institute of Sexology' is a candid exploration of the most publicly discussed of private acts. Undress your mind and join us to investigate human sexuality at 'The Institute', the first of our longer exhibitions. Featuring over 200 objects spanning art, rare archival material, erotica, film and photography, this is the first UK exhibition to bring together the pioneers of the study of sex.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "From Alfred Kinsey's complex questionnaires to the contemporary National Survey of Sexual Attitudes and Lifestyles (Natsal), 'The Institute of Sexology' investigates how the practice of sex research has shaped our ever-evolving attitudes towards sexual behaviour and identity. Moving between pathologies of perversion and contested ideas of normality, it shows how sex has been observed, analysed and questioned from the late 19th century to the present day.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "'The Institute of Sexology' tells the complex and often contradictory story of the study of sex through its pioneers, including Magnus Hirschfeld, Sigmund Freud, Marie Stopes, Alfred Kinsey, Margaret Mead, William Masters and Virginia Johnson, and the team behind Natsal. It highlights the profound effect that the gathering and analysis of information can have in changing attitudes and lifting taboos.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The show features contemporary artworks exploring sexual identity by artists Zanele Muholi, John Stezaker, Sharon Hayes and Timothy Archibald. A new commission by artist Neil Bartlett will revisit the sex survey, joining visitors with the hundreds of thousands of anonymous participants whose personal accounts underpin the study of sex.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "This is the first of our longer exhibitions in our newly opened Gallery 2. 'The Institute of Sexology' will evolve over the course of the year, with new commissions, live interventions, discussions and performances within the gallery space. The exhibition is part of a wider Sexology Season of activity across the country including Brighton, Southampton, Manchester and Glasgow.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Please note that 'The Institute of Sexology' includes exhibits and live events of a sexual nature.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Undress your mind with a free 30 minute guided tour of the 'Institute of Sexology' with one of our knowledgeable Visitor Experience Assistants. No need to book, just meet at the information point at 11.30 every Saturday and Sunday until the 20th September.",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 256,
-                    "type": "em",
-                    "data": {}
-                  }
-                ]
-              }
-            }
-          ]
-        }
+      "type": "paragraph",
+      "content": {
+        "text": "'The Institute of Sexology' is a candid exploration of the most publicly discussed of private acts. Undress your mind and join us to investigate human sexuality at 'The Institute', the first of our longer exhibitions. Featuring over 200 objects spanning art, rare archival material, erotica, film and photography, this is the first UK exhibition to bring together the pioneers of the study of sex.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "From Alfred Kinsey's complex questionnaires to the contemporary National Survey of Sexual Attitudes and Lifestyles (Natsal), 'The Institute of Sexology' investigates how the practice of sex research has shaped our ever-evolving attitudes towards sexual behaviour and identity. Moving between pathologies of perversion and contested ideas of normality, it shows how sex has been observed, analysed and questioned from the late 19th century to the present day.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "'The Institute of Sexology' tells the complex and often contradictory story of the study of sex through its pioneers, including Magnus Hirschfeld, Sigmund Freud, Marie Stopes, Alfred Kinsey, Margaret Mead, William Masters and Virginia Johnson, and the team behind Natsal. It highlights the profound effect that the gathering and analysis of information can have in changing attitudes and lifting taboos.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The show features contemporary artworks exploring sexual identity by artists Zanele Muholi, John Stezaker, Sharon Hayes and Timothy Archibald. A new commission by artist Neil Bartlett will revisit the sex survey, joining visitors with the hundreds of thousands of anonymous participants whose personal accounts underpin the study of sex.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "This is the first of our longer exhibitions in our newly opened Gallery 2. 'The Institute of Sexology' will evolve over the course of the year, with new commissions, live interventions, discussions and performances within the gallery space. The exhibition is part of a wider Sexology Season of activity across the country including Brighton, Southampton, Manchester and Glasgow.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Please note that 'The Institute of Sexology' includes exhibits and live events of a sexual nature.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Undress your mind with a free 30 minute guided tour of the 'Institute of Sexology' with one of our knowledgeable Visitor Experience Assistants. No need to book, just meet at the information point at 11.30 every Saturday and Sunday until the 20th September.",
+        "spans": [
+          {
+            "start": 0,
+            "end": 256,
+            "type": "em",
+            "data": {}
+          }
+        ]
       }
     }
   ],

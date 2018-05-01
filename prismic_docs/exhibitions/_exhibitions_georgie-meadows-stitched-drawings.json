@@ -12,59 +12,50 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "heading2",
-              "content": {
-                "text": "A display in the Wellcome Collection foyer",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Georgie Meadows: Stitched drawings brings together 20 textile artworks which explore personal experiences of ageing and dementia. Meadows, a Monmouth based artist and occupational therapist, crafts uniquely affecting and compassionate portraits, translating line drawings of people she knows or has cared for into stitched works.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Using a domestic sewing machine to sew through two pieces of cloth, separated by wadding, Meadows creates delicate pieces whose tangled threads are both a metaphor for the scrambling of neural connections during degenerative illness and a tender and tactile form of portraiture. The works present a collision of tight-knotted threads and loose stuffing, of softness and jagged edges. Meadows' concern with the primacy of visual communication in the act of caring, when logic and speech are often elusive, gives the portraits a meditative empathy, with the confusions of illness set beside the kindness held in the simple and reflective acts of looking and seeing.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Short snapshot stories which accompany the artist's works movingly outline the daily challenges and triumphs of her sitters: a woman finds people assume her to be grumpy since losing her teeth the success of a man's day is measured by his dressing himself a woman is hungry but her brain will no longer tell her how to eat. Meadows' works are a testament to courage and resilience in the face of a loss of control and identity.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Find out more about Georgie Meadows and her work",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 48,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "http://www.georgiemeadows.co.uk"
-                    }
-                  }
-                ]
-              }
+      "type": "heading2",
+      "content": {
+        "text": "A display in the Wellcome Collection foyer",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Georgie Meadows: Stitched drawings brings together 20 textile artworks which explore personal experiences of ageing and dementia. Meadows, a Monmouth based artist and occupational therapist, crafts uniquely affecting and compassionate portraits, translating line drawings of people she knows or has cared for into stitched works.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Using a domestic sewing machine to sew through two pieces of cloth, separated by wadding, Meadows creates delicate pieces whose tangled threads are both a metaphor for the scrambling of neural connections during degenerative illness and a tender and tactile form of portraiture. The works present a collision of tight-knotted threads and loose stuffing, of softness and jagged edges. Meadows' concern with the primacy of visual communication in the act of caring, when logic and speech are often elusive, gives the portraits a meditative empathy, with the confusions of illness set beside the kindness held in the simple and reflective acts of looking and seeing.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Short snapshot stories which accompany the artist's works movingly outline the daily challenges and triumphs of her sitters: a woman finds people assume her to be grumpy since losing her teeth the success of a man's day is measured by his dressing himself a woman is hungry but her brain will no longer tell her how to eat. Meadows' works are a testament to courage and resilience in the face of a loss of control and identity.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Find out more about Georgie Meadows and her work",
+        "spans": [
+          {
+            "start": 0,
+            "end": 48,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "http://www.georgiemeadows.co.uk"
             }
-          ]
-        }
+          }
+        ]
       }
     }
   ],

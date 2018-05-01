@@ -12,45 +12,36 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "In July 2015 over 100 works by acclaimed artist Alice Anderson will be displayed at Wellcome Collection. Anderson’s sculptures entirely mummified in copper thread will create glistening landscapes of beautiful, uncanny and transformed objects. Each piece is an exploration and act of memory.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The exhibition will also feature an immersive experience ‘the Studio’ extending the creative process of the artist’s practice into the gallery. Visitors will be able to spend time mummifying a 1967 Ford Mustang and other smaller objects with copper wire, creating an atmosphere that is at once meditative and communal.",
-                "spans": [
-                  {
-                    "start": 58,
-                    "end": 68,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "https://wellcomecollection.org/whats/studio"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Both the making and display of works pose challenging questions about the comforts and consolations of creating and sharing memories.",
-                "spans": []
-              }
+      "type": "paragraph",
+      "content": {
+        "text": "In July 2015 over 100 works by acclaimed artist Alice Anderson will be displayed at Wellcome Collection. Anderson’s sculptures entirely mummified in copper thread will create glistening landscapes of beautiful, uncanny and transformed objects. Each piece is an exploration and act of memory.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The exhibition will also feature an immersive experience ‘the Studio’ extending the creative process of the artist’s practice into the gallery. Visitors will be able to spend time mummifying a 1967 Ford Mustang and other smaller objects with copper wire, creating an atmosphere that is at once meditative and communal.",
+        "spans": [
+          {
+            "start": 58,
+            "end": 68,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "https://wellcomecollection.org/whats/studio"
             }
-          ]
-        }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Both the making and display of works pose challenging questions about the comforts and consolations of creating and sharing memories.",
+        "spans": []
       }
     }
   ],

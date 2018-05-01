@@ -44,26 +44,14 @@
               "type": "paragraph",
               "content": {
                 "text": "“What could happen to anyone?”",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 30,
-                    "data": {}
-                  }
-                ]
+                "spans": []
               }
             },
             {
               "type": "paragraph",
               "content": {
                 "text": "“Anything! Discrimination, homelessness, abuse, mental illness, bullying, racism… or voice hearing.”",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 100,
-                    "data": {}
-                  }
-                ]
+                "spans": []
               }
             },
             {

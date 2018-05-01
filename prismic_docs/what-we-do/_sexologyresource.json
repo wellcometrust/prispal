@@ -46,11 +46,6 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 60,
                     "type": "hyperlink",
                     "data": {
@@ -88,22 +83,12 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 76,
                     "type": "hyperlink",
                     "data": {
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Information%20for%20teachers%20%28152KB%29.pdf"
                     }
-                  },
-                  {
-                    "start": 76,
-                    "end": 76,
-                    "data": {}
                   }
                 ]
               }
@@ -121,22 +106,12 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 60,
                     "type": "hyperlink",
                     "data": {
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Glossary%20%28177KB%29_0.pdf"
                     }
-                  },
-                  {
-                    "start": 60,
-                    "end": 60,
-                    "data": {}
                   }
                 ]
               }
@@ -146,11 +121,6 @@
               "content": {
                 "text": "Institute of Sexology Learning Resource_Gallery plan (258KB).pdf Map of the exibition with key objects highlighted.",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 64,
@@ -165,11 +135,6 @@
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Gallery%20plan%20%28258KB%29_0.pdf"
                     }
-                  },
-                  {
-                    "start": 64,
-                    "end": 64,
-                    "data": {}
                   }
                 ]
               }
@@ -194,22 +159,12 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 66,
                     "type": "hyperlink",
                     "data": {
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Overview%20Trail%20%28402KB%29_0.pdf"
                     }
-                  },
-                  {
-                    "start": 66,
-                    "end": 66,
-                    "data": {}
                   }
                 ]
               }
@@ -234,22 +189,12 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 70,
                     "type": "hyperlink",
                     "data": {
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Time%20Travel%20Trails%20%28521KB%29_0.pdf"
                     }
-                  },
-                  {
-                    "start": 70,
-                    "end": 70,
-                    "data": {}
                   }
                 ]
               }
@@ -274,22 +219,12 @@
                   },
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 70,
                     "type": "hyperlink",
                     "data": {
                       "link_type": "Web",
                       "url": "http://www.wellcomecollection.org/sites/default/files/Institute%20of%20Sexology%20Learning%20Resource_Introductory%20Trail%20%28693KB%29.pdf"
                     }
-                  },
-                  {
-                    "start": 70,
-                    "end": 70,
-                    "data": {}
                   }
                 ]
               }

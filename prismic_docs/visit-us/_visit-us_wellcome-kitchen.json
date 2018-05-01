@@ -97,16 +97,6 @@
                     "end": 42,
                     "type": "strong",
                     "data": {}
-                  },
-                  {
-                    "start": 52,
-                    "end": 52,
-                    "data": {}
-                  },
-                  {
-                    "start": 52,
-                    "end": 173,
-                    "data": {}
                   }
                 ]
               }
@@ -121,16 +111,6 @@
                     "end": 59,
                     "type": "strong",
                     "data": {}
-                  },
-                  {
-                    "start": 70,
-                    "end": 70,
-                    "data": {}
-                  },
-                  {
-                    "start": 70,
-                    "end": 179,
-                    "data": {}
                   }
                 ]
               }
@@ -144,16 +124,6 @@
                     "start": 0,
                     "end": 17,
                     "type": "strong",
-                    "data": {}
-                  },
-                  {
-                    "start": 23,
-                    "end": 23,
-                    "data": {}
-                  },
-                  {
-                    "start": 23,
-                    "end": 160,
                     "data": {}
                   }
                 ]
@@ -197,11 +167,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 27,
                     "type": "hyperlink",
                     "data": {
@@ -217,11 +182,6 @@
               "content": {
                 "text": "Drinks Menu (75 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 19,

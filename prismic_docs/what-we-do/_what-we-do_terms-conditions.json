@@ -64,11 +64,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 38,
                     "type": "hyperlink",
                     "data": {

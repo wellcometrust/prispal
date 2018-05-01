@@ -85,11 +85,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 20,
                     "type": "hyperlink",
                     "data": {
@@ -126,21 +121,6 @@
                     "data": {}
                   },
                   {
-                    "start": 12,
-                    "end": 12,
-                    "data": {}
-                  },
-                  {
-                    "start": 143,
-                    "end": 143,
-                    "data": {}
-                  },
-                  {
-                    "start": 143,
-                    "end": 143,
-                    "data": {}
-                  },
-                  {
                     "start": 143,
                     "end": 164,
                     "type": "hyperlink",
@@ -161,21 +141,6 @@
                     "start": 0,
                     "end": 16,
                     "type": "strong",
-                    "data": {}
-                  },
-                  {
-                    "start": 16,
-                    "end": 16,
-                    "data": {}
-                  },
-                  {
-                    "start": 153,
-                    "end": 153,
-                    "data": {}
-                  },
-                  {
-                    "start": 153,
-                    "end": 153,
                     "data": {}
                   },
                   {
@@ -224,16 +189,6 @@
                   },
                   {
                     "start": 37,
-                    "end": 37,
-                    "data": {}
-                  },
-                  {
-                    "start": 37,
-                    "end": 37,
-                    "data": {}
-                  },
-                  {
-                    "start": 37,
                     "end": 78,
                     "type": "hyperlink",
                     "data": {
@@ -258,11 +213,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 31,
                     "type": "hyperlink",
                     "data": {
@@ -278,11 +228,6 @@
               "content": {
                 "text": "Follow up activities (164 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 29,
@@ -302,11 +247,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 44,
                     "type": "hyperlink",
                     "data": {
@@ -322,11 +262,6 @@
               "content": {
                 "text": "Glossary (80 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 16,
@@ -367,11 +302,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 38,
                     "type": "hyperlink",
                     "data": {
@@ -393,11 +323,6 @@
               "content": {
                 "text": "English activity cards (181 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 31,
@@ -423,11 +348,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 34,
                     "type": "hyperlink",
                     "data": {
@@ -449,11 +369,6 @@
               "content": {
                 "text": "Psychology activity cards (367 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 34,
@@ -479,11 +394,6 @@
                 "spans": [
                   {
                     "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
-                  {
-                    "start": 0,
                     "end": 41,
                     "type": "hyperlink",
                     "data": {
@@ -505,11 +415,6 @@
               "content": {
                 "text": "Science activity cards (247 KB)",
                 "spans": [
-                  {
-                    "start": 0,
-                    "end": 0,
-                    "data": {}
-                  },
                   {
                     "start": 0,
                     "end": 31,

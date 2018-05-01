@@ -12,59 +12,50 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The second major temporary exhibition at Wellcome Collection, 'Sleeping & Dreaming' combined art and medical science to explore sleep, the mysterious state we all inhabit for a third of our lives.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "The exhibition drew together 300 objects across five major themes and a public events programme, to enable visitors to explore the biomedical and neurological processes that take place in the sleeping body, and the social and cultural areas of our lives to which sleep and dreams are linked.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "'Sleeping & Dreaming' exhibits ranged from work by artists such as Goya and Rodney Graham to a victim of sleep-deprivation interrogation talking about his experiences, a vehicle designed to provide homeless people with a mobile place to sleep and bizarre alarm clocks (one of which lights a candle to ensure the sleeper gets up).",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "This was a two-part collaboration with The Museum of Man (Deutsches Hygiene-Museum, Dresden).",
-                "spans": [
-                  {
-                    "start": 39,
-                    "end": 92,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "http://www.dhmd.de/neu/"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": " ",
-                "spans": []
-              }
+      "type": "paragraph",
+      "content": {
+        "text": "The second major temporary exhibition at Wellcome Collection, 'Sleeping & Dreaming' combined art and medical science to explore sleep, the mysterious state we all inhabit for a third of our lives.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "The exhibition drew together 300 objects across five major themes and a public events programme, to enable visitors to explore the biomedical and neurological processes that take place in the sleeping body, and the social and cultural areas of our lives to which sleep and dreams are linked.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "'Sleeping & Dreaming' exhibits ranged from work by artists such as Goya and Rodney Graham to a victim of sleep-deprivation interrogation talking about his experiences, a vehicle designed to provide homeless people with a mobile place to sleep and bizarre alarm clocks (one of which lights a candle to ensure the sleeper gets up).",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "This was a two-part collaboration with The Museum of Man (Deutsches Hygiene-Museum, Dresden).",
+        "spans": [
+          {
+            "start": 39,
+            "end": 92,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "http://www.dhmd.de/neu/"
             }
-          ]
-        }
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": " ",
+        "spans": []
       }
     }
   ],

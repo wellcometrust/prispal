@@ -12,85 +12,76 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "When an object is found by one but taken from another, what is the impact? Not only at the time it was taken but for generations to come? Busty Beatz of Hot Brown Honey is on a mission to deconstruct, dissect and shake the foundations of the past by artistically reimagining history into Herstory.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Collaborating with artists, academics and researchers from across worlds, disciplines and experiences, We are the Latest Models of our Ancestry sets out to challenge perceptions of ‘museum objects’.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Through redefining and reshaping the impact of being taken from, it will articulate the intersections of race, culture and gender empowerment of our contemporary selves.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "This multimedia installation, featuring video and recorded and live sound, commissioned for The Sick of the Fringe, accompanies the Medicine Man exhibition.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "As part of this installation, @bustybeatz is taking over our @ExploreWellcome Twitter account. Find out more below.",
-                "spans": [
-                  {
-                    "start": 30,
-                    "end": 41,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "http://twitter.com/BustyBeatz"
-                    }
-                  },
-                  {
-                    "start": 61,
-                    "end": 77,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "https://twitter.com/ExploreWellcome"
-                    }
-                  }
-                ]
-              }
-            },
-            {
-              "type": "heading2",
-              "content": {
-                "text": "Part of The Sick of the Fringe - London",
-                "spans": [
-                  {
-                    "start": 8,
-                    "end": 39,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "https://wellcomecollection.org/sickofthefringe"
-                    }
-                  }
-                ]
-              }
+      "type": "paragraph",
+      "content": {
+        "text": "When an object is found by one but taken from another, what is the impact? Not only at the time it was taken but for generations to come? Busty Beatz of Hot Brown Honey is on a mission to deconstruct, dissect and shake the foundations of the past by artistically reimagining history into Herstory.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Collaborating with artists, academics and researchers from across worlds, disciplines and experiences, We are the Latest Models of our Ancestry sets out to challenge perceptions of ‘museum objects’.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Through redefining and reshaping the impact of being taken from, it will articulate the intersections of race, culture and gender empowerment of our contemporary selves.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "This multimedia installation, featuring video and recorded and live sound, commissioned for The Sick of the Fringe, accompanies the Medicine Man exhibition.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "As part of this installation, @bustybeatz is taking over our @ExploreWellcome Twitter account. Find out more below.",
+        "spans": [
+          {
+            "start": 30,
+            "end": 41,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "http://twitter.com/BustyBeatz"
             }
-          ]
-        }
+          },
+          {
+            "start": 61,
+            "end": 77,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "https://twitter.com/ExploreWellcome"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "heading2",
+      "content": {
+        "text": "Part of The Sick of the Fringe - London",
+        "spans": [
+          {
+            "start": 8,
+            "end": 39,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "https://wellcomecollection.org/sickofthefringe"
+            }
+          }
+        ]
       }
     }
   ],

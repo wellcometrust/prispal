@@ -12,94 +12,85 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "heading2",
-              "content": {
-                "text": "Mental illness and the visual arts in Vienna 1900",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 49,
-                    "type": "strong",
-                    "data": {}
-                  }
-                ]
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Vienna at the turn of the 20th century was one of Europe's leading centres for modernism. This was a tumultuous period of transition in which the arts, literature, architecture and philosophy blossomed. A time when Sigmund Freud, among others, pioneered new ideas about the self and psychiatry.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Vienna in 1900 was a city obsessed with the mind. Political unrest had left the Viennese with an overwhelming sense that they were living in 'nervous times'. Anxieties about mental health were allied to fears about the modern city this context helped to foster progress in psychiatric care and innovation.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "This multidisciplinary exhibition presented the range of ways madness and art interacted in Vienna, from designs for utopian psychiatric spaces to the drawings of patients confined in them. It explored the influence of psychiatry on early modernism and encouraged us to reflect on how we deal with mental illness 100 years on.",
-                "spans": []
-              }
-            },
-            {
-              "type": "heading2",
-              "content": {
-                "text": "About the curators",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 18,
-                    "type": "strong",
-                    "data": {}
-                  }
-                ]
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Dr Leslie Topp is Senior Lecturer in History of Architecture at Birkbeck, University of London. She was co-director with Gemma Blackshaw of the four-year research project 'Madness and Modernity: Art, architecture and mental illness in Vienna and the Habsburg Empire, 1890-1914', funded by the Arts and Humanities Research Council between 2004 and 2008. She is currently writing a book entitled 'Freedom and the Cage: Modern architecture and psychiatry in central Europe 1890-1914'.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Dr Gemma Blackshaw is Lecturer in Art History at the University of Plymouth and an expert on modern art in Vienna around 1900. She was co-director with Leslie Topp of the 'Madness and Modernity: Art, architecture and mental illness in Vienna and the Habsburg Empire, 1890-1914' research project. She has published on Richard Gerstl, Anton Romako and Egon Schiele, and is currently working on a co-edited collection of essays that explore further territories of mental illness in this city and period, entitled 'Journeys into Madness'.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Buy the 'Madness and Modernity' book",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 36,
-                    "type": "hyperlink",
-                    "data": {
-                      "link_type": "Web",
-                      "url": "http://www.amazon.co.uk/Madness-Modernity-Mental-Illness-Visual/dp/1848220200/ref=sr_1_1?ie=UTF8& s=books& qid=1236950825& sr=8-1"
-                    }
-                  }
-                ]
-              }
+      "type": "heading2",
+      "content": {
+        "text": "Mental illness and the visual arts in Vienna 1900",
+        "spans": [
+          {
+            "start": 0,
+            "end": 49,
+            "type": "strong",
+            "data": {}
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Vienna at the turn of the 20th century was one of Europe's leading centres for modernism. This was a tumultuous period of transition in which the arts, literature, architecture and philosophy blossomed. A time when Sigmund Freud, among others, pioneered new ideas about the self and psychiatry.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Vienna in 1900 was a city obsessed with the mind. Political unrest had left the Viennese with an overwhelming sense that they were living in 'nervous times'. Anxieties about mental health were allied to fears about the modern city this context helped to foster progress in psychiatric care and innovation.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "This multidisciplinary exhibition presented the range of ways madness and art interacted in Vienna, from designs for utopian psychiatric spaces to the drawings of patients confined in them. It explored the influence of psychiatry on early modernism and encouraged us to reflect on how we deal with mental illness 100 years on.",
+        "spans": []
+      }
+    },
+    {
+      "type": "heading2",
+      "content": {
+        "text": "About the curators",
+        "spans": [
+          {
+            "start": 0,
+            "end": 18,
+            "type": "strong",
+            "data": {}
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Dr Leslie Topp is Senior Lecturer in History of Architecture at Birkbeck, University of London. She was co-director with Gemma Blackshaw of the four-year research project 'Madness and Modernity: Art, architecture and mental illness in Vienna and the Habsburg Empire, 1890-1914', funded by the Arts and Humanities Research Council between 2004 and 2008. She is currently writing a book entitled 'Freedom and the Cage: Modern architecture and psychiatry in central Europe 1890-1914'.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Dr Gemma Blackshaw is Lecturer in Art History at the University of Plymouth and an expert on modern art in Vienna around 1900. She was co-director with Leslie Topp of the 'Madness and Modernity: Art, architecture and mental illness in Vienna and the Habsburg Empire, 1890-1914' research project. She has published on Richard Gerstl, Anton Romako and Egon Schiele, and is currently working on a co-edited collection of essays that explore further territories of mental illness in this city and period, entitled 'Journeys into Madness'.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Buy the 'Madness and Modernity' book",
+        "spans": [
+          {
+            "start": 0,
+            "end": 36,
+            "type": "hyperlink",
+            "data": {
+              "link_type": "Web",
+              "url": "http://www.amazon.co.uk/Madness-Modernity-Mental-Illness-Visual/dp/1848220200/ref=sr_1_1?ie=UTF8& s=books& qid=1236950825& sr=8-1"
             }
-          ]
-        }
+          }
+        ]
       }
     }
   ],

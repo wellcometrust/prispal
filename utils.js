@@ -63,7 +63,7 @@ const flattenBlock = (block, nodes) => {
         type: block.type,
         content: {
           text: block.content.text,
-          spans: block.content.spans.concat([span])
+          spans: span.type ? block.content.spans.concat([span]) : block.content.spans
         }
       }
 

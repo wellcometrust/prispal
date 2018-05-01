@@ -222,13 +222,7 @@
               "type": "paragraph",
               "content": {
                 "text": "​",
-                "spans": [
-                  {
-                    "start": 1,
-                    "end": 1,
-                    "data": {}
-                  }
-                ]
+                "spans": []
               }
             },
             {

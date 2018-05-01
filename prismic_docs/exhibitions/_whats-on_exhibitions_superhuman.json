@@ -12,42 +12,33 @@
       }
     }
   ],
-  "body": [
+  "description": [
     {
-      "key": "text",
-      "value": {
-        "non-repeat": {
-          "text": [
-            {
-              "type": "heading2",
-              "content": {
-                "text": "An exhibition exploring human enhancement.",
-                "spans": [
-                  {
-                    "start": 0,
-                    "end": 42,
-                    "type": "strong",
-                    "data": {}
-                  }
-                ]
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Glasses, lipstick, false teeth, the contraceptive pill and even your mobile phone - we take for granted how commonplace human enhancements are. Current scientific developments point to a future where cognitive enhancers and medical nanorobots will be widespread as we seek to augment our beauty, intelligence and health.",
-                "spans": []
-              }
-            },
-            {
-              "type": "paragraph",
-              "content": {
-                "text": "Superhuman takes a broad and playful look at our obsession with being the best we can be. Items on display range from an ancient Egyptian prosthetic toe to a packet of Viagra, alongside contributions from artists such as Matthew Barney and scientists, ethicists and commentators working at the cutting edge of this most exciting, and feared, area of modern science.",
-                "spans": []
-              }
-            }
-          ]
-        }
+      "type": "heading2",
+      "content": {
+        "text": "An exhibition exploring human enhancement.",
+        "spans": [
+          {
+            "start": 0,
+            "end": 42,
+            "type": "strong",
+            "data": {}
+          }
+        ]
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Glasses, lipstick, false teeth, the contraceptive pill and even your mobile phone - we take for granted how commonplace human enhancements are. Current scientific developments point to a future where cognitive enhancers and medical nanorobots will be widespread as we seek to augment our beauty, intelligence and health.",
+        "spans": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Superhuman takes a broad and playful look at our obsession with being the best we can be. Items on display range from an ancient Egyptian prosthetic toe to a packet of Viagra, alongside contributions from artists such as Matthew Barney and scientists, ethicists and commentators working at the cutting edge of this most exciting, and feared, area of modern science.",
+        "spans": []
       }
     }
   ],
