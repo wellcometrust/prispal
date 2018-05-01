@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -61,6 +61,8 @@
       }
     }
   ],
+  "start": "2013-09-19T09:00:00.000Z",
+  "end": "2013-10-27T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/ThinkingWithTheBodyTrailer_posterframe.jpg"
   },

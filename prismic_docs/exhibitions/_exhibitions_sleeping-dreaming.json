@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -68,6 +68,8 @@
       }
     }
   ],
+  "start": "2007-11-29T10:00:00.000Z",
+  "end": "2008-03-09T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/sleepinganddreaming_650x245.jpg"
   },

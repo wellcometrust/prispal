@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -37,6 +37,8 @@
       }
     }
   ],
+  "start": "2010-11-11T10:00:00.000Z",
+  "end": "2011-02-27T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/HighSociety_trailer_gall.jpg"
   },

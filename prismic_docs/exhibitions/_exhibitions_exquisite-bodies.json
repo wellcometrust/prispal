@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -44,6 +44,8 @@
       }
     }
   ],
+  "start": "2009-07-30T09:00:00.000Z",
+  "end": "2009-10-18T17:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/exquisitebodies_650x245.jpg"
   },

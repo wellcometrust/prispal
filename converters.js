@@ -74,7 +74,7 @@ export function convertExhibition(result) {
 
   try {
     const doc = {
-      type: 'info-pages',
+      type: 'exhibitions',
       tags: ['from_drupal'],
       title: convertTitle(title),
       body: convertBody(body),

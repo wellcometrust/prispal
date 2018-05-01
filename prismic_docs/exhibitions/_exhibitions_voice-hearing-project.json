@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -99,6 +99,8 @@
       }
     }
   ],
+  "start": "2016-04-14T09:00:00.000Z",
+  "end": "2016-07-31T17:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/C0130297.jpg"
   },

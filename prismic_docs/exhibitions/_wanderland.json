@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -85,6 +85,8 @@
       }
     }
   ],
+  "start": "2016-10-20T09:00:00.000Z",
+  "end": "2016-10-30T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/wanderlandtemp.png"
   },

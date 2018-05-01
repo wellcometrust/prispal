@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -30,6 +30,7 @@
       }
     }
   ],
+  "start": "2009-11-26T09:00:45.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/identity-project_letterbox.jpg"
   },

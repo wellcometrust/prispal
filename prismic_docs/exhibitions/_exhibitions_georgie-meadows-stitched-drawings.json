@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -68,6 +68,8 @@
       }
     }
   ],
+  "start": "2012-10-18T09:00:00.000Z",
+  "end": "2012-11-11T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/georgie-meadows_letterbox.jpg"
   },

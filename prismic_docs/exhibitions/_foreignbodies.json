@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -58,6 +58,8 @@
       }
     }
   ],
+  "start": "2013-11-14T10:00:00.000Z",
+  "end": "2014-03-16T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/FB_poster_640x360.jpg"
   },

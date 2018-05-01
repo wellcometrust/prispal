@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -51,6 +51,8 @@
       }
     }
   ],
+  "start": "2008-04-23T23:00:00.000Z",
+  "end": "2008-08-10T23:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/atomspatterns_650x245.jpg"
   },

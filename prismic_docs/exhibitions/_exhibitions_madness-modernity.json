@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -103,6 +103,8 @@
       }
     }
   ],
+  "start": "2009-04-01T09:00:00.000Z",
+  "end": "2009-06-28T17:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/madnessmodernity_650x256.jpg"
   },

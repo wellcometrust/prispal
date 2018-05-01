@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -44,6 +44,8 @@
       }
     }
   ],
+  "start": "2015-04-02T09:00:00.000Z",
+  "end": "2015-04-26T17:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/forensic-identity-main.png"
   },

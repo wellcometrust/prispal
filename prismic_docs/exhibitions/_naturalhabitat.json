@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -99,6 +99,8 @@
       }
     }
   ],
+  "start": "2017-06-22T13:45:00.000Z",
+  "end": "2017-10-08T13:45:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/natural-habitat-16x9.png"
   },

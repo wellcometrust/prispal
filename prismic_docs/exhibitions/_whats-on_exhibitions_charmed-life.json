@@ -1,5 +1,5 @@
 {
-  "type": "info-pages",
+  "type": "exhibitions",
   "tags": [
     "from_drupal"
   ],
@@ -51,6 +51,8 @@
       }
     }
   ],
+  "start": "2011-10-06T09:00:00.000Z",
+  "end": "2012-02-26T18:00:00.000Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/CharmedLife_letterbox.jpg"
   },
