@@ -65,6 +65,25 @@ export function convertBasicPage(result, tag) {
   }
 }
 
+export function convertPressRelease(result) {
+  const [nid, path, title, body, image, promoText, date] = result
+  try {
+    const doc = {
+      type: 'info-pages',
+      tags: ['press', 'from_drupal'],
+      title: convertTitle(title),
+      body: convertBody(body),
+      drupalNid: nid,
+      drupalPath: path,
+      promo: convertPromo(promoText),
+      datePublished: date
+    }
+    return doc;
+  } catch (err) {
+    console.info('Could not convert: ' + path)
+    throw err
+  }
+}
 
 export function convertExhibition(result) {
   const [nid, path, title, body, image, promoText, date] = result

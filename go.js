@@ -1,6 +1,7 @@
 import {
  convertBasicPage,
- convertExhibition
+ convertExhibition,
+ convertPressRelease
 } from './converters'
 import {write} from './write'
 
@@ -18,9 +19,13 @@ async function exhibitions() {
   console.info(`> Running: exhibitions`)
   write('exhibitions', convertExhibition)
 }
+async function pressReleases() {
+  console.info(`> Running: press-releases`)
+  write('press-releases', convertPressRelease)
+}
 
 const funcs = [
-  whatWeDo, visitUs, exhibitions
+  whatWeDo, visitUs, exhibitions, pressReleases
 ]
 
 if (run) {
