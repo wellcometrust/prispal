@@ -88,11 +88,6 @@
   "extent": "232p",
   "isbn": "9781846683749",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
-  },
-  "drupalNid": "3159",
-  "drupalPath": "/diary-drawings",
   "promo": [
     {
       "key": "editorialImage",
@@ -111,8 +106,13 @@
       }
     }
   ],
-  "publishedDate": "2010-05-06",
+  "datePublished": "2010-05-06",
   "authorName": "Bobby Baker",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
+  },
+  "drupalNid": "3159",
+  "drupalPath": "/diary-drawings"
 }

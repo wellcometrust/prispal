@@ -87,7 +87,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Hilary Mantel, ",
+            "text": "A sober and beautiful book about the landscape of the human body: thought-provoking and eloquent.",
             "spans": []
           }
         }
@@ -107,7 +107,7 @@
         {
           "type": "p",
           "content": {
-            "text": "John Berger, ",
+            "text": "I have never read a book like this one and I recommend it wholeheartedly. Diagnoses and legends narrated with compassion and humour... reading it, you feel better.",
             "spans": []
           }
         }
@@ -127,7 +127,7 @@
         {
           "type": "p",
           "content": {
-            "text": "The Irish Times",
+            "text": "Francis moves skillfully between the scientific and the aesthetic, between anatomical fact and emotional consequence, to craft a profound yet highly readable account of the intimate, inextricable relationship between the physical body and what some still call the soul.",
             "spans": []
           }
         }
@@ -143,11 +143,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Adventures%20in%20Human%20Being_BLUE_3.png"
-  },
-  "drupalNid": "3129",
-  "drupalPath": "/adventures-human-being-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -166,14 +161,12 @@
       }
     }
   ],
-  "publishedDate": "2016-02-04",
+  "datePublished": "2016-02-04",
   "authorName": "Gavin Francis",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/Gavin-Francis.png",
-    "width": "330",
-    "height": "330"
+    "url": "https://wellcomecollection.org/sites/default/files/Gavin-Francis.png"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -181,5 +174,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Adventures%20in%20Human%20Being_BLUE_3.png"
+  },
+  "drupalNid": "3129",
+  "drupalPath": "/adventures-human-being-0"
 }

@@ -64,11 +64,6 @@
   "extent": "224p",
   "isbn": "9780957028562",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/sexology-book.jpg"
-  },
-  "drupalNid": "3137",
-  "drupalPath": "/institute-sexology-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -87,8 +82,13 @@
       }
     }
   ],
-  "publishedDate": "2014-11-15",
+  "datePublished": "2014-11-15",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sexology-book.jpg"
+  },
+  "drupalNid": "3137",
+  "drupalPath": "/institute-sexology-0"
 }

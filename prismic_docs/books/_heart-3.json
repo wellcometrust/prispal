@@ -75,11 +75,6 @@
   "extent": "256p",
   "isbn": "9780300125108",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"
-  },
-  "drupalNid": "3173",
-  "drupalPath": "/heart-3",
   "promo": [
     {
       "key": "editorialImage",
@@ -98,8 +93,13 @@
       }
     }
   ],
-  "publishedDate": "2007-05-25",
+  "datePublished": "2007-05-25",
   "authorName": "Edited by James Peto",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"
+  },
+  "drupalNid": "3173",
+  "drupalPath": "/heart-3"
 }

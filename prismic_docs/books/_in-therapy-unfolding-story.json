@@ -61,11 +61,6 @@
   "extent": "288pp",
   "isbn": "9781781259887",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/IN_THERAPY_FINAL_COVER%20for%20web.png"
-  },
-  "drupalNid": "4069",
-  "drupalPath": "/in-therapy-unfolding-story",
   "promo": [
     {
       "key": "editorialImage",
@@ -84,8 +79,13 @@
       }
     }
   ],
-  "publishedDate": "2018-01-11",
+  "datePublished": "2018-01-11",
   "authorName": "Susie Orbach",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/IN_THERAPY_FINAL_COVER%20for%20web.png"
+  },
+  "drupalNid": "4069",
+  "drupalPath": "/in-therapy-unfolding-story"
 }

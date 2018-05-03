@@ -97,7 +97,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Observer, ",
+            "text": "\"Beautifully packaged…Barnett and Jay have produced a wonderful history both of Londoners' lives and the medical profession.",
             "spans": []
           }
         }
@@ -117,7 +117,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Peter Ackroyd, The Times",
+            "text": "This is London's real heritage…all human life, and human death, is here.",
             "spans": []
           }
         }
@@ -133,11 +133,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"
-  },
-  "drupalNid": "3165",
-  "drupalPath": "/medical-london",
   "promo": [
     {
       "key": "editorialImage",
@@ -156,8 +151,13 @@
       }
     }
   ],
-  "publishedDate": "2008-11-24",
+  "datePublished": "2008-11-24",
   "authorName": "By Richard Barnett and edited by Mike Jay",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"
+  },
+  "drupalNid": "3165",
+  "drupalPath": "/medical-london"
 }

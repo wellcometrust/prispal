@@ -61,11 +61,6 @@
   "extent": "226p",
   "isbn": "9781846680335",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"
-  },
-  "drupalNid": "3175",
-  "drupalPath": "/cures-and-curiosities",
   "promo": [
     {
       "key": "editorialImage",
@@ -84,8 +79,13 @@
       }
     }
   ],
-  "publishedDate": "2007-06-21",
+  "datePublished": "2007-06-21",
   "authorName": "Compiled and edited by Tony Gould",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"
+  },
+  "drupalNid": "3175",
+  "drupalPath": "/cures-and-curiosities"
 }

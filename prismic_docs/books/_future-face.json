@@ -61,11 +61,6 @@
   "extent": "224p",
   "isbn": "9781861977687",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"
-  },
-  "drupalNid": "3177",
-  "drupalPath": "/future-face",
   "promo": [
     {
       "key": "editorialImage",
@@ -84,8 +79,13 @@
       }
     }
   ],
-  "publishedDate": "2004-09-01",
+  "datePublished": "2004-09-01",
   "authorName": "Sandra Kemp",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"
+  },
+  "drupalNid": "3177",
+  "drupalPath": "/future-face"
 }

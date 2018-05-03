@@ -80,7 +80,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Malcolm Gladwell, ",
+            "text": "This is Atul Gawande’s most powerful, and moving, book.",
             "spans": []
           }
         }
@@ -100,7 +100,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Oliver Sacks",
+            "text": "'Being Mortal’ is not only wise and deeply moving; it is an essential and insightful book for our times, as one would expect from Atul Gawande, one of our finest physician writers.",
             "spans": []
           }
         }
@@ -116,11 +116,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
-  },
-  "drupalNid": "3141",
-  "drupalPath": "/being-mortal",
   "promo": [
     {
       "key": "editorialImage",
@@ -139,10 +134,10 @@
       }
     }
   ],
-  "publishedDate": "2015-07-01",
+  "datePublished": "2015-07-01",
   "authorName": "Atul Gawande",
   "authorImage": "",
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -150,5 +145,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
+  },
+  "drupalNid": "3141",
+  "drupalPath": "/being-mortal"
 }

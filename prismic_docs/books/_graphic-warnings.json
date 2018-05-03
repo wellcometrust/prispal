@@ -68,11 +68,6 @@
   "extent": "25 cards",
   "isbn": "9781999809003",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/graphic%20warnings.png"
-  },
-  "drupalNid": "3981",
-  "drupalPath": "/graphic-warnings",
   "promo": [
     {
       "key": "editorialImage",
@@ -91,8 +86,13 @@
       }
     }
   ],
-  "publishedDate": "2017-09-07",
+  "datePublished": "2017-09-07",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/graphic%20warnings.png"
+  },
+  "drupalNid": "3981",
+  "drupalPath": "/graphic-warnings"
 }

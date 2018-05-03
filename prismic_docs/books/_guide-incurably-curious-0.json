@@ -71,11 +71,6 @@
   "extent": "112p",
   "isbn": "9780957028517",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
-  },
-  "drupalNid": "3147",
-  "drupalPath": "/guide-incurably-curious-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -94,8 +89,13 @@
       }
     }
   ],
-  "publishedDate": "2012-07-31",
+  "datePublished": "2012-07-31",
   "authorName": "Marek Kohn",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
+  },
+  "drupalNid": "3147",
+  "drupalPath": "/guide-incurably-curious-0"
 }

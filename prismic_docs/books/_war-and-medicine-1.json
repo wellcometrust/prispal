@@ -78,11 +78,6 @@
   "extent": "256p",
   "isbn": "9781906155520",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
-  },
-  "drupalNid": "3167",
-  "drupalPath": "/war-and-medicine-1",
   "promo": [
     {
       "key": "editorialImage",
@@ -101,8 +96,13 @@
       }
     }
   ],
-  "publishedDate": "2008-10-20",
+  "datePublished": "2008-10-20",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
+  },
+  "drupalNid": "3167",
+  "drupalPath": "/war-and-medicine-1"
 }

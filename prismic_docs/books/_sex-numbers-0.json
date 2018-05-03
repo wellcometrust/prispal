@@ -92,11 +92,6 @@
   "extent": "368p",
   "isbn": "9781781253298",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
-  },
-  "drupalNid": "3183",
-  "drupalPath": "/sex-numbers-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -115,10 +110,10 @@
       }
     }
   ],
-  "publishedDate": "2015-04-02",
+  "datePublished": "2015-04-02",
   "authorName": "David Spiegelhalter",
   "authorImage": "",
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -126,5 +121,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
+  },
+  "drupalNid": "3183",
+  "drupalPath": "/sex-numbers-0"
 }

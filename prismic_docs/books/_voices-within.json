@@ -99,11 +99,6 @@
   "extent": "352pp",
   "isbn": "9781781252802",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/9781781252802_1.png"
-  },
-  "drupalNid": "3359",
-  "drupalPath": "/voices-within",
   "promo": [
     {
       "key": "editorialImage",
@@ -122,14 +117,12 @@
       }
     }
   ],
-  "publishedDate": "2017-04-20",
+  "datePublished": "2017-04-20",
   "authorName": "Charles Fernyhough",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/fernyhough_0.png",
-    "width": "305",
-    "height": "403"
+    "url": "https://wellcomecollection.org/sites/default/files/fernyhough_0.png"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -137,5 +130,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781252802_1.png"
+  },
+  "drupalNid": "3359",
+  "drupalPath": "/voices-within"
 }

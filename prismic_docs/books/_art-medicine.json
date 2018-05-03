@@ -61,11 +61,6 @@
   "extent": "256p",
   "isbn": "9781907579134",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"
-  },
-  "drupalNid": "3155",
-  "drupalPath": "/art-medicine",
   "promo": [
     {
       "key": "editorialImage",
@@ -84,8 +79,13 @@
       }
     }
   ],
-  "publishedDate": "2011-11-28",
+  "datePublished": "2011-11-28",
   "authorName": "Emm Barnes, Julie Anderson & Emma Shackleton",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"
+  },
+  "drupalNid": "3155",
+  "drupalPath": "/art-medicine"
 }

@@ -57,11 +57,6 @@
   "extent": "64p",
   "isbn": "9781841290782",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/skeletonsbook.jpg"
-  },
-  "drupalNid": "3169",
-  "drupalPath": "/skeletons",
   "promo": [
     {
       "key": "editorialImage",
@@ -80,8 +75,13 @@
       }
     }
   ],
-  "publishedDate": "2008-07-22",
+  "datePublished": "2008-07-22",
   "authorName": "Edited by Emily Sargent",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/skeletonsbook.jpg"
+  },
+  "drupalNid": "3169",
+  "drupalPath": "/skeletons"
 }

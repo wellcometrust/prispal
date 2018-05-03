@@ -73,7 +73,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Helen Rumbelow, The Times, ",
+            "text": "A transfixing, sublime collection of portraits of the highest art.",
             "spans": []
           }
         }
@@ -93,7 +93,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Will Self, The Guardian, ",
+            "text": "Superbly erudite and lucid.",
             "spans": []
           }
         }
@@ -113,7 +113,7 @@
         {
           "type": "p",
           "content": {
-            "text": "The Independent",
+            "text": "[A] trove of extraordinary illustrations.",
             "spans": []
           }
         }
@@ -129,11 +129,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/image/Book-cover-image_1_.jpg"
-  },
-  "drupalNid": "3143",
-  "drupalPath": "/sick-rose-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -152,8 +147,13 @@
       }
     }
   ],
-  "publishedDate": "2014-06-02",
+  "datePublished": "2014-06-02",
   "authorName": "Richard Barnett",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/image/Book-cover-image_1_.jpg"
+  },
+  "drupalNid": "3143",
+  "drupalPath": "/sick-rose-0"
 }

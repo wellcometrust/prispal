@@ -85,11 +85,6 @@
   "extent": "80pp",
   "isbn": "9781999809010",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
-  },
-  "drupalNid": "4027",
-  "drupalPath": "/ayurvedic-man",
   "promo": [
     {
       "key": "editorialImage",
@@ -108,8 +103,13 @@
       }
     }
   ],
-  "publishedDate": "2017-11-16",
+  "datePublished": "2017-11-16",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
+  },
+  "drupalNid": "4027",
+  "drupalPath": "/ayurvedic-man"
 }

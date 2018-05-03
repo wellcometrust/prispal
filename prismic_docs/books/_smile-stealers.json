@@ -71,7 +71,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Tatler, ",
+            "text": "Magnificent … All human life is here – the pain, the suffering and the happiness summed up in the ecstasy of a toothsome smile.",
             "spans": []
           }
         }
@@ -91,7 +91,7 @@
         {
           "type": "p",
           "content": {
-            "text": "The Times",
+            "text": "I love the thought of The Smile Stealers being casually left in dentists’ waiting rooms … It is gory, beautiful, probing.",
             "spans": []
           }
         }
@@ -107,11 +107,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
-  },
-  "drupalNid": "3815",
-  "drupalPath": "/smile-stealers",
   "promo": [
     {
       "key": "editorialImage",
@@ -130,14 +125,12 @@
       }
     }
   ],
-  "publishedDate": "2017-04-27",
+  "datePublished": "2017-04-27",
   "authorName": "Richard Barnett",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/Richard%20Barnett%20%28from%20Amazon%29.jpg",
-    "width": "250",
-    "height": "395"
+    "url": "https://wellcomecollection.org/sites/default/files/Richard%20Barnett%20%28from%20Amazon%29.jpg"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -145,5 +138,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
+  },
+  "drupalNid": "3815",
+  "drupalPath": "/smile-stealers"
 }

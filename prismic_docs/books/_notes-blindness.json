@@ -73,7 +73,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Oliver Sacks, ",
+            "text": "A masterpiece…The incisiveness of observation, the beauty of his language, make this book poetry",
             "spans": []
           }
         }
@@ -93,7 +93,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Cathy Rentzenbrink, author of 'The Last Act of Love', ",
+            "text": "There is wisdom on every page… a gift to the whole of humanity",
             "spans": []
           }
         }
@@ -113,7 +113,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Andrew Solomon",
+            "text": "This is a courageous book about the ability of the human mind and soul to reorganize around changed sources of information.  In losing his sight, John Hull learned how much he had loved seeing, and how much he could love other means of interacting with the world.  His poignant and wise description of his rebirth as a blind man, written in incandescent prose, is thrilling and disturbing and demonstrates an exhilarating passion for life itself.  ",
             "spans": []
           }
         }
@@ -129,11 +129,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Notes_on_Blindness_final_front.png"
-  },
-  "drupalNid": "3723",
-  "drupalPath": "/notes-blindness",
   "promo": [
     {
       "key": "editorialImage",
@@ -152,14 +147,12 @@
       }
     }
   ],
-  "publishedDate": "2017-02-09",
+  "datePublished": "2017-02-09",
   "authorName": "John M. Hull",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/John%20photo.png",
-    "width": "200",
-    "height": "323"
+    "url": "https://wellcomecollection.org/sites/default/files/John%20photo.png"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -167,5 +160,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Notes_on_Blindness_final_front.png"
+  },
+  "drupalNid": "3723",
+  "drupalPath": "/notes-blindness"
 }

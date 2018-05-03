@@ -74,11 +74,6 @@
   "extent": "256pp",
   "isbn": "9780500518106 ",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
-  },
-  "drupalNid": "3133",
-  "drupalPath": "/crucial-interventions-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -97,8 +92,13 @@
       }
     }
   ],
-  "publishedDate": "2015-10-26",
+  "datePublished": "2015-10-26",
   "authorName": "Richard Barnett",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
+  },
+  "drupalNid": "3133",
+  "drupalPath": "/crucial-interventions-0"
 }

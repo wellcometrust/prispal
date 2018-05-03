@@ -78,11 +78,6 @@
   "extent": "256p",
   "isbn": "9781906155865",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"
-  },
-  "drupalNid": "3161",
-  "drupalPath": "/identity-and-identification-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -101,8 +96,13 @@
       }
     }
   ],
-  "publishedDate": "2009-12-01",
+  "datePublished": "2009-12-01",
   "authorName": "Edited by Ken Arnold, Mick Gordon, Chris Wilkinson",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"
+  },
+  "drupalNid": "3161",
+  "drupalPath": "/identity-and-identification-0"
 }

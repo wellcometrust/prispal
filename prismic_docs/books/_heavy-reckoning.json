@@ -68,11 +68,6 @@
   "extent": "320pp",
   "isbn": "9781781255858",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/9781781255858_0.png"
-  },
-  "drupalNid": "3839",
-  "drupalPath": "/heavy-reckoning",
   "promo": [
     {
       "key": "editorialImage",
@@ -91,14 +86,12 @@
       }
     }
   ],
-  "publishedDate": "2017-05-25",
+  "datePublished": "2017-05-25",
   "authorName": "Emily Mayhew",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/Emily%20Mayhew%20from%20ICL%20website.jpg",
-    "width": "214",
-    "height": "286"
+    "url": "https://wellcomecollection.org/sites/default/files/Emily%20Mayhew%20from%20ICL%20website.jpg"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -113,5 +106,10 @@
         ]
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781255858_0.png"
+  },
+  "drupalNid": "3839",
+  "drupalPath": "/heavy-reckoning"
 }

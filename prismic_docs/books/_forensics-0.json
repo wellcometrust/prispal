@@ -61,11 +61,6 @@
   "extent": "320p",
   "isbn": "9781781251706",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Val%20Mcdermid%20Anatomy%20of%20Crime%20forensics%20paperback.jpg"
-  },
-  "drupalNid": "3139",
-  "drupalPath": "/forensics-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -84,10 +79,10 @@
       }
     }
   ],
-  "publishedDate": "2015-02-05",
+  "datePublished": "2015-02-05",
   "authorName": "Val McDermid",
   "authorImage": "",
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -95,5 +90,10 @@
         "spans": []
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Val%20Mcdermid%20Anatomy%20of%20Crime%20forensics%20paperback.jpg"
+  },
+  "drupalNid": "3139",
+  "drupalPath": "/forensics-0"
 }

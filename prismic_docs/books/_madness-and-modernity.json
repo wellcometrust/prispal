@@ -78,11 +78,6 @@
   "extent": "166p",
   "isbn": "9781848220201",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"
-  },
-  "drupalNid": "3163",
-  "drupalPath": "/madness-and-modernity",
   "promo": [
     {
       "key": "editorialImage",
@@ -101,8 +96,13 @@
       }
     }
   ],
-  "publishedDate": "2009-03-28",
+  "datePublished": "2009-03-28",
   "authorName": "Edited by Gemma Blackshaw and Leslie Topp",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"
+  },
+  "drupalNid": "3163",
+  "drupalPath": "/madness-and-modernity"
 }

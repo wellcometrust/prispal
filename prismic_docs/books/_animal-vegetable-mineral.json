@@ -111,7 +111,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Caught by the River, Book of the Month, ",
+            "text": "Compact and charming",
             "spans": []
           }
         }
@@ -131,7 +131,7 @@
         {
           "type": "p",
           "content": {
-            "text": "It’s Nice That, ",
+            "text": "Charts, diagrams, maps, lists and illustrations…delightful in their intricate and informative detail.",
             "spans": []
           }
         }
@@ -151,7 +151,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Chris Packham",
+            "text": "An interesting book of colourful conundrums",
             "spans": []
           }
         }
@@ -167,11 +167,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Animal-Vegetable-Mineral-book-cover.png"
-  },
-  "drupalNid": "3565",
-  "drupalPath": "/animal-vegetable-mineral",
   "promo": [
     {
       "key": "editorialImage",
@@ -190,8 +185,13 @@
       }
     }
   ],
-  "publishedDate": "2016-12-01",
+  "datePublished": "2016-12-01",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Animal-Vegetable-Mineral-book-cover.png"
+  },
+  "drupalNid": "3565",
+  "drupalPath": "/animal-vegetable-mineral"
 }

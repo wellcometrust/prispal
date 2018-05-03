@@ -69,7 +69,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Psychedelic Press, ",
+            "text": "Fascinating and highly recommended.",
             "spans": []
           }
         }
@@ -89,7 +89,7 @@
         {
           "type": "p",
           "content": {
-            "text": "British Medical Journal, ",
+            "text": "Straightforward and engaging storytelling...deserves high praise for rendering a complex, controversial topic with clarity and elegance. It's also good looking...quite marvellous.",
             "spans": []
           }
         }
@@ -109,7 +109,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Sunday Express, ",
+            "text": "Instructive and, crucially, non-judgmental...illustrated with fascinating posters, artwork and rarely seen drawings.",
             "spans": []
           }
         }
@@ -129,7 +129,7 @@
         {
           "type": "p",
           "content": {
-            "text": "The Times",
+            "text": "A lively whisk through the history of mind-altering substances.",
             "spans": []
           }
         }
@@ -145,11 +145,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"
-  },
-  "drupalNid": "3149",
-  "drupalPath": "/high-society",
   "promo": [
     {
       "key": "editorialImage",
@@ -168,8 +163,13 @@
       }
     }
   ],
-  "publishedDate": "2012-03-05",
+  "datePublished": "2012-03-05",
   "authorName": "Mike Jay",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"
+  },
+  "drupalNid": "3149",
+  "drupalPath": "/high-society"
 }

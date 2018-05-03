@@ -92,11 +92,6 @@
   "extent": "256p",
   "isbn": "9781781256558",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"
-  },
-  "drupalNid": "3125",
-  "drupalPath": "/states-mind",
   "promo": [
     {
       "key": "editorialImage",
@@ -115,8 +110,13 @@
       }
     }
   ],
-  "publishedDate": "2016-02-04",
+  "datePublished": "2016-02-04",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"
+  },
+  "drupalNid": "3125",
+  "drupalPath": "/states-mind"
 }

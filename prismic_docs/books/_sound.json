@@ -87,7 +87,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Alice O'Keeffe, The Guardian, ",
+            "text": "After reading this book, I found myself listening in a richer and more interested way.",
             "spans": []
           }
         }
@@ -107,7 +107,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Marion Coutts, The Observer",
+            "text": "A profound account of a life changed by deafness.",
             "spans": []
           }
         }
@@ -123,11 +123,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"
-  },
-  "drupalNid": "3817",
-  "drupalPath": "/sound",
   "promo": [
     {
       "key": "editorialImage",
@@ -146,14 +141,12 @@
       }
     }
   ],
-  "publishedDate": "2018-02-01",
+  "datePublished": "2018-02-01",
   "authorName": "Bella Bathurst",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/Author%20photo%20for%20website.png",
-    "width": "400",
-    "height": "507"
+    "url": "https://wellcomecollection.org/sites/default/files/Author%20photo%20for%20website.png"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -180,5 +173,10 @@
         ]
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"
+  },
+  "drupalNid": "3817",
+  "drupalPath": "/sound"
 }

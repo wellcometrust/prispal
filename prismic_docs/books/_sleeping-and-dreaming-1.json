@@ -71,11 +71,6 @@
   "extent": "192p",
   "isbn": "9781906155056",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/sleepingbook.jpg"
-  },
-  "drupalNid": "3171",
-  "drupalPath": "/sleeping-and-dreaming-1",
   "promo": [
     {
       "key": "editorialImage",
@@ -94,8 +89,13 @@
       }
     }
   ],
-  "publishedDate": "2007-11-19",
+  "datePublished": "2007-11-19",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sleepingbook.jpg"
+  },
+  "drupalNid": "3171",
+  "drupalPath": "/sleeping-and-dreaming-1"
 }

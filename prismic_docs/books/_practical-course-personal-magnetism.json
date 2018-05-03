@@ -153,7 +153,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Times Classic Read, ",
+            "text": "Who among us has effectively harnessed the latent electric powers of the mind to control others and win hearts? Not me. Fortunately, we have this gem, based on a 1901 guide by the Psychic Research Company.",
             "spans": []
           }
         }
@@ -173,7 +173,7 @@
         {
           "type": "p",
           "content": {
-            "text": "Lisa Appignanesi",
+            "text": "A seductive little volume…what the Victorians knew, and we’ve forgotten",
             "spans": []
           }
         }
@@ -189,11 +189,6 @@
       ]
     }
   ],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
-  },
-  "drupalNid": "3681",
-  "drupalPath": "/practical-course-personal-magnetism",
   "promo": [
     {
       "key": "editorialImage",
@@ -212,8 +207,13 @@
       }
     }
   ],
-  "publishedDate": "2017-02-02",
+  "datePublished": "2017-02-02",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
+  },
+  "drupalNid": "3681",
+  "drupalPath": "/practical-course-personal-magnetism"
 }

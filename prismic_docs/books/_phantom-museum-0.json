@@ -54,11 +54,6 @@
   "extent": "224p",
   "isbn": "9781861976185",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"
-  },
-  "drupalNid": "3179",
-  "drupalPath": "/phantom-museum-0",
   "promo": [
     {
       "key": "editorialImage",
@@ -77,8 +72,13 @@
       }
     }
   ],
-  "publishedDate": "2003-06-19",
+  "datePublished": "2003-06-19",
   "authorName": "Edited by Hildi Hawkins and Danielle Olsen",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"
+  },
+  "drupalNid": "3179",
+  "drupalPath": "/phantom-museum-0"
 }

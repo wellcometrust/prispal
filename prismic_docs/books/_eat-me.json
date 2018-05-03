@@ -82,11 +82,6 @@
   "extent": "256pp",
   "isbn": "9781781253977",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
-  },
-  "drupalNid": "3557",
-  "drupalPath": "/eat-me",
   "promo": [
     {
       "key": "editorialImage",
@@ -105,14 +100,12 @@
       }
     }
   ],
-  "publishedDate": "2017-02-02",
+  "datePublished": "2017-02-02",
   "authorName": "Bill Schutt",
   "authorImage": {
-    "contentUrl": "https://wellcomecollection.org/sites/default/files/Schutt_author%20photo%20credit%20Jerry%20Ruotolo.jpg",
-    "width": "640",
-    "height": "967"
+    "url": "https://wellcomecollection.org/sites/default/files/Schutt_author%20photo%20credit%20Jerry%20Ruotolo.jpg"
   },
-  "authorAbout": [
+  "authorDescription": [
     {
       "type": "paragraph",
       "content": {
@@ -127,5 +120,10 @@
         ]
       }
     }
-  ]
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
+  },
+  "drupalNid": "3557",
+  "drupalPath": "/eat-me"
 }

@@ -113,11 +113,6 @@
   "extent": "192pp",
   "isbn": "9781781256565",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"
-  },
-  "drupalNid": "3259",
-  "drupalPath": "/voice",
   "promo": [
     {
       "key": "editorialImage",
@@ -136,8 +131,13 @@
       }
     }
   ],
-  "publishedDate": "2016-04-14",
+  "datePublished": "2016-04-14",
   "authorName": "Jeremy Fisher & Gillyanne Kayes",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"
+  },
+  "drupalNid": "3259",
+  "drupalPath": "/voice"
 }

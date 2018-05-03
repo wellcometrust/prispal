@@ -64,11 +64,6 @@
   "extent": "160p",
   "isbn": "9781781250402",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/brains%20book.jpg"
-  },
-  "drupalNid": "3151",
-  "drupalPath": "/brains",
   "promo": [
     {
       "key": "editorialImage",
@@ -87,8 +82,13 @@
       }
     }
   ],
-  "publishedDate": "2012-04-05",
+  "datePublished": "2012-04-05",
   "authorName": "Marius Kwint & Richard Wingate",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/brains%20book.jpg"
+  },
+  "drupalNid": "3151",
+  "drupalPath": "/brains"
 }

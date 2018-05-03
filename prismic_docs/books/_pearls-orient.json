@@ -68,11 +68,6 @@
   "extent": "216p",
   "isbn": "9780906026601",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"
-  },
-  "drupalNid": "3181",
-  "drupalPath": "/pearls-orient",
   "promo": [
     {
       "key": "editorialImage",
@@ -91,8 +86,13 @@
       }
     }
   ],
-  "publishedDate": "2003-06-01",
+  "datePublished": "2003-06-01",
   "authorName": "Edited by Nigel Allan",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"
+  },
+  "drupalNid": "3181",
+  "drupalPath": "/pearls-orient"
 }

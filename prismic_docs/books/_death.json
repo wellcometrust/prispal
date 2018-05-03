@@ -75,11 +75,6 @@
   "extent": "80p",
   "isbn": "9780957028531",
   "reviews": [],
-  "drupalPromoImage": {
-    "url": "https://wellcomecollection.org/sites/default/files/death%20book.jpg"
-  },
-  "drupalNid": "3145",
-  "drupalPath": "/death",
   "promo": [
     {
       "key": "editorialImage",
@@ -98,8 +93,13 @@
       }
     }
   ],
-  "publishedDate": "2012-11-29",
+  "datePublished": "2012-11-29",
   "authorName": "",
   "authorImage": "",
-  "authorAbout": ""
+  "authorDescription": "",
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/death%20book.jpg"
+  },
+  "drupalNid": "3145",
+  "drupalPath": "/death"
 }
