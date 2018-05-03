@@ -126,8 +126,8 @@ export function convertExhibition(result) {
 var t = 0
 export function convertBooks(result) {
   const [nid, path, title, body, image, promoText,
-         publishedDate, subtitle, links, price, format, extent, isbn, edition,
-         praises, author, authorImage, authorAbout] = result
+         datePublished, subtitle, links, price, format, extent, isbn, edition,
+         praises, authorName, authorImage, authorDescription] = result
 
 
   const structuredPraises = praises.split(/“/g).filter(praise => praise !== '').map(praise => {
@@ -152,19 +152,21 @@ export function convertBooks(result) {
       extent,
       isbn,
       reviews: structuredPraises.map(({text, citation}) => ({
-        text: convertText(citation),
+        text: convertText(text),
         citation: convertText(citation)
       })),
+      promo: convertPromo(promoText),
+      datePublished: datePublished,
+      authorName: authorName,
+      authorImage: authorImage && {
+        url: convertImgHtmlToImage(authorImage).contentUrl
+      },
+      authorDescription: authorDescription && convertHtmlStringToPrismicStructure(authorDescription),
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
       },
       drupalNid: nid,
-      drupalPath: path,
-      promo: convertPromo(promoText),
-      publishedDate,
-      authorName: author,
-      authorImage: authorImage && convertImgHtmlToImage(authorImage),
-      authorAbout: authorAbout && convertHtmlStringToPrismicStructure(authorAbout)
+      drupalPath: path
     }
     return doc;
   } catch (err) {
