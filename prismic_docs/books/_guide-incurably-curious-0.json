@@ -1,0 +1,101 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "A Guide for the Incurably Curious",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Wellcome Collection official guidebook",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Celebrating the treasure trove that is Wellcome Collection, this beautifully illustrated souvenir guide traces the history of Henry Wellcome’s collections and explores key themes in medicine, art and life from antiquity to the present day.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book features more than 200 images, as well as compelling commentary from Marek Kohn, “one of the best science writers we have” (Andrew Brown, The Guardian).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Marek Kohn reflects on some mysterious glimpses into medical history on Wellcome Collection's blog.",
+                "spans": [
+                  {
+                    "start": 72,
+                    "end": 98,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://blog.wellcomecollection.org/2012/08/06/incurable-curiosity-a-tabloid-treatment/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Wellcome_Collection_A_Guide_for_the_Incurably_Curious/9780957028517"
+  },
+  "price": "£5.00",
+  "format": "Paperback",
+  "extent": "112p",
+  "isbn": "9780957028517",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
+  },
+  "drupalNid": "3147",
+  "drupalPath": "/guide-incurably-curious-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " This beautifully illustrated souvenir guide traces the history of Henry Wellcome’s collections.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2012-07-31",
+  "authorName": "Marek Kohn",
+  "authorImage": "",
+  "authorAbout": ""
+}

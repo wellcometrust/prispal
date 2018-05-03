@@ -1,0 +1,130 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sex by Numbers",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "What Statistics can tell us about Sexual Behaviour",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sex. Lies. Statistics.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 22,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Whatever society we live in, and however open-minded we like to think we are, when it comes to our sex lives we all like to keep a few secrets. But this makes the jobs of sexologists - professionals who study sexual behaviour - pretty difficult.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Luckily, David Spiegelhalter, Professor of Risk at Cambridge University, is here to unravel the web of exaggerations, misdirections and downright lies that surround sex in modern society. Inspired by the Institute of Sexology exhibition and drawing on the Natsal survey, the widest survey of sexual behaviour since the Kinsey Report, he answers crucial questions such as what are we all doing? How often? And how has it changed?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sex by Numbers is an informed, entertaining and eye-opening look at the most enduring of human obsessions, from one-night stands to the seven-year itch.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore the Sex by Numbers infographic.",
+                "spans": [
+                  {
+                    "start": 12,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://sexbynumbers.wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Sex_by_Numbers/9781781253298"
+  },
+  "price": "£12.99",
+  "format": "Paperback",
+  "extent": "368p",
+  "isbn": "9781781253298",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
+  },
+  "drupalNid": "3183",
+  "drupalPath": "/sex-numbers-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sex by Numbers is an informed, entertaining and eye-opening look at the most enduring of human obsessions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2015-04-02",
+  "authorName": "David Spiegelhalter",
+  "authorImage": "",
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "David Spiegelhalter OBE is Winton Professor of the Public Understanding of Risk in the Statistical Laboratory, University of Cambridge. He is a fellow of Churchill College, Cambridge and the Royal Society. He is co-author of The Norm Chronicles, also published by Profile Books.",
+        "spans": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Brains: The mind as matter",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Collection | 29 March- 17 June 2012",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection's major new exhibition looks at one of the most complex entities in the universe. Brains: The mind as matter (29 March to 17 June 2012) explores what humans have done to brains in the name of medical intervention, scientific enquiry, cultural meaning and technological change. Featuring more than 150 objects including real brains, artworks, manuscripts, artefacts, videos and photography, Brains follows the long quest to manipulate and decipher the most unique and mysterious of human organs, whose secrets continue to confound and inspire.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Brains asks not what brains do for us, but what we have done to brains. Famous and infamous brain specimens - including those of Albert Einstein, Charles Babbage and William Burke - are on display, and the exhibition is filled with thoughts on brains from the brains of famous thinkers, together with donors, surgeons, patients and collectors. Works by contemporary artists including Helen Pynor, Andrew Carnie, Annie Cattrell, Susan Aldworth, Jonathon Keats and Katharine Dowson offer personal responses to the form and physical matter of the organ, while the cultural significance of the rituals, rhetoric and reality of handling brains is explored across centuries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition has four sections. The first, Measuring/Classifying, introduces efforts to define the relationship between the brain's function and form. If microscopic cellular staining techniques developed in the late 19th century enabled a new understanding of localised neural processes, the rise of phrenology and anthropometry demonstrates the ease with which societal prejudice fed into analysis of outward brain shape and size. From Bernard Hollander's cranial measuring system to the tools and models of phrenology, used to circumscribe comparative types of humanity, the skewed morality of these pseudo-sciences illustrates the measuring of brains as a measure of culture.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mapping/Modelling follows the attempts to represent the anatomy of the brain. From early visualisations by Reisch, Vesalius and Descartes in the 16th and 17th centuries, through beautiful 19th century paintings by Charles Bell, to the latest kaleidoscopic Brainbow images of nerve cells created by Jeff Lichtman and his team, the artistic drive to apprehend the complexities of the brain follow the increasing philosophical and medical understanding of its centrality to our being. Wax models, used since antiquity, gain extraordinary intricacy in renderings of the brain, and exquisite, groundbreaking drawings of brain cells by Santiago Ramón y Cajal, considered by many as the father of modern neuroscience, are also on display.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Cutting/Treating explores the history of surgical intervention on a form of human tissue that is uniquely swift to decay and difficult to dissect. A 5000 year-old skull with holes drilled (or trephined) into it illustrates how long humans have been intervening directly in the matter of the brain, and the exhibition takes a long view of tools and methods, from crude trephination kits to bullet locators and complex Setred 3D imaging systems, and looks at the human stories behind the anatomy (the separation of parts by cutting) of brains. Arresting portraits of patients under the care of Dr Harvey Cushing and his pioneering surgical techniques at the turn of the last century sit beside the work of artist Corrine Day, which records her as she prepares to undergo brain surgery in 1996, while engravings of earlier patients undergoing treatment offer a grim reminder of the realities of a pre-anaesthetic age.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Since the 18th century, preservation techniques have enabled the collection of specimens - including the brains of famous or notorious individuals, which have been intricately studied in the search for the material basis of genius, depravity and human variation. Giving/Taking traces the stories of brain harvesting and the variety of its purpose, from the horrors of Nazi mass murder and experimentation to the hope offered by research into neurodegenerative disorders by today's brain banks. Newly commissioned photography and film of key brain archives and the process of dissection (together with wet samples, artefacts and moving portraits of brain donors by Ania Dabrowska), offer a behind-the-scenes view of the brain's life after death.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The brain contains 100 billion nerve cells and some 100 trillion synapses or neural connections it cannot be transplanted. Brains takes a journey around the spectacular form, structure and condensed volume of our most revered organ, and examines the ambiguous emotions and ethical difficulties associated with the manipulation and dissection of the delicate substance of consciousness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Marius Kwint, Guest Curator, says: \"Brains shows how a single, fragile organ has become the object of modern society's most profound hopes, fears and beliefs, and some of its most extreme practices and advanced technologies. The different ways in which we have treated and represented real, physical brains open up a lot of questions about our collective minds.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold, Head of Public Programmes at Wellcome Collection, says: \"We all recognise its outline and know that it is the most important part of us, but for many, the brain remains as mysterious as it is beguiling. This exhibition presents brains of extraordinary people among other intriguing specimens and showcases remarkable tales from more than 500 years of scientific investigation into the physical matter of the mind.&rdquo",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Brains: The mind as matter runs from 29 March to 17 June 2012 at Wellcome Collection, 183 Euston Road, NW1 2BE, UK.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A wide programme of events accompanies the exhibition, along with a fully illustrated book, 'Brains: The mind as matter' by Marius Kwint and Richard Wingate.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A Press View will be held on 27 March 2012 from 09.00- 13.00. RSVP to t.morley@wellcome.ac.uk.",
+                "spans": [
+                  {
+                    "start": 70,
+                    "end": 93,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tim Morley Senior Media Officer T +44(0)20 7611 8612 E t.morley@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 55,
+                    "end": 78,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free visitor destination for the incurably curious. Located at 183 Euston Road, London, Wellcome Collection explores the connections between medicine, life and art in the past, present and future. The building comprises three gallery spaces, a public events programme, the Wellcome Library, a café , a bookshop, conference facilities and a members' club.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charity dedicated to achieving extraordinary improvements in human and animal health. The Wellcome Trust supports the brightest minds in biomedical research and the medical humanities its breadth of support includes public engagement, education and the application of research to improve health. The Trust is independent of both political and commercial interests.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "832",
+  "drupalPath": "/press/brains-mind-matter",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection's major new exhibition looks at one of the most complex entities in the universe.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2011-12-22"
+}

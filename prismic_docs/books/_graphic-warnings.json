@@ -1,0 +1,98 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Graphic Warnings",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“UNLESS PROPERLY TREATED MAY RESULT IN BLINDNESS, INSANITY, PARALYSIS, PREMATURE DEATH.” ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 89,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This set of 25 vintage postcards showcases the style and wit of 20th-century public health campaigns: iconic graphic design devised to admonish, amuse, inform and empower.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Published to accompany the Wellcome Collection exhibition ‘Can Graphic Design Save Your Life?’, this fascinating collection of historical images highlights how graphic design has been used to shape behaviour and attitudes towards everything from the spread of germs to drink driving.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/9781999809003"
+  },
+  "price": "£9.99",
+  "format": "17cm x 12cm cards",
+  "extent": "25 cards",
+  "isbn": "9781999809003",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/graphic%20warnings.png"
+  },
+  "drupalNid": "3981",
+  "drupalPath": "/graphic-warnings",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "25 vintage postcards showcasing the style and wit of 20th-century public health campaigns and their iconic graphic design. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-09-07",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

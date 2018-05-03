@@ -1,0 +1,284 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Open at Wellcome Collection - 'Making Nature: How we see animals'",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "1 December 2016 – 21 May 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The question of how humans relate to other animals has captivated philosophers, anthropologists, scientists, ethicists and artists for centuries. 'Making Nature: How we see animals' brings together over 100 objects from literature, film, taxidermy and photography to examine what we think, feel and value about other species and the consequences this has for the world around us. Featuring works by contemporary artists including Allora & Calzadilla, Phillip Warnell and Abbas Akhavan, the exhibition asks how and why we look at animals and what we see when we do.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the formalisation of natural history as a science, through the establishment of museums and zoos, to lavish contemporary wildlife documentaries, Making Nature reveals the hierarchies in our view of the natural world, and considers how these influence our actions, or inactions, towards the planet. The exhibition, organised around four themes: ‘Ordering’, ‘Displaying’, ‘Observing’ and ‘Making’, opens with Marcus Coates’ Degreecoordinates, Shared traits of the Hominini (Humans, Bonobos and Chimpanzees) 2015. This recent work questions the definitions of difference between species, establishing this as an idea that runs throughout the exhibition.",
+                "spans": [
+                  {
+                    "start": 427,
+                    "end": 509,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Attempts to categorise the natural world in the 18th century are introduced through the work of Carl Linnaeus and the publication of Systema Naturae in 1735. His efforts to record, describe and classify the animal kingdom, solved the practical problem of identifying species but introduced a manmade ranking system. Similarly, Charles Bonnet’s Scale of Natural Beings 1783 provided a ladder of the animal kingdom with humans placed at the top. Such views are challenged by the depictions of animals, and human-like animals, in Jonathan Swift’s satire of man, Gulliver’s Travels.",
+                "spans": [
+                  {
+                    "start": 133,
+                    "end": 148,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 344,
+                    "end": 367,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 559,
+                    "end": 577,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Making Nature' questions the approach of ‘learning through looking’, including artists such as herman de vries, a trained botanist interested in the challenge of objectivity and Edwina Ashton who explores the politics of representation. The importance of listening is also examined by artists Allora & Calzadilla in The Great Silence 2014. This film installation is a depiction of endangered parrots paired against footage of the Arecibo Observatory, one of world’s largest telescopes, in Puerto Rica.",
+                "spans": [
+                  {
+                    "start": 317,
+                    "end": 334,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition also charts changing fashions of museum displays alongside society’s changing attitudes to nature, from overstuffed cabinets in Victorian institutions to elaborately staged dioramas from natural history museums in the 20th century. Roger Fenton’s 1855 image of an unnaturally upright gorilla skeleton next to a human one, taken during his time as the British Museum’s documentary photographer, interrogates the idea that natural history displays may not necessarily represent an objective truth. Contemporary photographers Richard Ross and Hiroshi Sugimoto, expose the complexities of successive attempts to give visitors an authentic representation of the animal in a museum setting, revealing works of art as yet another form of mediation.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The search for an authentic encounter with nature is further examined through our ever more ambitious attempts to get closer to animals, in zoos, national parks and on screen, while simultaneously hoping to preserve their wildness. The New Architecture and The London Zoo 1936, a film by László Moholy-Nagy and images of the zoo’s elephant and rhino pavilion, designed by Casson Condor architects, provide examples of how the designs of zoo enclosures are used to frame animals. The phenomenon of the ‘zoo-pet’, or mascot, is explored through cases like Jumbo the elephant, adored by Victorian audiences and subject of a public outcry when he was sold to P.T. Barnum’s Circus in 1882. Souvenirs and toys will show how zoo animals have frequently been anthropomorphised in popular culture.",
+                "spans": [
+                  {
+                    "start": 232,
+                    "end": 271,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Depictions of animals on film include Woodpeckers 1954, the first documentary to use new camera technologies to film a family of woodpeckers from within their nest. When broadcast on the BBC, it was second in popularity only to the Queen’s coronation that year, and set the precedent for natural history documentaries which remain popular today. The exhibition also features an extract from Seal Island 1948, part of Walt Disney’s True-Life Adventures series of nature films promoted as entertainment, as well as Jean Painlevé’s pioneering surrealist film of marine crustaceans from 1929.",
+                "spans": [
+                  {
+                    "start": 38,
+                    "end": 49,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 391,
+                    "end": 402,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 431,
+                    "end": 451,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Phillip Warnell’s film installation Ming of Harlem: Twenty One Storeys in the Air 2016 explores the true story of Antoine Yates, who lived in a high-rise New York apartment with a tiger called Ming and a large alligator. Combining documentary with recreated scenes, Warnell offers new insights on the human/animal relationship and the question of representation.",
+                "spans": [
+                  {
+                    "start": 36,
+                    "end": 81,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The final section of the exhibition is a major collaboration with the Center for PostNatural History, Pittsburgh, USA, the only organisation to solely collect organisms that have been intentionally altered by humans. Specimens, paintings, literature and scientific models, many on loan from the Center’s museum, chart a relationship to animals that is bound up with the history, and future, of human civilisation. This includes the domesticated pigeons that helped inform Charles Darwin’s theories of natural selection and the genetic modification of mosquitos in the fight against disease spread. Further case studies comprise dog breeding, the origins of laboratory mice and rats, and a history of songbirds as told by musicologist Ian Nagoski. Unlike traditional natural history collections, the significance of postnatural organisms lies in the role they play in human culture.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Making Nature' runs from 1 December 2016 to 21 May 2017 and is the first part of a year-long exploration of our relationship with the natural world. The exhibition is curated by Honor Beddard with exhibition design from AOC. To accompany the exhibition, Wellcome Collection publishes Animal Vegetable Mineral, a collection of nature charts, maps and diagrams with an introduction by Tim Dee.",
+                "spans": [
+                  {
+                    "start": 285,
+                    "end": 309,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager, Wellcome CollectionT +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 51,
+                    "end": 52,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 75,
+                    "end": 76,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 77,
+                    "end": 103,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 106,
+                    "end": 107,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3625",
+  "drupalPath": "/press/open-wellcome-collection-making-nature-how-we-see-animals",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Making Nature: How we see animals' brings together over 100 objects from literature, film, taxidermy and photography.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-12-01"
+}

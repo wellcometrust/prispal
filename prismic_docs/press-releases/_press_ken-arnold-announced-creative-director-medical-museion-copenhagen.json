@@ -1,0 +1,229 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ken Arnold announced as Creative Director of Medical Museion, Copenhagen",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold, Head of Public Programmes at Wellcome Collection, has been announced as the new Creative Director at Medical Museion, the innovative museum and research unit at the University of Copenhagen. Ken brings over 20 years’ experience of staging critically acclaimed exhibitions and events exploring the connections between medicine, art and life to his new role and will divide his time between London and Copenhagen from Spring 2016, fostering new and collaborative dialogues between the two venues and around public engagement with science and art. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Medical Museion holds one of the richest historical collections of medical artefacts in Europe, containing some 250,000 objects dating back to the early 17th Century. Under the leadership of its outgoing director, Professor Thomas Söderqvist, it has developed into one of the leading museums of its kind in the world with a dynamic research and curatorial programme combining academic enquiry around the medical humanities with prize-winning exhibitions and events.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold has been associated with Medical Museion as a visiting professor since 2010, working closely with Söderqvist, who has decided to step down as director to be able to concentrate on his research as a professor in history of medicine at the University.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Arnold has worked at museums on both sides of the Atlantic and joined the Wellcome Trust in 1992, developing interdisciplinary cultural projects and co-ordinating its arts funding initiatives. The Trust opened Wellcome Collection in 2007 and the venue has recently completed a £17.5million expansion due to overwhelming demand for its critically acclaimed programme of exhibitions and events exploring what it means to be human.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold says: “I am honoured and delighted to be taking up the Creative Directorship of Medical Museion. Wellcome Collection and Medical Museion are both intriguingly similar and fascinatingly different public venues. Each, I believe, has much to gain from becoming more familiar with the other: two collections, two teams, two buildings and two programmes; and in finding natural ways in which inspiration and collaboration can follow. I see my unusual double-role as an ideal position from which to encourage this to happen, and I wait with excited anticipation to see how this symbiotic relationship evolves.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dean Ulla Wewer from the Faculty of Health and Medical Sciences, University of Copenhagen, says: “I am proud of welcoming an internationally strong profile like Ken Arnold. I am greatly looking forward to working with him, and I am extremely pleased that both the University of Copenhagen and the city of Copenhagen stand to benefit from his extensive experience and visionary approaches to research and science communication.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Arnold will combine the role of Creative Director of Medical Museion with a new position as Creative Director at the Wellcome Trust from Spring 2016, focussed on evolving the cultural activities of Wellcome Collection beyond London, developing international and national projects across exhibitions, tours, live events, publications, digital and broadcast platforms.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tim Morley Senior Media Officer T 020 7611 8612 E t.morley@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 73,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "NOTES TO EDITORS",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About Medical Museion",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Medical Museion is a combined museum and research unit at the University of Copenhagen. It was founded on a private initiative in 1907 to mark the 50th anniversary of the Danish Medical Association. Medical Museion has one of the biggest and richest historical collections of medical artefacts in Europe. The collections contain 150,000 — 250,000 artefacts and a large image collection, a document archive, and a historical book collection. The current exhibition – The Body Collected – opened May 2015.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.museion.ku.dk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The focus of Medical Museion’s research programme is medical history, medical humanities, medical science communication and medical museology. The museum has currently about 15 researchers, including PhD students, attached to it.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About Ken Arnold",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold directs the programmes at Wellcome Collection – a public venue opened in 2007 that explores the connections between medicine, art and life. He set up and leads a team that runs this internationally acclaimed venue, which embodies much of his vision for a culturally inspired public engagement with medicine and wellbeing. A highly innovative, popular and overwhelmingly acclaimed initiative, it currently attracts over half a million visits per year.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the culmination of almost 20 years of public engagement work that he has undertaken at the Wellcome Trust, where he has run a variety of exhibitions, events and arts initiatives, including an exhibition at the V&A, a gallery at the Science Museum devoted to exploring medicine in context and the landmark exhibition ‘Medicine Man: the Forgotten Museum of Henry Wellcome’ staged at the British Museum in 2003.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken gained a B.A. in Natural Sciences at Cambridge University and a Ph.D. in the history of science from Princeton University. He regularly writes and lectures on the culture of museums past and present and on contemporary relations between the arts and sciences. He was a visiting professor at Copenhagen University in the summers of 2010 and 2012, and has served as a Research Associate at the Museums Association. In 2011 he was awarded the RSA Bicentenary medal for services to design and society. He is a director, trustee and advisor on numerous bodies and committees.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, shop, restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. We provide more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "2713",
+  "drupalPath": "/press/ken-arnold-announced-creative-director-medical-museion-copenhagen",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Arnold will combine the role with a new position as Creative Director at the Wellcome Trust from Spring 2016.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2015-06-04"
+}

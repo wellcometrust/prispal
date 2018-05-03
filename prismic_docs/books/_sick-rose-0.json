@@ -1,0 +1,159 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Sick Rose",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Disease and the Art of Medical Illustration",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "British Book Design and Production Awards: Book of the Year",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 59,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A beautifully gruesome and strangely fascinating visual tour through disease in an age before colour photography.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This stunning volume, combining detailed illustrations of afflicted patients from some of the worlds rarest medical books, forms an unforgettable and profoundly human reminder of mankinds struggle with disease. Incorporating historic maps, pioneering charts and contemporary case notes, Richard Barnett’s evocative overview reveals the fears and obsessions of an era gripped by epidemics.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/The_Sick_Rose/9780500517345"
+  },
+  "price": "​£19.95",
+  "format": "Hardback",
+  "extent": "256p",
+  "isbn": "9780500517345",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Helen Rumbelow, The Times, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Helen Rumbelow, The Times, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Will Self, The Guardian, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Will Self, The Guardian, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Independent",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Independent",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/image/Book-cover-image_1_.jpg"
+  },
+  "drupalNid": "3143",
+  "drupalPath": "/sick-rose-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Sick Rose is a beautifully gruesome and strangely fascinating visual tour through disease in an age before colour photography.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2014-06-02",
+  "authorName": "Richard Barnett",
+  "authorImage": "",
+  "authorAbout": ""
+}

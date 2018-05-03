@@ -1,0 +1,122 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "States of Mind",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Experiences at the edge of consciousness",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A collection of literature, science and art delving into the mysteries of human consciousness, edited by Anna Faherty, with an introduction by Mark Haddon.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 155,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Understanding the nature of consciousness continues to challenge even the leading experts in the field. Yet we all experience some form of consciousness and make daily journeys between different conscious states as we sleep and wake.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Through the eyes of writers, artists, scientists and philosophers, ‘States of Mind’ explores the meaning of consciousness and, in particular, the nature of interrupted or liminal conscious experiences, such as somnambulism, synaesthesia and disorders of memory. The diverse – even conflicting – perspectives pose fundamental questions about what it means to be alive, aware and human.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This collection includes works by Jane Austen, Samuel Taylor Coleridge, Arthur Conan Doyle, Francis Crick, René Descartes, Emily Dickinson, H L Gold, Franz Kafka, H P Lovecraft, Marcel Proust, Mary Shelley, Henry David Thoreau, Alan Turing, H G Wells and Émile Zola.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of States of Mind: Tracing the edges of consciousness",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 58,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/States_of_Mind/9781781256558"
+  },
+  "price": "£9.99",
+  "format": "Paperback",
+  "extent": "256p",
+  "isbn": "9781781256558",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"
+  },
+  "drupalNid": "3125",
+  "drupalPath": "/states-mind",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A collection of literature, science and art delving into the mysteries of human consciousness, with an introduction by Mark Haddon.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-02-04",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

@@ -1,0 +1,94 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Institute of Sexology",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A lavishly illustrated hardback book accompanying ‘The Institute of Sexology’ exhibition is available, featuring more than 300 works of art, erotica, film and photography, and rare documents.",
+                "spans": [
+                  {
+                    "start": 51,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/institute-sexology"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This book is a candid exploration of the most publicly discussed of private acts – sex – and those who have devoted their lives to studying it. It includes new texts by writers including Shereen El Feki, Alyce Mahon and Christopher Turner, as well as interviews with artists Carolee Schneemann and Neil Bartlett and scientist Anne Johnson.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/The_Institute_of_Sexology/9780957028562"
+  },
+  "price": "£19.99",
+  "format": "Hardback",
+  "extent": "224p",
+  "isbn": "9780957028562",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sexology-book.jpg"
+  },
+  "drupalNid": "3137",
+  "drupalPath": "/institute-sexology-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A lavishly illustrated hardback book accompanying ‘The Institute of Sexology’ exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2014-11-15",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

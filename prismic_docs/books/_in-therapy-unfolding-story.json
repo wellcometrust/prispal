@@ -1,0 +1,91 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "In Therapy",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The Unfolding Story",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Worldwide, an increasingly diverse and growing number of people are seeking therapy. We go to address past traumas, to break patterns of behaviour, to confront eating disorders or addiction, to talk about relationships, or simply because we want to find out more about ourselves.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Susie Orbach has been a psychotherapist for over forty years. Also a million-copy bestselling author, The New York Times called her the ‘most famous psychotherapist to have set up couch in Britain since Sigmund Freud’. Here, she explores what goes on in the process of therapy through a series of dramatised case studies.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Insightful and honest about a process often necessarily shrouded in secrecy, In Therapy: The Unfolding Story is an essential read for those curious about, or considering entering, therapy. This complete edition takes us deeper into the world of therapy, with 13 further sessions and a new introduction.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/In-Therapy-by-Susie-Orbach/9781781259887"
+  },
+  "price": "£9.99",
+  "format": "Paperback",
+  "extent": "288pp",
+  "isbn": "9781781259887",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/IN_THERAPY_FINAL_COVER%20for%20web.png"
+  },
+  "drupalNid": "4069",
+  "drupalPath": "/in-therapy-unfolding-story",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "1.5 million people are in therapy in the UK. Here, Susie Orbach explores the process of therapy through a series of dramatised case studies.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2018-01-11",
+  "authorName": "Susie Orbach",
+  "authorImage": "",
+  "authorAbout": ""
+}

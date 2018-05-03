@@ -1,0 +1,181 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "James Peto appointed Head of Public Programmes at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Peto has been appointed Head of Public Programmes at Wellcome Collection. Peto has been at the museum since it opened in 2007, co-curating, amongst others, its first temporary exhibition, The Heart and, as Chief Curator, managing a team that has delivered critically acclaimed and increasingly popular shows exploring the connections between life, art and medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Peto takes over from Ken Arnold, who will become Creative Director at the Wellcome Trust, the global health foundation which runs Wellcome Collection, focussing on developing international opportunities for cultural collaboration and exchange. From summer 2016 Arnold will also run the Medical Museion in Copenhagen.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Peto will lead the exhibition, events and publications teams at Wellcome Collection and starts his new role after a major expansion of the venue. A £17.5million development was completed in February this year to meet extraordinary demand. Built to cater for 100,000 Wellcome Collection has attracted over half a million yearly visits, and audiences continue to grow. Despite and because of this public appetite, the museum will continue to prioritise depth of engagement over numbers, and Peto will look to extend its innovative and experimental approach to programming and seeking to collaborate and commission creatively.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Peto studied Languages and Art History at Cambridge University and later joined the Independent Study Programme at the Whitney Museum of American Art in New York. He has previously worked on exhibitions for the ICA, Nottingham Castle Museum, Tyne and Wear Museums and the Whitechapel Art Gallery, and was Head of Exhibitions at the Design Museum before joining the Wellcome Trust.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Peto says “With expanded exhibition and event spaces to programme and some great book titles brewing, this is a really exciting time for Wellcome Collection. The team here is alive with programming ideas. I am really looking forward to working with them to extend the range of our partners and the reach of Wellcome Collection’s activities in order to bring these ideas to a wider audience.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Simon Chaplin, Director of Culture and Society at the Wellcome Trust, says “James has been a key factor in the enormous critical and popular success of Wellcome Collection’s exhibitions since we opened in 2007. His vision and imagination and the talent he has developed in our wider exhibitions team make him the perfect candidate to lead the next stage of Wellcome Collection’s creative journey.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Peto’s previous role, Head of Exhibitions, will be filled by Kate Forde. Previously Senior Curator, Forde has been at Wellcome Collection for nine years, leading the curation of highly successful exhibitions such as ‘Dirt’ and ‘The Institute of Sexology’. Prior to Wellcome Collection, Forde worked at The Arts Council, The Metropolitan Museum of Art and Tate.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Peto adds: “Kate Forde has been involved in Wellcome Collection since it opened and has been instrumental in delivering exhibitions that inspire, intrigue and challenge our visitors. I am delighted that she is to take over as Head of Exhibitions, both personally and on behalf of the outstanding team here.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ends",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou Senior Media Officer (Acting), Wellcome CollectionT: +44 (0) 20 7611 8726E: e.philippou@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 66,
+                    "end": 67,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 89,
+                    "end": 90,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 92,
+                    "end": 118,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, shop, restaurant and conference facilities as well as publications, tours, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. The Wellcome Trust provides more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "2983",
+  "drupalPath": "/press/james-peto-appointed-head-public-programmes-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Peto has been appointed Head of Public Programmes at Wellcome Collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2015-10-05"
+}

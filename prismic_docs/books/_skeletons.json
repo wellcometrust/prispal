@@ -1,0 +1,87 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Skeletons",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "London's buried bones",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A 64-page book to accompany the 'Skeletons' exhibition, which includes all of the burial site photographs commissioned for the exhibition, case studies of five of the skeletons and an interview with the osteologists from the Museum of London.",
+                "spans": [
+                  {
+                    "start": 33,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/skeletons-london%E2%80%99s-buried-bones"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Skeletons_Londons_Buried_Bones/9781841290782"
+  },
+  "price": "£7.99",
+  "format": "Paperback",
+  "extent": "64p",
+  "isbn": "9781841290782",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/skeletonsbook.jpg"
+  },
+  "drupalNid": "3169",
+  "drupalPath": "/skeletons",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A 64-page book including all of the burial site photographs commissioned for the exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2008-07-22",
+  "authorName": "Edited by Emily Sargent",
+  "authorImage": "",
+  "authorAbout": ""
+}

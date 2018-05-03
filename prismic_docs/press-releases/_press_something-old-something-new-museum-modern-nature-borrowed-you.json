@@ -1,0 +1,256 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Something old, something new, a museum of modern nature, borrowed from you",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection’s new exhibition is made up of objects borrowed from members of the public. Open from 22 June 2017, ‘A museum of modern nature’ reveals the intriguing and surprising ways we relate to the natural world in modern life.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From a hand painted garden gnome passed through three generations of the same family, to the asthma inhaler that sparked a career in environmentalism or the tattoo inspired by phytoplankton, each object tells a unique and personal story. Together the diverse items on display provide a collective snapshot of how we think about nature in the 21st century, and explore how our behaviours and values are bound up with the future of the planet.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Highlights include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Childhood books and a fallow deer antler contributed by two of the presenters of BBC Springwatch, Michaela Strachan and Chris Packham",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A pair of running shoes, a slice of bread and a thermos flask are examples of the everyday objects that bring nature into people’s lives, routines and memories",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Coffins for dead crabs made by teenagers, and a recording of the dawn chorus in Kenya show the ways in which nature is a source of inspiration and imagination",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A paper knife in the shape of a fish, made in the trenches of World War One, highlights the human impetus to create art and meaning even, or especially, in times of suffering",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A fluffy yellow toy chick and some realistic astroturf demonstrate the ubiquity of synthetic versions of natural things, and hint at an anxiety over declining resources",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Contributors to the exhibition range in age from two-and-three-quarters (an axe made from a stick) to 91 years old (childhood family photograph). With each decade in between represented, the objects span many different experiences and perspectives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The objects were selected by a small team of people, including a dairy farmer, a horticultural scientist and a plant medicine shaman, who all work with nature in their daily lives. Their objects, from binoculars, to a jar of their own milk teeth and a jar of country air, will also be on show.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition also features an art work created in collaboration between year 9 students at Central Foundation Boys’ School and artist Verity-Jane Keefe. A contemporary take on a museum diorama, the work is the result of a series of workshops and explores what nature means for boys who live in inner London, and what it might look like in the future.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A major digital project, Sharing Nature, runs alongside the exhibition to showcase images and ideas suggested by the public from across the country and beyond. Using a different theme each week, each and every one of these digital offerings are displayed in the gallery as well as online forming a broad picture of our everyday relationship with nature in 2017.",
+                "spans": [
+                  {
+                    "start": 25,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://sharingnature.wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exhibition curator, Honor Beddard, says: “We asked our visitors what should be in a museum of modern nature and their response was incredible; we’re delighted to be able to share just some of their playful and provocative objects in this exhibition. The items themselves may seem commonplace, but the stories behind them are moving, thought-provoking, funny and almost always surprising. Gathered together and placed on display these objects offer a different way of looking at the natural world, and may help us to visualise the links between how we live our lives and the future health of the planet.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition will run from 22 June until 08 October 2017 and is curated by Honor Beddard, with bespoke design by Install Archive. Following on from Making Nature: How we see animals the exhibition is the culmination of a year-long exploration of our relationship with the natural world.",
+                "spans": [
+                  {
+                    "start": 150,
+                    "end": 183,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To accompany the yearlong programme, Wellcome Collection has published Animal Vegetable Mineral, a collection of nature charts, maps and diagrams with an introduction by Tim Dee.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3925",
+  "drupalPath": "/press/something-old-something-new-museum-modern-nature-borrowed-you",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-06-22"
+}

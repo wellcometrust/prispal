@@ -1,0 +1,196 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "TEETH: Forthcoming exhibition at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " From vampires and tooth fairies to barber-surgeons and professional dentists, Wellcome Collection’s summer exhibition will trace the evolution of our relationship with our teeth and what they say about us. Opening in May 2018, TEETH will feature over 150 objects, including cartoons and caricatures, protective amulets, toothpaste advertisements and a range of chairs, drills and training tools.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "TEETH will be the first exhibition to chart the history of the profession that has shaped the way we live with, or without, our teeth. It will draw on the rich collections assembled by Henry Wellcome, alongside loans from key Northern European collections including the substantial holdings of the British Dental Association in London.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exploring the origins of dentistry, and the emergence of the smile, the exhibition will feature the first scientific treatise on teeth. Le Chirugien-Dentiste (the Surgeon-Dentist), 1728, by Pierre Fauchard, will be displayed with examples of early techniques, tools and dentures made from hippopotamus ivory.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Examples of tooth care for the wealthy will include the hygiene set used by Queen Victoria’s dentist, dentures belonging to King William IV and Napoleon’s toothbrush. The barber-surgeons and blacksmiths who performed extractions for the less privileged will be depicted in paintings, with caricatures by Thomas Rowlandson contrasting the suffering of the poor with the ostentatious smiles of the wealthy as they display new, gleaming dentures.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emerging technologies in the 19th and 20th centuries led to a more industrialised approach to tooth care. The exhibition will chart the changing availability and affordability of consumer products such as toothpastes and brushes, as well as the evolution of dental drills, the use of x-rays and the advent of anaesthetic. Giant mouths and oversized teaching tools from the collections of the University Of Utrecht, Netherlands, will reveal techniques for training dentists, who had to practise on large models before moving to the intricacy of working inside a human mouth.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "TEETH will explore the idea of oral hygiene as a right and a responsibility. Poster campaigns, films and animations will show the ways in which we have been encouraged to look after our teeth, with protective routines to prevent decay. The exhibition will also look at how adverts for tooth care have had to compete against those for sugar-rich products.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Fears and anxieties around teeth and dentistry have long existed. Ancient Roman votives and 19th century amulets thought to protect against pain will be shown alongside images of St Apollonia, the patron saint of tooth pain who was martyred after having her teeth shattered. The very particular relationship children have with the gaining and losing of teeth will be revealed, showing how different families assist the work of the tooth fairy, and how parents, dentists and new technologies can help combat anxiety.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As the only visible part of the human skeleton, teeth are intrinsically linked to identity, both individual and cultural. From the lengths some will go to for a Hollywood smile, to the providing of vital forensic clues in the aftermath of warfare or natural catastrophe, our teeth say a lot about who we are. The exhibition will consider the language we use around teeth, such as gnashing them, gritting them or lying through them, and will examine the tensions surrounding tooth-care, whether for health, comfort or confidence.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "TEETH will run from 17 May to 16 September 2018 and is curated by James Peto, with Emily Scott Dearing. The exhibition is inspired by The Smile Stealers by Richard Barnett, published by Wellcome Collection and Thames & Hudson. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 58,
+                    "end": 86,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/press"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library for the incurably curious. Inspired by the medical objects and curiosities collected by Henry Wellcome, it connects science, medicine, life and art. Through its exhibitions, live programming, and digital and publishing activity, it makes thought provoking content which aims to challenge how we think and feel about health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate. wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 292,
+                    "end": 306,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4076",
+  "drupalPath": "/press/teeth-forthcoming-exhibition-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection’s summer exhibition will trace the evolution of our relationship with our teeth and what they say about us.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2018-01-24"
+}

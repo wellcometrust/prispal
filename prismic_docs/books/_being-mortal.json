@@ -1,0 +1,154 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Being Mortal",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Illness, medicine and what matters in the end",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Longlisted for the Samuel Johnson Prize 2014",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 44,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A profoundly important and moving new book from Atul Gawande (bestselling author of ‘Complications’, ‘Better’ and ‘The Check-List Manifesto’), co-published by Wellcome Collection and Profile Books, is now available.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a book about the modern experience of mortality - about what it’s like to get old and die, how medicine has changed this and how it hasn’t, where our ideas about death have gone wrong. With his trademark mix of perceptiveness and sensitivity, Gawande outlines a story that crosses the globe, as he examines his experiences as a surgeon and those of his patients and family, and learns to accept the limits of what he can do.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Never before has ageing been such an important topic. The systems that we have put in place to manage our mortality are manifestly failing; but, as Gawande reveals, it doesn’t have to be this way. The ultimate goal, after all, is not a good death, but a good life - all the way to the very end.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Being_Mortal/9781846685828"
+  },
+  "price": "£8.99",
+  "format": "Paperback",
+  "extent": "304p",
+  "isbn": "9781846685828",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Malcolm Gladwell, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Malcolm Gladwell, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Oliver Sacks",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Oliver Sacks",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
+  },
+  "drupalNid": "3141",
+  "drupalPath": "/being-mortal",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A profoundly important and moving new book from Atul Gawande.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2015-07-01",
+  "authorName": "Atul Gawande",
+  "authorImage": "",
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Atul Gawande is a surgeon, writer and public health researcher. He practices general and endocrine surgery at Brigham and Women's Hospital in Boston. He is also Professor of Surgery at Harvard Medical School and Professor in the Department of Health Policy and Management at the Harvard School of Public Health. He delivered the BBC Reith Lectures in 2014, writes regularly for the New Yorker, and is the author of Better, Complications and The Checklist Manifesto.",
+        "spans": []
+      }
+    }
+  ]
+}

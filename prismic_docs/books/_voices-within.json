@@ -1,0 +1,141 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Voices Within",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A wide-ranging look at the voices in all our heads, examining how we think and what it means for our lives and sense of self.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 125,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We all hear voices. Ordinary thinking is often a kind of conversation, filling our heads with speech: the voices of reason, of memory, of self-encouragement and rebuke, the inner dialogue that helps us with tough decisions or complicated problems. For others - voice-hearers, trauma-sufferers and prophets - the voices seem to come from outside: friendly voices, malicious ones, the voice of God or the Devil, the muses of art and literature.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In The Voices Within, Royal Society Prize shortlisted psychologist Charles Fernyhough draws on extensive original research and a wealth of cultural touchpoints to reveal the workings of our inner voices, and how those voices link to creativity and development. From Virginia Woolf to the modern Hearing Voices Movement, Fernyhough also transforms our understanding of voice-hearers past and present.",
+                "spans": [
+                  {
+                    "start": 3,
+                    "end": 20,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Building on the latest theories, including the new 'dialogic thinking' model, and employing state-of-the-art neuroimaging and other ground-breaking research techniques, Fernyhough has written an authoritative and engaging guide to the voices in our heads.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Published to coincide with 'THIS IS A VOICE', a Wellcome Collection exhibition exploring all aspects of the human voice and its complex psychological and physiological origins.",
+                "spans": [
+                  {
+                    "start": 28,
+                    "end": 43,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/The-Voices-Within-by-Charles-Fernyhough/9781781252802"
+  },
+  "price": "£9.99",
+  "format": "Paperback",
+  "extent": "352pp",
+  "isbn": "9781781252802",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781252802_1.png"
+  },
+  "drupalNid": "3359",
+  "drupalPath": "/voices-within",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A wide-ranging look at the voices in all our heads, examining how we think and what it means for our lives and sense of self.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-04-20",
+  "authorName": "Charles Fernyhough",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/fernyhough_0.png",
+    "width": "305",
+    "height": "403"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Charles Fernyhough is the author of Pieces of Light and The Baby in the Mirror, and has contributed to the Guardian, TIME Ideas, Sunday Telegraph and Financial Times. He is a part-time Professor in Psychology at Durham University, where he directs Hearing the Voice, a project on inner voices funded by the Wellcome Trust.",
+        "spans": []
+      }
+    }
+  ]
+}

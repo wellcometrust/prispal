@@ -1,0 +1,117 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "A Heavy Reckoning",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "War, Medicine and Survival in Afghanistan and Beyond",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "What happens when you reach the threshold of life and death - and come back?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As long as humans have lived together on the planet, there have been wars, and injured soldiers and civilians. But today, as we engage in wars across the globe with increasingly sophisticated technology, we are able to bring people back from ever closer encounters with death. But how do we do it, and what happens next?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here, historian Emily Mayhew explores the modern reality of medicine and injury in wartime, from the trenches of World War One to the dusty plains of Afghanistan and the rehabilitation wards of Headley Court in Surrey. Mixing vivid and compelling stories of unexpected survival with astonishing insights into the frontline of medicine, A Heavy Reckoning is a book about how far we have come in saving, healing and restoring the human body. But what are the costs involved in this hardest of journeys back from the brink?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the plastic surgeon battling to restore function to a blasted hand to the double amputee learning to walk again on prosthetic legs, Mayhew gives us a new understanding of the limits of human life and the extraordinary costs paid both physically and mentally by casualties all over the world in the twenty-first century.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/Heavy-Reckoning-by-Emily-Mayhew/9781781255858"
+  },
+  "price": "£16.99",
+  "format": "Hardback",
+  "extent": "320pp",
+  "isbn": "9781781255858",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781255858_0.png"
+  },
+  "drupalNid": "3839",
+  "drupalPath": "/heavy-reckoning",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A Heavy Reckoning explores the modern reality of medicine and injury in wartime, giving insights into the limits of human life.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-05-25",
+  "authorName": "Emily Mayhew",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Emily%20Mayhew%20from%20ICL%20website.jpg",
+    "width": "214",
+    "height": "286"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Dr Emily Mayhew is a military medical historian specialising in the study of severe casualty, its infliction, treatment and long-term outcomes in 20th and 21st century warfare. She is historian in residence in the Department of Bioengineering at Imperial College, and a Research Fellow in the Division of Surgery within the Department of Surgery and Cancer. She is the author of Wounded: From Battlefield to Blighty 1914-1918, which was shortlisted for the Wellcome Book Prize 2014.",
+        "spans": [
+          {
+            "start": 379,
+            "end": 425,
+            "type": "em",
+            "data": {}
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Book Prize announces 2017 longlist",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " The longlist for the 2017 Wellcome Book Prize is announced today, Monday 30 January. The prize celebrates exceptional works of fiction and non-fiction that engage with the topics of health and medicine and the many ways they touch our lives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The 2017 longlist of 12 books was selected by a judging panel chaired by celebrated Scottish crime writer Val McDermid, alongside Simon Baron-Cohen, Gemma Cairney, Tim Lewens and Di Speirs.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The full 2017 Wellcome Book Prize longlist is:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "How to Survive a Plague (Picador, Pan Macmillan) by David France (USA) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Homo Deus (Harvill Secker, Penguin Random House) by Yuval Noah Harari (Israel) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "When Breath Becomes Air (The Bodley Head, Penguin Random House) by Paul Kalanithi (USA) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Mend the Living (MacLehose Press) by Maylis de Kerangal (France) trans. Jessica Moore fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Golden Age (Europa Editions) by Joan London (Australia) fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Cure (Canongate Books) by Jo Marchant (UK) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Tidal Zone (Granta Books) by Sarah Moss (UK) fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Gene (The Bodley Head, Penguin Random House) by Siddhartha Mukherjee (USA) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Essex Serpent (Serpent’s Tail, Profile Books) by Sarah Perry (UK) fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A Brief History of Everyone Who Ever Lived (Weidenfeld & Nicolson) by Adam Rutherford (UK) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Miss Jane (Picador, Pan Macmillan) by Brad Watson (USA) fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "I Contain Multitudes (The Bodley Head, Penguin Random House) by Ed Yong (UK) non-fiction",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Comprising seven non-fiction and five fiction titles, the longlist includes memoir, contemporary fiction, historical fiction and popular science. Authors from the UK and USA appear, alongside the first Australian, French and Israeli contenders for the £30,000 prize. From the impact of unexplained childhood illness on families (The Tidal Zone) and the reality of living with a congenital anomaly in early 20th-century Mississippi (Miss Jane), through the story of a heart transplant taking place over 24 hours (Mend the Living), to the 40 trillion microbes contained in the human body (I Contain Multitudes), the longlist highlights the incredible breadth and depth of our encounters with medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Historic moments of medical progress are brought to life, with titles examining the Victorian conflict between science and religion (The Essex Serpent), the 1950s polio epidemic in Australia (The Golden Age) and the role of activism in overcoming the 1980s AIDS crisis (How to Survive a Plague). The longlist also includes an examination of research into the mind’s ability to influence our health (Cure) and looks to the not-too-distant future, envisioning the next stage of evolution (Homo Deus).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Two debut books appear on this year’s longlist: I Contain Multitudes by Ed Yong and When Breath Becomes Air by Paul Kalanithi, whose life-affirming reflection on facing our mortality is the first posthumously published title to be recognised by the Wellcome Book Prize. Mend the Living by Maylis de Kerangal and Jessica Moore is the first translated text to be included.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The three previously shortlisted authors in the running for the prize are Adam Rutherford (Creation, 2014), Siddhartha Mukherjee (The Emperor of All Maladies, 2011) and Sarah Moss, who is in contention for the third consecutive year (Bodies of Light, 2015; Signs for Lost Children, 2016).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Four independent publishers appear on the list: Canongate, Granta, Europa Editions and Serpent’s Tail.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Val McDermid commented on behalf of the judging panel: “The challenge of judging the Wellcome Book Prize is that we have all had to read outside our own areas of expertise. That makes demands both of the judges and of the books. This longlist is evidence of the breadth, humanity and creativity at work in the submissions for the prize, and we commend each of these 12 books for your reading pleasure.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kirty Topiwala, Publisher at Wellcome Collection and Wellcome Book Prize Manager, said: “We were deluged with submissions for the prize this year and so are delighted to be reintroducing a longlist for the 2017 Wellcome Book Prize and celebrating even more of these superb books. This is an extremely strong longlist, characterised by the trademark eclecticism of the prize – each of these books grapples uniquely and eloquently with complex, moving and profoundly human subjects.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The shortlist for the prize will be announced at a press conference on Tuesday 14 March at the London Book Fair. The winner will be announced at an evening ceremony on Monday 24 April at Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Book jacket images and author photographs are available. Further information about the longlist can be found on wellcomebookprize.org.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.dropbox.com/sh/tmozw6yq5ud1sso/AAC1dPI0YJtY8asLQU_rR58qa?dl=0"
+                    }
+                  },
+                  {
+                    "start": 112,
+                    "end": 133,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomebookprize.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For all press enquiries, including interview requests, please contact Midas Public Relations.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Hannah McMillan: hannah.mcmillan@midaspr.co.uk | 020 7361 7860 | 07971 086649",
+                "spans": [
+                  {
+                    "start": 18,
+                    "end": 47,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:hannah.mcmillan@midaspr.co.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Francesca Platt: francesca.platt@midaspr.co.uk | 020 7361 7860",
+                "spans": [
+                  {
+                    "start": 18,
+                    "end": 47,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:francesca.platt@midaspr.co.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For information about Wellcome, please contact Emily Philippou: e.philippou@wellcome.ac.uk | 020 7611 8726",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 90,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Worth £30,000, the Wellcome Book Prize celebrates the best new books that engage with an aspect of medicine, health or illness, showcasing the breadth and depth of our encounters with medicine through exceptional works of fiction and non-fiction. Last April, Suzanne O’Sullivan won the 2016 Wellcome Book Prize for It’s All in Your Head. Previous winners of the prize include Marion Coutts for The Iceberg in 2015, Andrew Solomon for Far from the Tree in 2014, Thomas Wright for Circulation in 2012, Alice LaPlante for Turn of Mind in 2011, Rebecca Skloot for The Immortal Life of Henrietta Lacks in 2010 and Andrea Gillies for Keeper: Living with Nancy – a journey into Alzheimer’s in 2009.",
+                "spans": [
+                  {
+                    "start": 19,
+                    "end": 38,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 19,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomebookprize.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, shop, restaurant and conference facilities as well as publications, tours, and international and digital projects. Wellcome Collection celebrates its 10th anniversary in 2017. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that aims to improve health for everyone by helping great ideas to thrive. Politically and financially independent, Wellcome supports scientists and researchers to take on big problems, fuel imaginations and spark debate. ",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3721",
+  "drupalPath": "/press/wellcome-book-prize-announces-2017-longlist",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The longlist for the 2017 Wellcome Book Prize is announced, celebrating the very best books about health, medicine and life.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-01-30"
+}

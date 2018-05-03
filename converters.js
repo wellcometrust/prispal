@@ -13,6 +13,17 @@ function convertTitle(title) {
   }]
 }
 
+function convertText(title) {
+  return [{
+    type: 'p',
+    content: {
+      text: title,
+      spans: []
+    }
+  }]
+}
+
+
 function convertBody(body) {
   return [{
     key: 'text',
@@ -109,6 +120,58 @@ export function convertExhibition(result) {
     return doc;
   } catch (err) {
     console.info('Could not convert: ' + path)
+    throw err
+  }
+}
+var t = 0
+export function convertBooks(result) {
+  const [nid, path, title, body, image, promoText,
+         datePublished, subtitle, links, price, format, extent, isbn, edition,
+         praises, authorName, authorImage, authorDescription] = result
+
+
+  const structuredPraises = praises.split(/“/g).filter(praise => praise !== '').map(praise => {
+    const [text, citation] = praise.split(/”/g);
+    return {
+      text, citation
+    }
+  })
+
+  try {
+    const doc = {
+      type: 'books',
+      tags: ['from_drupal'],
+      title: convertTitle(title),
+      subtitle: convertText(subtitle),
+      body: convertBody(body),
+      orderLink: {
+        url: links.replace('Order online', '')
+      },
+      price,
+      format,
+      extent,
+      isbn,
+      reviews: structuredPraises.map(({text, citation}) => ({
+        text: convertText(text),
+        citation: convertText(citation)
+      })),
+      promo: convertPromo(promoText),
+      datePublished: datePublished,
+      authorName: authorName,
+      authorImage: authorImage && {
+        url: convertImgHtmlToImage(authorImage).contentUrl
+      },
+      authorDescription: authorDescription && convertHtmlStringToPrismicStructure(authorDescription),
+      drupalPromoImage: {
+        url: convertImgHtmlToImage(image).contentUrl
+      },
+      drupalNid: nid,
+      drupalPath: path
+    }
+    return doc;
+  } catch (err) {
+    console.info('Could not convert: ' + path)
+    console.info(err)
     throw err
   }
 }

@@ -1,0 +1,99 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Forensics",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The anatomy of crime",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The dead talk. To the right listener, they tell us all about themselves: where they came from, how they lived, how they died - and who killed them. Forensic scientists can use a corpse, the scene of a crime or a single hair to unlock the secrets of the past and allow justice to be done.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Forensics: The anatomy of crime’ draws on interviews with top experts in the field to delve, in McDermid’s own inimitable style, into the questions and mysteries surrounding the science that transformed the justice system - from how evidence is collected at a brutal crime scene to what happens at an autopsy. The book examines the techniques - from blood spatter and DNA analysis to entomology and digital evidence - that experts use to solve crimes.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "She revisits famous murder cases as well as investigations into the living - sexual assaults, missing persons, mistaken identity - to lay bare the secrets of forensics from the courts of 17th-century Europe through Jack the Ripper and Victorian poisoners to the cutting-edge science of today. Watch Val McDermid talk about themes from the book, below.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Forensics/9781781251706"
+  },
+  "price": "£8.99",
+  "format": "Paperback",
+  "extent": "320p",
+  "isbn": "9781781251706",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Val%20Mcdermid%20Anatomy%20of%20Crime%20forensics%20paperback.jpg"
+  },
+  "drupalNid": "3139",
+  "drupalPath": "/forensics-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book examines techniques - from DNA analysis to entomology to digital evidence - that experts use to solve crimes.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2015-02-05",
+  "authorName": "Val McDermid",
+  "authorImage": "",
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Val McDermid has published 28 crime novels, which have sold millions of copies worldwide, been translated into 16 languages and won multiple awards. Her series featuring criminal profiler Tony Hill was the basis for the ITV series 'Wire in the Blood'.",
+        "spans": []
+      }
+    }
+  ]
+}

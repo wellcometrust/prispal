@@ -1,0 +1,342 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Miracles and Charms at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Wellcome Collection | 6 October 2011- 26 February 2012",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Miracles & Charms, Wellcome Collection's autumn exhibition programme, explores the extraordinary in the everyday with two shows: 'Infinitas Gracias: Mexican miracle paintings', the first major display of Mexican votive paintings outside Mexico and 'Charmed life: The solace of objects', an exhibition of unseen London amulets from Henry Wellcome's collection, curated by the artist Felicity Powell. Drawing lines between faith, mortality and healing, Miracles & Charms offers a poignant insight into the tribulations of daily life and human responses to chance and suffering.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 17,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/node/1706"
+                    }
+                  },
+                  {
+                    "start": 129,
+                    "end": 175,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats-on/exhibitions/infinitas-gracias"
+                    }
+                  },
+                  {
+                    "start": 248,
+                    "end": 285,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats-on/exhibitions/charmed-life"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Infinitas Gracias: Mexican miracle paintings",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 44,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mexican votives are small paintings, usually executed on tin roof tiles or small plaques, depicting the moment of personal humility when an individual asks a saint for help and is delivered from disaster and sometimes death. Infinitas Gracias features over 100 votive paintings drawn from five collections held by museums in and around Mexico City and two sanctuaries located in mining communities in the Bajío region to the north: the city of Guanajuato and the distant mountain town of Real de Catorce. Together with images, news reports, photographs, devotional artefacts, film and interviews, the exhibition illustrates the depth of the votive tradition in Mexico.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Usually commissioned from local artists by the petitioner, votive paintings tell immediate and intensely personal stories, from domestic dramas to revolutionary violence, through which a markedly human history of communities and their culture can be read. Votives displayed in 'Infinitas Gracias' date from the 18th century to the present day. Over this period, thousands of small paintings came to line the walls of Mexican churches as gestures of thanksgiving, replacing powerful doctrine-driven images of the saints with personal and direct pleas for help. The votives are intimate records of the tumultuous dramas of everyday life: lightning strikes, gun fights, motor accidents, ill health and false imprisonment in which saintly intervention was believed to have led to survival and reprieve.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Infinitas Gracias' explores the reaction of individuals at the moment of crisis in which their strength of faith comes into play. The profound influence of these vernacular paintings, and the artists and individuals who painted them, can be seen in the work of such figures as Diego Rivera and Frida Kahlo, who were avid collectors. The contemporary legacy of the votive ritual is present in the exhibition through a wall covered with modern-day offerings from one church in Guanajuato: a paper shower of letters, certificates, photographs, clothing and flowers, through which the tradition of votive offering continues today. The sanctuaries at Guanajuato and Real de Catorce remain centres of annual pilgrimage, attracting thousands of people to thank and celebrate their chosen saints.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Felicity Powell - Charmed Life: The solace of objects",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 53,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A 'please' to the votives' 'thank you', 'Charmed Life', curated by Felicity Powell, features some four hundred amulets from Henry Wellcome's vast collection, be exhibited encircled with works - including new pieces and videos - by the artist. The amulets, ranging from simple coins to meticulously carved shells, dead animals to elaborately fashioned notes, are from a collection within a collection, amassed by the banker and obsessive folklorist Edward Lovett, who scoured London by night, buying curious objects from the city's mudlarks, barrow men and sailors, which he sold on to Wellcome.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The amulets are objects of solace. Intended to be held, touched, and kept close to the body, they are by turns designed and found, peculiar and familiar. The potency of the charms is invested through rituals of hope and habit. Each amulet on display has long been separated from its wearer, but collectively they form a repository for the anxieties, reassurances and superstitions of the city and its occupants. Lovett's amulets are held at the Pitt Rivers Museum in Oxford, where they have remained archived and largely unseen. The amulets selected by Powell are uncanny: they are secrets brought to light.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Powell's own works address the strange allure of objects which are a source of comfort and compensation. Intricate miniatures, with white wax reliefs on black mirror slate, they carry the same intimacy of size as the amulets, and are meticulously crafted. Her portraits, which appear as inverted silhouettes, white on black, are all in a process of change, metamorphosing into other selves and creatures. Like Lovett's amulets, they seem to be more than themselves, hinting at a hidden magic at work, as they dip between real and imagined worlds. Using the reverse side of a mirror, Powell hides away literal reflection but leaves the viewer wondering at their playful and compelling strangeness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Film works projected in the gallery see the wax reliefs in animation, featuring the hands of the artist as she works, alongside medical scans of her body overlaid with drawn images of amulets from the Lovett collection. These films, with music by William Basinski, create imagery and forms that relate directly to the objects on display and to the artist's own desire for wellbeing.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold, Head of Public Programmes at Wellcome Collection, says: \"These two exhibitions explore rich traditions of everyday faith and health, presenting us with objects from across cultures, all invested with extraordinary personal potency. Sometimes comforting, other times strange, both simply made and exquisitely wrought: these exhibits give us insight into centuries of charmed lives and miraculous events.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A full programme of events accompanies the exhibition.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Miracles & Charms runs from 6 October 2011 to 26 February 2012.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Media contact",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tim Morley Senior Media Officer T 020 7611 8612 E t.morley@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 73,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Infinitas Gracias: Mexican miracle paintings' is curated by artist Antonia Bruce with James Peto from Wellcome Collection.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 46,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats-on/exhibitions/infinitas-gracias"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Infinitas Gracias' has been made possible by the support and coordination of the Instituto Nacional de Antropología e Historia (INAH) in Mexico. The loaning institutions and sanctuaries are: Museo Nacional de las Intervenciones Museo Nacional de Historia Museo Regional de Puebla Museo Regional de Guadalajara Museo de la Basilica de Guadalupe Santuario de San Francisco de Asis de la Diócesis de Matehuala Iglesia del Cristo de Villaseca de Mineral de Cata.",
+                "spans": [
+                  {
+                    "start": 82,
+                    "end": 134,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.inah.gob.mx/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Felicity Powell, curator of 'Charmed Life: The solace of objects', was born in London in 1961 and is a London-based artist whose work in various media has been exhibited in the UK and internationally, and is represented in the collections of major museums. Her work has been commissioned by the V& A Museum, the British Museum, the Mo Ibrahim Foundation and the Linnaen Society. She was the co-curator of the 2009 exhibition 'Medals of Dishonour' at the British Museum, and has recently been commissioned to make the British Museum medal. She was a contributor to 'A History of the World in 100 Objects'.",
+                "spans": [
+                  {
+                    "start": 28,
+                    "end": 65,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats-on/exhibitions/charmed-life"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Lovett Collection of charms is held at the Pitt Rivers Museum in Oxford. It forms part of the 30 000-strong collection of charms amassed by Henry Wellcome.",
+                "spans": [
+                  {
+                    "start": 47,
+                    "end": 65,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://http//www.prm.ox.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free visitor destination for the incurably curious. Located at 183 Euston Road, London, Wellcome Collection explores the connections between medicine, life and art in the past, present and future. The building comprises three gallery spaces, a public events programme, the Wellcome Library, a café , a bookshop, conference facilities and a members' club.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to achieving extraordinary improvements in human and animal health. It supports the brightest minds in biomedical research and the medical humanities. The Trust's breadth of support includes public engagement, education and the application of research to improve health. It is independent of both political and commercial interests.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "830",
+  "drupalPath": "/press/miracles-and-charms-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Miracles & Charms, Wellcome Collection's autumn exhibition programme, explores the extraordinary in the everyday with two shows.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2011-10-06"
+}

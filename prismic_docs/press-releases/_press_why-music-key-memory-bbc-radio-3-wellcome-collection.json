@@ -1,0 +1,251 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Why Music? The Key to Memory with BBC Radio 3 at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Do you sometimes struggle to remember what you did yesterday, but can remember songs from your childhood? Do you get bugged by irritating ‘earworms’ (songs which get stuck in your head)? Music has the power to stimulate, challenge or heighten our experiences; a sequence of notes can evoke times past; music can ‘stick’ in your mind for a lifetime. Why Music? The Key to Memory will be a free weekend of events and broadcasts exploring the relationship between music, memory and the mind which will take place at Wellcome Collection this October in partnership with BBC Radio 3.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The weekend will include ‘Created Out of Mind’, current residents of The Hub – Wellcome’s interdisciplinary research group exploring the relationship between the arts and science. Created Out of Mind are a unique team of artists, scientists and clinicians who are working together over two years at Wellcome Collection to explore dementias and the arts. The team hopes to enrich public perceptions of dementias as affecting more than only memory, to raise provocative questions about the healthy and ageing brain. Their findings will feature across the weekend.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Broadcasting live from Wellcome Collection over a long weekend (13 – 15 October) the public are invited to join BBC Radio 3 as they present a series of programmes around music, memory and the mind. The discussions will cover everything from the power of song in helping people with a dementia, to how conductors learn complicated musical scores and how jazz improvisation works.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Highlights of the weekend will include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Dr Catherine Loveday will talk about how people’s enduring musical tastes are dictated by the ‘reminiscence bump’ - the period in our lives from which older adults have the strongest recollections (from the age of 15 to 21).",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "BBC Radio 6 Music and Radio 3 join forces for a simulcast broadcast presented by Cerys Matthews and Tom Service, coming live from the Henry Wellcome Auditorium and will feature an eclectic mix of music and guests.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A performance from Singing with Friends, a community choir for families living with dementia led by Wigmore Hall in partnership with Westminster Arts, will be broadcast alongside discussions from those involved on the joy of singing together.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Created Out of Mind will talk about how technology has given them insight into the ways choral singing helps people with dementia. • Tom Service will explore ‘earworms’ in his Sunday programme, The Listening Service.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "The Early Music Show looks at how music helped monks remember huge swathes of prayer. Manuscripts from the Wellcome collection will be used to illuminate this.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A special six-hour ‘slow radio’ night sequence will use music to bind together the voices of people living with dementias as they talk about their concerns and lives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visitors will be able to book tickets for the broadcast discussions and there will be a drop in events including in-gallery interactions to explore music, memory and the mind, pop-up activities and a look at improvisation and memory.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Why Music? The Key to Memory will be broadcast on Radio 3 and will also be available on iPlayer for 30 days.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All of the events are free. Most of the events are ticketed and tickets will be available to book from Friday 29 September at: https://wellcomecollection.org/whymusic",
+                "spans": [
+                  {
+                    "start": 127,
+                    "end": 166,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whymusic"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For further press information please contact Rebecca Ward for Wellcome Collection on 07977 071450 or media.office@wellcome.ac.uk and Kate Hassell for BBC Radio 3 on 07753 309065 or kate.hassell@bbc.co.uk",
+                "spans": [
+                  {
+                    "start": 101,
+                    "end": 128,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:media.office@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 181,
+                    "end": 203,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:kate.hassell@bbc.co.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects. Wellcome Collection celebrates its 10th anniversary in 2017.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "BBC Radio 3",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Since it launched in 1946, the Third Programme/ BBC Radio 3 has been a bold pioneer in the cultural world. It is one of the world’s foremost presenters, creators, commissioners and curators across classical, folk, world, jazz and contemporary music as well as drama, philosophy and ideas. The station is also the most significant commissioner of new and contemporary music in the UK, with 35 new works commissioned annually and broadcasts over 600 concerts a year, including live broadcasts from the greatest classical music festival in the world (BBC Proms). Radio 3’s In Concert programme alone reaches the equivalent of 250 packed concert halls a week, and the BBC Orchestras and Choirs give around 400 concerts a year in over 60 UK locations. The station has always nurtured extraordinary artistic talents, provided a platform for important scientific and political debates/announcements, and broadcast ground-breaking experimental drama – always while delivering its core aim of connecting audiences with pioneering music and culture.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Created Out of Mind",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A group exploring dementia and the arts have been invited to take up the 2016–2018 residency in The Hub at Wellcome Collection. Bringing together a rich network including scientists, artists, clinicians, public health experts and broadcasters, the group will examine and challenge perceptions of dementia through scientific and creative experimentation. They have been awarded £1 million to develop the project over two years. Led by Sebastian Crutch, a group of scientists, artists, clinicians, public health experts and broadcasters are collaborating with a group of more than 60 individuals, charities and institutions working in, supporting and developing the field of dementia and the arts. There are over 44 million people worldwide with dementia; this is predicted to increase to over 75 million by 2030 and over 135 million by 2050.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4008",
+  "drupalPath": "/press/why-music-key-memory-bbc-radio-3-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "BBC Radio 3 joins forces with Wellcome Collection this autumn for three days of live music, discussions, one-off programmes and events.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-09-25"
+}

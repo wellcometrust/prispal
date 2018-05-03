@@ -1,0 +1,94 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Brains",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The mind as matter",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Brains' asks not what brains do to us, but what we have done to brains, focusing on the bodily presence of the organ rather than investigating the neuroscience of the mind.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This fully illustrated and fascinating exploration of the brain has been published to tie in with the Wellcome Collection ‘Brains’ exhibition. The brain is a unique and enigmatic organ. It cannot be transplanted, and is one of the most complex entities in the known universe. ‘Brains’ explores the ways that we have sought to understand and classify the brain over the centuries.",
+                "spans": [
+                  {
+                    "start": 123,
+                    "end": 129,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/brains-mind-matter"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Brains/9781781250402"
+  },
+  "price": "£14.99",
+  "format": "Paperback",
+  "extent": "160p",
+  "isbn": "9781781250402",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/brains%20book.jpg"
+  },
+  "drupalNid": "3151",
+  "drupalPath": "/brains",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This fully illustrated and fascinating exploration of the brain has been published to tie in with the ‘Brains’ exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2012-04-05",
+  "authorName": "Marius Kwint & Richard Wingate",
+  "authorImage": "",
+  "authorAbout": ""
+}

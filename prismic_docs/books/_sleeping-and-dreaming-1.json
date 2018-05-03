@@ -1,0 +1,101 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sleeping and Dreaming",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Sleeping and Dreaming', which accompanied the exhibition of the same name at Wellcome Collection and the Deutsches Hygiene-Museum, Dresden, takes a fresh look at the apparently simple questions of why humans need to sleep and dream, and what happens to our brain and body during sleep.",
+                "spans": [
+                  {
+                    "start": 47,
+                    "end": 74,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/sleeping-dreaming"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These fascinating lines of enquiry are explored by international experts from backgrounds as varied as neuroscience, linguistics, psychoanalysis, philosophy and fiction writing and from organisations including the Centre for Sleep Science at the University of Regensburg, the Sigmund Freud Institute in Frankfurt and the Royal School of Medicine in London.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Illustrated by a stunning variety of visual material - from Luis Buñuel's 'Un Chien Andalou', to sculpture by Ron Mueck and Katharina Fritsch, to photographs documenting US DJ Peter Tripp's 1959 no-sleep marathon - these essays cover subjects such as the relationship between dream frequency and memory, the interpretation of dreams, and the causes and effects of sleep deprivation.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Sleeping_and_Dreaming/9781906155056"
+  },
+  "price": "£19.95",
+  "format": "Paperback",
+  "extent": "192p",
+  "isbn": "9781906155056",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/sleepingbook.jpg"
+  },
+  "drupalNid": "3171",
+  "drupalPath": "/sleeping-and-dreaming-1",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Sleeping and Dreaming' takes a fresh look at the apparently simple questions of why humans need to sleep and dream.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2007-11-19",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

@@ -1,0 +1,91 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Future Face",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Image, identity, innovation",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the Mona Lisa to facial reconstruction – this book examines what faces really tell us, what makes them unique, and how art and science transform them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Beautifully designed and illustrated throughout with stunning images, this book was created to accompany the 'Future Face' exhibition at the Science Museum (which ran from October 2004 to February 2005).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Future Face: Image, Identity, Innovation' is written by Sandra Kemp, the exhibition's curator, with contributions from Vicki Bruce and Alf Linney.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Future_Face/9781841290539"
+  },
+  "price": "£12.99",
+  "format": "",
+  "extent": "224p",
+  "isbn": "9781861977687",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"
+  },
+  "drupalNid": "3177",
+  "drupalPath": "/future-face",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This book examines what faces really tell us, what makes them unique, and how art and science transform them.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2004-09-01",
+  "authorName": "Sandra Kemp",
+  "authorImage": "",
+  "authorAbout": ""
+}

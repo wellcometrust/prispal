@@ -1,0 +1,105 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Heart",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Received First Prize in the popular medicine category for the 2008 Medical Book Awards sponsored by the British Medical Association.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 132,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This book examines the history of our understanding of the human heart. Encompassing material from Henry Wellcome's own collections in the Wellcome Library and images and artefacts from private and public archives across the world, the book provides a richly illustrated account of changes in our perception of what the heart does and what it means.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book first explores the symbolic significance of the heart in ancient Egypt, China, India and Greece; its role in Aztec ceremony; and its place in the medieval world. It then considers the centrality of the heart in Christianity and other religions and the literary and artistic views of the heart as the seat of the soul and emotions.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The growth of anatomical knowledge of the heart and its treatment through developing technology is fundamental to the volume. Fifteenth-century drawings by Leonardo da Vinci reveal his extraordinary early insight into the heart's mechanisms, and 20th-century medical breakthroughs prompt questions about ownership of the heart and the source of life itself. With testimony from surgeons and patients, the book highlights developments in cardiac surgery and considers future alternatives involving gene therapy, stem cell options, and microsurgery.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/The_Heart/9780300125108"
+  },
+  "price": "£16.99",
+  "format": "Hardback",
+  "extent": "256p",
+  "isbn": "9780300125108",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"
+  },
+  "drupalNid": "3173",
+  "drupalPath": "/heart-3",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Received First Prize in the popular medicine category for the 2008 Medical Book Awards sponsored by the British Medical Association.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2007-05-25",
+  "authorName": "Edited by James Peto",
+  "authorImage": "",
+  "authorAbout": ""
+}

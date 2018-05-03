@@ -1,0 +1,295 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "'Bedlam: the asylum and beyond' opens at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bedlam has long been a byword for chaos. Now a major exhibition at Wellcome Collection opens the doors to the historic asylum from which it derives. Through the lens of the Bethlem Royal Hospital, London, ‘Bedlam: the asylum and beyond’ explores how the experience of mental illness and notions of madness have been shaped over centuries, and imagines what the future might hold.",
+                "spans": [
+                  {
+                    "start": 206,
+                    "end": 235,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Bedlam’ traces the rise and fall of the asylum and how it has reflected the changing attitudes of the society around it, from the early days of the Bethlem Hospital to the modern, post-asylum world in which prescription medications coexist with an increasing array of other therapies and support options. Visitors encounter scenes from successive incarnations of Bethlem, as well as other models of care from elsewhere in the UK and Europe, revealing how each was founded in an optimistic spirit of humanitarian reform, but abandoned as therapies failed and ideas changed.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emphasising the lived experiences of individuals, the exhibition features over 150 objects and archival materials, including patient art from Adolf Wölfli, Vaslav Nijinsky and Richard Dadd, alongside works by contemporary artists, including Eva Kot’átková, Shana Moulton, Javier Tellez and the ‘Madlove: A Designer Asylum’ project. A new digital commission for the exhibition by Erica Scourti, Empathy Deck, uses an online mood monitor to generate unique tarot cards, each one offering a healing approach, remedy or thought.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Guest curator, author and historian, Mike Jay says: “Preserved in popular imagination as ‘Bedlam’, the Bethlem Royal Hospital is perhaps the oldest institution of its kind in the world, and has witnessed the entire history of mental illness and psychiatry. Its story is the perfect focus for Wellcome Collection to explore how medicine, art and culture define mental illness, and the big questions it raises about the individual and society.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection co-curator Bárbara Rodríguez Muñoz adds: “The perspectives of patients and those with lived experiences of mental distress, as well as those who are blurring the boundaries between art and therapeutic practice, are at the core of this exhibition. At a time when the marketplace of treatment and support options is so broad, but often inaccessible, the exhibition both interrogates and reclaims the idea of the asylum as a place of sanctuary and care.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Bedlam’ opens with a large-scale installation, Asylum, by artist Eva Kot’átková. This 2014 work was inspired by conversations with psychiatric patients and features live performers, evoking the tensions between protection and restraint that thread throughout the exhibition. Visitors are also introduced to the alternative model of care offered by the town of Geel, Belgium, the home of patron saint of mental affliction St Dymphna, where sufferers in the middle ages were taken in by local families and became ‘boarders’, part of the community, a tradition that continues to this day.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first scene from Bedlam shows Bethlem hospital’s eighteenth century site in Moorfields, as depicted in William Hogarth’s The Rake’s Progress (1763). This section traces how madness was first defined by the law, and reveals how the asylum was open to public visitors, inspiring numerous plays, ballads, poems and artworks. It also features architectural plans for a new Bethlem building by one of the inmates, James Tilly Matthews: the first psychiatric hospital designs by a patient.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bethlem moved in the 1800s to the building in St George’s Fields, Southwark that now houses the Imperial War Museum. Patient experiences from this era were recorded in poetry, such as Epitaph, of My Poor Jack, Squirrel II, by James Hadfield, and in a quarterly magazine, Under the Dome. The debates around physical restraint from this time are illuminated by Jane Fradgley’s haunting photographs of the quilted garments worn by patients, and definitions of normality are subverted in Javier Tellez’s film installation Caligari and the Sleepwalker (2008), based on the 1920 silent movie, the Cabinet of Dr. Caligari (which is currently featured in another Wellcome Collection exhibition: ‘States of Mind: Tracing the Edges of Consciousness’). Photographs by Henry Hering show Bethlem inmates before and after their time in the asylum, as well as the artist Richard Dadd working in his cell while confined as an ‘incurable lunatic’. Dadd turns the patient’s gaze on the doctors with his oil portrait of Bethlem’s governor Alexander Morison (1852).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "By the twentieth century, the modern mental hospital had replaced the asylum and redefined mental illness. In 1930 Bethlem moved again to a new site, a villa complex outside the city, and began to incorporate talking and community-based therapies. At this time, patient art was considered both as therapy and a tool for analysis, with several examples shown in this section including Mental Asylum Band-Copse (1910) by Adolf Wölfli, one of the earliest outsider artists. Abandoned Goods, an essay film by Pia Borg and Edward Lawrenson tells the story of over 5500 pieces of patient artwork, now collectively known as the Adamson Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Psychiatry changed rapidly in the twentieth century. The advent of medication as well as other treatment options, and anti-institutional movements such as the democratic psychiatry movement led by Italian Franco Basaglia, coupled with economic pressures, led to residential hospitals being decommissioned. The incongruities of this process are captured in humorous illustrations by Ugo Guarino (1979) alongside a brochure for luxury flats in the former Friern Barnet asylum of north London.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The last section of the exhibition explores the ever-expanding marketplace of treatments and therapies in the post-asylum world, from pharmaceuticals to traditional healing and spirituality, to online support, and artistic therapies. Restless Leg Saga (2012), a film installation by Shana Moulton, depicts a character searching through television and magazine adverts to find relief from her condition, and is shown alongside several examples of pamphlets promoting cross cultural and holistic treatment-guides from the Wellcome Library’s collection. There is a return to Bethlem and Geel in their current incarnations, with a selection of drawings by David Beales, an artist represented by the Bethlem Gallery, that show moments from his time inside psychiatric hospitals, and a collection of photographs by Hugo Minnen that depict boarders going about their daily lives in Geel.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The final work in the exhibition is a special commission of The Vacuum Cleaner and Hannah Hull's Madlove: A Designer Asylum, a collaborative project with designers Benjamin Koslowski and James Christian, illustrator Rosie Cunningham, and over 300 people with lived experience of mental distress who are revisiting and reimagining the asylum as ‘a safe place to go mad’.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Bedlam: the asylum and beyond’ runs at Wellcome Collection from 15 September 2016 to 15 January 2017. A parallel exhibition curated by Sam Curtis, ‘Reclaiming Asylum’, is held at the Bethlem Gallery, from 21 September– 11 November 2016.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The institution at the centre of this exhibition; Bethlem Royal Hospital, remains a functioning hospital based in Beckenham and is now part of South London and Maudsley NHS Foundation Trust. On the 270 acre site, sits the Bethlem Gallery and Museum, free and open to all.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This Way Madness Lies: The asylum and beyond, a book by Mike Jay produced to accompany the exhibition, is published by Thames & Hudson.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contacts",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou Media ManagerT +44 (0)20 7611 8726E e.philippou@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 29,
+                    "end": 30,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 50,
+                    "end": 51,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 52,
+                    "end": 78,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kate Moores Lead Media ManagerT +44 (0)207 611 5713E k.moores@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 30,
+                    "end": 31,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 51,
+                    "end": 52,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 53,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Bedlam: the asylum and beyond' is co-curated by Bárbara Rodríguez Muñoz and Mike Jay, with exhibition design by MUF and graphics by Martin McGrath and Lindsay Pentelow.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. We provide more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3549",
+  "drupalPath": "/press/bedlam-asylum-and-beyond-opens-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition traces the rise and fall of the asylum and how it has reflected the changing attitudes of the society around it.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-09-15"
+}

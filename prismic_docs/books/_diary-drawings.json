@@ -1,0 +1,118 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Diary Drawings",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Mental Illness and Me",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Winner of the MIND Book of the Year 2011",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bobby Baker is, in her own words, 'a woman and an artist'. But for 11 years, while creating internationally acclaimed performance pieces such as Box Story and How to Live, she also privately battled severe mental illness. These drawings tell the story.",
+                "spans": [
+                  {
+                    "start": 145,
+                    "end": 154,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 159,
+                    "end": 170,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In 1996 the artist Bobby Baker was diagnosed as having borderline personality disorder. Her subsequent struggle to overcome severe mental and later physical illness lasted for 11 years, and was unknown to anyone outside her close family, friends and colleagues. The 158 drawings and watercolours in this book, selected by Bobby from the hundreds more that she created daily as a private way of coming to terms with her experience, are an astonishing record of her slow and harrowing journey to eventual recovery. Moving, startling, shocking and hilarious in turn, these diary drawings reveal the stark realities of living with mental illness and of society's lack of understanding.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With an introductory essay by Marina Warner, and essays by Bobby and by her daughter Dora Whittuck, a qualified clinical psychologist, this book is a rich and rewarding visual experience and a fascinating insight into the interplay between art, mental health and society.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Diary_Drawings/9781846683749"
+  },
+  "price": "£15.00",
+  "format": "Paperback",
+  "extent": "232p",
+  "isbn": "9781846683749",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
+  },
+  "drupalNid": "3159",
+  "drupalPath": "/diary-drawings",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Winner of the MIND Book of the Year 2011.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2010-05-06",
+  "authorName": "Bobby Baker",
+  "authorImage": "",
+  "authorAbout": ""
+}

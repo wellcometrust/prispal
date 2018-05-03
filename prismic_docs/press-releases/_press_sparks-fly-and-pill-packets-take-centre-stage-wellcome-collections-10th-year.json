@@ -1,0 +1,416 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Sparks fly and pill packets take centre stage in Wellcome Collection's 10th year",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection turns 10 in 2017, and today it announces its forthcoming exhibition programme for this special birthday year. Wellcome Collection’s free exhibitions make connections between life, medicine and art. The 2017 programme will celebrate the inventors and scientists who unlocked the natural force of electricity and the graphic designers who have created hard-hitting health campaigns and iconic pill packets. Making Nature continues into its second phase exploring our connection to the natural world, and Henry Wellcome’s own collection comes under the spotlight, illuminating the medical and healing traditions of India.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "2017 Exhibition programme",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Electricity: The spark of life'",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 32,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/electricity"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " 23 February – 25 June 2017 (Press view: 22 February 2017)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the structure of the atom to the function of our brains, an electric charge is hidden within every object on earth. 'Electricity: the spark of life' will trace the story of mankind’s quest to understand, unlock and master the power of electricity. This major exhibition will show how this invisible yet vital force is fundamental to human life and has captivated inventors, scientists and artists alike for centuries. It will feature three new commissions by international artists John Gerrard, Camille Henrot and Bill Morrison, and bring together over 100 objects from ancient spark-inducing amber and early electro-static generators to radiographs, photographs, paintings, models and films.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Making Nature Part II'",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " 22 June 2017 - 10 September 2017 (Press view: 21 June 2017)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Making Nature Part II' is the second part of a year-long exploration into how humans relate to other animals and the world around us: a question that has captivated philosophers, anthropologists, scientists, ethicists and artists for centuries. With contributions from our visitors, this exhibition will consider the idea of a museum of nature. It will examine the many and varied ways we are personally connected to the natural world and the implications this has for the planet. 'Making Nature: How we see animals' continues until 21 May 2017.",
+                "spans": [
+                  {
+                    "start": 483,
+                    "end": 516,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/MakingNature"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Can Graphic Design Save Your Life?'",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " 7 September 2017 – 14 January 2018 (Press view: 5 September 2017)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection’s forthcoming exhibition 'Can Graphic Design Save Your Life?' will explore the important relationship between graphic design and health. From hard-hitting posters to flashing neon pharmacy signs, health promotion to digital self-monitoring apps, this exhibition will focus on the critical and varied role that graphic representation plays in constructing and communicating healthcare messages, and raising awareness of some of the most fundamental aspects of human welfare. The exhibition comprises some 300 objects drawn from the library at Wellcome Collection, the Science Museum and a number of international private collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drawing upon iconic graphic design by past and current graphic designers from across the globe, and featuring extensive and historically rich graphic objects, the exhibition will demonstrate how communication strategies and differing visual languages are employed to persuade, inform, prevent and protect. At a time when epidemics such as the Ebola and Zika viruses, and concerns about obesity and the promotion of healthier lifestyles are at the forefront of public consciousness, the exhibition will highlight the ubiquitous and often subliminal nature of graphic design in shaping our environment, our health and sense of self.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition is curated by graphic designer Lucienne Roberts and design educator Rebecca Wright, founders of publishing house GraphicDesign&, in collaboration with Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Medicine & Healing in India'",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Opens 16 November 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition will offer a glimpse into some of the ancient practices of sustaining human health in India and examine their relevance to contemporary medicine and life. Opening in October 2017, it will display highlights from Henry Wellcome’s extensive historical collection, including paintings, manuscripts and medical instruments and will feature a newly commissioned contemporary work. ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The programme is inspired by Wellcome Collection’s Medicine Corner initiative, which saw a series of exhibitions, live public events and education outreach take place in India in 2016, exploring the rich plurality of cultures of medicine, healing and well-being across the country.",
+                "spans": [
+                  {
+                    "start": 51,
+                    "end": 66,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/medicinecorner"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "TOURING EXHIBITION",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Skeletons: Our Buried Bones'",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 28,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/skeletons-our-buried-bones"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Hunterian Art Gallery, Glasgow: until 8th January 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " M Shed, Bristol: 8 April – 2 September 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Leeds City Museum, Leeds: September 2017 – January 2018",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection and the Museum of London’s touring exhibition, 'Skeletons: Our Buried Bones' continues. The tour began in August 2016 at The Hunterian, University of Glasgow, and will travel to Bristol’s M Shed and Leeds City Museum in 2017. This exhibition sees skeletons from the Museum of London’s 20,000-strong collection displayed alongside bones discovered locally. In-depth analysis will provide insights into the health and history of each individual, helping to bring to life stories that have long been hidden beneath the ground.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Skeletons: Our Buried Bones' is a collaboration between Wellcome Collection and Museum of London. It is based on 'Skeletons: London’s Buried Bones', originally shown at Wellcome Collection in 2008 and is curated by Emily Sargent and Jelena Bekvalac.",
+                "spans": [
+                  {
+                    "start": 115,
+                    "end": 147,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/articles/skeletons-londons-buried-bones"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Please note that this is advance programme information. Dates and titles for exhibitions opening after September 2017 may be subject to minor changes. Please check with the Wellcome Collection media office prior to publication.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For further press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kate Moores, Lead Media Manager, Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "T +44 (0)20 7611 5713 | E k.moores@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 1,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 24,
+                    "end": 25,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 26,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 52,
+                    "end": 53,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 1,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 24,
+                    "end": 25,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 55,
+                    "end": 56,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects. Wellcome Collection celebrates its 10th anniversary in 2017.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3595",
+  "drupalPath": "/press/sparks-fly-and-pill-packets-take-centre-stage-wellcome-collections-10th-year",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection turns 10 in 2017, and today it announces its forthcoming exhibition programme for this special birthday year.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-11-11"
+}

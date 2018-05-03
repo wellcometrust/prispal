@@ -1,0 +1,219 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "A Practical Course in Personal Magnetism",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The Victorian Guide to Health, Happiness, Power and Success",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“You perhaps have never thought that you are yourself a sort of electrical storage battery, constantly receiving and discharging force; sending out currents of attraction and repulsion.”",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 186,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drawn from the original self-help bestsellers of the Victorian age, A Practical Course in Personal Magnetism presents a comprehensive guide to unleash your inner charisma and find success, in love, business and beyond.",
+                "spans": [
+                  {
+                    "start": 68,
+                    "end": 108,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With the advice of the Psychic Research Company, learn how to effectively harness the electric powers of your mind:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Control the Actions of Others ",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Make Effective Use of Mystery",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Gain Ease and Self-confidence",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Win the Affection of the Opposite Sex",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Appreciate the Value of Cheerfulness",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Master the Magnetic Handshake",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Doctor's Orders from the Wellcome Library",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Doctor's Orders' brings together curious and curative treasures from the unique collections of the Wellcome Library, London's world-famous medical library.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Part of Electricity: the Spark of Life",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 38,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/electricity"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/Practical-Course-in-Personal-Magnetism-by-Wellcome-Collection/9781781258347"
+  },
+  "price": "£7.99",
+  "format": "Hardback",
+  "extent": "120pp",
+  "isbn": "9781781258347",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Times Classic Read, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Times Classic Read, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Lisa Appignanesi",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Lisa Appignanesi",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
+  },
+  "drupalNid": "3681",
+  "drupalPath": "/practical-course-personal-magnetism",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Unleash your charisma the Victorian way through the power of electric currents, with this forgotten precursor to today’s self-help classics.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-02-02",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

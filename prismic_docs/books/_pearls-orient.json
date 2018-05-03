@@ -1,0 +1,98 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Pearls of the Orient",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Asian Treasures from the Wellcome Library",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This lavishly illustrated book celebrates the variety and beauty of the Asian collections preserved in the Wellcome Library.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Each chapter reflects a different region of Asia, its people and culture and includes essays written by Asian experts from the UK, Germany and Russia – all of whom have worked on the Wellcome Asian Collections over the last 25 years.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Containing many beautiful colour illustrations, the book demonstrates the multiplicity of religious and cultural backgrounds, languages and scripts, as exemplified by the Wellcome Library's Asian Collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The editor, Nigel Allan, was Curator of the Oriental Collections in the Wellcome Library from 1978 to 2005.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Pearls_of_the_Orient/9780906026601"
+  },
+  "price": "£30.00",
+  "format": "Hardback",
+  "extent": "216p",
+  "isbn": "9780906026601",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"
+  },
+  "drupalNid": "3181",
+  "drupalPath": "/pearls-orient",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This lavishly illustrated book celebrates the variety and beauty of the Asian collections preserved in the Wellcome Library.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2003-06-01",
+  "authorName": "Edited by Nigel Allan",
+  "authorImage": "",
+  "authorAbout": ""
+}

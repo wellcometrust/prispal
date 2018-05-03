@@ -1,0 +1,105 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Death",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "A picture album",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Disturbing, macabre and moving, this beautifully illustrated clothbound book examines our enduring desire to make peace with death.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 131,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Featuring an eclectic selection from the spectacularly diverse collection of Chicago print dealer Richard Harris, it includes works from Adriaen van Utrecht, Otto Dix, James Ensor, Goya, Mapplethorpe and Andy Warhol displayed alongside mysterious postcards and anonymous snapshots.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book is divided into five sections (Contemplating Death, The Dance of Death, Violent Death, Love and Death, and Commemoration).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In these pages we are presented with some of the many faces of death: violent and cruel or benign and playful death the friend and death the enemy. The epitomes of terrible beauty, these images are a reminder of the end awaiting us all.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Death/9780957028531"
+  },
+  "price": "£14.99",
+  "format": "Hardback",
+  "extent": "80p",
+  "isbn": "9780957028531",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/death%20book.jpg"
+  },
+  "drupalNid": "3145",
+  "drupalPath": "/death",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Disturbing, macabre and moving, this beautifully clothbound book examines our enduring desire to make peace with death.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2012-11-29",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

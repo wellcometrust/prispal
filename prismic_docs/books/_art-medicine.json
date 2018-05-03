@@ -1,0 +1,91 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Art of Medicine",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Over 2000 Years of Medicine in Our Lives",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For thousands of years artists have played a special role in the human quest to understand anatomy, health and disease; this book celebrates their creativity and inquisitiveness using little-seen, stunning imagery from one of the world's greatest collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Using a wealth of previously unseen images from Wellcome Collection, and telling the fascinating story of medical understanding worldwide, The Art of Medicine celebrates both medical advance and visual artistry.",
+                "spans": [
+                  {
+                    "start": 139,
+                    "end": 158,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/The_Art_of_Medicine/9781907579134"
+  },
+  "price": "£30.00",
+  "format": "Hardback",
+  "extent": "256p",
+  "isbn": "9781907579134",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"
+  },
+  "drupalNid": "3155",
+  "drupalPath": "/art-medicine",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For thousands of years artists have played a special role in the human quest to understand anatomy, health and disease.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2011-11-28",
+  "authorName": "Emm Barnes, Julie Anderson & Emma Shackleton",
+  "authorImage": "",
+  "authorAbout": ""
+}

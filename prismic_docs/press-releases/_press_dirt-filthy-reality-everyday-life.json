@@ -1,0 +1,266 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dirt: The filthy reality of everyday life",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "24 March - 31 August 2011",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection's major new exhibition takes a closer look at something which surrounds us, but we are often reluctant to confront. Dirt: the Filthy Reality of Everyday Life travels across centuries and continents to explore our ambivalent relationship with dirt. Bringing together around 200 artefacts spanning visual art, documentary photography, cultural ephemera, scientific artefacts, film and literature, the exhibition uncovers a rich history of disgust and delight in the grimy truths and dirty secrets of our past, and points to the uncertain future of filth, which poses a significant risk to our health but is also vital to our existence.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Following anthropologist Mary Douglas' observation that dirt is 'matter out of place', the exhibition introduces six very different places as a starting point for exploring attitudes towards dirt and cleanliness: a home in seventeenth century Delft in Holland a street in Victorian London a hospital in Glasgow in the 1860s a museum in Dresden in the early twentieth century a community in present day New Delhi and a New York landfill site in 2030. Highlights from Dirt include paintings by Pieter de Hooch, the earliest sketches of bacteria, John Snow's \"ghost map\" of cholera, beautifully crafted delftware, Joseph Lister's scientific paraphernalia, and a wide range of contemporary art, from Igor Eskinja's dust carpet, Susan Collis bejewelled broom and James Croak's dirt window, to video pieces by Bruce Nauman and Mierle Ukeles and a specially commissioned work by Serena Korda.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dirt looks through the lens of Delft scientist Anthony van Leewenhoek's early microscope, to reveal what he described as the \"little animals\" of the microbial world, and explores the widely celebrated and satirised 17th century Dutch obsession with cleanliness. Picking a path through the crowded Victorian slums and pest houses of Soho, the show takes in John Snow's work on cholera and the development of public sanitation in London, and the voices of the mudlarks, ragpickers and dustmen and women whose meagre living depended on the dirt and detritus of the city. The exhibition traces the complicated network of cultural meanings that attached to new discoveries about dirt.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "When Joseph Lister arrived at Glasgow Royal Infirmary 1860, patients presenting broken limbs faced a 90% probability of amputation such were the levels of infection. His regime of cleanliness transformed the hospital and marked the birth of antiseptic surgery. But the widespread mantra of hygiene took a darker turn in Dresden, where the Deutsches Hygiene-Museum, founded after the International Hygiene Exhibition in 1911, was co-opted into the ideological horrors of racial purity and ethnic cleansing by the Nazis. From modernity's dogma to corrosive metaphor, the exhibition charts both scientific discoveries and tarnished discourses of cleanliness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Collisions of personal, ethical and environmental responsibility run throughout Dirt. The meeting of figurative and literal dirt finds a focus in present day New Dehli, where survival by manual scavenging, the clearing of human waste, persists and is most often associated with the Dalits, the people formerly known as 'untouchables'. Facing a social stigmatism perpetuated by the cultural projections of pollution, the plight of manual scavengers is explored through the work of charity Sulabh International and the extraordinary faecal sculptures of Santiago Sierra. The eternal issue of waste disposal is taken up again as Dirt looks to the future, with the 30 year project to transform New York's Fresh Kills, once the largest landfill in the world - a colossal beacon to our everyday waste visible from space - into a public park.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We live in unmistakeably filthy times. For the first time in human history over half the world's inhabitants live in urban environments and exposure to dirt is the corollary of overcrowding, inadequate sanitation and the industrial shaping of metropolitan life. Meanwhile scientists are debating whether our increasing obsession with cleanliness is stripping away our ability to combat infection. However we may wish to sweep it under the carpet or wash our hands of it, this is a subject that continues to make its mark. Dirt will reveal the fascinating world of filth that remains one of the very last taboos.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ken Arnold, Director of Public Programmes at Wellcome Collection, says: \"Dirt is everywhere and periodically we get very worried about it. But we have also discovered that we need bits of it and, guiltily, secretly, we are sometimes drawn to it. Dirt is a perfect subject for Wellcome Collection to explore in our eclectic fashion - the good and bad, the art and science, yesterday and today, in London, Glasgow, New York, Dresden, Delft and New Delhi.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dirt: the Filthy Reality of Everyday Life is part of the DIRT Season from Wellcome Trust. Look out for online games and events at special dirty locations, including Eden Project, Glastonbury and other Summer festivals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A publication, also entitled Dirt: the Filthy Reality of Everyday Life, featuring essays by Rosie Cox, Virginia Smith, Elizabeth Pisani, Rose George, Robin Nagle, R. H. Horne and Brian Ralph will accompany the exhibition, published by Profile Books, £ 20, 256pp.",
+                "spans": [
+                  {
+                    "start": 92,
+                    "end": 101,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=453"
+                    }
+                  },
+                  {
+                    "start": 103,
+                    "end": 117,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=455"
+                    }
+                  },
+                  {
+                    "start": 119,
+                    "end": 135,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=456"
+                    }
+                  },
+                  {
+                    "start": 137,
+                    "end": 148,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=454"
+                    }
+                  },
+                  {
+                    "start": 150,
+                    "end": 155,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=457"
+                    }
+                  },
+                  {
+                    "start": 179,
+                    "end": 190,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.profilebooks.com/author.php?author_id=458"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "------------------------------------------------------------------------------",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "NOTES TO EDITORS",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contact",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tim Morley Senior Media Officer T 020 7611 8612 E t.morley@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 73,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free visitor destination for the incurably curious. Located at 183 Euston Road, London, Wellcome Collection explores the connections between medicine, life and art in the past, present and future. The building comprises three gallery spaces, a public events programme, the Wellcome Library, a café , a bookshop, conference facilities and a members' club.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charity dedicated to achieving extraordinary improvements in human and animal health. It supports the brightest minds in biomedical research and the medical humanities its breadth of support including public engagement, education and the application of research to improve health. The Trust is independent of both political and commercial interests.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "825",
+  "drupalPath": "/press/dirt-filthy-reality-everyday-life",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection's major new exhibition takes a closer look at something which surrounds us, but we are often reluctant to confront.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2010-12-17"
+}
