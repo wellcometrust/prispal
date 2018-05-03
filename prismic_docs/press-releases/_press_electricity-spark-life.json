@@ -1,0 +1,219 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "'Electricity: The spark of life' comes to Wellcome Collection in 2017",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "23 February – 25 June 2017 (Press view: 22 February 2017)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the structure of the atom to the function of our brains, an electric charge is hidden within every object on earth. Electricity: The spark of life will trace the story of mankind’s quest to understand, unlock and master the power of electricity.",
+                "spans": [
+                  {
+                    "start": 121,
+                    "end": 151,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/electricity"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Opening at Wellcome Collection in February 2017, this major exhibition will show how this invisible yet vital force is fundamental to human life and has captivated inventors, scientists and artists alike for centuries. It will feature three new commissions by international artists John Gerrard, Camille Henrot and Bill Morrison, and bring together over 100 objects from ancient spark-inducing amber and early electro-static generators to radiographs, photographs, paintings, models and films.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Electricity: The spark of life will cover three core themes – generation, supply and consumption. ‘Generation: The Great Invisible’ will show how the history of our enduring fascination with electricity can be traced back to the ancient Greeks and our early encounters with natural wonders, such as a burst of lightning or the mesmerising sight of the Aurora Borealis. It will consider how the late 18th century pioneers and philosophers looked to nature to reveal the physical presence of static electricity, and began to unravel its secrets. This included the study of electric fish, the complex bioelectrical experiments undertaken by Galvani (1737 – 1798), and the development of some of the very first devices designed to generate an electric charge.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Mary Shelley was directly inspired by Galvani’s reanimation experiments and was fascinated by the life-giving and death-dealing potential of electricity. In her renowned gothic novel Frankenstein, of which an early edition will be shown, she describes the awakening of the monster as infused with ‘a spark of being.’ Contemporary artist John Gerrard (b. 1974, Ireland), known for his innovative works in digital media, has also taken inspiration from Galvani in a new commission developed specially for this exhibition.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Supply: Wiring the World’ will consider how scientists, inventors and innovators of the 19th century were responsible for harnessing, converting and storing electricity, resulting in a power source that would transform the way we live. Objects will include a voltaic pile (1800-1824) – one of the first batteries – made possible by Allessandro Volta, and ‘Barlow’s wheel,’ an instrument made in 1822 in order to demonstrate how electricity could be converted into movement.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In the late 1880s, the challenge of creating an electrical network resulted in the infamous ‘war of the currents’ involving Nikola Tesla and Thomas Edison in the USA. This fierce battle between competing energy companies over the use of direct current (DC) or alternating current (AC) raised questions about safety and the transportation of power over large distances. In 1889 London’s first electricity network was established by Sebastian Ziani de Ferranti (1864-1930) who conducted a daring safety test by hammering into a live 10,000 volt cable at the world’s first high-voltage power station in Deptford. The original chisel and section of cable will be displayed alongside maps, satirical cartoons and London Underground posters.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Original photographs from the 1920s will show numerous variations in the design of pylons as they became a feature of landscapes carrying electricity around the world and have subsequently developed an aesthetic appeal. Man Ray’s surrealist Electricité photographs commissioned by the electrical board in Paris in 1931 demonstrate how companies have sought to popularise its use. Contemporary filmmaker Bill Morrison’s new work explores historical footage from the Electricity Council to consider the movement and networks of electricity and its profound interconnectedness with our daily lives.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Consumption: the silent servant’ will consider how electricity has come to define the modern world. It will feature a new work by the celebrated artist Camille Henrot, which will consider our energy-dependent lifestyles, as well as the relationship between humans, technology and the environment. This work will be shown alongside early examples of neon lighting and lightbulbs, photographs showing the ‘all-electric house,’ as well as tea towels produced by the Electrical Association of Women in the 1930s offering practical safety advice for the use of electricity in a domestic setting.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Developments in the application of electricity in healthcare will also be explored. This will include early advancements in electrotherapy, one of the first radiographs by Wilhelm Conrad Roentgen and advertisements promoting the supposed health-giving effects of electricity through new devices such as ‘electro-belts.’",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "At a time when we are more reliant on electricity than ever before, the exhibition will ask us to contemplate our ongoing relationship with electricity, the environmental impact of our choices and imagine what the future might look like.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Electricity: The spark of life will run from 23 February – 25 June 2017. It is curated by Lucy Shanahan and Ruth Garde, Wellcome Collection, with guest curator Paul Bonaventura. The exhibition has been produced in collaboration with Teylers Museum, Haarlem, Netherlands and the Museum of Science and Industry, Manchester, UK. Following its presentation at Wellcome Collection it will tour to both venues in summer 2017 and 2018 respectively.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media Contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kate Moores Lead Media Manager, Wellcome CollectionT +44 (0)20 7611 5713E k.moores@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 11,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 51,
+                    "end": 52,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 72,
+                    "end": 73,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 74,
+                    "end": 97,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects. Wellcome Collection celebrates its 10th anniversary in 2017.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3583",
+  "drupalPath": "/press/electricity-spark-life",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tracing the story of mankind’s quest to understand, unlock and master the power of electricity.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-11-02"
+}

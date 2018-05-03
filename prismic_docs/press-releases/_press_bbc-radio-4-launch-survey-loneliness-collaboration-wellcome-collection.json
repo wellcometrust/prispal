@@ -1,0 +1,281 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "BBC Radio 4 launch survey into loneliness in collaboration with Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " The Loneliness Experiment is an online survey which will explore the nation’s attitudes and personal experiences. It aims to find out the factors that contribute to loneliness, the role of relationships, connection and social media, and what has aided recovery or improvements to wellbeing.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The survey has been developed by academics at the University of Manchester, Brunel University London and the University of Exeter, with the aid of a grant from Wellcome, in the hope it will increase understanding of one of the major issues facing society today.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In 2015, 18,000 people took part in the Radio 4 and Wellcome Collection’s Rest Test which explored the nation’s resting habits. With thousands of people expected to complete the Loneliness Experiment, it is likely to be the largest survey of its kind, providing important insights into subjective experiences of loneliness across the UK and beyond.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The survey will explore areas such as:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "At which times of life are people most likely to feel lonely?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "What is the role of friendship?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Do an individual’s personality and life circumstances affect their experience of loneliness?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "How does new technology and social media affect loneliness?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "How do we view people who are lonely?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "What solutions have people found the most (and least) useful when it comes to tackling their own loneliness?",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "What is the opposite of loneliness?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "People are invited to take part, whether or not they have experienced loneliness. The aim of the project is to increase understanding around prevention, as well as examining the solutions people have found most useful.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The survey takes less than 40 minutes to complete, and those who participate will be able to see instant feedback online, tracking some of the results so far.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Claudia Hammond, presenter of Radio 4’s All in the Mind explains: “We’ve heard a lot about loneliness in the news recently with the Jo Cox Commission and the appointment of a Minister for Loneliness. It’s clear that loneliness has been brought into focus, but there’s a lot that is still unknown about it. We want as many people as possible to take part in the Loneliness Experiment to help discover not only who is likely to feel lonely, but what it is that can propel people out of it and help them feel more connected to others.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Pamela Qualter, Professor of Psychology at the University of Manchester who is leading the study, says: \"Loneliness is at the forefront of many people’s minds, and is being discussed in the media almost every day. We want to explore how it may be linked to mental health, and whether there is any relationship, for good or bad, between loneliness and internet use. We are also keen to know if there is still a stigma surrounding loneliness. We hope that the results will provide us with a clear picture of what life is like for lonely people at different ages in the UK and beyond\".",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The results will be analysed and announced in the autumn at an event in the Reading Room at Wellcome Collection and broadcast on All in the Mind on BBC Radio 4. There will also be a Radio 4 series Anatomy of Loneliness and a set of specially commissioned dramas.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Loneliness Experiment can be found via the BBC Radio 4 website or at thelonelinessexperiment.com",
+                "spans": [
+                  {
+                    "start": 47,
+                    "end": 67,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.bbc.co.uk/programmes/articles/3MQ6z2vJGGtPFL71Ns3XPNB/take-part-in-the-bbc-loneliness-experiment"
+                    }
+                  },
+                  {
+                    "start": 73,
+                    "end": 100,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://exetercles.eu.qualtrics.com/jfe/form/SV_0AG1JS6hcgsfDKt"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " For press information and interview requests please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 57,
+                    "end": 85,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcomecollection.org/press"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "BBC Radio 4’s All in the Mind explores the limits and potential of the human mind. The Loneliness Experiment is launched on the programme which broadcasts at 3.30pm on Wednesday 14th February.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library for the incurably curious. Inspired by the medical objects and curiosities collected by Henry Wellcome, it connects science, medicine, life and art. Through its exhibitions, live programming, and digital and publishing activity, it makes thought provoking content which aims to challenge how we think and feel about health.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4079",
+  "drupalPath": "/press/bbc-radio-4-launch-survey-loneliness-collaboration-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Loneliness Experiment will explore the nation’s attitudes and personal experiences of loneliness.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2018-02-14"
+}

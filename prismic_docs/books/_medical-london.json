@@ -1,0 +1,163 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Medical London",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "City of diseases, city of cures",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For 2000 years, health and sickness have danced across, above and below the city’s streets, defining London life in the process. 'Medical London' charts the many roles that diseases, treatments and cures have played in the city's sprawling story, and reveals how London, in turn, has shaped the professions and practices of modern medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "'Medical London' comprises three parts",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "A volume of essays exploring some of the threads that medicine has woven through London life, from its earliest beginnings to the multicultural metropolis of today: its roles in contagion and sanitation, in wealth and its consumption, in empire and immigration, in pleasure and in madness.",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "A definitive guide to London's medical landscape: its museums and hospitals, its grand monuments and secret corners, and the characters and events that lie behind them.",
+                "spans": []
+              }
+            },
+            {
+              "type": "o-list-item",
+              "content": {
+                "text": "Six elegantly designed maps for self-guided walks, from Daniel Defoe's Plague Year wanderings to the druggists of Soho's night haunts, the homeopaths of bohemian Chelsea to the naval surgeons of maritime Greenwich.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Videos of guided walks are freely available from the Medical London website.",
+                "spans": [
+                  {
+                    "start": 53,
+                    "end": 75,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.medicallondon.org/index.html"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Medical_London/9780955876103"
+  },
+  "price": "£16.00",
+  "format": "Hardback",
+  "extent": "500p",
+  "isbn": "9780955876103",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Observer, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Observer, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Peter Ackroyd, The Times",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Peter Ackroyd, The Times",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"
+  },
+  "drupalNid": "3165",
+  "drupalPath": "/medical-london",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " 'Medical London' charts the many roles that diseases, treatments and cures have played in the city's sprawling story.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2008-11-24",
+  "authorName": "By Richard Barnett and edited by Mike Jay",
+  "authorImage": "",
+  "authorAbout": ""
+}

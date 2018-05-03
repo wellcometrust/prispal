@@ -1,0 +1,151 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Book of Human Emotions",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "An Encyclopaedia of Feeling from Anger to Wanderlust",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "156 bite-size entries on emotions from the universal to the utterly specific. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 78,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "How do you feel? Is your heart fluttering in anticipation? Is your stomach tight with nerves? Are you falling in love? Feeling a bit miffed? Are you antsy with Iktsuarpok? Or giddy with dépaysement?",
+                "spans": [
+                  {
+                    "start": 113,
+                    "end": 117,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 129,
+                    "end": 139,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 160,
+                    "end": 170,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 186,
+                    "end": 197,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Book of Human Emotions is a gleeful, thoughtful collection of 156 feelings, both rare and familiar. Tiffany Watt Smith covers the globe and draws on history, anthropology, science, art, literature, music and popular culture to explore them. Each emotion has its own story, and reveals the strange forces which shape our rich and varied internal worlds. You’ll discover feelings you never knew you had (like basorexia, the sudden urge to kiss someone), uncover secret histories of boredom and confidence, and gain unexpected insights into why we feel the way we do.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 411,
+                    "end": 420,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Originally published in hardback (September 2015).",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/The_Book_of_Human_Emotions_by_Tiffany_Watt_Smith/9781781251300"
+  },
+  "price": "£8.99",
+  "format": "Paperback",
+  "extent": "320pp",
+  "isbn": "9781781251300",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Cover%20only.png"
+  },
+  "drupalNid": "3131",
+  "drupalPath": "/book-human-emotions-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A gleeful, thoughtful collection of 156 feelings, both rare and familiar, by Tiffany Watt Smith.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-09-01",
+  "authorName": "Tiffany Watt Smith",
+  "authorImage": "",
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Tiffany Watt Smith is a research fellow at the QMUL Centre for the History of the Emotions, and was also a 2014 BBC New Generation Thinker. Before beginning her academic career she worked as a theatre director, including as Associate Director at the Arcola Theatre and International Associate at the Royal Court. She lives in London.",
+        "spans": []
+      }
+    }
+  ]
+}

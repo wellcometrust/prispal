@@ -1,0 +1,171 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Notes on Blindness",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "A Journey Through the Dark",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Days before the birth of his first son, writer and academic John M. Hull started to go blind. He would lose his sight entirely, plunged into darkness, unable to distinguish any sense of light or shadow. Isolated and claustrophobic, he sank into a deep depression. Soon, he had forgotten what his wife and daughter looked like.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In Notes on Blindness, John reveals his profound sense of loss, his altered perceptions of time and space, of waking and sleeping, love and companionship. With astonishing lucidity of thought and no self-pity, he describes the horror of being faceless, and asks what it truly means to be a husband and father. And eventually, he finds a new way of experiencing the world, of seeing the light despite the darkness.",
+                "spans": [
+                  {
+                    "start": 3,
+                    "end": 21,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Based on John's diaries recorded on audio tape, this is a profoundly moving, wise and life-affirming account of one man's journey into blindness.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/Notes-on-Blindness-by-HULL-J/9781781258590"
+  },
+  "price": "£8.99",
+  "format": "Paperback",
+  "extent": "240pp",
+  "isbn": "9781781258590",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Oliver Sacks, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Oliver Sacks, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Cathy Rentzenbrink, author of 'The Last Act of Love', ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Cathy Rentzenbrink, author of 'The Last Act of Love', ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Andrew Solomon",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Andrew Solomon",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Notes_on_Blindness_final_front.png"
+  },
+  "drupalNid": "3723",
+  "drupalPath": "/notes-blindness",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A moving, wise and ultimately life-affirming account of one man's journey into blindness.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-02-09",
+  "authorName": "John M. Hull",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/John%20photo.png",
+    "width": "200",
+    "height": "323"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "John M. Hull was Professor of Religious Education at the University of Birmingham. He died in July 2015.",
+        "spans": []
+      }
+    }
+  ]
+}

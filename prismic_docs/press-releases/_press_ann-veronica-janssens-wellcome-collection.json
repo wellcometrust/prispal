@@ -1,0 +1,257 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ann Veronica Janssens at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "15 October 2015 – 3 January 2016",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection will launch a year-long exploration into the experience of human consciousness with a new installation by Ann Veronica Janssens. The artist will fill an entire gallery with an enveloping and brightly coloured mist in a work called yellowbluepink.",
+                "spans": [
+                  {
+                    "start": 104,
+                    "end": 147,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-ann-veronica-janssens"
+                    }
+                  },
+                  {
+                    "start": 251,
+                    "end": 265,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Janssens explores perception through the use of light and colour. In her mist installation at Wellcome Collection, colour is caught in a state of suspension, defying the apparent immateriality of the medium and veiling any detail of surface or depth within the space. As visitors walk through this thickly coloured world, attention is focussed on the process of perception itself - an experience both disorienting and uplifting, heightening the wonder of our own consciousness. Entering the gallery is to submit to colour as a physical entity and to be subsumed by the experience of seeing.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ann Veronica Janssens’ installation launches States of Mind, a year-long investigation into human consciousness; a topic defined as much by what is yet to be understood as what can be readily explained. At the heart of the subject lies the ‘hard question’ of why objective brains give rise to our subjective consciousness. Neuroscience can explain the relationship between brain activity and conscious functions such as memory retention or decision making. Yet it struggles to describe how the activity of neurons results in our individual experience of colour, as in Janssens' vibrant environment.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Sargent, curator, says “Without understanding exactly how it happens, we are all experts in our own experience. Ann Veronica Janssens’ sensory installation reminds us of the richness of our interaction with the world; a personal universe of experience constructed within the confines of our skulls. Janssens' work disorientates the viewer through the dissolution of normal perceptual boundaries. The mist appears to disintegrate the materiality of the space whilst at the same time imparting a materiality and tactility to light and colour. Visitors are participants in an experiment which challenges habitual practices of seeing and accords a fresh emphasis to the simple fact of experience.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A major new exhibition will follow Janssens' installation in February 2016, exploring the edges of human consciousness and phenomena such as synaesthesia, sleepwalking, memory loss and anaesthesia. Drawing on voices from art, psychology, philosophy and neuroscience the show will question the reliability of our inner world and examine the terrain between states of consciousness and unconsciousness, sleep and wakefulness, where expectations are confounded and perception skewed. The exhibition will include an evolving programme of artist’s installations with work by Imogen Stidworthy, Kerry Tribe and Shona Illingworth.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ann Veronica Janssens’ yellowbluepink runs from 15 October 2015 – 3 January 2016States of Mind: Tracing the edges of consciousness runs from 4 February to 16 October 2016.",
+                "spans": [
+                  {
+                    "start": 23,
+                    "end": 37,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 80,
+                    "end": 130,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "There will be a press view on 14 October between 8.30 and 10.30.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Twitter @explorewellcome Instagram wellcomecollection #StatesOfMind",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 24,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 25,
+                    "end": 34,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 35,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://instagram.com/wellcomecollection/"
+                    }
+                  },
+                  {
+                    "start": 54,
+                    "end": 67,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contacts",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou – Media Officer T +44 (0)20 7611 8726 E e.philippou@wellcome.ac.uk ",
+                "spans": [
+                  {
+                    "start": 56,
+                    "end": 83,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk "
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Tim Morley – Senior Media Officer T +44 (0)20 7611 8612 E t.morley@wellcome.ac.uk ",
+                "spans": [
+                  {
+                    "start": 58,
+                    "end": 82,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:t.morley@wellcome.ac.uk "
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ann Veronica Janssens was born in 1956 in Folkstone, England. She studied at L’École de la Cambre in Brussels. Her numerous solo exhibitions include Serendipity at WIELS, Brussels, Are you Experienced? at Espai d’art contemporani de Castelló and exhibitions at the Neue Nationalgalerie Berlin, the Musée d’Orsay, Paris, the CCA Wattis Institute, San Francisco, IKON, Birmingham, the Kunsthalle, Berne, MAC Marseille, Venice Biennale with Michel François and the Carriage Works, Sydney. She lives and works in Brussels.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. We provide more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "2919",
+  "drupalPath": "/press/ann-veronica-janssens-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection will launch a year-long exploration into human consciousness with a new installation by Ann Veronica Janssens.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2015-09-03"
+}

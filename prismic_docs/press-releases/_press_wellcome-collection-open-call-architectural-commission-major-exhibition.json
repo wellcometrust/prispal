@@ -1,0 +1,195 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Collection open call for architectural commission for major exhibition",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection invites proposals from architects, engineers, designers and artists for a full scale commission as part of a major exhibition exploring the pivotal role of architecture in human health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Opening in October 2018, Living with Buildings will chart how shifts in thinking and approaches to design have impacted on our health and wellbeing. From the bold experiments of urban post-war town planners to the considerately crafted healing spaces for cancer sufferers, the exhibition will look anew at the buildings that surround and shape us. The exhibition will take place in Wellcome Collection’s ground floor gallery.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Alongside the exhibition, Wellcome will commission a ‘live build’ 1:1 architectural project for its first floor gallery. The commission concept must explore a key issue or health concern and how it might be addressed with design. This could include, but is not limited to: climate change; pollution; dementia; infectious disease; obesity and shelter housing.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Submissions will be assessed by a panel comprising: Sadie Morgan, founding director of de Rijke Marsh Morgan Architects (dRMM); Jeremy Myerson holder of the Helen Hamlyn Chair of Design at the Royal College of Art; Vanessa Norwood, Head of Exhibitions at the Architectural Association; Emily Sargent, Senior Curator of temporary exhibitions at Wellcome Collection and Paul Wilkinson, clinical epidemiologist at the London School of Hygiene and Tropical Medicine.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The commission should form part of an already developed research project related to health, and there will be opportunities to display background research and concepts alongside the structure. It must be suitable for use within a museum environment, and speak to broad and diverse audiences not necessarily familiar with the field of contemporary architecture.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The competition deadline is 02 February 2018. Further information is available on Wellcome Collection’s website.",
+                "spans": [
+                  {
+                    "start": 82,
+                    "end": 111,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/architectural-commission-open-call"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Living with Buildings runs from 04 October 2018 until 03 March 2019 and is curated by Emily Sargent.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T+44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  },
+                  {
+                    "start": 56,
+                    "end": 85,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/press"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection is a free museum and library for the incurably curious. Inspired by the&nbsp;medical objects and curiosities&nbsp;collected&nbsp;by Henry Wellcome, it connects science, medicine, life and art. Through its exhibitions, live programming, and digital and publishing activity, it makes thought provoking content which aims to challenge how we think and feel about health. wellcomecollection.org ",
+                "spans": [
+                  {
+                    "start": 389,
+                    "end": 412,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate. wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 293,
+                    "end": 307,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4075",
+  "drupalPath": "/press/wellcome-collection-open-call-architectural-commission-major-exhibition",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection invites proposals from architects, engineers, designers and artists for a full scale commission.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2018-01-09"
+}

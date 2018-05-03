@@ -1,0 +1,91 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Cures and Curiosities",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Inside the Wellcome Library",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library is one of the most extraordinary libraries in the world. Devoted to the history and understanding of medicine, this massive and eclectic hoard was collected in the early 20th century by the eccentric and vastly wealthy businessman Henry S. Wellcome.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Since Wellcome's death in 1936, the Library has continued to grow. Open to the public, it is a rich and unparalleled resource of over a million items spanning 3000 years, in which rare and surprising objects from anthropology, folk art, alchemy and witchcraft jostle for space alongside more conventional medical records and archives. This book is a fascinating introduction to the Library's special collections.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Short, self-contained chapters offer lively snapshots of their quality and variety, guiding the reader through some of the Library's wonders, and giving brief glimpses of many more. Lavishly illustrated with more than 150 photographs, in full colour throughout, and punctuated by personal comments from authors who have used the Library (including Kathryn Hughes, Philip Hoare and Gillian Tindall), this is an invaluable record of the wonders of a memorable collection, and a testament to the rich complexity of medicine through the centuries.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Cures_and_Curiosities/9781846680335"
+  },
+  "price": "£15.00",
+  "format": "Paperback",
+  "extent": "226p",
+  "isbn": "9781846680335",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"
+  },
+  "drupalNid": "3175",
+  "drupalPath": "/cures-and-curiosities",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library is one of the most extraordinary libraries in the world.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2007-06-21",
+  "authorName": "Compiled and edited by Tony Gould",
+  "authorImage": "",
+  "authorAbout": ""
+}

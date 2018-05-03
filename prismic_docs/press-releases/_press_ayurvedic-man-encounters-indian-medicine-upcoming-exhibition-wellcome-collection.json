@@ -1,0 +1,244 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ayurvedic Man: encounters with Indian medicine upcoming exhibition at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome’s rich historic collection of South Asian objects takes centre stage in a new exhibition opening in November 2017. Ayurvedic Man: encounters with Indian medicine will feature Sanskrit, Persian and Tibetan manuscripts, vibrant gouache paintings, erotic manuals and animal-shaped surgical tools. These will be shown alongside never-seen-before letters from Wellcome’s archives, which trace the movement of medical knowledge and museum objects across continents and cultures.",
+                "spans": [
+                  {
+                    "start": 125,
+                    "end": 172,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition’s title piece is a unique 18th century Nepalese painting showing the organs and vessels of the male body according to Ayurveda, a centuries-old, but ever evolving, set of medical practices translating to ‘the knowledge of long life’. Further understandings of the human anatomy will be illustrated in a series of vivid diagrams and drawings, including a Persian watercolour linking body parts to zodiac symbols and a Tibetan body map depicting the chakras.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From the corporeal to the cosmological, Ayurvedic Man examines the continuities and ruptures between tradition and modernity. It will reveal newly unearthed correspondence to and from Dr Paira Mall, who was sent to India in 1911 to collect cultural and historical objects for Henry Wellcome’s museum, and local health and botanical knowledge for the potential development of pharmaceutical products. Framing the exhibition, these letters reflect on periods of exchange and collaboration, conflict and exploitation, as well as issues central to the ownership of heritage.",
+                "spans": [
+                  {
+                    "start": 40,
+                    "end": 53,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Public health policies of the British colonial administration had a major impact on the development of Indian medicine. Documents relating to the science of smallpox inoculation, engravings of colonial hospital buildings and photographs documenting plague prevention measures outline the tensions between authorities and local communities, empire and colony.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A new commission by artist Ranjit Kandalgaonkar (b.1976), currently in residence at Gasworks, London, will interrogate the responses to the outbreak of plague in Bombay in 1896. The work will comprise a detailed drawing that reimagines the events that took place, along with an interactive digital platform which will allow visitors to zoom into additional material from Wellcome Collection’s Library, London, and the Asiatic Library, Mumbai.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Encounters between colonial and indigenous botanical knowledge will be represented by an edition of the 12 volume Hortus Indicus Malabaricus. Compiled between 1678–1693 by a commander of the Dutch East India Company, this monumental work of taxonomy draws on knowledge from scholarly Brahmins and local physicians, and is still relevant to modern biodiversity. The exhibition will also show drawings of plants used in Ayurvedic healing, including those that led the spice trade explorations such as turmeric and pepper.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ayurvedic Man will include extracts from one of the foundational texts of Ayurveda, the Susruta Samhita, one of the earliest works of Indian medical literature. This compendium outlines medical procedures including bloodletting and rhinoplasty, or nasal reconstruction, that predate modern surgery, and will be displayed alongside surgical instruments. A range of other practices including enemas, vigorous massage, dietetics and intense yoga postures, will be depicted in a series of colourful Company School paintings. These will be shown with an intricately carved enema syringe from Sri Lanka, emphasising the intimate yet intrusive nature of some of these methods.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 14,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The role of gender in Indian medicine is explored through a collection of objects relating to childbirth and family planning, including an early erotic manuscript and a gouache painting depicting the mythological story of a bird recommending a caesarean section. The exhibition will also feature photographs of women doctors and midwives in the early twentieth century, and a letter from Mahatma Gandhi (1935) outlining his opinion on birth control.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "At a time of growing popularity of pluralistic approaches to health, societies around the world are at increasing risk of losing natural resources, medicinal plants and traditional knowledge. Ayurvedic Man highlights the delicate balance between sharing and protecting heritage, cultural resources and environmental biodiversity.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Ayurvedic Man: encounters with Indian medicine runs at Wellcome Collection from 16 November 2017 until 8 April 2018. It is curated by Bárbara Rodríguez Muñoz, with advice from Sita Reddy. Ranjit Kandalgaonkar’s commission follows his residency at Gasworks, London, supported by Charles Wallace India Trust and Inlaks Shivdasani Foundation. The exhibition is inspired by Wellcome Collection’s Medicine Corner initiative, a series of activities which took place in India in 2016.",
+                "spans": [
+                  {
+                    "start": 247,
+                    "end": 255,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.gasworks.org.uk/residencies/ranjit-kandalgaonkar-2017-07-03/"
+                    }
+                  },
+                  {
+                    "start": 392,
+                    "end": 407,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/medicinecorner"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk ",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library exploring health, life and our place in the world. Through exhibitions, collections, live programming, digital, broadcast and publishing, Wellcome Collection creates opportunities for people to think deeply about the connections between science, medicine, life and art. Wellcome Collection makes thought provoking content that encourages everyone to reflect on what it means to be human.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3956",
+  "drupalPath": "/press/ayurvedic-man-encounters-indian-medicine-upcoming-exhibition-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome’s rich historic collection of South Asian objects takes centre stage in Ayurvedic Man: encounters with Indian Medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-08-02"
+}

@@ -1,0 +1,402 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Skeletons: Our Buried Bones tours the UK",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Monday 15 August 2016",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This summer, Wellcome Collection and the Museum of London are collaborating to unearth the stories behind bones from burial grounds across the UK. ‘Skeletons: Our Buried Bones’ will see skeletons from the Museum of London’s 20,000-strong collection go on a UK-wide tour for the first time, starting at The Hunterian, University of Glasgow, where they will be displayed from 19 August, alongside skeletons from burial grounds in Scotland.",
+                "spans": [
+                  {
+                    "start": 148,
+                    "end": 175,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/visit-us/skeletons-our-buried-bones"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a touring exhibition that, after Glasgow, will travel to Bristol and Leeds in 2017, displaying the Museum of London’s skeletons alongside bones discovered locally.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In-depth analysis by experts at the Museum of London has provided insights into the health and history of each individual, helping to bring to life the stories that have long been hidden beneath the ground.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The skeletons on display in Glasgow reflect a rich and varied past, with individuals coming from diverse locations, both geographically and socially, and periods of time. Excavations have uncovered burial grounds across the UK, ranging from the Neolithic period through the Iron Age to Roman London and up to the 19th century. Each individual skeleton reveals aspects of their life and times, including fractures and trauma, multiple myeloma – cancer, the effects of syphilis, rickets or arthritis, and tooth decay.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Sargent, curator at Wellcome Collection, said: \"Spanning thousands of years and from opposite ends of the country and social scales, the bones of these individuals offer us a rare and special glimpse into history. Yet we identify with their rotten teeth or broken bones, and are reminded that skeletons can tell us more about what people lived with, rather than what they died from.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Sharon Ament, Director of the Museum of London, said: \"This is the first time our skeletons have gone on tour and really shows how museums at opposite ends of the UK can work together to show their joint collections. We can learn a lot from the bones of our ancestors, who all lived through very different versions of the London we know today, and this is a wonderful opportunity to share their stories alongside those of their local Scottish counterparts for the first time.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Research carried out on the skeletons has helped shed new light on the grounds they were discovered in and the circumstances in which they were buried, from plague pits in urban London to the beaches of South Uist. Specially commissioned photographs by photographer Thomas Adank capture the sites as they are now, and will be displayed in the exhibition next to each skeleton, contextualising them as a reminder of the layers of human history all around us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Jelena Bekvalac, Curator of Human Osteology at the Museum of London, said: \"Research carried out on these skeletons has given us vital clues into the lives of these individuals, some of whom lived thousands of years ago. Putting them in context with where they were buried and what those sites look like now will mean visitors will have a real, tangible connection to these people. It is a unique opportunity for the skeletons from London to be displayed in Glasgow alongside their Scottish counterparts, and truly demonstrates the rich diversity of burial in the British Isles.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Museum of London skeletons",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "An adult Roman male who was discovered to have multiple myeloma, a type of blood cancer;",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A Medieval male aged between 36-45 years old, from the Black Death catastrophe cemetery, East Smithfield who, although likely to have died from plague, had an arrowhead lodged in his spine",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": ";A Medieval male aged around 46 years old from Bermondsey Abbey who sustained multiple injuries and fractures throughout his life",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A Post-medieval female aged between 17-25 years old from Crossbones – a burial ground in Southwark for paupers and ‘single women’ (prostitutes) – who sadly suffered the ravages of syphilis seen in the skull bones.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Skeletons from Scottish collections",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 35,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A Neolithic individual from Tiree, Inner Hebrides, from The Hunterian collections, whose distinctive sternum suggests a childhood vitamin D deficiency",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A Pictish female from South Uist, Outer Hebrides, on loan from the Museum of the Isles. Aged between 36 and 45, her teeth show signs of severe decay and heavy wear",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A late Medieval possible murder victim from Perth’s Horse Cross cemetery on loan from Perth Museum and Art Gallery",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A late Iron Age male from Blair Atholl, Perthshire, also on loan from Perth Museum and Art Gallery with lesions in the ribs indicating a chest infection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Professor David Gaimster, Director of The Hunterian, added: \"We are delighted to be working in partnership with Wellcome Collection and the Museum of London on this fascinating exhibition. ‘Skeletons: Our Buried Bones’ offers a unique insight into the way people lived, worked and died.\"",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘Skeletons: Our Buried Bones’ is a collaboration between Wellcome Collection and Museum of London, touring to Glasgow, Bristol and Leeds over 2016-2018. It is based on ‘Skeletons: London’s Buried Bones’, originally shown at Wellcome Collection in 2008 and is curated by Emily Sargent and Jelena Bekvalac.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Full dates and venues",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 21,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Hunterian Art Gallery, Glasgow - 19th August 2016 – 8th January 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "M Shed, Bristol - April 2017 – August 2017",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Leeds City Museum, Leeds - September 2017 – January 2018",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Admission free – no booking required. For further information please visit our website www.glasgow.ac.uk/hunterian or call 0141 330 4221",
+                "spans": [
+                  {
+                    "start": 87,
+                    "end": 114,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.glasgow.ac.uk/hunterian"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "About the Museum of London The Museum of London tells the ever-changing story of this great world city and its people, from 450,000 BC to the present day. Our galleries, exhibitions, displays and activities seek to inspire a passion for London and provide a sense of the vibrancy that makes the city such a unique place.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our museums are open daily 10am – 6pm and are FREE to all, and you can explore the Museum of London with collections online – home to 90,000 objects with more being added. www.museumoflondon.org.uk",
+                "spans": [
+                  {
+                    "start": 172,
+                    "end": 197,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.museumoflondon.org.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "About Wellcome Collection Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "About The Hunterian The Hunterian is one of the world's leading university museums and one of Scotland’s greatest cultural assets. Built on Dr William Hunter’s founding bequest, The Hunterian collections include scientific instruments used by James Watt, Joseph Lister and Lord Kelvin; outstanding Roman artefacts from the Antonine Wall; major natural and life sciences holdings; Hunter’s own extensive anatomical teaching collection; one of the world’s greatest numismatic collections and impressive ethnographic objects from Captain Cook’s Pacific voyages.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Hunterian is also home to one of the most distinguished public art collections in Scotland and features the world’s largest permanent display of the work of James McNeill Whistler, the largest single holding of the work of Scottish artist, architect and designer Charles Rennie Mackintosh (1868–1928) and The Mackintosh House, the reassembled interiors from his Glasgow home.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Further information",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Laura Bates, PR Manager at the Museum of London, 020 7814 5511/ lbates@museumoflondon.org.uk",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 92,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:lbates@museumoflondon.org.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager at Wellcome Collection, 020 7611 8726 / e.philippou@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 71,
+                    "end": 97,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Harriet Gaston, Communications Manager at The Hunterian, 0141 330 3310/ Harriet.Gaston@glasgow.ac.uk",
+                "spans": [
+                  {
+                    "start": 72,
+                    "end": 100,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:Harriet.Gaston@glasgow.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3479",
+  "drupalPath": "/press/skeletons-our-buried-bones-tours-uk",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection and the Museum of London are collaborating to unearth the stories behind bones from burial grounds across the UK.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-08-15"
+}

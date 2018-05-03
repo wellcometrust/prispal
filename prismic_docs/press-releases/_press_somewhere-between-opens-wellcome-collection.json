@@ -1,0 +1,323 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Somewhere in Between opens at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Art, science and somewhere in between. Wellcome Collection presents four collaborations by contemporary artists and the scientists they worked with.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bringing together installations by Martina Amati, Daria Martin, Maria McKinney and John Walter, the exhibition considers how artists can give shape to the human experience, provoking ideas about our senses, our sexual health, our bodies’ limitations and reflections on our food chain.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In today’s often fragmented society, Somewhere in Between shows how working together makes it possible to find solutions, challenge individual perspectives and find new ways of thinking. The artists featured in the exhibition integrate current research from the fields of physiology, neuroscience, immunology and genetics in their work.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The featured works are recent projects selected from the rich range of arts projects funded by Wellcome, which has supported the arts for two decades as part of its work to encourage conversations about science and health. They are being presented at Wellcome Collection for the first time.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The artists and works featured are:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Martina Amati, Under, 2015 – This multiscreen installation explores freediving: the act of going underwater with no breathing apparatus – which defies the rational and challenges scientific explanation. Inspired by Amati’s childhood experiences of growing up by the sea, Under takes the visitor on a journey through the immensity of the ocean and into this meditative and mysterious landscape to explore the outer limits of what a human body can achieve. Amati developed the research for the films in partnership with anaesthetist Professor Kevin Fong.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 14,
+                    "end": 20,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Daria Martin, Sensorium Tests and At the Threshold, 2012 – Daria Martin’s films delve into the experience of mirror-touch synaesthesia, a newly discovered neurological condition that causes people feel the sensation of what another person is touching. To create these films, Martin worked with cognitive neuroscientist Michael Banissy and people with lived experience of mirror-touch. These poetic 16 mm films open up ideas about the extended possibilities of human connection and empathy, questioning how sensations might be created and shared between people and objects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 56,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 14,
+                    "end": 29,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 34,
+                    "end": 50,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Maria McKinney, Sire, 2016 – Sire looks at genetics in cattle breeding and presents ideas about the past and the future of humanity’s efforts to shape nature. McKinney researched the project with geneticist David MacHugh and veterinary scientist Michael Doherty alongside Irish farming communities. Comprising a series of large photographic portraits of bulls wearing intricately woven sculptures inspired by genomics, and corn dollies as symbols of good luck and fertility, Sire contemplates the hidden systems beneath beef and milk production.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 16,
+                    "end": 20,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "John Walter, Alien Sex Club, 2015 – Designed to explore the relationship between visual culture and HIV today, this large-scale installation draws visitors in using colour, humour and hospitality. Comprising sculpture, painting, video and performance, Alien Sex Club is laid out in the style of a ‘cruise maze’ found in sex clubs and gay saunas. Walter developed the project with infectious diseases consultant Alison Rodger and sexual health service providers, and it is intended to provide people with a new and different vocabulary for thinking and talking about the transmission of HIV.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 33,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 13,
+                    "end": 27,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Somewhere in Between runs at Wellcome Collection from 8 March 2018 until 27 August 2018. It is curated by Laurie Britton Newell.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information and images please contact: Emily Pritchard, Media Officer, Wellcome Collection",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 49,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T+44 (0)20 7611 8248 | E e.pritchard@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.pritchard@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Martina Amati (b.1969, Italy) is an Italian BAFTA-winning filmmaker and artist who lives in London. She studied in Milan at the Accademia di Belle Arti di Brera. Her work has premiered at Sundance, and the London and Berlin Film Festivals. She has worked for MTV Europe and exhibited at Traslochi, Palazzo dell'Arengario, Milan and Ambika P3, London.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Daria Martin (b.1973, USA) is a contemporary American artist and filmmaker based in London. She studied at Yale University and the University of California, Los Angeles. Her work, primarily in 16 mm film, has been exhibited at the Hammer Museum, the New Museum, the Museum of Contemporary Art, Chicago, and the Australian Centre for Contemporary Art.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 13,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Maria McKinney (b.1982, Ireland) is a visual artist based in Dublin, working in sculpture and installation. She studied at the University of Ulster, Belfast. Her work has been exhibited at both a national and international level, including the National Gallery of Ireland and the 411 Gallery in Shanghai.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "John Walter is an artist, curator, director and academic writer based in London. He undertook doctoral studies at the University of Westminster. Recently, Walter curated Shonky: The Aesthetics of Awkwardness, a group show of international artists that incorporated painting, sculpture and video, performance and installation for the Hayward Touring programme at the MAC in Belfast.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 12,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library for the incurably curious. Inspired by the medical objects and curiosities collected by Henry Wellcome, it connects science, medicine, life and art. Through its exhibitions, live programming, and digital and publishing activity, it makes thought-provoking content that aims to challenge how we think and feel about health.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4082",
+  "drupalPath": "/press/somewhere-between-opens-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2018-03-08"
+}

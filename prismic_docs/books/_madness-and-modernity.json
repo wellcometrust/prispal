@@ -1,0 +1,108 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Madness and Modernity",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Mental illness and the visual arts in Vienna 1900",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Madness and Modernity' sets out to chart the theme of madness across a variety of territories in Vienna in 1900, including art and design, society and architecture, and literature and psychiatry. This journey into what madness meant in the Austro-Hungarian capital at the turn of the 20th century covers new ground and is essential reading for anyone interested in the history of modern European culture.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book plots the nexus between the study of mental illness and the modernist ideals of groups such as the Secessionists (including Gustav Klimt, Koloman Moser, Josef Hoffmann and Otto Wagner). Designs by Wagner for the Steinhof mental hospital are juxtaposed with portraits by Oskar Kokoschka of patients interned there; self-portraits by Egon Schiele are shown alongside photographs of neurological disorder; and art works by patients are explored in the context of the spaces they inhabited and the treatments they received. Over 100 arresting images give voice to the dialogues that existed between psychiatrists, writers, visual art practitioners and patients.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Taken in parts or as a whole, it is essential reading for anyone wanting to understand how psychiatry influenced early modernism in the visual arts and how modernism has since influenced our attitudes to the mentally ill.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Produced to accompany the ‘Madness and Modernity’ exhibition.",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/madness-modernity"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Madness_and_Modernity/9781848220201"
+  },
+  "price": "£35.00",
+  "format": "Hardback",
+  "extent": "166p",
+  "isbn": "9781848220201",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"
+  },
+  "drupalNid": "3163",
+  "drupalPath": "/madness-and-modernity",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Madness and Modernity' sets out to chart the theme of madness across a variety of territories in Vienna in 1900.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2009-03-28",
+  "authorName": "Edited by Gemma Blackshaw and Leslie Topp",
+  "authorImage": "",
+  "authorAbout": ""
+}

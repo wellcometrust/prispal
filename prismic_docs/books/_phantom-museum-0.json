@@ -1,0 +1,84 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Phantom Museum",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An anthology of stories, true and imagined, inspired by objects from Henry Wellcome's collection. Beautiful, mysterious, and often disturbing, the objects Wellcome collected range from the ancient to the magical, the religious to the scientific. The Phantom Museum offers some personal responses to this vast but little-known collection. Playful and thought-provoking contributions combine text and images, fact and fiction, to consider how objects can be read depending on who views them and when.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Within this unusual and arresting book is a powerhouse of imagination created by a dazzling array of the finest writers. Each piece, be it history of ideas or historical fiction, responds to objects in the 'Medicine Man' exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/The_Phantom_Museum/9781861976185"
+  },
+  "price": "£12.99",
+  "format": "",
+  "extent": "224p",
+  "isbn": "9781861976185",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"
+  },
+  "drupalNid": "3179",
+  "drupalPath": "/phantom-museum-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An anthology of stories, true and imagined, inspired by objects from Henry Wellcome's collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2003-06-19",
+  "authorName": "Edited by Hildi Hawkins and Danielle Olsen",
+  "authorImage": "",
+  "authorAbout": ""
+}

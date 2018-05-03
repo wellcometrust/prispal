@@ -1,0 +1,197 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Animal Vegetable Mineral",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Organising Nature: A Picture Album",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A curious miscellany revealing the dazzling ways early naturalists classified, ordered, controlled – and invented – nature as we know it. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 138,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Animal Vegetable Mineral celebrates the beauty and strangeness of the very early ‘infographics’, charts, and ordering systems devised in an age that transformed how we see and understand nature.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 25,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These are the tools created by pioneering European naturalists, artists, scientists, housewives and explorers in the 18th and 19th centuries, in an attempt to better understand (and control) a teeming and shifting natural world: the original big data challenge.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In a collision of science, art and imagination, these images and objects range from intricate specimen illustrations, taxonomy charts, and animal distribution maps, to lavish colour dictionaries, and more. Together, they attest to the deeply human desire to order and identify the world around us – and a restless quest to find our own place in it.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "With an introduction by Tim Dee.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Making Nature: How we see animals",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 41,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/MakingNature"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "https://bookshop.blackwell.co.uk/bookshop/product/Animal-Vegetable-Mineral-Organising-Nature-A-Picture-Album-by/9780957028593"
+  },
+  "price": "£12.99",
+  "format": "Hardback",
+  "extent": "112pp",
+  "isbn": "9780957028593",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Caught by the River, Book of the Month, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Caught by the River, Book of the Month, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "It’s Nice That, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "It’s Nice That, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Chris Packham",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Chris Packham",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Animal-Vegetable-Mineral-book-cover.png"
+  },
+  "drupalNid": "3565",
+  "drupalPath": "/animal-vegetable-mineral",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Animal Vegetable Mineral celebrates the beauty and strangeness of ordering systems used to classify nature in the 18th and 19th centuries.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-12-01",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

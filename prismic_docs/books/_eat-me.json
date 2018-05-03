@@ -1,0 +1,131 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Eat Me",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "A Natural and Unnatural History of Cannibalism",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "At last, something to really get your teeth into: an entertaining, informative and gruesome look at the world’s greatest taboo. ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 128,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Cannibalism. It’s the last, greatest taboo: the stuff of urban legends and ancient myths, airline crashes and Captain Cook. But while we might get a thrill at the thought of the black widow spider’s gruesome mating habits or the tragic fate of the nineteenth-century Donner Party pioneers, today cannibalism belongs to history – or, at the very least, the realm of the weird, the rare and the very far away. Doesn’t it?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Here, zoologist Bill Schutt digs his teeth into the subject to find an answer that is as surprising as it is unsettling. From the plot of ‘Psycho’ to the ritual of the Eucharist, cannibalism is woven into our history, our culture – even our medicine. And in the natural world, eating your own kind is everything from a survival strategy – practiced by polar bears and hamsters alike – to an evolutionary adaption like that found in sand tiger sharks, who, by the time they are born, will have eaten all but one of their siblings in the womb.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dark, fascinating and endlessly curious, Eat Me delves into human and animal cannibalism to find a story of colonialism, religion, anthropology, dinosaurs, ancient humans and modern consequences, from the terrible ‘laughing death’ disease kuru to the BSE crisis. And – of course – our intrepid author tries it out for himself.",
+                "spans": [
+                  {
+                    "start": 41,
+                    "end": 47,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/Eat-Me-by-Bill-Schutt/9781781253977"
+  },
+  "price": "£14.99",
+  "format": "Hardback",
+  "extent": "256pp",
+  "isbn": "9781781253977",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
+  },
+  "drupalNid": "3557",
+  "drupalPath": "/eat-me",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A dark, fascinating and endlessly curious exploration of human and animal cannibalism.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-02-02",
+  "authorName": "Bill Schutt",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Schutt_author%20photo%20credit%20Jerry%20Ruotolo.jpg",
+    "width": "640",
+    "height": "967"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Bill Schutt is a zoologist at the American Museum of Natural History in New York (where he “studies weird animals for a living -- vampire bats, leeches, ticks and their ilk”), and a Professor of Biology at Long Island University. His previous book, Dark Banquet: Blood and the Curious Lives of Blood-Feeding Creatures was named “Best Book of 2008” by the Library Journal and Amazon.",
+        "spans": [
+          {
+            "start": 249,
+            "end": 317,
+            "type": "em",
+            "data": {}
+          }
+        ]
+      }
+    }
+  ]
+}

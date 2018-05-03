@@ -1,0 +1,115 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Ayurvedic Man",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Encounters with Indian medicine",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "“The heart is similar to a lotus, facing downwards. On waking up, it blooms; on sleeping, it closes up. That is the resting place of the soul. It is the supreme location of the consciousness.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An exquisite treasury of illustrations and objects, Ayurvedic Man presents a visual history of some of the earliest medical systems and healing practices in the world – tracing Ayurveda and Indian medicine as they travelled from East to West, gaining, losing and regaining popularity over the centuries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The book features detailed anatomical drawings overlain with signs of the zodiac, beautiful illustrations of healing herbs, and manuscripts that describe the stages of reincarnation, all drawn from Wellcome’s historical collection. It showcases some of the earliest attempts to understand our bodies, the natural world and the cosmos.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "These lavish illustrations also give an insight into the historical origins of contemporary ‘wellness’ trends, from turmeric to yoga, and how they emerged out of cultural encounters with traditional medicinal knowledge.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Ayurvedic Man",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 21,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/WduTricAAN7Mt8yY"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/Ayurvedic-Man-by-Wellcome-Collection/9781999809010"
+  },
+  "price": "£14.99",
+  "format": "Hardback",
+  "extent": "80pp",
+  "isbn": "9781999809010",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
+  },
+  "drupalNid": "4027",
+  "drupalPath": "/ayurvedic-man",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A treasury of illustrations and objects from Wellcome’s historical collection that trace encounters with Ayurveda and Indian medicine.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-11-16",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

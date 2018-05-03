@@ -1,0 +1,108 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Identity and Identification",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Identity and Identification' is a challenging exploration of the philosophical, biological, historical and sociopolitical issues underlying our conception of self and identity.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A unique feature of the book is its 16 in-depth interviews exploring the immediate social, cultural and political themes that shape contemporary identity issues. The interviewees include singer, songwriter and political campaigner Billy Bragg, scholar and writer Ziauddin Sardar, political exile Yasmin Alibhai-Brown, neuroscientist Paul Broks, geneticist Sir Alec Jeffreys, philosophers John Searle and A C Grayling, and transgender critic and writer Roz Kaveney. Each interviewee approaches the subject from a very personal and original perspective, shining light onto themes such as gender, minority politics, science, ideology, race and class, and these themes’ relationship to who we are and how others define us.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Featuring an impressive collection of writing sand stunning visual material, from diary extracts, newspaper cuttings, 19-century wood engravings and photographs to eccentric, fascinating artefacts and other paraphernalia, 'Identity and Identification' is an invaluable, timely contribution to the hotly debated issues of how we know who we are, how we are identified and how the two are related.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Published to coincide with the exhibition ‘Identity: Eight rooms, nine lives’.",
+                "spans": [
+                  {
+                    "start": 43,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/identity"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Identity_and_Identification/9781906155865"
+  },
+  "price": "£24.95",
+  "format": "Paperback",
+  "extent": "256p",
+  "isbn": "9781906155865",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"
+  },
+  "drupalNid": "3161",
+  "drupalPath": "/identity-and-identification-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This book explores the philosophical, biological, historical and sociopolitical issues underlying our conception of self.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2009-12-01",
+  "authorName": "Edited by Ken Arnold, Mick Gordon, Chris Wilkinson",
+  "authorImage": "",
+  "authorAbout": ""
+}

@@ -1,0 +1,168 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "In Therapy",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "How conversations with psychotherapists really work",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As heard on BBC Radio 4, this is a candid exploration of therapy from bestselling author and psychotherapist, Susie Orbach.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 123,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In the UK alone, 1.5 million people are in therapy. They go to address past traumas, to break patterns of behaviour, to confront eating disorders or addiction, to talk about relationships, or simply because they need to find out more about what makes them tick.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Susie Orbach, the bestselling author of Fat is a Feminist Issue and Bodies, has been a psychotherapist for over forty years. Here, she explores what goes on in the process of therapy—what she thinks, feels and believes about the people who seek her help—through five dramatised case studies. Replicating the improvised dialogue of the radio series as a playscript, Orbach offers us the experience of reading along with a session, while revealing what is going on behind each exchange between analyst and client.",
+                "spans": [
+                  {
+                    "start": 40,
+                    "end": 63,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 68,
+                    "end": 74,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Insightful and honest about a process often necessarily shrouded in secrecy, In Therapy is an essential read for those curious about, or considering entering, therapy.",
+                "spans": [
+                  {
+                    "start": 77,
+                    "end": 87,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/In_Therapy_by_Susie_Orbach/9781781257531"
+  },
+  "price": "£8.99",
+  "format": "Paperback",
+  "extent": "128pp",
+  "isbn": "9781781257531",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/In_Therapy_COVER.png"
+  },
+  "drupalNid": "3481",
+  "drupalPath": "/therapy",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An insightful, honest account of the process of therapy from bestselling author and psychotherapist Susie Orbach. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-11-03",
+  "authorName": "Susie Orbach",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Susie_Orbach_146%20%28from%20Profile%20site%29.jpg",
+    "width": "363",
+    "height": "508"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Susie Orbach is a British psychotherapist, psychoanalyst, writer and social critic. Her numerous publications include the classic Fat is a Feminist Issue, along with other such influential texts as Hunger Strike, What Do Women Want (with Luise Eichenbaum), The Impossibility of Sex and Bodies. She is currently chair of the Relational School in the UK and has a clinical practise seeing individuals and couples.",
+        "spans": [
+          {
+            "start": 130,
+            "end": 153,
+            "type": "em",
+            "data": {}
+          },
+          {
+            "start": 198,
+            "end": 211,
+            "type": "em",
+            "data": {}
+          },
+          {
+            "start": 213,
+            "end": 231,
+            "type": "em",
+            "data": {}
+          },
+          {
+            "start": 257,
+            "end": 281,
+            "type": "em",
+            "data": {}
+          },
+          {
+            "start": 286,
+            "end": 292,
+            "type": "em",
+            "data": {}
+          }
+        ]
+      }
+    }
+  ]
+}

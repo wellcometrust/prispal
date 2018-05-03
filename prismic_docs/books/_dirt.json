@@ -1,0 +1,155 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Dirt",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The filthy reality of everyday life",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dirt is waste, excrement, rubbish - but what then is soil? Is cleanliness next to godliness - or sterility? And in a throwaway society, does the battle against dirt depend on an exploited and half-seen underclass of cleaners?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Published by Profile Books to coincide with Wellcome Collection's major exhibition 'Dirt', and lavishly illustrated with images from the Collection's archives, this provocative book features specially commissioned essays and a short graphic novel section on the significance and implications of dirt from the microbial level through to the environmental.",
+                "spans": [
+                  {
+                    "start": 83,
+                    "end": 89,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/dirt-filthy-reality-everyday-life"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Dirt/9781846684791"
+  },
+  "price": "£20.00",
+  "format": "Paperback",
+  "extent": "256p",
+  "isbn": "9781846684791",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Paul Levy, Wall Street Journal, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Paul Levy, Wall Street Journal, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Doug Johnstone, Big Issue, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Doug Johnstone, Big Issue, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "New Scientist",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "New Scientist",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/dirtbook.jpg"
+  },
+  "drupalNid": "3153",
+  "drupalPath": "/dirt",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dirt is waste, excrement, rubbish - but what then is soil? Is cleanliness next to godliness - or sterility?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2011-03-24",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

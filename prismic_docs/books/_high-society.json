@@ -1,0 +1,175 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "High Society",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Mind altering drugs in history and culture",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Designed to accompany the exhibition of the same name, 'High Society: Mind altering drugs in history and culture' explores the spectrum of mind-altering substances across the globe and throughout history. Beautifully illustrated with rarely seen material, this striking, lyrical and rigorously researched book puts its controversial subject into the widest possible context.",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/high-society"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Acclaimed cultural historian Mike Jay, one of the curators of the 'High Society' exhibition, paints vivid portraits of the roles that drugs play as medicines, religious sacraments, status symbols and coveted trade goods. He traces the understanding of intoxicants from the botanicals of the classical world through the mind-bending self-experiments of early scientists to the present 'war on drugs', and reveals how the international trade in substances such as tobacco, tea and opium shaped the modern world.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/High_Society/9780500289105"
+  },
+  "price": " £9.95",
+  "format": "Paperback",
+  "extent": "192p",
+  "isbn": "9780500289105",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Psychedelic Press, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Psychedelic Press, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "British Medical Journal, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "British Medical Journal, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Sunday Express, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Sunday Express, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Times",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Times",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"
+  },
+  "drupalNid": "3149",
+  "drupalPath": "/high-society",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'High Society' explores the spectrum of mind-altering substances across the globe and throughout history. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2012-03-05",
+  "authorName": "Mike Jay",
+  "authorImage": "",
+  "authorAbout": ""
+}

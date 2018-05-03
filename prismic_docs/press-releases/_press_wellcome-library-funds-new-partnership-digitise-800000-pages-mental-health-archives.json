@@ -1,0 +1,379 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Library funds a new partnership to digitise 800,000 pages of mental health archives",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Over 800,000 pages of archival material from psychiatric hospitals in the UK from the 18th to the 20th century will be digitised and made freely available online as part of the Wellcome Library’s ambitious digitisation programme.",
+                "spans": [
+                  {
+                    "start": 177,
+                    "end": 193,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library will partner with the Borthwick Institute for Archives, London Metropolitan Archives, Dumfries and Galloway Council Archives, NHS Greater Glasgow and Clyde Archives and the Royal College of Psychiatrists for the project, which will bring together documents from the York Retreat, St Luke’s Hospital Woodside, Crichton Royal Hospital, Gartnavel Royal Hospital and Camberwell House Asylum. These collections will be added to the Wellcome Library’s own collection of archives from public and private mental health institutions, including the records of Ticehurst House Hospital in Sussex, which provide a rare insight into the running of a privately-run asylum.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The project will focus on records dating from the 19th and 20th century, and will touch on the movement away from institutional care as the 20th century progressed. Patient records and case notes, photographs, administrative documents and registers will be digitised, creating an extensive online archive that will be a valuable resource for historical research.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The documents will be available via the Wellcome Library’s website, where users will be able to search the archives using the catalogue and view documents on the media player. The documents will be published under CC-BY or CC-BY-NC licence, allowing users to view, download, reproduce and distribute the material.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As well as official documents, the archives contain artwork and publications produced by patients and staff. These include copies of ‘The New Moon’, a monthly publication produced at the Crichton Royal Hospital, and ‘The Gartnavel Minstrel’, the earliest example of a publication written and edited by hospital patients. Such documents give a rare and often poignant insight into the lives of those who lived in the hospitals, including details of theatricals and concerts, trips and sports fixtures. In the archives of the Retreat a handwritten paper entitled “Our very mixed cricket” gives a humorous account of a mixed cricket match held at the hospital in the early 1900s.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Also included are important documents relating to revelations of mistreatment at some asylums in the early 1800s and subsequent reforms. The Borthwick Institute for Archives will digitise tracts on the York Asylum controversies, 1813-15, in which abuses at that institution became the centre of a national public debate, sparking a campaign of reform. From St Luke’s Hospital Woodside, a visitors book kept between 1829 and 1891 records the comments of notable visitors such as the Quaker social reformer Elizabeth Fry and the author Charles Dickens, who after a visit on 15 January 1858 noted “the great improvements in the hospital…[and the] wise spirit of the whole administration”.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Simon Chaplin, Head of the Wellcome Library, said: “This partnership will bring some rare and important historical material from a fascinating period of medical history into an open and free online resource. Broadening access to such collections is at the heart of the Wellcome Library’s digitisation project and we are delighted that others are joining with us to make this possible.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Work to digitise the archives began in autumn 2014 and will take two years to complete. The project will be fully funded by the Wellcome Library. The University of Glasgow Digitisation Centre will digitise all material from the Dumfries and Galloway Council Archives and NHS Greater Glasgow and Clyde.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library began its digitisation programme in 2010; its ambition is to make freely available over 50 million pages of historic medical books, archives, manuscripts and journals by 2020.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library’s media player allows the close reading, downloading and embedding of digitised files, including cover-to-cover books, archives, works of art, videos and audio files. It was developed by Digirati for the Wellcome Library and the software is freely available for anyone to download and use under an MIT Open Source license.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media Contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Holly Story Assistant Media Officer T 020 7611 8248 E h.story@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 54,
+                    "end": 76,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:h.story@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About the Wellcome Library",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Wellcome Library is one of the world's major resources for the study of medical history. It houses 2.5 million items of extraordinary range and diversity and has a growing collection of material relating to contemporary medicine and biomedical science in society.",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 20,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomelibrary.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Library is situated within Wellcome Collection, the free visitor destination for the incurably curious and is part of the Wellcome Trust, a global charitable foundation dedicated to achieving extraordinary improvements in human and animal health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About the Borthwick Institute for Archives",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 42,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Borthwick Institute for Archives opened in 1953 and has been part of the University of York since 1963. Founded to house the archive of the Archbishop of York,&nbsp;the past three decades or so have seen an enormous growth in the range and type of its holdings, with many of the archives having regional, national or international importance. There are extensive holdings of health, social welfare and hospital records, including the archive of the NHS in York and district, and the archive of the York Retreat, and these records are a particularly rich source for researchers in psychiatric history.",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.york.ac.uk/borthwick/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About Dumfries and Galloway Archives and Local Studies",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dumfries and Galloway is a lightly-populated region of southern Scotland with a rich and complex history. As a part of Dumfries and Galloway Council, the Archives and Local Studies Service holds the records of the region’s former counties and burghs as well as more than 1,000 collections gifted and deposited by individuals and organisations. It is the main resource for the study of the region’s history. Since 2009 it has also been responsible for the archives of NHS Dumfries and Galloway which includes the marvellous Crichton Royal Institution collection. The Service is based at the Ewart Library in Dumfries.",
+                "spans": [
+                  {
+                    "start": 154,
+                    "end": 188,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.dumgal.gov.uk/lia"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About London Metropolitan Archives (LMA)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "London Metropolitan Archives (LMA) is the largest local government archive repository in the United Kingdom. It is based in Clerkenwell and administered by the City of London Corporation. Its holdings run to an extraordinary 100km of local government and other records, as well as images, maps, films and books, for the Greater London area and the City of London dating from 1067 to the present. These important collections have been awarded designated status by the Museums Libraries and Archives Council; LMA is an Accredited Archive Service. LMA also runs a wide variety of talks, exhibitions and other events, and supports wider access for educational bodies and other groups. LMA is free to use and open to everyone. If you’re interested in London or Londoners, LMA is the place to visit.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 28,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.cityoflondon.gov.uk/lma"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About NHS Greater Glasgow and Clyde Archives",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The NHS Greater Glasgow and Clyde Archives hold 1500 shelf metres of records.&nbsp; History is the main function of the Archive. Many celebrated developments have taken place in Glasgow – antiseptic surgery, obstetric ultrasound, X-rays, innovations in nurse training, ergonomics, intensive care units and so on. The existence of the Archive underlines the expectation that Glasgow will continue to be an innovative centre of medical excellence.",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 42,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.archives.gla.ac.uk/gghb/default.html"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Archives are stored in the Mitchell Library at Charing Cross, Glasgow. The records are produced to readers in the search room of Glasgow City Archives. At present, members of staff are all part-time: reader services are usually available on Wednesdays, Thursdays and Fridays.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Archivist is Alistair Tough. He can be contacted at Alistair.Tough@glasgow.ac.uk or on 0141 287 2883.",
+                "spans": [
+                  {
+                    "start": 56,
+                    "end": 84,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:Alistair.Tough@glasgow.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About the Royal College of Psychiatrists",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Royal College of Psychiatrists is the professional medical body responsible for supporting psychiatrists throughout their careers, from training through to retirement, and in setting and raising standards of psychiatry in the United Kingdom.",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 34,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.rcpsych.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The College aims to improve the outcomes of people with mental illness, and the mental health of individuals, their families and communities. In order to achieve this, the College sets standards and promotes excellence in psychiatry; leads, represents and supports psychiatrists; improves the scientific understanding of mental illness; works with and advocates for patients, carers and their organisations. Nationally and internationally, the College has a vital role in representing the expertise of the psychiatric profession to governments and other agencies.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "About the University of Glasgow Digitisation Centre (UGDC)",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The University of Glasgow’s Digitisation Centre is based in the University Library’s photographic unit. The Centre has been providing professional digital imaging services to the cultural heritage sector for over 10 years. Our team of professional curators, photographers, conservators and digitisers have many years’ experience working with the University of Glasgow’s archive, library, museum and art collections. In recent years, the Centre has attracted a wide range of external clients due to professional and consistent delivery of high quality digital images, to meet any specification. Our state of the art equipment includes a Hasselblad H4D 50 Multishot camera system, an Atiz bookdrive pro digitisation system and the latest 35mm Nikon and Canon high end digital capture camera systems.",
+                "spans": [
+                  {
+                    "start": 64,
+                    "end": 102,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.gla.ac.uk/services/library/aboutthelibrary/photographicunit/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "2274",
+  "drupalPath": "/press/wellcome-library-funds-new-partnership-digitise-800000-pages-mental-health-archives",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Over 800,000 pages of archival material from psychiatric hospitals in the UK will be digitised and made freely available online.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2014-10-28"
+}

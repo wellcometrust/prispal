@@ -1,0 +1,149 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "The Smile Stealers",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The Fine and Foul Art of Dentistry",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Marking the third and final volume of the bestselling and award-winning series that began with The Sick Rose and Crucial Interventions, The Smile Stealers probes the evolution of dentistry from the excruciating endeavours of crude early practitioners to the swift and painless procedures and cosmetic surgery of today. Gruesome yet captivating medical drawings of techniques and tools are presented alongside pertinent cariactures, paintings and the rarest of books and artefacts from the Wellcome's unique archive. Eloquent and engaging themed articles by medical historian Richard Barnett trace the development of the trade and discipline of the dentist, from fairground entertainer and charlatan to highly skilled professional, and highlight the changing social attitudes towards the purpose and practice of dentistry, from the extraction of rotting teeth to the pursuit of the perfect smile.",
+                "spans": [
+                  {
+                    "start": 95,
+                    "end": 109,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 113,
+                    "end": 134,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 136,
+                    "end": 155,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/bookshop/product/The-Smile-Stealers-by-Richard-Barnett/9780500519110"
+  },
+  "price": "£19.95",
+  "format": "Hardback",
+  "extent": "256pp",
+  "isbn": "9780500519110",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Tatler, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Tatler, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Times",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Times",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
+  },
+  "drupalNid": "3815",
+  "drupalPath": "/smile-stealers",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A gruesome yet captivating look at the evolution of dentistry, from the extraction of rotting teeth to the pursuit of the perfect smile.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2017-04-27",
+  "authorName": "Richard Barnett",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Richard%20Barnett%20%28from%20Amazon%29.jpg",
+    "width": "250",
+    "height": "395"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Richard Barnett is a writer, teacher and broadcaster on the cultural history of science and medicine, and a poet. He studied medicine in London before becoming a historian, and has taught at Cambridge, UCL, and other leading institutions for more than a decade. In 2011 he received one of the first Wellcome Trust Engagement Fellowships for his work on public engagement.",
+        "spans": []
+      }
+    }
+  ]
+}

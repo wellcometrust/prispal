@@ -1,0 +1,104 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Crucial Interventions",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Arranged for the layman (from head to toe) Crucial Interventions is a captivating look at the early history of surgery, one of the world’s most mysterious and macabre professions.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 43,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 64,
+                    "end": 179,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The nineteenth century saw major advances in the practice of surgery. In 1750, the anatomist John Hunter described it as “a humiliating spectacle of the futility of science”; yet, over the next 150 years the feared, practical men of medicine benefited from a revolution in scientific progress and the increased availability of instructional textbooks. Anaesthesia and antisepsis were introduced. Newly established medical schools improved surgeons’ understanding of the human body. For the first time, surgical techniques were refined, illustrated in colour, and disseminated on the printed page.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Crucial Interventions follows this evolution, drawing from magnificent examples of rare surgical textbooks from the mid-nineteenth century. Graphic and sometimes unnerving yet beautifully rendered, these fascinating illustrations, acquired from the Wellcome Collection’s extensive archives, include step-by-step surgical techniques paired with depictions of medical instruments and depictions of operations in progress.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/Crucial_Interventions/9780500518106"
+  },
+  "price": "£19.95",
+  "format": "Hardback",
+  "extent": "256pp",
+  "isbn": "9780500518106 ",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
+  },
+  "drupalNid": "3133",
+  "drupalPath": "/crucial-interventions-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Crucial Interventions is a captivating look at the early history of surgery, one of the world’s most mysterious and macabre professions.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2015-10-26",
+  "authorName": "Richard Barnett",
+  "authorImage": "",
+  "authorAbout": ""
+}

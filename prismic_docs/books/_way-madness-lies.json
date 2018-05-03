@@ -1,0 +1,168 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "This Way Madness Lies",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The Asylum and Beyond",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Is mental illness – or madness – at root an illness of the body, a disease of the mind, or a sickness of the soul? Should those who suffer from it be secluded from society or integrated more fully into it?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 205,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This Way Madness Lies explores the meaning of mental illness through the successive incarnations of the institution that defined it: the madhouse, designed to segregate its inmates from society; the lunatic asylum, which intended to restore the reason of sufferers by humane treatment; and the mental hospital, which reduced their conditions to diseases of the brain.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Rarely seen photographs and illustrations drawn from the archives of mental institutions in Europe and the U.S. illuminate and reinforce the compelling narrative, while extensive ‘gallery’ sections present revealing and thought-provoking artworks by asylum patients and other artists from each era of the institution and beyond.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of Bedlam: The asylum and beyond",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/bedlam"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/This_Way_Madness_Lies/9780500518977"
+  },
+  "price": "£24.95",
+  "format": "Hardback",
+  "extent": "256p",
+  "isbn": "9780500518977",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Will Self, London Review of Books, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Will Self, London Review of Books, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Guardian",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Guardian",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/This%20Way%20Madness%20Lies%20cover.jpg"
+  },
+  "drupalNid": "3429",
+  "drupalPath": "/way-madness-lies",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "An evocatively illustrated exploration of the evolution of the asylum and attitudes towards people with lived experience of mental distress.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-09-15",
+  "authorName": "Mike Jay",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Mike%20Jay%20cropped.jpg",
+    "width": "400",
+    "height": "507"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Mike Jay is an author and curator who has written widely on the history of science, medicine, drugs and madness. His books include The Influencing Machine (2012), The Atmosphere of Heaven (2007) and High Society: Mind-Altering Drugs in History and Culture (2010). He is a research affiliate of the Centre for Health Humanities at University College London, and a trustee of the Bethlem Art and History Collection.",
+        "spans": []
+      }
+    }
+  ]
+}

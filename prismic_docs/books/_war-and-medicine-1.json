@@ -1,0 +1,108 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "War and Medicine",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'War and Medicine' seeks to understand the complex relationship between medical advances and armed conflict.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 108,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "As nations have developed increasingly sophisticated weaponry with which to harm their enemies, medicine has had to adapt to cope with the volume and changing nature of the resulting casualties. Many of the lessons learned in wartime have prompted advances in medicine and in social policy away from the battlefield. However, arguments about whether the relationship between war and medicine serves to further the progress of medical research or to hinder its proper evolution are far from settled.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This volume brings together enquiries from all aspects of human culture in a fascinating contribution to this continuing debate. 'War and Medicine' draws on formal investigation but also on the personal testimonies of surgeons, soldiers, civilians, nurses, writers and artists to address the moral, ethical and philosophical dilemmas faced by those charged with the administration of medicine in times of war. Published in conjunction with the exhibition of the same name, organised by Wellcome Collection and the Deutsches Hygiene-Museum, Dresden, 'War and Medicine' is an important and timely book.",
+                "spans": [
+                  {
+                    "start": 440,
+                    "end": 471,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/war-and-medicine"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/War_and_Medicine/9781906155520"
+  },
+  "price": "£19.95",
+  "format": "Paperback",
+  "extent": "256p",
+  "isbn": "9781906155520",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
+  },
+  "drupalNid": "3167",
+  "drupalPath": "/war-and-medicine-1",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'War and Medicine' seeks to understand the complex relationship between medical advances and armed conflict.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2008-10-20",
+  "authorName": "",
+  "authorImage": "",
+  "authorAbout": ""
+}

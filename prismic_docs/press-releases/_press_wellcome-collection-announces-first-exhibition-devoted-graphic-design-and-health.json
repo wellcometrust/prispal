@@ -1,0 +1,249 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Collection announces first exhibition devoted to graphic design and health",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first major exhibition exploring the relationship between graphic design and health will open at Wellcome Collection in September 2017. Comprising some 200 objects including hard-hitting posters, flashing pharmacy signs, and digital teaching aids, 'Can Graphic Design Save Your Life?' will consider the role of graphic design in constructing and communicating healthcare messages around the world and will show how graphic design has been used to persuade, to inform and to empower. ",
+                "spans": [
+                  {
+                    "start": 101,
+                    "end": 120,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/wellcomecollection.org/"
+                    }
+                  },
+                  {
+                    "start": 253,
+                    "end": 287,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/WZwh4ioAAJ3usf86"
+                    }
+                  },
+                  {
+                    "start": 288,
+                    "end": 289,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition will highlight the widespread and often subliminal nature of graphic design in shaping our environment, our health and our sense of self. Drawn from public and private collections around the world, it will feature work from influential figures in graphic design from the 20th century, as well as from studios and individuals working today.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Can Graphic Design Save Your Life?' considers the persuasive strategies employed in shaping public perceptions around smoking, featuring luxuriant advertising campaigns from the 1980s alongside objects showing the impact of plain packaging and anti-smoking imagery found in formats as small as postage stamps. It will also reveal the imaginative educational approaches taken to instruct us about our bodies, from 16th century anatomical pop-up books to 21st century apps, through to comic books advocating safe sex.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The role that design plays in informing and orientating people in medicalised spaces will also be explored. These include the use of brightly coloured design schemes in children’s wards to transform the hospital experience and improve patient wellbeing in settings traditionally considered to be intimidating and unpleasant.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition will cover corporate identity in the pharmaceutical industry, beginning with items from the archive of Burroughs Wellcome & Co. which was the first to employ strategies such as direct marketing to doctors and rigorous enforcement of trademarks and brand. Further studies will include the iconic Bayer identity and the influence of the pioneering and modernist design studio at Geigy. Furthermore, it will consider how graphic designers deliver clear healthcare instructions to consumers through carefully designed colour coding systems, written instructions and pill packaging.",
+                "spans": [
+                  {
+                    "start": 118,
+                    "end": 141,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/wellcomecollection.org/what-we-do/introducing-henry-wellcome"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The front-line response in battling epidemics continues to be crucial in global health. Renaissance plague notices and Victorian quarantine bills will be displayed alongside global public health campaigns sparked by the emergence of HIV/AIDS in the 1980s and Ebola and Zika in Africa and Brazil respectively in the last few years. Such examples reveal the immediacy and importance of graphics in conveying information as medical crises unfold.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The final part of the exhibition will consider how graphic design can empower people and provoke an individual response. Inspired by a contemporary reimagining of Ken Garland’s First Things First manifesto (1964), which called for fellow graphic designers to employ their skills in aid of public benefit, this section will include powerful campaigns focussed on raising awareness of breast cancer, and complex conditions such as dementia, as well as raising organ donation rates.",
+                "spans": [
+                  {
+                    "start": 176,
+                    "end": 195,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Selected works include those by Fritz Kahn, Abram Games, Marie Neurath, F.H.K. Henrion, Karl Gerstner, Margaret Calvert, Dick Bruna and Ken Garland. Current established studios represented will include Pentagram, Studio Dumbar, PearsonLloyd and Kenya Hara’s Hara Design Institute. Further studios and individuals whose work is on show include Studio Myerscough, Poulin + Morris, A2/SW/HK, Studio Rubio Arauna, Studio Rejane Dal Bello, Stockholm Design Lab, Astrid Stavro and Nick Bell.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Can Graphic Design Save Your Life?' is curated by graphic designer Lucienne Roberts and design educator Rebecca Wright, founders of publishing house GraphicDesign&, with Shamita Sharmacharja at Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kate Moores, Lead Media Manager, Wellcome Collection +44 (0)20 7611 5713 | k.moores@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 75,
+                    "end": 98,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "or",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Philippou, Media Manager, Wellcome Collection +44 (0)20 7611 8726 | e.philippou@wellcome.ac.uk ",
+                "spans": [
+                  {
+                    "start": 74,
+                    "end": 100,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects. Wellcome Collection celebrates its 10th anniversary in 2017.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 20,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/wellcomecollection.org"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent,we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk/‎"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3833",
+  "drupalPath": "/press/wellcome-collection-announces-first-exhibition-devoted-graphic-design-and-health",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first major exhibition exploring the relationship between graphic design and health will open at Wellcome Collection in September 2017. ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-04-06"
+}

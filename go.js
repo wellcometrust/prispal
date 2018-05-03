@@ -1,7 +1,8 @@
 import {
  convertBasicPage,
  convertExhibition,
- convertPressRelease
+ convertPressRelease,
+ convertBooks
 } from './converters'
 import {write} from './write'
 
@@ -23,9 +24,13 @@ async function pressReleases() {
   console.info(`> Running: press-releases`)
   write('press-releases', convertPressRelease)
 }
+async function books() {
+  console.info(`> Running: books`)
+  write('books', convertBooks)
+}
 
 const funcs = [
-  whatWeDo, visitUs, exhibitions, pressReleases
+  whatWeDo, visitUs, exhibitions, pressReleases, books
 ]
 
 if (run) {
@@ -33,4 +38,3 @@ if (run) {
 } else {
   funcs.forEach(func => func())
 }
-

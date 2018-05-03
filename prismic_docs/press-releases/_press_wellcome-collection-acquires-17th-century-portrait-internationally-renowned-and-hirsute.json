@@ -1,0 +1,176 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Wellcome Collection acquires 17th century portrait of internationally renowned and hirsute Barbara van Beck ",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection today announces its acquisition of a 17th century portrait of businesswoman and celebrity Barbara van Beck. The painting is a rare depiction in oil paint of a woman living with a genetic condition resulting in excessive hair growth on the body.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The work has been acquired by Wellcome Collection, the free museum and library for the incurably curious. It joins five existing prints of the same woman which are held in the Collection. The painting enhances an already extensive array of portraits of individuals living with various health conditions from across centuries.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The painting, dating from the 1640s, is an authentic record of a person living with a rare congenital endocrine condition, most likely hypertrichosis, also called Ambras syndrome. It is one of the earliest depictions, along with those of the Gonzales family, of a person living with a condition in which the face and often much of the body is covered with hair. It depicts Van Beck wearing an expensive silk gown, with a low neckline emphasising her femininity whilst also being very fashionable for its time.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Barbara van Beck was born Barbara Ursler near Augsburg, Bavaria, in 1629. She married Johan Michael van Beck from the Netherlands, who became her manager and they had one child. She travelled extensively throughout Europe, including to London at least twice, once as a child and again in 1657 when writer, diarist and gentry gardener, John Evelyn (1620-1706) recorded seeing her at a show with other high-class performers. He described her hair as ‘thick and even as growes on any womans head.’ He also recounts how she was neatly dressed, ’very well shaped,’ and how she ‘played well on the Harpsichord.’ Evelyn was a good friend of Samuel Pepys, who also documented a woman in London with a similar condition some years later.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Dr Angela McShane, Research Development Manager, Wellcome Collection, said: ‘It’s difficult to imagine what it must have been like to live with a condition such as this 350 years ago, but it’s also too easy to make assumptions based on today’s social and medical norms. We know that Barbara van Beck was a successful public figure, renowned internationally, and that she turned this condition to her advantage. There’s so much more to understand about this work, and by making it available to a wider audience we hope not just to further our understanding of the very different social and medical context of this period, but also to challenge ourselves to think about life, health and our place in the world.’",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The portrait of Barbara van Beck will be available to view at Wellcome Collection, London, in early 2018. It will also be showcased in a major conference on the Culture of Beauty to be held at Wellcome Collection in Autumn 2018.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For more press information and images please contact Kate Moores, Lead Media Manager, Wellcome Collection.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "T +44 (0)20 7611 5713 | E k.moores@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free museum and library for the incurably curious. Inspired by the medical objects and curiosities collected by Henry Wellcome, it connects science, medicine, life and art. Through its exhibitions, live programming, and digital and publishing activity, it makes thought provoking content which aims to challenge how we think and feel about health. The library is one of the world’s finest for the study of the social and cultural contexts of health. It houses some 2.5million items including rare medieval manuscripts which relate to medicine and the body, such as vividly illustrated almanacs, scrolls and practitioners’ manuals, as well as a growing collection of contemporary resources.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "4067",
+  "drupalPath": "/press/wellcome-collection-acquires-17th-century-portrait-internationally-renowned-and-hirsute",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection announces its acquisition of a 17th century portrait of businesswoman and celebrity Barbara van Beck.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-12-14"
+}

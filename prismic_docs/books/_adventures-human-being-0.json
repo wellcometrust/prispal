@@ -1,0 +1,185 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Adventures in Human Being",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "The 2015 Saltire Non-Fiction Book of the Year",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Oliver Sacks meets Bear Grylls in this unique voyage around the human body, from the prize-winning author of Empire Antarctica.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 127,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We have a lifetime's association with our bodies, but for many of us they remain uncharted territory. In Adventures in Human Being, Gavin Francis leads the reader on a journey through health and illness, offering insights on everything from the ribbed surface of the brain to the secret workings of the heart and the womb; from the pulse of life at the wrist to the unique engineering of the foot.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drawing on his own experiences as a doctor and GP, he blends first-hand case studies with reflections on the way the body has been imagined and portrayed over the millennia. If the body is a foreign country, then to practise medicine is to explore new territory: Francis leads the reader on an adventure through what it means to be human.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Both a user's guide to the body and a celebration of its elegance, this book will transform the way you think about being alive, whether in sickness or in health.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Published in association with Wellcome Collection.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "https://blackwells.co.uk/bookshop/product/Adventures-in-Human-Being-by-Gavin-Francis/9781781253427"
+  },
+  "price": "£9.99",
+  "format": "Paperback",
+  "extent": "251pp",
+  "isbn": "9781781253410",
+  "reviews": [
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Hilary Mantel, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "Hilary Mantel, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "John Berger, ",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "John Berger, ",
+            "spans": []
+          }
+        }
+      ]
+    },
+    {
+      "text": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Irish Times",
+            "spans": []
+          }
+        }
+      ],
+      "citation": [
+        {
+          "type": "p",
+          "content": {
+            "text": "The Irish Times",
+            "spans": []
+          }
+        }
+      ]
+    }
+  ],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/Adventures%20in%20Human%20Being_BLUE_3.png"
+  },
+  "drupalNid": "3129",
+  "drupalPath": "/adventures-human-being-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Both a user's guide to the body and a celebration of its elegance, this book will transform the way you think about being alive.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-02-04",
+  "authorName": "Gavin Francis",
+  "authorImage": {
+    "contentUrl": "https://wellcomecollection.org/sites/default/files/Gavin-Francis.png",
+    "width": "330",
+    "height": "330"
+  },
+  "authorAbout": [
+    {
+      "type": "paragraph",
+      "content": {
+        "text": "Gavin Francis is a GP, and the author of True North and Empire Antarctica: Ice, Silence & Emperor Penguins, which won the Scottish Book of the Year Award and was shortlisted for the Ondaatje Prize and Costa Prize. He also writes for Guardian, The Times, London Review of Books and Granta. He lives in Edinburgh with his wife and children.",
+        "spans": []
+      }
+    }
+  ]
+}

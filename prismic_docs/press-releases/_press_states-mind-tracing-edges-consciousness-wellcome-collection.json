@@ -1,0 +1,264 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "States of Mind: Tracing the Edges of Consciousness at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection opens the second part of a year-long exploration into human consciousness on 4 February 2016. ‘States of Mind: Tracing the Edges of Consciousness’ examines the universal, yet mysterious, topic of conscious experience. This major exhibition brings together artists, psychologists, philosophers and neuroscientists to investigate the terrain between consciousness and unconsciousness and will feature historical material, objects, artworks and an evolving programme of contemporary art installations.",
+                "spans": [
+                  {
+                    "start": 116,
+                    "end": 166,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Following on from Ann Veronica Janssens’ disorientating mist installation ‘yellowbluepink’ which probed the nature of individual perception, ‘States of Mind’ further questions the reliability of our inner world and subjective experience. The show explores phenomena such as synaesthesia, sleepwalking, memory loss and anaesthesia, and examines what happens when our conscious experience is undermined through dysfunctional experiences of perception or through loss of consciousness.",
+                "spans": [
+                  {
+                    "start": 75,
+                    "end": 89,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-ann-veronica-janssens"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Curator Emily Sargent says: “Consciousness is a fascinating subject, as magical as it is everyday. We all know what it is like to be conscious, but it remains a challenge to truly define it. This makes it rich territory both for artists and scientists alike. This exhibition examines a range of different experiences from the edges of consciousness revealing both the wonder and fragility of our internal lives. It looks at ways in which philosophy, art and folklore have established frameworks of understanding for phenomena like the nightmarish hallucinations of sleep paralysis; explores language and memory as ways of defining the self and discovers how neuroscience is pushing back the very definitions of what we understand consciousness to be in the study of patients previously thought beyond awareness. It also provides the opportunity to bring together a wonderful collection of objects, artworks and films to explore this broad, eclectic subject - at once both unique and universal.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The first of four sections, ‘SCIENCE | SOUL’, takes as its starting point key moments in the historical emergence of the field of neuroscience. The pervasive idea of ‘dualism’, the separation of mind and body first formally outlined by Rene Descartes in the seventeenth century, is illustrated by works such as ‘The Soul hovering over the Body reluctantly parting with Life’ by Luigi Schiavonetti, after William Blake. Philosophers and scientists have long tried to define how these two worlds interact and explain how an objective brain can produce the subjective experience of consciousness. The papers of Francis Crick show that he worked on this ‘hard problem’ until the day he died in 2004, and his notes are displayed alongside neuron drawings by Santiago Ramón y Cajal, the founder of neuroscience. This section also explores synaesthesia, a condition where one sensation may trigger another, for example author Vladimir Nabokov’s experience of seeing letters as colours is illustrated by Alphabet in Colour.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The spaces between sleep and wakefulness, as well as phenomena such as somnambulism, mesmerism and sleep paralysis, are explored in ‘SLEEP | AWAKE’. This section includes archive material from the first trial where ‘insanity of sleep’ was successfully used as a defence, as well as footage from The Cabinet of Dr Caligari, a 1920 film about a man who is controlled while asleep. The experience of sleep paralysis, where sleepers are mentally awake but the body remains unable to move, is reflected in a preparatory drawing for Henry Fuseli’s 1781 painting, The Nightmare, a work that has formed the basis for many other depictions of this phenomenon, and Carla Mackinnon’s immersive installation Squeezed by the shadows.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The development of language in childhood is closely linked to the recognition of a sense of self. In ‘LANGUAGE | MEMORY’, artist Louise K Wilson invites visitors to participate in her research into autobiographical memory, pieces from A. R. Hopwood’s False Memory Archive question the reliability of recollections and Mary Kelly’s Post-Partum Document is a series of drawings charting her changing relationship with her son as he begins to develop speech.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘BEING | NOT BEING’ further explores what happens when consciousness is disordered, following injury or trauma. fMRI scans of patients in persistent vegetative, or minimally conscious, states have been shown to reveal imaginative activity, and this section explores the implications and ethical debates surrounding the care, rehabilitation and end-of-life wishes of these individuals. This section also looks at anaesthesia, a state of reversible coma and the closest we get to brain stem death, with another work by Aya Ben Ron, Still Under Treatment (2005), showing the moments in which patients fall unconscious under general anaesthetic.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "A project space is built into the gallery to house a changing programme of installations throughout the show, linked to language and memory. In the first of these, The Whisper Heard, artist Imogen Stidworthy contrasts the language acquisition of a young child with that of a stroke patient with aphasia, using their responses to a passage from ‘Journey to the Centre of the Earth’ to explore concepts of language, meaning and identity. H.M.’, is a film by Kerry Tribe previously shown at MOMA, which uses two synchronised projectors to play two parts of a film with a 20 second delay between them to reflect the experience of Henry Gustav Molaison, better known as ‘Patient H.M’, whose case radically advanced our understanding of memory. Finally, Shona Illingworth explores the impact of amnesia and the erasure of individual and cultural memory with work from her Lesions in the Landscape project which examines personal experience of memory loss in one woman alongside the sudden evacuation of the island of St Kilda in the 1930s.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Peto, Head of Public Programmes at Wellcome Collection, adds: “Rather than seeking to define the slippery subject of consciousness, ‘States of Mind’ looks at the intriguing areas around its edges: those moments or states of being between wakefulness and sleep, feeling and anaesthesia, awareness and oblivion. The exhibition will run for a whole year, so that a changing programme of installations and exhibits can encourage reflection on the different perspectives scientists, philosophers and artists have brought to the difficult question of what it means to be ‘conscious’; how does each of us perceive and relate to our surroundings and to ourselves?”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "States of Mind: Tracing the Edges of Consciousness runs from 4 February to 16 October 2016.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 50,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  },
+                  {
+                    "start": 0,
+                    "end": 50,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Twitter: @explorewellcome Instagram: @wellcomecollection #StatesOfMind",
+                "spans": [
+                  {
+                    "start": 9,
+                    "end": 25,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  },
+                  {
+                    "start": 37,
+                    "end": 56,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://www.instagram.com/wellcomecollection/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contact",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily PhilippouT +44 (0)20 7611 8726E e.philippou@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 15,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 36,
+                    "end": 37,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 38,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "States of Mind is curated by Emily Sargent. Exhibition design is by We Made That with graphics by Studio HATO.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. We provide more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3075",
+  "drupalPath": "/press/states-mind-tracing-edges-consciousness-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection opens the second part of a year-long exploration into human consciousness on 4 February 2016.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2015-12-07"
+}

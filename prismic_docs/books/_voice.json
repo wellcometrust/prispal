@@ -1,0 +1,143 @@
+{
+  "type": "books",
+  "tags": [
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "This is a Voice",
+        "spans": []
+      }
+    }
+  ],
+  "subtitle": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "To accompany our exhibition of the same name, This is a Voice explores the elusive nature of the human voice, with an introduction by Steven Connor and a foreword by Cerys Matthews.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 46,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 17,
+                    "end": 44,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  },
+                  {
+                    "start": 61,
+                    "end": 181,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your voice is a powerful instrument, as individual as a fingerprint. You use it every single day, but do you know how to look after it? Or to get the best out of it?",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a Voice is a practical toolkit of step-by-step vocal exercises to help speakers and singers of all abilities transform the quality of their voice. Bursting with advice from expert vocal coaches, it covers everything from warm ups, breathing, pacing and projection to techniques for speaking with confidence and singing jazz, pop, opera – even beatboxing – with style. Whether you’re a member of a choir or a professional singer, preparing for a big presentation or planning a wedding speech, This is a Voice will ensure that you make yourself heard.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 500,
+                    "end": 515,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of THIS IS A VOICE",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 23,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "orderLink": {
+    "url": "http://bookshop.blackwell.co.uk/jsp/id/This_is_a_Voice/9781781256565"
+  },
+  "price": "£14.99",
+  "format": "Hardback",
+  "extent": "192pp",
+  "isbn": "9781781256565",
+  "reviews": [],
+  "drupalPromoImage": {
+    "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"
+  },
+  "drupalNid": "3259",
+  "drupalPath": "/voice",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Your voice is a powerful instrument. You use it every single day, but do you know how to look after it? Or to get the best out of it?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "publishedDate": "2016-04-14",
+  "authorName": "Jeremy Fisher & Gillyanne Kayes",
+  "authorImage": "",
+  "authorAbout": ""
+}

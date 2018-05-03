@@ -1,0 +1,287 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Can Graphic Design Save Your Life? opens at Wellcome Collection",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Wellcome Collection presents the first major exhibition exploring the relationship between graphic design and health. Comprising some 200 objects including hard-hitting posters, flashing pharmacy signs, and iconic pill packaging, Can Graphic Design Save Your Life? considers the role of graphic design in constructing and communicating healthcare messages around the world and shows how it continues to be used to persuade, inform and empower.",
+                "spans": [
+                  {
+                    "start": 231,
+                    "end": 265,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Drawn from public and private collections around the world, the exhibition highlights the widespread and often subliminal nature of graphic design in shaping our environment, our health and our sense of self. It features work from influential figures in graphic design from the 20th century, as well as from studios and individuals working today.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Can Graphic Design Save Your Life? opens with flags showing the emblems of the Red Cross, the Red Crescent and the Red Crystal. Rarely displayed together, they are some of the world’s most recognisable, powerful and highly protected symbols, used to depict neutrality and provide safety in conflict zones.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 34,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The exhibition considers the persuasive strategies employed in shaping public perceptions around smoking. Luxuriant advertising campaigns such as those employed by Silk Cut in the 1980s are displayed alongside objects showing the transition to plain packaging and anti-smoking imagery found in formats as small as postage stamps from around the world. It also reveals the imaginative educational approaches taken to instruct us about our bodies, from 16th century anatomical pop-up books to the Tiny Bop learning app, as well as Planned Parenthood comic books advocating safe sex.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The role of design in informing and orienting people in hospitals is explored through the use of signage and fonts, as well as resources that help to identify and communicate different types of pain. Colourful schemes for children’s wards, designed by Studio Rubio Arauna, Studio Rejane Dal Bello and Studio Myerscough, in Barcelona, Peru and London respectively, further demonstrate how graphics can be used to transform the hospital experience and improve patient wellbeing in settings traditionally considered as intimidating or unpleasant.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Items from the archive of Burroughs Wellcome & Co., one of the first companies to market directly to doctors and to rigorously enforce trademarks and brand, provide some of the earliest examples of corporate identity in the pharmaceutical industry. Further studies include the iconic Bayer identity and the influence of the pioneering and modernist design studio at Geigy. The exhibition also considers how graphic designers deliver clear healthcare instructions to consumers through carefully designed colour coding systems, written instructions and pill packaging.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The front-line response in battling epidemics continues to be crucial in global health. From Italian renaissance plague notices to a hand painted mural depicting Ebola symptoms during the 2014 outbreak in West Africa, graphics provide an immediate and important way to convey information as medical crises unfold. Further examples include Abram Games’ anti malaria poster, the AIDS: Don’t Die of Ignorance Campaign from the 1980s, and a mosquito-killing billboard used in Brazil to raise awareness of Zika.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The final part of the exhibition considers how graphic design can empower people and provoke an individual response. Exploring the principles of Ken Garland’s First Things First manifesto, which called for graphic designers to use their skills for good, this section features several impactful campaigns. This includes the Scottish Government’s 2009 Kill Jill poster that significantly increased organ donation rates and the Samaritan’s award-winning Network Rail We Listen advertisements.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Selected works include those by Fritz Kahn, Abram Games, Marie Neurath, F.H.K. Henrion, Karl Gerstner, Margaret Calvert, Dan, Reisinger, Dick Bruna, Ken Garland, Alan Kitching and Biman Mullick. Current established studios represented will include Pentagram, Studio Dumbar, PearsonLloyd, and Kenya Hara’s Hara Design Institute. Further studios and individuals whose work is on show include Henrik Kubel, Poulin + Morris, Stockholm Design Lab, Astrid Stavro and Nick Bell.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Can Graphic Design Save Your Life? is curated by graphic designer Lucienne Roberts and design educator Rebecca Wright, founders of publishing house GraphicDesign&, with Shamita Sharmacharja at Wellcome Collection.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 34,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "For press information and images please contact:",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Kate Moores, Lead Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 5713 | E k.moores@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 50,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:k.moores@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " OR",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Emily Philippou, Media Manager, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T +44 (0)20 7611 8726 | E e.philippou@wellcome.ac.uk | W wellcomecollection.org/press",
+                "spans": [
+                  {
+                    "start": 27,
+                    "end": 53,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Graphic Design& is a pioneering publishing house established by Lucienne Roberts and Rebecca Wright. It is dedicated to creating intelligent, vivid books that explore how graphic design connects with all other things and the value that it brings.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 15,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.graphicdesignand.com/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Lucienne Roberts is a graphic designer and design writer. Her studio, LucienneRoberts+, creates accessible, engaging graphic design with a socially aware agenda and spans exhibition design, books and corporate identity for the arts, cultural, publishing and public sectors. Clients include the Design Museum, Wellcome Collection and the British Council. Her books include Good: An Introduction to Ethics in Graphic Design [2006, AVA Academia]. She is a signatory of the First Things First 2000 manifesto and a member of the Alliance Graphique Internationale.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Rebecca Wright is a design educator and writer. She is programme director of Graphic Communication Design at Central Saint Martins, University of the Arts London and has lectured, spoken at events and acted as consultant at academic institutions in the UK and abroad. She is vice president of ico-D, the International Council of Design.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is a free museum and library exploring health, life and our place in the world. Through exhibitions, collections, live programming, digital, broadcast and publishing, Wellcome Collection creates opportunities for people to think deeply about the connections between science, medicine, life and art. Wellcome Collection makes thought provoking content that encourages everyone to reflect on what it means to be human.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of Wellcome, a global charitable foundation that exists to improve health for everyone by helping great ideas to thrive. Both politically and financially independent, we support scientists and researchers, take on big problems, fuel imaginations and spark debate.",
+                "spans": [
+                  {
+                    "start": 31,
+                    "end": 39,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcome.ac.uk/"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3998",
+  "drupalPath": "/press/can-graphic-design-save-your-life-opens-wellcome-collection",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection presents the first major exhibition exploring the relationship between graphic design and health.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-09-07"
+}

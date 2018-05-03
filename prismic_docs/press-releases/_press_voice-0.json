@@ -1,0 +1,300 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "THIS IS A VOICE: Wellcome Collection's major spring exhibition",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The voice is shapeless and immaterial, and yet fills up an entire gallery in Wellcome Collection’s major spring exhibition. 'THIS IS A VOICE' looks inside vocal tracts, restless minds and speech devices to capture the elusive nature of the human voice, from its origins within the body, to the sounds ringing in our heads. Celebrating the aural and the oral, ‘THIS IS A VOICE’ features daily ‘voicings’, live performances and demonstrations, creating an acoustic journey of sound and film by contemporary artists and composers, punctuated by paintings, manuscripts, medical illustrations and ethnographic objects.",
+                "spans": [
+                  {
+                    "start": 125,
+                    "end": 140,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Artists and vocalists include Joan La Barbara, Imogen Stidworthy, Sam Belinfante, Enrico David, Meredith Monk, Marcus Coates, Anna Barham and Emma Smith, and visitors can add their own voices to the mix of sound in the gallery as part of a new work by electronic musician Mathew Herbert (Plat du Jour, The End Of Silence). Commissioned in collaboration with the Royal Opera House, Herbert’s Chorus asks visitors to sing a single note to add to a chorus of voices, forming an ever-expanding sound installation that plays in the exhibition and on the Wellcome Collection website.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Curator Bárbara Rodríguez Muñoz said: “The voice is one of our key identifying features; most of us use it daily and spontaneously, however its nature is far more abstract, uncanny even. It originates within us, both bodily and inside our minds, but voices can also seemingly come from nowhere, making it a deeply absorbing topic for vocalists, anthropologists, artists, scientists and philosophers alike. Focusing on non-linguistic and experimental uses of the voice, this highly performative exhibition is a quest to give form to this ambiguous creature and reveal the emotions that resonate within it.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Visitors enter the exhibition through an anechoic chamber, a non-echoing corridor designed to absorb all sounds. Providing a moment of stillness, the chamber is an opportunity to shift attention from the visual to the aural before visitors are enveloped in the cacophony of the gallery.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "In the first of five sections of the exhibition, ‘Voice is the original instrument’ looks at the origins of the human voice, and how singing and non-verbal sound creates both bonds and boundaries, forging group alliances and warding off enemies. The relationship between animal and human communication is brought alive with Dawn Chorus by Marcus Coates (2007). This multi-screen film installation features singers in everyday locations impersonating birdsong and explores their similarities when it comes to using rhythm, tempo and melody. This section also includes a model of the larynx, soundscapes that reveal a rich history of ritual and ceremonial polyphonic singing, an ethnographic collection of lullabies and a recording of Joan la Barbara’s Circular Song, which plays alongside a drawing of her musical score.",
+                "spans": [
+                  {
+                    "start": 49,
+                    "end": 83,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The second section of the exhibition examines the ‘melodic contours’ of the voice. While studies of the voice have typically been viewed through the lens of linguistics, this section focusses on the realm of the voice beyond words. Exploring prosody – pitch, tone and tempo, Emma Smith’s 5HZ (2015) is a collaborative art project that imagines what humanity might sound like if we had evolved to prioritise connection over the need to deliver explicit information. Meredith Monk, a pioneer of extended vocal technique, similarly conveys the emotive impact of communication in Dolmen Music (1980), an album in which performers create a story through singing, without uttering intelligible words. This section incorporates laughter, screaming and how prosody and emotions are performed in the absence of the voice altogether. Mikhail Karikis’ Sculpting Voice (2009) shows the facial expressions of an artist as he struggles to produce sound, and in Danica Dakić’s Emily (2010) we see a girl learning sign language, but we hear the dominating voice of her teacher.",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 68,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "‘The strains of the voice’ investigates the mechanics and physiology of voice production and how the voice can be changed following disorder, trauma or training. In Focus (2012) by Sam Belinfante, vocalist Elaine Mitchener is shown exercising her voice before a performance revealing the ways that different physical techniques dramatically affect her sound. Imogen Stidworthy’s Castrato layers three vocal types, treble, female soprano and counter tenor, to engineer the sound of a castrato voice: a human sound that can no longer exist, further emphasising the connections between our voices and our bodies. These are displayed alongside diagrams that illustrate the workings of the vocal tract, including footage of vocal cord vibrations, a preserved human larynx and contrasting MRI scans depicting vocalisations in action.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Identification and perception is explored in ‘Egophony’, investigating the ways in which the voice, like a fingerprint, can locate and expose us, socially and psychologically as well as geographically. Clues to gender and status may be revealed by features of our voices like pitch, volume and accent, but the stereotypes and politics associated with vocal identity are complex, and are made more so by the fact that voices evolve and can be changed. This section features Katarina Zdjedlar’s film The Perfect Sound (2009), which shows a migrant taking an accent removal class with a speech therapist in Birmingham, a city which is paradoxically known for its strong accent, and a film by Chris Chapman that looks at the process of re-training the voice following gender transition. A further display, co-curated with artist Lawrence Abu Hamdan, forms a timeline of voice analysis technology and its role in capturing and shaping the truth.",
+                "spans": [
+                  {
+                    "start": 45,
+                    "end": 55,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "From mythological sirens and the singing severed head of Orpheus; through divine revelations, inner speech and voice hearing; to telephones, robotics and talking machines, disembodied voices are a considered in ‘The unlocated voice’. Exploring what happens when the source of voice production is hidden or not there at all, this section features the manuscripts of mediaeval Christian mystic, Julian of Norwich, which capture her experience of hearing the Voice of God and are thought to be the first works published in the English language by a woman. This section also includes a film of Samuel Beckett’s short, monologue ‘Not I’ (1972), relentlessly delivered by a disembodied mouth, as well as a look at a new form of psychological treatment for auditory hallucinations, speech disorders, and historic attempts to humanise prosthetic, robotic voices.",
+                "spans": [
+                  {
+                    "start": 211,
+                    "end": 232,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "James Peto, Head of Public Programmes at Wellcome Collection, adds: “Before and beyond words, our voices say so much about us – and yet we think very little about how, and why, we make the noises that come out of our mouths. This exhibition is full of haunting, strange and beautiful sounds, encouraging unusual and exciting ways of thinking about both the physiology and the psychology of the human voice.”",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'THIS IS A VOICE' runs from 14 April to 31 July 2016 at Wellcome Collection and will be touring to the Powerhouse, Sydney in 2017.",
+                "spans": [
+                  {
+                    "start": 1,
+                    "end": 16,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/thisisavoice"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Media contacts",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily PhilippouT +44 (0)20 7611 8726E e.philippou@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 15,
+                    "end": 16,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 36,
+                    "end": 37,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 38,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.philippou@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Holly StoryT +44 (0)20 7611 8248E h.story@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 11,
+                    "end": 12,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 32,
+                    "end": 33,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 34,
+                    "end": 56,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:h.story@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Notes to Editors",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'THIS IS A VOICE' is curated by Bárbara Rodríguez Muñoz, with 3D exhibition design by PLAID and graphics by Europa and Lindsay Pentelow.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is the free visitor destination for the incurably curious. Located at 183 Euston Road, London, it explores the connections between medicine, life and art in the past, present and future. The newly expanded venue offers visitors contemporary and historic exhibitions and collections, lively public events, the world-renowned Wellcome Library, a café, a shop, a restaurant and conference facilities as well as publications, tours, a book prize, international and digital projects.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 19,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/home"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection is part of the Wellcome Trust, a global charitable foundation dedicated to improving health. We provide more than £700 million a year to support bright minds in science, the humanities and the social sciences, as well as education, public engagement and the application of research to medicine.",
+                "spans": [
+                  {
+                    "start": 35,
+                    "end": 49,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "(Image copyright: Enrico David, courtesy Michael Werner Gallery, New York and London)",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3107",
+  "drupalPath": "/press/voice-0",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The voice is shapeless and immaterial, and yet fills up an entire gallery in Wellcome Collection’s major spring exhibition.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2016-01-20"
+}

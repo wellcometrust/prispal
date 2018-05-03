@@ -1,0 +1,191 @@
+{
+  "type": "info-pages",
+  "tags": [
+    "press",
+    "from_drupal"
+  ],
+  "title": [
+    {
+      "type": "heading1",
+      "content": {
+        "text": "Man! I feel like a....night at Wellcome Collection exploring masculinity",
+        "spans": []
+      }
+    }
+  ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Walk tall. Flex your muscles. Talk in a deep voice. Do you feel like a real man now?",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 84,
+                    "type": "em",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Wellcome Collection’s next late night event on 7 April will be wrestling with emotions and exploring the complex science of masculinity. Artists and experts will sit alongside drag kings and choirs to challenge every assumption about what it means to be macho, from the celebratory to the damaging.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Event highlights include:",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "BROMANCE, a rolling drag king cabaret curated by Milk Presents, with live performance from LoUiS CYfer, The Great White Males, and many more special guests. Visitors can create their own king persona with costumes, packing materials, make-up and expert advice on tap throughout the night.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Real Men Used to Cry: an expert talk busting the myths about men and emotion, tracing the history of male mental distress and challenging the dominant depictions of masculinity.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Talks from the Domestic Violence Intervention Project and the GREAT Men Initiative, two organisations seeking to tackle negative and damaging manifestations of masculinity in our society.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "Pop-up choir performances by Chaps Choir and barbershop group Capital Chorus, artist-led making activities and interactive games inspired by real testosterone research.",
+                "spans": []
+              }
+            },
+            {
+              "type": "list-item",
+              "content": {
+                "text": "A long table discussion on why femininity in a male body can be so threatening and an interactive experience from Wellcome Collection’s youth programme, RawMinds, created in collaboration with award-winning theatre company non zero one.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This is a special late-night event and the bar will be open all night. The majority of activities are drop-in but some talks and activities require booking. Online booking will be available from 11.00 on Friday 31 March.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Macho? will take place on Friday 7 April 2017, 19.00-23.00 at Wellcome Collection, 183 Euston Road, NW1 2BE.",
+                "spans": []
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Contact",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 7,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Emily Pritchard",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " Media Officer, Wellcome Collection",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " E: e.pritchard@wellcome.ac.uk",
+                "spans": [
+                  {
+                    "start": 4,
+                    "end": 30,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.orgmailto:e.pritchard@wellcome.ac.uk"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " T: 020 7611 8248",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "drupalNid": "3807",
+  "drupalPath": "/press/man-i-feel-anight-wellcome-collection-exploring-masculinity",
+  "promo": [
+    {
+      "key": "editorialImage",
+      "value": {
+        "non-repeat": {
+          "caption": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Artists and experts will sit alongside drag kings and choirs to challenge every assumption about what it means to be macho.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "datePublished": "2017-03-10"
+}
