@@ -57,7 +57,7 @@ export function convertBasicPage(result, tag) {
     const [nid, path, title, body, image, promoText] = result
     try {
       const doc = {
-        type: 'info-pages',
+        type: 'pages',
         tags: [tag, 'from_drupal'],
         title: convertTitle(title),
         body: convertBody(body),
@@ -80,7 +80,7 @@ export function convertPressRelease(result) {
   const [nid, path, title, body, image, promoText, date] = result
   try {
     const doc = {
-      type: 'info-pages',
+      type: 'pages',
       tags: ['press', 'from_drupal'],
       title: convertTitle(title),
       body: convertBody(body),
