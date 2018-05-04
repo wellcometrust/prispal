@@ -162,7 +162,15 @@
     }
   ],
   "datePublished": "2016-02-04",
-  "authorName": "Gavin Francis",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Gavin Francis",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Gavin-Francis.png"
   },

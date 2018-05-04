@@ -135,8 +135,16 @@
     }
   ],
   "datePublished": "2015-07-01",
-  "authorName": "Atul Gawande",
-  "authorImage": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Atul Gawande",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
   "authorDescription": [
     {
       "type": "paragraph",

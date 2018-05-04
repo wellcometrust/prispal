@@ -114,7 +114,15 @@
     }
   ],
   "datePublished": "2016-11-03",
-  "authorName": "Susie Orbach",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Susie Orbach",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Susie_Orbach_146%20%28from%20Profile%20site%29.jpg"
   },

@@ -111,9 +111,17 @@
     }
   ],
   "datePublished": "2016-02-04",
-  "authorName": "",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"
   },

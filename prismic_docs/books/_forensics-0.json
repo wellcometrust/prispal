@@ -80,8 +80,16 @@
     }
   ],
   "datePublished": "2015-02-05",
-  "authorName": "Val McDermid",
-  "authorImage": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Val McDermid",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
   "authorDescription": [
     {
       "type": "paragraph",

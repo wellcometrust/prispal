@@ -52,9 +52,11 @@ function convertPromo(promoText) {
   }]
 }
 
-export function convertBasicPage(result, tag) {
+export function convertBasicPage(tag) {
+
   return (result) => {
     const [nid, path, title, body, image, promoText] = result
+    console.info(path);
     try {
       const doc = {
         type: 'pages',
@@ -78,6 +80,7 @@ export function convertBasicPage(result, tag) {
 
 export function convertPressRelease(result) {
   const [nid, path, title, body, image, promoText, date] = result
+  console.info(path);
   try {
     const doc = {
       type: 'pages',
@@ -101,6 +104,7 @@ export function convertExhibition(result) {
   const [startString, endString] = date.split(' to ');
   const start = startString && (new Date(startString)).toISOString()
   const end = endString && (new Date(endString)).toISOString()
+  console.info(path);
 
   try {
     const doc = {
@@ -123,12 +127,13 @@ export function convertExhibition(result) {
     throw err
   }
 }
-var t = 0
+
 export function convertBooks(result) {
   const [nid, path, title, body, image, promoText,
          datePublished, subtitle, links, price, format, extent, isbn, edition,
          praises, authorName, authorImage, authorDescription] = result
 
+  console.info(path);
 
   const structuredPraises = praises.split(/“/g).filter(praise => praise !== '').map(praise => {
     const [text, citation] = praise.split(/”/g);
@@ -157,11 +162,11 @@ export function convertBooks(result) {
       })),
       promo: convertPromo(promoText),
       datePublished: datePublished,
-      authorName: authorName,
-      authorImage: authorImage && {
+      authorName: convertText(authorName),
+      authorImage: (authorImage && {
         url: convertImgHtmlToImage(authorImage).contentUrl
-      },
-      authorDescription: authorDescription && convertHtmlStringToPrismicStructure(authorDescription),
+      }) || null,
+      authorDescription: (authorDescription && convertHtmlStringToPrismicStructure(authorDescription)) || null,
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
       },

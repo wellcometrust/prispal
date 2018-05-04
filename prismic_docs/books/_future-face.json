@@ -80,9 +80,17 @@
     }
   ],
   "datePublished": "2004-09-01",
-  "authorName": "Sandra Kemp",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Sandra Kemp",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"
   },

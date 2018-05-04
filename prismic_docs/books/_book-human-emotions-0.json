@@ -132,8 +132,16 @@
     }
   ],
   "datePublished": "2016-09-01",
-  "authorName": "Tiffany Watt Smith",
-  "authorImage": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Tiffany Watt Smith",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
   "authorDescription": [
     {
       "type": "paragraph",

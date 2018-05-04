@@ -132,9 +132,17 @@
     }
   ],
   "datePublished": "2016-04-14",
-  "authorName": "Jeremy Fisher & Gillyanne Kayes",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Jeremy Fisher & Gillyanne Kayes",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"
   },

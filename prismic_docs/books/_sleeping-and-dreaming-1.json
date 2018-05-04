@@ -90,9 +90,17 @@
     }
   ],
   "datePublished": "2007-11-19",
-  "authorName": "",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/sleepingbook.jpg"
   },

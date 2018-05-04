@@ -118,7 +118,15 @@
     }
   ],
   "datePublished": "2017-04-20",
-  "authorName": "Charles Fernyhough",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Charles Fernyhough",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/fernyhough_0.png"
   },

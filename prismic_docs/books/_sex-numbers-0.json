@@ -111,8 +111,16 @@
     }
   ],
   "datePublished": "2015-04-02",
-  "authorName": "David Spiegelhalter",
-  "authorImage": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "David Spiegelhalter",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
   "authorDescription": [
     {
       "type": "paragraph",

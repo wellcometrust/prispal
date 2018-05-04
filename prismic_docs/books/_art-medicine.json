@@ -80,9 +80,17 @@
     }
   ],
   "datePublished": "2011-11-28",
-  "authorName": "Emm Barnes, Julie Anderson & Emma Shackleton",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Emm Barnes, Julie Anderson & Emma Shackleton",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"
   },

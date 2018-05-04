@@ -126,7 +126,15 @@
     }
   ],
   "datePublished": "2017-04-27",
-  "authorName": "Richard Barnett",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Richard Barnett",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Richard%20Barnett%20%28from%20Amazon%29.jpg"
   },

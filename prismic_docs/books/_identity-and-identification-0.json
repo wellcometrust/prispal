@@ -97,9 +97,17 @@
     }
   ],
   "datePublished": "2009-12-01",
-  "authorName": "Edited by Ken Arnold, Mick Gordon, Chris Wilkinson",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by Ken Arnold, Mick Gordon, Chris Wilkinson",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"
   },

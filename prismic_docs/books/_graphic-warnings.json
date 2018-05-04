@@ -87,9 +87,17 @@
     }
   ],
   "datePublished": "2017-09-07",
-  "authorName": "",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/graphic%20warnings.png"
   },

@@ -104,9 +104,17 @@
     }
   ],
   "datePublished": "2017-11-16",
-  "authorName": "",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
   },

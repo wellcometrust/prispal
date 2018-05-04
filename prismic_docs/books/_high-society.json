@@ -164,9 +164,17 @@
     }
   ],
   "datePublished": "2012-03-05",
-  "authorName": "Mike Jay",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Mike Jay",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"
   },

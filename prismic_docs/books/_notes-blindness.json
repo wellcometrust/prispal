@@ -148,7 +148,15 @@
     }
   ],
   "datePublished": "2017-02-09",
-  "authorName": "John M. Hull",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "John M. Hull",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/John%20photo.png"
   },

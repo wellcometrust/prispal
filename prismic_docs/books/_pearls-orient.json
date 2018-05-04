@@ -87,9 +87,17 @@
     }
   ],
   "datePublished": "2003-06-01",
-  "authorName": "Edited by Nigel Allan",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by Nigel Allan",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"
   },

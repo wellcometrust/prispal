@@ -76,9 +76,17 @@
     }
   ],
   "datePublished": "2008-07-22",
-  "authorName": "Edited by Emily Sargent",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by Emily Sargent",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/skeletonsbook.jpg"
   },

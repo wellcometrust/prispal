@@ -80,9 +80,17 @@
     }
   ],
   "datePublished": "2018-01-11",
-  "authorName": "Susie Orbach",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Susie Orbach",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/IN_THERAPY_FINAL_COVER%20for%20web.png"
   },

@@ -148,9 +148,17 @@
     }
   ],
   "datePublished": "2014-06-02",
-  "authorName": "Richard Barnett",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Richard Barnett",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/image/Book-cover-image_1_.jpg"
   },

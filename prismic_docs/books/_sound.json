@@ -142,7 +142,15 @@
     }
   ],
   "datePublished": "2018-02-01",
-  "authorName": "Bella Bathurst",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Bella Bathurst",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Author%20photo%20for%20website.png"
   },

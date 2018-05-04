@@ -87,7 +87,15 @@
     }
   ],
   "datePublished": "2017-05-25",
-  "authorName": "Emily Mayhew",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Emily Mayhew",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Emily%20Mayhew%20from%20ICL%20website.jpg"
   },

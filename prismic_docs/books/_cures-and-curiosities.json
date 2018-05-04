@@ -80,9 +80,17 @@
     }
   ],
   "datePublished": "2007-06-21",
-  "authorName": "Compiled and edited by Tony Gould",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Compiled and edited by Tony Gould",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"
   },

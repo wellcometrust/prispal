@@ -144,9 +144,17 @@
     }
   ],
   "datePublished": "2011-03-24",
-  "authorName": "",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/dirtbook.jpg"
   },

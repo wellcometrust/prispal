@@ -97,9 +97,17 @@
     }
   ],
   "datePublished": "2009-03-28",
-  "authorName": "Edited by Gemma Blackshaw and Leslie Topp",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by Gemma Blackshaw and Leslie Topp",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"
   },

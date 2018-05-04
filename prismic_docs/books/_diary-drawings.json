@@ -107,9 +107,17 @@
     }
   ],
   "datePublished": "2010-05-06",
-  "authorName": "Bobby Baker",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Bobby Baker",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
   },

@@ -152,9 +152,17 @@
     }
   ],
   "datePublished": "2008-11-24",
-  "authorName": "By Richard Barnett and edited by Mike Jay",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "By Richard Barnett and edited by Mike Jay",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"
   },

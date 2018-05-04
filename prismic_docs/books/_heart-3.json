@@ -94,9 +94,17 @@
     }
   ],
   "datePublished": "2007-05-25",
-  "authorName": "Edited by James Peto",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by James Peto",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"
   },

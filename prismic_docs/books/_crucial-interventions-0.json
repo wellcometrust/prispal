@@ -93,9 +93,17 @@
     }
   ],
   "datePublished": "2015-10-26",
-  "authorName": "Richard Barnett",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Richard Barnett",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
   },

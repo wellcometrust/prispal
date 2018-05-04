@@ -73,9 +73,17 @@
     }
   ],
   "datePublished": "2003-06-19",
-  "authorName": "Edited by Hildi Hawkins and Danielle Olsen",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Edited by Hildi Hawkins and Danielle Olsen",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"
   },

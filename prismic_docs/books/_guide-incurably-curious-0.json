@@ -90,9 +90,17 @@
     }
   ],
   "datePublished": "2012-07-31",
-  "authorName": "Marek Kohn",
-  "authorImage": "",
-  "authorDescription": "",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Marek Kohn",
+        "spans": []
+      }
+    }
+  ],
+  "authorImage": null,
+  "authorDescription": null,
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
   },

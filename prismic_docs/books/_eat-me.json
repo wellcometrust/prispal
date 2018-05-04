@@ -101,7 +101,15 @@
     }
   ],
   "datePublished": "2017-02-02",
-  "authorName": "Bill Schutt",
+  "authorName": [
+    {
+      "type": "p",
+      "content": {
+        "text": "Bill Schutt",
+        "spans": []
+      }
+    }
+  ],
   "authorImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Schutt_author%20photo%20credit%20Jerry%20Ruotolo.jpg"
   },
