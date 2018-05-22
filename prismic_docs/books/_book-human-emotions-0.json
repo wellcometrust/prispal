@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "An Encyclopaedia of Feeling from Anger to Wanderlust",
         "spans": []
@@ -134,7 +134,7 @@
   "datePublished": "2016-09-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Tiffany Watt Smith",
         "spans": []

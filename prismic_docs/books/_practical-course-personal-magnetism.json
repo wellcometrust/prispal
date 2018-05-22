@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The Victorian Guide to Health, Happiness, Power and Success",
         "spans": []
@@ -151,7 +151,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Who among us has effectively harnessed the latent electric powers of the mind to control others and win hearts? Not me. Fortunately, we have this gem, based on a 1901 guide by the Psychic Research Company.",
             "spans": []
@@ -160,7 +160,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Times Classic Read, ",
             "spans": []
@@ -171,7 +171,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A seductive little volume…what the Victorians knew, and we’ve forgotten",
             "spans": []
@@ -180,7 +180,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Lisa Appignanesi",
             "spans": []
@@ -210,7 +210,7 @@
   "datePublished": "2017-02-02",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

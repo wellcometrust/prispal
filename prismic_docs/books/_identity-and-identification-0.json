@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []
@@ -99,7 +99,7 @@
   "datePublished": "2009-12-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Edited by Ken Arnold, Mick Gordon, Chris Wilkinson",
         "spans": []

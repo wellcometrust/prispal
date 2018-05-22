@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "London's buried bones",
         "spans": []
@@ -78,7 +78,7 @@
   "datePublished": "2008-07-22",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Edited by Emily Sargent",
         "spans": []

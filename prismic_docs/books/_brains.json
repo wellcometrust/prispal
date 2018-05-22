@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The mind as matter",
         "spans": []
@@ -85,7 +85,7 @@
   "datePublished": "2012-04-05",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Marius Kwint & Richard Wingate",
         "spans": []

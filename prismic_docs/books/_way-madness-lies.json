@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The Asylum and Beyond",
         "spans": []
@@ -88,7 +88,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Superb ... all the lucidity you could wish for when struggling to apprehend this most disturbing and problematic of subjects.",
             "spans": []
@@ -97,7 +97,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Will Self, London Review of Books, ",
             "spans": []
@@ -108,7 +108,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Beautifully designed … packed with telling details and fascinating anecdotes.",
             "spans": []
@@ -117,7 +117,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "The Guardian",
             "spans": []
@@ -147,7 +147,7 @@
   "datePublished": "2016-09-15",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Mike Jay",
         "spans": []

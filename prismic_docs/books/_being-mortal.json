@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Illness, medicine and what matters in the end",
         "spans": []
@@ -78,7 +78,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "This is Atul Gawande’s most powerful, and moving, book.",
             "spans": []
@@ -87,7 +87,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Malcolm Gladwell, ",
             "spans": []
@@ -98,7 +98,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "'Being Mortal’ is not only wise and deeply moving; it is an essential and insightful book for our times, as one would expect from Atul Gawande, one of our finest physician writers.",
             "spans": []
@@ -107,7 +107,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Oliver Sacks",
             "spans": []
@@ -137,7 +137,7 @@
   "datePublished": "2015-07-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Atul Gawande",
         "spans": []

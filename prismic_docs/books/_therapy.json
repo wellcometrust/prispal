@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "How conversations with psychotherapists really work",
         "spans": []
@@ -116,7 +116,7 @@
   "datePublished": "2016-11-03",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Susie Orbach",
         "spans": []

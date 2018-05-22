@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Wellcome Collection official guidebook",
         "spans": []
@@ -92,7 +92,7 @@
   "datePublished": "2012-07-31",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Marek Kohn",
         "spans": []

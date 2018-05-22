@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []
@@ -134,7 +134,7 @@
   "datePublished": "2016-04-14",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Jeremy Fisher & Gillyanne Kayes",
         "spans": []

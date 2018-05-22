@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "A picture album",
         "spans": []
@@ -96,7 +96,7 @@
   "datePublished": "2012-11-29",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

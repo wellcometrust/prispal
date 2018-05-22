@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []
@@ -89,7 +89,7 @@
   "datePublished": "2017-09-07",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

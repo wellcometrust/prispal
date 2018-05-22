@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Experiences at the edge of consciousness",
         "spans": []
@@ -113,7 +113,7 @@
   "datePublished": "2016-02-04",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

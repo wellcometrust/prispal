@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "A Story of Hearing Lost and Found",
         "spans": []
@@ -85,7 +85,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "After reading this book, I found myself listening in a richer and more interested way.",
             "spans": []
@@ -94,7 +94,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Alice O'Keeffe, The Guardian, ",
             "spans": []
@@ -105,7 +105,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A profound account of a life changed by deafness.",
             "spans": []
@@ -114,7 +114,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Marion Coutts, The Observer",
             "spans": []
@@ -144,7 +144,7 @@
   "datePublished": "2018-02-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Bella Bathurst",
         "spans": []

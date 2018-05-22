@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Over 2000 Years of Medicine in Our Lives",
         "spans": []
@@ -82,7 +82,7 @@
   "datePublished": "2011-11-28",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Emm Barnes, Julie Anderson & Emma Shackleton",
         "spans": []

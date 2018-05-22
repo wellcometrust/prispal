@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "War, Medicine and Survival in Afghanistan and Beyond",
         "spans": []
@@ -89,7 +89,7 @@
   "datePublished": "2017-05-25",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Emily Mayhew",
         "spans": []

@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The filthy reality of everyday life",
         "spans": []
@@ -67,7 +67,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "​Excellent.",
             "spans": []
@@ -76,7 +76,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Paul Levy, Wall Street Journal, ",
             "spans": []
@@ -87,7 +87,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A thought-provoking read.",
             "spans": []
@@ -96,7 +96,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Doug Johnstone, Big Issue, ",
             "spans": []
@@ -107,7 +107,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "This splendidly edited book activated both my inner child, fascinated with all that's revolting – and my social conscience.",
             "spans": []
@@ -116,7 +116,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "New Scientist",
             "spans": []
@@ -146,7 +146,7 @@
   "datePublished": "2011-03-24",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

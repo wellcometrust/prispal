@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Organising Nature: A Picture Album",
         "spans": []
@@ -109,7 +109,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Compact and charming",
             "spans": []
@@ -118,7 +118,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Caught by the River, Book of the Month, ",
             "spans": []
@@ -129,7 +129,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Charts, diagrams, maps, lists and illustrations…delightful in their intricate and informative detail.",
             "spans": []
@@ -138,7 +138,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "It’s Nice That, ",
             "spans": []
@@ -149,7 +149,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "An interesting book of colourful conundrums",
             "spans": []
@@ -158,7 +158,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Chris Packham",
             "spans": []
@@ -188,7 +188,7 @@
   "datePublished": "2016-12-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []

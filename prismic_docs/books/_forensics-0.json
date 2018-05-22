@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The anatomy of crime",
         "spans": []
@@ -82,7 +82,7 @@
   "datePublished": "2015-02-05",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Val McDermid",
         "spans": []

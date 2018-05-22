@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Inside the Wellcome Library",
         "spans": []
@@ -82,7 +82,7 @@
   "datePublished": "2007-06-21",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Compiled and edited by Tony Gould",
         "spans": []

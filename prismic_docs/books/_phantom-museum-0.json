@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "",
         "spans": []
@@ -75,7 +75,7 @@
   "datePublished": "2003-06-19",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Edited by Hildi Hawkins and Danielle Olsen",
         "spans": []

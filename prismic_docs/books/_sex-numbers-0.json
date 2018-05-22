@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "What Statistics can tell us about Sexual Behaviour",
         "spans": []
@@ -113,7 +113,7 @@
   "datePublished": "2015-04-02",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "David Spiegelhalter",
         "spans": []

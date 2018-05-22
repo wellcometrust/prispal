@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Disease and the Art of Medical Illustration",
         "spans": []
@@ -71,7 +71,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A transfixing, sublime collection of portraits of the highest art.",
             "spans": []
@@ -80,7 +80,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Helen Rumbelow, The Times, ",
             "spans": []
@@ -91,7 +91,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Superbly erudite and lucid.",
             "spans": []
@@ -100,7 +100,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Will Self, The Guardian, ",
             "spans": []
@@ -111,7 +111,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "[A] trove of extraordinary illustrations.",
             "spans": []
@@ -120,7 +120,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "The Independent",
             "spans": []
@@ -150,7 +150,7 @@
   "datePublished": "2014-06-02",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Richard Barnett",
         "spans": []

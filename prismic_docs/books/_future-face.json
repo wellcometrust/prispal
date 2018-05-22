@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Image, identity, innovation",
         "spans": []
@@ -82,7 +82,7 @@
   "datePublished": "2004-09-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Sandra Kemp",
         "spans": []

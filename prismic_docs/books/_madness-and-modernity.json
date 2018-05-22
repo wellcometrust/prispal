@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Mental illness and the visual arts in Vienna 1900",
         "spans": []
@@ -99,7 +99,7 @@
   "datePublished": "2009-03-28",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Edited by Gemma Blackshaw and Leslie Topp",
         "spans": []

@@ -15,7 +15,7 @@ function convertTitle(title) {
 
 function convertText(title) {
   return [{
-    type: 'p',
+    type: 'paragraph',
     content: {
       text: title,
       spans: []

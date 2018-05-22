@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Mind altering drugs in history and culture",
         "spans": []
@@ -67,7 +67,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Fascinating and highly recommended.",
             "spans": []
@@ -76,7 +76,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Psychedelic Press, ",
             "spans": []
@@ -87,7 +87,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Straightforward and engaging storytelling...deserves high praise for rendering a complex, controversial topic with clarity and elegance. It's also good looking...quite marvellous.",
             "spans": []
@@ -96,7 +96,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "British Medical Journal, ",
             "spans": []
@@ -107,7 +107,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Instructive and, crucially, non-judgmental...illustrated with fascinating posters, artwork and rarely seen drawings.",
             "spans": []
@@ -116,7 +116,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Sunday Express, ",
             "spans": []
@@ -127,7 +127,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A lively whisk through the history of mind-altering substances.",
             "spans": []
@@ -136,7 +136,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "The Times",
             "spans": []
@@ -166,7 +166,7 @@
   "datePublished": "2012-03-05",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Mike Jay",
         "spans": []

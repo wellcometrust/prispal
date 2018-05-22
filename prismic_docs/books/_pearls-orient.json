@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Asian Treasures from the Wellcome Library",
         "spans": []
@@ -89,7 +89,7 @@
   "datePublished": "2003-06-01",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Edited by Nigel Allan",
         "spans": []

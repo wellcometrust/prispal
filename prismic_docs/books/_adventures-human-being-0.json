@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The 2015 Saltire Non-Fiction Book of the Year",
         "spans": []
@@ -85,7 +85,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A sober and beautiful book about the landscape of the human body: thought-provoking and eloquent.",
             "spans": []
@@ -94,7 +94,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Hilary Mantel, ",
             "spans": []
@@ -105,7 +105,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "I have never read a book like this one and I recommend it wholeheartedly. Diagnoses and legends narrated with compassion and humour... reading it, you feel better.",
             "spans": []
@@ -114,7 +114,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "John Berger, ",
             "spans": []
@@ -125,7 +125,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Francis moves skillfully between the scientific and the aesthetic, between anatomical fact and emotional consequence, to craft a profound yet highly readable account of the intimate, inextricable relationship between the physical body and what some still call the soul.",
             "spans": []
@@ -134,7 +134,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "The Irish Times",
             "spans": []
@@ -164,7 +164,7 @@
   "datePublished": "2016-02-04",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Gavin Francis",
         "spans": []

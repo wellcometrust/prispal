@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "The Unfolding Story",
         "spans": []
@@ -82,7 +82,7 @@
   "datePublished": "2018-01-11",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "Susie Orbach",
         "spans": []

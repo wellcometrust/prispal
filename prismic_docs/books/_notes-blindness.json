@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "A Journey Through the Dark",
         "spans": []
@@ -71,7 +71,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "A masterpiece…The incisiveness of observation, the beauty of his language, make this book poetry",
             "spans": []
@@ -80,7 +80,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Oliver Sacks, ",
             "spans": []
@@ -91,7 +91,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "There is wisdom on every page… a gift to the whole of humanity",
             "spans": []
@@ -100,7 +100,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Cathy Rentzenbrink, author of 'The Last Act of Love', ",
             "spans": []
@@ -111,7 +111,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "This is a courageous book about the ability of the human mind and soul to reorganize around changed sources of information.  In losing his sight, John Hull learned how much he had loved seeing, and how much he could love other means of interacting with the world.  His poignant and wise description of his rebirth as a blind man, written in incandescent prose, is thrilling and disturbing and demonstrates an exhilarating passion for life itself.  ",
             "spans": []
@@ -120,7 +120,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Andrew Solomon",
             "spans": []
@@ -150,7 +150,7 @@
   "datePublished": "2017-02-09",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "John M. Hull",
         "spans": []

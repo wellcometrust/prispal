@@ -14,7 +14,7 @@
   ],
   "subtitle": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "City of diseases, city of cures",
         "spans": []
@@ -95,7 +95,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "\"Beautifully packaged…Barnett and Jay have produced a wonderful history both of Londoners' lives and the medical profession.",
             "spans": []
@@ -104,7 +104,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Observer, ",
             "spans": []
@@ -115,7 +115,7 @@
     {
       "text": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "This is London's real heritage…all human life, and human death, is here.",
             "spans": []
@@ -124,7 +124,7 @@
       ],
       "citation": [
         {
-          "type": "p",
+          "type": "paragraph",
           "content": {
             "text": "Peter Ackroyd, The Times",
             "spans": []
@@ -154,7 +154,7 @@
   "datePublished": "2008-11-24",
   "authorName": [
     {
-      "type": "p",
+      "type": "paragraph",
       "content": {
         "text": "By Richard Barnett and edited by Mike Jay",
         "spans": []
