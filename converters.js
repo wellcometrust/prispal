@@ -170,7 +170,8 @@ export function convertBooks(result) {
       cover: {
         origin: {
           url: convertImgHtmlToImage(image).contentUrl
-        }
+        },
+        alt: `Book cover of ${title}`
       },
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
