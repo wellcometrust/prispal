@@ -167,6 +167,11 @@ export function convertBooks(result) {
         url: convertImgHtmlToImage(authorImage).contentUrl
       }) || null,
       authorDescription: (authorDescription && convertHtmlStringToPrismicStructure(authorDescription)) || null,
+      cover: {
+        origin: {
+          url: convertImgHtmlToImage(image).contentUrl
+        }
+      },
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
       },

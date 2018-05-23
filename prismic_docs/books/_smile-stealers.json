@@ -147,6 +147,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
   },

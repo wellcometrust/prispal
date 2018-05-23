@@ -118,6 +118,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
   },

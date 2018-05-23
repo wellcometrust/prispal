@@ -219,6 +219,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
   },

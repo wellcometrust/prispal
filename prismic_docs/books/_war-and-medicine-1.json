@@ -108,6 +108,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
   },

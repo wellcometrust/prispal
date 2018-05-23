@@ -115,6 +115,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
   },

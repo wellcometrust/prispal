@@ -182,6 +182,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"
   },

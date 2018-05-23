@@ -104,6 +104,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
   },

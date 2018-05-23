@@ -101,6 +101,11 @@
   ],
   "authorImage": null,
   "authorDescription": null,
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
   },

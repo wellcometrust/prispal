@@ -169,6 +169,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Notes_on_Blindness_final_front.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Notes_on_Blindness_final_front.png"
   },

@@ -129,6 +129,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
   },

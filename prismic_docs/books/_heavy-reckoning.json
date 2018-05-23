@@ -115,6 +115,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/9781781255858_0.png"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/9781781255858_0.png"
   },

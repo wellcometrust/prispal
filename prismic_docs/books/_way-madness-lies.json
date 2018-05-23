@@ -166,6 +166,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/This%20Way%20Madness%20Lies%20cover.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/This%20Way%20Madness%20Lies%20cover.jpg"
   },

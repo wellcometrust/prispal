@@ -130,6 +130,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
   },

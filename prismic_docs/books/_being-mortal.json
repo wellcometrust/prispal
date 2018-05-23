@@ -154,6 +154,11 @@
       }
     }
   ],
+  "cover": {
+    "origin": {
+      "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
+    }
+  },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
   },
