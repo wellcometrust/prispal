@@ -146,7 +146,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"
-    }
+    },
+    "alt": "Book cover of This is a Voice by Jeremy Fisher & Gillyanne Kayes"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/this-is-a-voice-book.png"

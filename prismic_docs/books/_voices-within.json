@@ -142,7 +142,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/9781781252802_1.png"
-    }
+    },
+    "alt": "Book cover of The Voices Within by Charles Fernyhough"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/9781781252802_1.png"

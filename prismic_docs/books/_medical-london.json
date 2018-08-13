@@ -166,7 +166,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"
-    }
+    },
+    "alt": "Book cover of Medical London by By Richard Barnett and edited by Mike Jay"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Medical%20London%20Book.jpg"

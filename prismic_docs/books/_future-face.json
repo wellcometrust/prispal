@@ -94,7 +94,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"
-    }
+    },
+    "alt": "Book cover of Future Face by Sandra Kemp"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/futurefacebook.jpg"

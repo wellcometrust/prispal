@@ -118,7 +118,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"
-    }
+    },
+    "alt": "Book cover of Ayurvedic Man by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Ayurvedic%20Man%20cover%20for%20web.png"

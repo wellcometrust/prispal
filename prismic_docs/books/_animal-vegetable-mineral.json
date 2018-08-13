@@ -200,7 +200,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Animal-Vegetable-Mineral-book-cover.png"
-    }
+    },
+    "alt": "Book cover of Animal Vegetable Mineral by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Animal-Vegetable-Mineral-book-cover.png"

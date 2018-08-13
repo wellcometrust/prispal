@@ -111,7 +111,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"
-    }
+    },
+    "alt": "Book cover of Madness and Modernity by Edited by Gemma Blackshaw and Leslie Topp"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/madnessbook.jpg"

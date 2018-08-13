@@ -107,7 +107,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"
-    }
+    },
+    "alt": "Book cover of Crucial Interventions by Richard Barnett"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Crucial-Interventions%5B2%5D.png"

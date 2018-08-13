@@ -157,7 +157,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"
-    }
+    },
+    "alt": "Book cover of Being Mortal by Atul Gawande"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Series_Being_Mortal_Black%5B2%5D.jpg"

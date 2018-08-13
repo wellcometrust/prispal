@@ -158,7 +158,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/dirtbook.jpg"
-    }
+    },
+    "alt": "Book cover of Dirt by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/dirtbook.jpg"

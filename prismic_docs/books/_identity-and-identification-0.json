@@ -111,7 +111,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"
-    }
+    },
+    "alt": "Book cover of Identity and Identification by Edited by Ken Arnold, Mick Gordon, Chris Wilkinson"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/identity%20book.jpg"

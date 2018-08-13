@@ -87,7 +87,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"
-    }
+    },
+    "alt": "Book cover of The Phantom Museum by Edited by Hildi Hawkins and Danielle Olsen"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/phantombook.jpg"

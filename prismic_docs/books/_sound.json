@@ -185,7 +185,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"
-    }
+    },
+    "alt": "Book cover of Sound by Bella Bathurst"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Sound%20pb%20cover%20for%20web.png"

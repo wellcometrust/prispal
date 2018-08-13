@@ -150,7 +150,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"
-    }
+    },
+    "alt": "Book cover of The Smile Stealers by Richard Barnett"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Smilestealers_cover-3.jpg"

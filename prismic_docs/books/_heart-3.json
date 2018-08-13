@@ -108,7 +108,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"
-    }
+    },
+    "alt": "Book cover of The Heart by Edited by James Peto"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/heartbook.jpg"

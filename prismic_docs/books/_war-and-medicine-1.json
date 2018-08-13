@@ -111,7 +111,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"
-    }
+    },
+    "alt": "Book cover of War and Medicine by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Screen%20Shot%202016-01-29%20at%2018.14.51.png"

@@ -94,7 +94,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"
-    }
+    },
+    "alt": "Book cover of Cures and Curiosities by Compiled and edited by Tony Gould"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/curesandcuriositiesbook.jpg"

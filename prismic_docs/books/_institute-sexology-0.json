@@ -97,7 +97,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/sexology-book.jpg"
-    }
+    },
+    "alt": "Book cover of The Institute of Sexology by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/sexology-book.jpg"

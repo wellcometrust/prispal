@@ -133,7 +133,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"
-    }
+    },
+    "alt": "Book cover of Sex by Numbers by David Spiegelhalter"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Sex%20by%20Numbers%20book%20cover.jpg"

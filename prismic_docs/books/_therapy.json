@@ -169,7 +169,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/In_Therapy_COVER.png"
-    }
+    },
+    "alt": "Book cover of In Therapy by Susie Orbach"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/In_Therapy_COVER.png"

@@ -125,7 +125,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"
-    }
+    },
+    "alt": "Book cover of States of Mind by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-book3.png"

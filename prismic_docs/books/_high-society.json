@@ -178,7 +178,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"
-    }
+    },
+    "alt": "Book cover of High Society by Mike Jay"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/high%20society%20book.jpg"

@@ -94,7 +94,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"
-    }
+    },
+    "alt": "Book cover of The Art of Medicine by Emm Barnes, Julie Anderson & Emma Shackleton"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/theartofmed.jpg"

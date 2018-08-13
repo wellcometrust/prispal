@@ -101,7 +101,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"
-    }
+    },
+    "alt": "Book cover of Pearls of the Orient by Edited by Nigel Allan"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/pearlsbook.jpg"

@@ -222,7 +222,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"
-    }
+    },
+    "alt": "Book cover of A Practical Course in Personal Magnetism by "
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/9781781258347.png"

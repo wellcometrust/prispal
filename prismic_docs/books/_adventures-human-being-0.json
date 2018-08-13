@@ -186,7 +186,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Adventures%20in%20Human%20Being_BLUE_3.png"
-    }
+    },
+    "alt": "Book cover of Adventures in Human Being by Gavin Francis"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Adventures%20in%20Human%20Being_BLUE_3.png"

@@ -132,7 +132,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"
-    }
+    },
+    "alt": "Book cover of Eat Me by Bill Schutt"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Cover%20cropped.jpg"

@@ -97,7 +97,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/brains%20book.jpg"
-    }
+    },
+    "alt": "Book cover of Brains by Marius Kwint & Richard Wingate"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/brains%20book.jpg"

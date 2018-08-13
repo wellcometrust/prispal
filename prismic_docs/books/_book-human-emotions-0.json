@@ -154,7 +154,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Cover%20only.png"
-    }
+    },
+    "alt": "Book cover of The Book of Human Emotions by Tiffany Watt Smith"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Cover%20only.png"

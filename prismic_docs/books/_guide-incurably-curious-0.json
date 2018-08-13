@@ -104,7 +104,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"
-    }
+    },
+    "alt": "Book cover of A Guide for the Incurably Curious by Marek Kohn"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20guide%20book.jpg"

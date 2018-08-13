@@ -121,7 +121,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"
-    }
+    },
+    "alt": "Book cover of Diary Drawings by Bobby Baker"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/diarydrawings%20baker.jpg"

@@ -102,7 +102,8 @@
   "cover": {
     "origin": {
       "url": "https://wellcomecollection.org/sites/default/files/Val%20Mcdermid%20Anatomy%20of%20Crime%20forensics%20paperback.jpg"
-    }
+    },
+    "alt": "Book cover of Forensics by Val McDermid"
   },
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Val%20Mcdermid%20Anatomy%20of%20Crime%20forensics%20paperback.jpg"
