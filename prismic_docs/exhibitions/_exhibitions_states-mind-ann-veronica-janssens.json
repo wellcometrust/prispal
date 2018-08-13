@@ -72,8 +72,8 @@
       }
     }
   ],
-  "start": "2015-10-15T09:00:00.000Z",
-  "end": "2016-01-03T18:00:00.000Z",
+  "start": "2015-10-15T10:00:00+01:00",
+  "end": "2016-01-03T18:00:00Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/States-of-Mind-AVJ-mist-room.png"
   },

@@ -42,8 +42,8 @@
       }
     }
   ],
-  "start": "2008-04-23T23:00:00.000Z",
-  "end": "2008-08-10T23:00:00.000Z",
+  "start": "2008-04-24T00:00:00+01:00",
+  "end": "2008-08-11T00:00:00+01:00",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/atomspatterns_650x245.jpg"
   },

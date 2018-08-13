@@ -1,7 +1,14 @@
+import moment from 'moment'
+import 'moment-timezone'
 import {
   convertHtmlStringToPrismicStructure,
   convertImgHtmlToImage
 } from './utils'
+
+export function convertDate(d) {
+  const l = moment.tz(d, 'Europe/London')
+  return l.format()
+}
 
 function convertTitle(title) {
   return [{
@@ -112,8 +119,8 @@ export function convertExhibition(result) {
       tags: ['from_drupal'],
       title: convertTitle(title),
       description: convertHtmlStringToPrismicStructure(body),
-      start: start,
-      end: end,
+      start: convertDate(start),
+      end: convertDate(end),
       drupalPromoImage: {
         url: convertImgHtmlToImage(image).contentUrl
       },

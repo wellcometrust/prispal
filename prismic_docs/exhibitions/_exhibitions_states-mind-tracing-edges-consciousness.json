@@ -85,8 +85,8 @@
       }
     }
   ],
-  "start": "2016-02-04T10:00:00.000Z",
-  "end": "2016-10-16T17:00:00.000Z",
+  "start": "2016-02-04T10:00:00Z",
+  "end": "2016-10-16T18:00:00+01:00",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/States-of-mind-main.png"
   },

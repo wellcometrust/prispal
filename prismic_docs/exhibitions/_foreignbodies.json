@@ -49,8 +49,8 @@
       }
     }
   ],
-  "start": "2013-11-14T10:00:00.000Z",
-  "end": "2014-03-16T18:00:00.000Z",
+  "start": "2013-11-14T10:00:00Z",
+  "end": "2014-03-16T18:00:00Z",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/FB_poster_640x360.jpg"
   },

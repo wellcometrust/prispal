@@ -90,8 +90,8 @@
       }
     }
   ],
-  "start": "2015-09-25T17:00:00.000Z",
-  "end": "2015-09-27T17:00:00.000Z",
+  "start": "2015-09-25T18:00:00+01:00",
+  "end": "2015-09-27T18:00:00+01:00",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/Why-Music.png"
   },

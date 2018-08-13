@@ -90,8 +90,8 @@
       }
     }
   ],
-  "start": "2011-03-24T10:00:00.000Z",
-  "end": "2011-08-31T17:00:00.000Z",
+  "start": "2011-03-24T10:00:00Z",
+  "end": "2011-08-31T18:00:00+01:00",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/dirt_letterbox.jpg"
   },
