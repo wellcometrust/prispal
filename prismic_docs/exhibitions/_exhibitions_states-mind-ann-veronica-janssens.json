@@ -72,6 +72,75 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This new installation by Ann Veronica Janssens explores light and colour as she invades the gallery with coloured mist. Colour is caught in a state of suspension, obscuring any detail of surface or depth. Instead, attention is focussed on the process of perception itself. Janssens’s work is both disorienting and uplifting as the daily wonder of conscious experience is given renewed emphasis.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Entrance into the space is limited. Queuing is likely and timed ticketing may be in operation. Last entry will typically be an hour before closing. Keep an eye on Twitter for extra updates: @explorewellcome.",
+                "spans": [
+                  {
+                    "start": 190,
+                    "end": 206,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://twitter.com/ExploreWellcome"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The installation is deliberately disorientating with very limited visibility. This advice will help you get the most out of your visit.",
+                "spans": [
+                  {
+                    "start": 78,
+                    "end": 134,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/whats/ann-veronica-janssens-advice-entering"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Part of States of Mind: Tracing the edges of consciousness",
+                "spans": [
+                  {
+                    "start": 8,
+                    "end": 58,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/exhibitions/states-mind-tracing-edges-consciousness"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2015-10-15T10:00:00+01:00",
   "end": "2016-01-03T18:00:00Z",
   "drupalPromoImage": {

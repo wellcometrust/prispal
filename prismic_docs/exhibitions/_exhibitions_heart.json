@@ -35,6 +35,38 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The heart, widely understood as the place where life begins and ends, has always featured as a potent symbol in our religions, myths and rituals. Modern medical science has taught us that much of the power and influence traditionally attributed to the heart actually lies in the brain. Nevertheless we remain reluctant to let go of the notion - deeply rooted in everyday language and imagery - that the heart is the home of our emotions and of our true character.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition looked at the evolution of our understanding of what the heart is, what it does and what it means. Concentrating primarily on Western medicine and culture, it brought together objects and images from the histories of both science and art, as well as from everyday life.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "It followed the development of our anatomical knowledge of the heart, but also considered its far-reaching cultural and symbolic significance. Why is it that the pump that circulates our blood is so intimately bound up with the way we discuss our emotional and moral lives, and so central to the question of the relationship between body and soul?",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2007-06-21T00:00:00+01:00",
   "end": "2007-09-17T00:00:00+01:00",
   "drupalPromoImage": {

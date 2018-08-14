@@ -21,8 +21,26 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The Identity Project was a nine-month season of activity from the Wellcome Trust, including a major exhibition and diverse events presented in Wellcome Collection, plus exhibitions, live events and films at other venues across the UK.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2009-11-26T09:00:45Z",
-  "end": "2018-08-13T17:24:11+01:00",
+  "end": "2018-08-14T15:52:31+01:00",
   "drupalPromoImage": {
     "url": "https://wellcomecollection.org/sites/default/files/identity-project_letterbox.jpg"
   },

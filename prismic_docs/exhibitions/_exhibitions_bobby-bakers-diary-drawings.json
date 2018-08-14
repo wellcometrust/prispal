@@ -59,6 +59,62 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Bobby Baker is one of the most widely acclaimed and popular performance artists working today. She began her diary drawings in 1997 when she became a patient at a day centre. Originally private, they gradually became a way for her to communicate complex thoughts and emotions that are difficult to articulate to her family, friends and professionals.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "The drawings cover Bobby's experiences of day hospitals, acute psychiatric wards, 'crisis' teams and a variety of treatments. They chart the ups and downs of her recovery, family life, work as an artist, breast cancer and just how funny all this harrowing stuff can be.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Listen to Bobby talking about some of the drawings in the exhibition (Guardian, 18 March 2009)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 94,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.guardian.co.uk/society/interactive/2009/mar/18/bobby-baker-wellcome-collection"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": " ",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2009-03-19T10:00:00Z",
   "end": "2009-08-02T18:00:00+01:00",
   "drupalPromoImage": {

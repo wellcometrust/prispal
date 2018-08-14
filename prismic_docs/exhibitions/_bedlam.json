@@ -93,6 +93,96 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Follow the rise and fall of the mental asylum and explore how it has shaped the complex landscape of mental health today. Reimagine the institution, informed by the experiences of the patients, doctors, artists and reformers who inhabited the asylum or created alternatives to it.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Today asylums have largely been consigned to history but mental illness is more prevalent than ever, as our culture teems with therapeutic possibilities: from prescription medications and clinical treatment to complementary medicines, online support, and spiritual and creative practices. Against this background, the exhibition interrogates the original ideal that the asylum represented – a place of refuge, sanctuary and care – and asks whether and how it could be reclaimed.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Taking Bethlem Royal Hospital as a starting point, ‘Bedlam: the asylum and beyond’ juxtaposes historical material and medical records with individual testimonies and works by artists such as David Beales, Richard Dadd, Dora García, Eva Kotátková, Madlove: A Designer Asylum, Shana Moulton, Erica Scourti, Javier Téllez and Adolf Wölfli, whose works reflect or reimagine the institution, as both a physical and a virtual space.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Please see our advice for visiting during busy times.",
+                "spans": [
+                  {
+                    "start": 26,
+                    "end": 52,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/busytimes"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download the gallery guide or the exhibition text and captions (both are available in the gallery):",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Gallery Guide and Map (279 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 30,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection%20Bedlam%20Gallery%20Guide%20and%20Map%20%28279%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Exhibition text and captions (351 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 37,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Wellcome%20Collection_Bedlam%20Exhibition%20text%20and%20captions%20%28351%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2016-09-15T10:00:00+01:00",
   "end": "2017-01-15T18:00:00Z",
   "drupalPromoImage": {

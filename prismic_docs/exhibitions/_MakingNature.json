@@ -59,6 +59,62 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "No matter how you see nature now, you’ll never see it the same way again.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Kicking off a year-long exploration into our relationship with nature, this major exhibition examines what we think, feel and value about other species and the consequences this has for the world around us. It brings together over 100 fascinating objects from literature, film, taxidermy and photography to reveal the hierarchies in our view of the natural world and consider how these influence our actions, or inactions, towards the planet.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Organised around four themes – ‘Ordering’, ‘Displaying’, ‘Observing’ and ‘Making’ – this exhibition questions the approach of ‘learning through looking’, charts the changing fashions of museum displays alongside society’s changing attitudes to the world around us, examines the search for an authentic encounter with nature, and looks at how humans have intentionally altered other organisms.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Download the large print guide text (also available in the gallery):",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Large Print Guide (186 KB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 26,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/sites/default/files/Making%20Nature%20Large%20Print%20GuideWellcome%20Collection%20%28186%20KB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2016-12-01T10:00:00Z",
   "end": "2017-05-21T18:00:00+01:00",
   "drupalPromoImage": {

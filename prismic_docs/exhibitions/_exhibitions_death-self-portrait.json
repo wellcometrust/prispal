@@ -21,6 +21,24 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our major winter exhibition showcases some 300 works from a unique collection devoted to the iconography of death and our complex and contradictory attitudes towards it. Assembled by Richard Harris, a former antique print dealer based in Chicago, the collection is spectacularly diverse, including art works, historical artefacts, scientific specimens and ephemera from across the world. Rare prints by Rembrandt, Dürer and Goya will be displayed alongside anatomical drawings, war art and antique metamorphic postcards human remains will be juxtaposed with Renaissance vanitas paintings and twentieth century installations celebrating Mexico' s Day of the Dead. From a group of ancient Incan skulls, to a spectacular chandelier made of 3000 plaster-cast bones by British artist Jodie Carey, this singular collection, by turns disturbing, macabre and moving, opens a window upon our enduring desire to make peace with death.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2012-11-15T10:00:00Z",
   "end": "2013-02-24T18:00:00Z",
   "drupalPromoImage": {

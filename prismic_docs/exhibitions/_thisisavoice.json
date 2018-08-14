@@ -90,6 +90,93 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'THIS IS A VOICE' looks inside vocal tracts, restless minds and speech devices to capture the elusive nature of the human voice.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition explores how the unique grain of our voice locates us socially, geographically and psychologically and how the voice is utterly flexible and can be altered with treatment and training.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Designed as an acoustic journey, the spotlight is cast on the meaning and emotions conveyed through the patterns of rhythm, stress and intonation. Non-verbal forms of communication are emphasised, revealing the power of the voice before and beyond words.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'THIS IS A VOICE' presents works by artists and vocalists, punctuated by paintings, manuscripts, medical illustrations and ethnographic objects. Download the gallery guide below.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "spans": [],
+                "text": ""
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "THIS IS A VOICE Gallery Guide (2 MB)",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://wellcomecollection.org/sites/default/files/THIS%20IS%20A%20VOICE%20Gallery%20Guide_Wellcome%20Collection%20%282%20MB%29.pdf"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Featured contemporary artists and vocalists include Laurie Anderson, Joan La Barbara, Anna Barham, Sam Belinfante, Erik Bünger, Henri Chopin, Marcus Coates, Steven Cottingham, Enrico David, Danica Dakić, Jochen Gerz, Asta Gröting, Lawrence Abu Hamdan, Mathew Herbert, Mikhail Karikis, Meredith Monk, Emma Smith, Imogen Stidworthy, Gregory Whitehead and Katarina Zdjelar.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "All our exhibitions are free. Find out about entry at busy times.",
+                "spans": [
+                  {
+                    "start": 45,
+                    "end": 64,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/busytimes"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2016-04-14T10:00:00+01:00",
   "end": "2016-07-31T18:00:00+01:00",
   "drupalPromoImage": {

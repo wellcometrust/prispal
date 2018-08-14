@@ -65,6 +65,68 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "Brains is  now at MOSI in Manchester and runs until 4 Jan 2013.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 63,
+                    "type": "strong",
+                    "data": {}
+                  },
+                  {
+                    "start": 10,
+                    "end": 36,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "http://www.mosi.org.uk/whats-on/brains-the-mind-as-matter.aspx"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This major new free exhibition seeks to explore what humans have done to brains in the name of medical intervention, scientific enquiry, cultural meaning and technological change.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Featuring over 150 artefacts including real brains, artworks, manuscripts, artefacts, videos and photography, ' Brains' follows the long quest to manipulate and decipher the most unique and mysterious of human organs, whose secrets continue to confound and inspire.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Brains' asks not what brains do to us, but what we have done to brains, focusing on the bodily presence of the organ rather than investigating the neuroscience of the mind.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Brains' image credit: Headache (2008) by Helen Pynor. Courtesy the artist and GV Art.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2012-03-29T10:00:00+01:00",
   "end": "2012-06-17T18:00:00+01:00",
   "drupalPromoImage": {

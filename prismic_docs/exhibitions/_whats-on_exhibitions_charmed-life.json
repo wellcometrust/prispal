@@ -42,6 +42,45 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "\"It seems that the soul... loses itself in itself when shaken and disturbed unless given something to grasp on to and so we must always provide it with an object to butt up against and to act upon.\" Michel de Montaigne, 'Essais', 1580",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "'Charmed Life: The solace of objects' is the result of the artist Felicity Powell's engagement with a collection of 1400 amulets assembled by the Edwardian amateur folklorist Edward Lovett. One of the few people to have had access to this curious collection of 'charms', once carried in the pockets of Londoners for luck or protection, Powell was intrigued by the silent witness they bore to countless personal narratives, most of which are now lost to history. Despite being long divorced from their original owners, these objects, borowed from Oxford University's Pitt Rivers Museum, seemed to retain an insistent sense that they might yet hold some hidden magic.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Amulets have appeared throughout history and across many cultures in an infinite variety of forms. Each has been invested with the hope or belief that it could somehow mediate on behalf of its owner. They are tiny embodiments of the anxieties we feel about our human frailties, their assumed powers often drawing on the dark arts of superstition and magic.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Reflecting on the potency - sometimes alluring, sometimes repellent - of these much-touched objects, Powell found parallels with her own artistic practice. The films and artworks that complement her curation of the amulets show her own fascination with the small and intimate, as well as the accompanying compulsion to create images and objects \"to butt up against and to act upon\" - objects that might themselves, as in Montaigne's description, help to anchor the soul.",
+                "spans": []
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2011-10-06T10:00:00+01:00",
   "end": "2012-02-26T18:00:00Z",
   "drupalPromoImage": {

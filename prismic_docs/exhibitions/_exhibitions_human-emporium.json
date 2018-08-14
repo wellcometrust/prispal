@@ -69,6 +69,72 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Using Henry Wellcome’s array of artefacts as points of inspiration, nine young artists created objects to surprise, tempt and provoke the inquisitive in the curious world of The Human Emporium.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Working in collaboration with artist Alex Julyan, the young creators explored ideas surrounding identity, the body’s structure and medical ethics in an exhibition that questioned the intriguing nature of being human.",
+                "spans": [
+                  {
+                    "start": 50,
+                    "end": 68,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/rawminds"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition was part of the Youth Programme which encourages young people to use the Wellcome Collection to shape their creative process.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Aged between 14 and 19, the artists all committed a lot of their spare time over the summer to this exciting project, beginning with detailed research into our collection and visits to The Tate and Hayward to spark inspiration. From exhibition design, to communication concepts, the artists have guided the exhibition process and created fascinating works in an array of mediums including sculpture, digitally interactive pieces and photography.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Find out more about our Youth Programme.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 40,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/youth-and-schools"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2014-10-28T15:15:30Z",
   "end": "2014-11-09T15:15:30Z",
   "drupalPromoImage": {

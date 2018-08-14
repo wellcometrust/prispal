@@ -100,6 +100,103 @@
       }
     }
   ],
+  "body": [
+    {
+      "key": "text",
+      "value": {
+        "non-repeat": {
+          "text": [
+            {
+              "type": "heading2",
+              "content": {
+                "text": "A is for Acts of Faith, B is for Birthdays, C is for Chemical Life Support... Z is for Zoonoses ",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 96,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "\"Must we spell it out? This compelling collection gets an A+\"  - ' Time Out'",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 62,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Explore our idiosyncratic A to Z illustrated with a curious combination of Henry Wellcome' s weird and wonderful collection of objects, medical artefacts, paintings, photographs and sculptures, and some equally intriguing contemporary artworks.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Watch the birth of the first test-tube baby (B for Birthdays), listen to Florence Nightingale speak (V for Voice) and sneak a peek at porcelain fruit showing sexual foreplay (X for X-rated).",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "Our fabulous visitor experience team will further feed your curiosity with live ' busking' on topics such as neuroscience and phantom limb syndrome, and offer lessons in forgotten skills such as foot binding, trephination and phrenology. Busking activities take place Tuesday-Sunday at 11.30-12.00 and 14.30-15.00, and also at 18.30-19.00 on Thursdays.",
+                "spans": []
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "We invite you, as fellow experts on the #HumanCondition, to add your own idiosyncrasies to this quirky show by participating in the gallery or via social media. Each letter of our idiosyncratic A to Z comes with an invitation for you to participate. For example, under A for Acts of Faith, an illustrator will sketch out your accidents and near misses in the spirit of the displayed ex-voto paintings to the saints. Further along the alphabet, under F for Fears, we will ask you to kindly let go of your phobias next to our 17th-century etching of De Monstris and a Nicobar Island figure used to ward off evil spirits. To participate via social media, see ‘For your contribution’ below.",
+                "spans": [
+                  {
+                    "start": 40,
+                    "end": 55,
+                    "type": "strong",
+                    "data": {}
+                  }
+                ]
+              }
+            },
+            {
+              "type": "paragraph",
+              "content": {
+                "text": "This exhibition runs throughout the summer ahead of our development project, which is due for completion in spring 2015.",
+                "spans": [
+                  {
+                    "start": 0,
+                    "end": 120,
+                    "type": "em",
+                    "data": {}
+                  },
+                  {
+                    "start": 56,
+                    "end": 75,
+                    "type": "hyperlink",
+                    "data": {
+                      "link_type": "Web",
+                      "url": "https://wellcomecollection.org/what-we-do/wellcome-collection-growing"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
   "start": "2014-06-24T08:00:00+01:00",
   "end": "2014-10-12T18:00:00+01:00",
   "drupalPromoImage": {
